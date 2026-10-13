@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c01",
+    "contentBottom": 1147.3,
+    "bottomGap": 168.8,
+    "sizes": {
+      "headline": "88px",
+      "accent": "88px",
+      "key": "52px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c02",
+    "contentBottom": 1182.9,
+    "bottomGap": 133.1,
+    "sizes": {
+      "headline": "84px",
+      "accent": "84px",
+      "part-tag": "36px",
+      "part-num": "160px",
+      "part-label": "40px",
+      "arrow": "48px",
+      "key": "60px",
+      "body": "44px",
+      "box match": "44px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c03",
+    "contentBottom": 1176.2,
+    "bottomGap": 139.8,
+    "sizes": {
+      "headline": "84px",
+      "accent": "84px",
+      "section-label": "38px",
+      "pill": "42px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c04",
+    "contentBottom": 1232.6,
+    "bottomGap": 83.4,
+    "sizes": {
+      "headline": "84px",
+      "accent": "84px",
+      "level-name": "46px",
+      "level-path": "38px",
+      "B": "38px",
+      "rule": "42px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c05",
+    "contentBottom": 1220.4,
+    "bottomGap": 95.6,
+    "sizes": {
+      "headline": "84px",
+      "accent": "84px",
+      "STRONG": "44px",
+      "SPAN": "36px",
+      "big-question": "60px",
+      "body cue": "44px",
+      "safety warn": "36px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c06",
+    "contentBottom": 1169.6,
+    "bottomGap": 146.4,
+    "sizes": {
+      "headline": "84px",
+      "big-number": "156px",
+      "note": "36px",
+      "box": "44px",
+      "body closing": "44px"
+    },
+    "errors": []
+  }
+]
