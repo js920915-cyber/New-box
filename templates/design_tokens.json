@@ -1,0 +1,43 @@
+{
+  "version": "4.0",
+  "date": "2026-10-13",
+  "canvas": {
+    "width": 1080,
+    "height": 1350
+  },
+  "frame": {
+    "id": "B01",
+    "x": 34,
+    "y": 34,
+    "width": 1012,
+    "height": 1282,
+    "radius": 28,
+    "stroke": "#D0DCE5",
+    "stroke_width": 2
+  },
+  "type_px": {
+    "cover": 88,
+    "inside": 84,
+    "key": 56,
+    "body": 44,
+    "item_heading": 48,
+    "note": 36,
+    "safety": 36,
+    "number": 144
+  },
+  "safe_area": {
+    "left": 88,
+    "right": 992,
+    "top": 96,
+    "bottom": 1252
+  },
+  "layout": {
+    "general_content_bottom_target": [
+      1140,
+      1240
+    ],
+    "frame_inner_bottom": 1316,
+    "bottom_gap_review_threshold": 200
+  },
+  "status": "Authoring baseline implementing user feedback; not a claim of approved rendered cards."
+}

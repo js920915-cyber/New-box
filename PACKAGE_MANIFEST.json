@@ -1,0 +1,3111 @@
+{
+  "version": "4.0",
+  "date": "2026-10-13",
+  "kind": "Portable",
+  "file_count": 618,
+  "files": [
+    {
+      "path": "01.png",
+      "bytes": 834763,
+      "sha256": "771eca0137220dd0143416353bbf9444c89fd44efcbbbb36da38839e20f664fd"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 7935,
+      "sha256": "f11f47495d8c53761cffb7ab6afc2fc51a7bec1ab8c62dcc54c96b576b8ba08b"
+    },
+    {
+      "path": "CARDNEWS_PROMPT.md",
+      "bytes": 8638,
+      "sha256": "c5e0693b47882105a3bfd81c02194d42f79a50fca94b5858fef4d166c73e6120"
+    },
+    {
+      "path": "CARDNEWS_WORKFLOW.md",
+      "bytes": 5858,
+      "sha256": "da9111c63da803a1a562d9ce9e778b2ffaa99ddaf690cd5ac59cac1329e09837"
+    },
+    {
+      "path": "CLOUD_START.md",
+      "bytes": 2619,
+      "sha256": "55e047060f37c07a8519afd03076ad877c71b471d2dc399c1a0ec9dd342b7318"
+    },
+    {
+      "path": "DESIGN_SYSTEM.md",
+      "bytes": 6621,
+      "sha256": "06b21605b64b0d16c0cb32bf354c8bc80655967b9347cfc823db1fa3be3a3210"
+    },
+    {
+      "path": "FINAL_CHANGELOG.md",
+      "bytes": 1473,
+      "sha256": "986e0e996383b5cbf9190db5b23a7c288485e308aed1dcd3a11ce1973ad3221f"
+    },
+    {
+      "path": "FINAL_QA.md",
+      "bytes": 1234,
+      "sha256": "3d55f16f722845c8c10da4e6a6d8261cdd46631a0e4abae3f1924e169edf73f7"
+    },
+    {
+      "path": "PROJECT_HANDOFF.md",
+      "bytes": 5911,
+      "sha256": "2fe1e54bdcb589be2fc16855a0084c590884bce4871565425140bc12d0fa370c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1514,
+      "sha256": "a196468131d3636dc98513ef3ed35a739f495968d9413ef766e17cbf3f6ba3fb"
+    },
+    {
+      "path": "content/achilles-elongation/QA_REPORT.md",
+      "bytes": 3668,
+      "sha256": "9d1fe2790658b2f3ef90503aca23ba55232c223ac5491377ca5f5bcd1c9e75d8"
+    },
+    {
+      "path": "content/achilles-elongation/VIDEO_PLAN.md",
+      "bytes": 2250,
+      "sha256": "3d94e3c4e7d09e2fc19c369f7312f8070d10abe65923c815f5ebeaff1ff4c126"
+    },
+    {
+      "path": "content/achilles-elongation/caption.md",
+      "bytes": 3685,
+      "sha256": "a8d292e86dece75f95d9060c1c2b8cfced2d5831adb36ef4ce705d01e3ba57b0"
+    },
+    {
+      "path": "content/achilles-elongation/storyboard.md",
+      "bytes": 2127,
+      "sha256": "cb4dd0c70de368d9204b6572490aac34b33f66f85c797f320576fb8ed42bb77f"
+    },
+    {
+      "path": "content/achilles-elongation/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/achilles-elongation/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/achilles-elongation/assets/asset_manifest.md",
+      "bytes": 3651,
+      "sha256": "5970f8fb12624b1075f6e2ec47ab4e73caa2cf89202cfcccd9b556caaf2ea37e"
+    },
+    {
+      "path": "content/achilles-elongation/assets/heel-rise-scenario.png",
+      "bytes": 1805988,
+      "sha256": "bfcacaf22ebcd1b343e2f9e396183b302186a08834a6624768a161ba495bf1ad"
+    },
+    {
+      "path": "content/achilles-elongation/exports/01.png",
+      "bytes": 537372,
+      "sha256": "cb5ce723a2e10964cb44665162c14cf5ed3dc87040b0e9534320e2fea7fc1651"
+    },
+    {
+      "path": "content/achilles-elongation/exports/02.png",
+      "bytes": 78750,
+      "sha256": "00754d0ad2eebe35894cac3070959894283c7d35f23fcc641d422abb270f86f5"
+    },
+    {
+      "path": "content/achilles-elongation/exports/03.png",
+      "bytes": 97182,
+      "sha256": "5e1b48dbdfcf7e2c2080d4cf98445d8bd0d5d9e666ecb16e63d4555eec941677"
+    },
+    {
+      "path": "content/achilles-elongation/exports/04.png",
+      "bytes": 93375,
+      "sha256": "4578f6a9962f7c8f012ff2c4a52177c7a895128c80b77ae47ab03be7f074a372"
+    },
+    {
+      "path": "content/achilles-elongation/exports/05.png",
+      "bytes": 99002,
+      "sha256": "bd49507e53551204e563e5aeb777888b5ade8f86b15168d5ab38bad6765d68e0"
+    },
+    {
+      "path": "content/achilles-elongation/exports/06.png",
+      "bytes": 98401,
+      "sha256": "c22a9ca7efce001b738b648bf4b05fb15044803f3ce21e3eef290a3364e78e50"
+    },
+    {
+      "path": "content/achilles-elongation/qa/01-mobile.png",
+      "bytes": 124037,
+      "sha256": "f6a7c8659c2a9757fb03d729d4778895eb7841d4f85fac321c3baa8212d80d70"
+    },
+    {
+      "path": "content/achilles-elongation/qa/02-mobile.png",
+      "bytes": 44560,
+      "sha256": "cb5abc94f40f2389e758e46573b30afde5a8b5210dc05a9f06c04a7bfd601474"
+    },
+    {
+      "path": "content/achilles-elongation/qa/03-mobile.png",
+      "bytes": 60745,
+      "sha256": "998200e2dc59c229e84cf11fddbb2a4ec09008493e44a82fa95484bea2ccfcec"
+    },
+    {
+      "path": "content/achilles-elongation/qa/04-blank-background-mobile.png",
+      "bytes": 1454,
+      "sha256": "a1dfe1dc367541a8d7885812b852dd4c883b2977a7708fab5ae8ecf17bb3404b"
+    },
+    {
+      "path": "content/achilles-elongation/qa/04-mobile.png",
+      "bytes": 49947,
+      "sha256": "d4345b036ee8488f4810a8f163e78377e8be108bc96d03edea71f24bd9886ec9"
+    },
+    {
+      "path": "content/achilles-elongation/qa/04-video-background-mobile.png",
+      "bytes": 40196,
+      "sha256": "3530562a347501d3c484b58b95fdeedb835945aa7220a0dabe479e6ac8c19cb6"
+    },
+    {
+      "path": "content/achilles-elongation/qa/05-mobile.png",
+      "bytes": 57605,
+      "sha256": "74045891ae39b7fabc6a7864aaf3cb8496d6fce1369824f2775331a745900516"
+    },
+    {
+      "path": "content/achilles-elongation/qa/06-mobile.png",
+      "bytes": 68516,
+      "sha256": "6edbb4821df617e51ca8b7ca72c50036f51811f4c2c6395af73efd149aa5cd9b"
+    },
+    {
+      "path": "content/achilles-elongation/qa/file-check.json",
+      "bytes": 616,
+      "sha256": "bd72d7a5b5e46a7b49b23b8507d4becd25b1cca29cde49ca7afed59ad1667f13"
+    },
+    {
+      "path": "content/achilles-elongation/qa/layout-check.json",
+      "bytes": 4443,
+      "sha256": "4a33e7fb8ff8c1757832dc37727d6f07970ad960a32b29237be4701bee4fa193"
+    },
+    {
+      "path": "content/achilles-elongation/qa/mobile-review.png",
+      "bytes": 396555,
+      "sha256": "182b65093d41f375e979fd96162ac1d9123f4714af5a9622061938089730211c"
+    },
+    {
+      "path": "content/achilles-elongation/qa/ref-approved_acl_v3.jpg",
+      "bytes": 160144,
+      "sha256": "2f245eacada29da7f273f28348828f8031f164800def4c224c4e82030f73bff8"
+    },
+    {
+      "path": "content/achilles-elongation/qa/ref-avoid.jpg",
+      "bytes": 21442,
+      "sha256": "b68673b2c196dcdb5a30bee44ef359d85cdbe2c2d33902502a9473c247e0f16e"
+    },
+    {
+      "path": "content/achilles-elongation/qa/ref-original.jpg",
+      "bytes": 212689,
+      "sha256": "2dc5b24be4ceeaf9263fad24399c8dc6e64748d4a477d27532bc36c6099205fb"
+    },
+    {
+      "path": "content/achilles-elongation/qa/ref-user_selected.jpg",
+      "bytes": 146994,
+      "sha256": "44f83d16cab12232cef6eaddcd0b13570a3550e91f5b76f39fd905b6c76bd98b"
+    },
+    {
+      "path": "content/achilles-elongation/research/claims.md",
+      "bytes": 2017,
+      "sha256": "f1626ecaa6358a451c01c7a929450de1869bc03fa350f10245093c61d3a02ebc"
+    },
+    {
+      "path": "content/achilles-elongation/research/heel-rise-reference.jpg",
+      "bytes": 47245,
+      "sha256": "3512f523a0279aa366317ac015408817920bfa8967367c91c6061379180b4026"
+    },
+    {
+      "path": "content/achilles-elongation/research/sources.md",
+      "bytes": 5725,
+      "sha256": "3ce6fa9730903e67c7745db3c5b188c628013c965832bd8a77c9a8d849388ecb"
+    },
+    {
+      "path": "content/achilles-elongation/source/01.html",
+      "bytes": 607,
+      "sha256": "8e02d5cfa3a1781ea88c9b3d127094b09b99e09535012b9a80e4c68bab5ebfc2"
+    },
+    {
+      "path": "content/achilles-elongation/source/02.html",
+      "bytes": 1120,
+      "sha256": "9071ade3171f25b25e4889c3eb4bc3a5750f3bc905f2e0e15c2f52c2539de9ae"
+    },
+    {
+      "path": "content/achilles-elongation/source/03.html",
+      "bytes": 1389,
+      "sha256": "5cf034ba6546b3c1d70991cada98e5c7340e82cc3b52fd02102c76232c3eb06e"
+    },
+    {
+      "path": "content/achilles-elongation/source/04-blank-background.html",
+      "bytes": 126,
+      "sha256": "4d00d5152bfd1f2f921bb076f0219a5b1c05c8e410d2ca905ccdbbc648d1c279"
+    },
+    {
+      "path": "content/achilles-elongation/source/04-video-background.html",
+      "bytes": 1480,
+      "sha256": "8ce3b9f439ad9020d508210b91a1f3a25f88bf85635daf45e6e4d823a41c38a0"
+    },
+    {
+      "path": "content/achilles-elongation/source/04.html",
+      "bytes": 1511,
+      "sha256": "57f8f386f2dacddc7986ab2ad19506f74cd1d543eb20341b846b27e31ec4461a"
+    },
+    {
+      "path": "content/achilles-elongation/source/05.html",
+      "bytes": 1361,
+      "sha256": "b4744ed9da3886207db7726ef664c177fc60caa5e0c026c620858ecac55efbf8"
+    },
+    {
+      "path": "content/achilles-elongation/source/06.html",
+      "bytes": 1217,
+      "sha256": "f53d146f00101d5f7e6d769e4c0a840428734d05fad0ed5aafcc932fa247b12e"
+    },
+    {
+      "path": "content/achilles-elongation/source/README.md",
+      "bytes": 996,
+      "sha256": "a9aac146e2ea9cfad1220d70c82673acf5087d62d395aceaad04c3e2e808cfb6"
+    },
+    {
+      "path": "content/achilles-elongation/source/build.py",
+      "bytes": 12130,
+      "sha256": "a1e733bad0b1acc071ceb6e2bfc8df91a9fb040e0ff81f57a799d92d940b80c9"
+    },
+    {
+      "path": "content/achilles-elongation/source/cards.css",
+      "bytes": 8905,
+      "sha256": "8c695f8b60b7fb86e5593b55a73f55a756ceff4b9f96fca1a0aedd30a746e72e"
+    },
+    {
+      "path": "content/achilles-elongation/source/reference_review.py",
+      "bytes": 954,
+      "sha256": "30a024783343e107f8d954aafc41cd4596da471e4d83155cafba6c767de6d72b"
+    },
+    {
+      "path": "content/achilles-elongation/source/render.cjs",
+      "bytes": 3242,
+      "sha256": "35eefea07d25c1026338829bfcece28d5a44c720d2f7b4029f71954733dfa4bb"
+    },
+    {
+      "path": "content/achilles-elongation/source/verify_package.py",
+      "bytes": 1310,
+      "sha256": "ed2359f41cea33d4f86e3a1e33c2b98600c23d994401668c479d75e8c95880ec"
+    },
+    {
+      "path": "content/achilles-elongation/video-template/04-blank-background.png",
+      "bytes": 7201,
+      "sha256": "edc9858e195cd578d5181dde02679f1492778e47faa8fc37f71b96fee59d842e"
+    },
+    {
+      "path": "content/achilles-elongation/video-template/04-video-background.png",
+      "bytes": 78216,
+      "sha256": "fdc39e479afa48e55a85810bfe0d360baf180106824da4f5e8fdbe6305cd9224"
+    },
+    {
+      "path": "content/achilles-elongation/video-template/04-video-overlay.png",
+      "bytes": 62005,
+      "sha256": "ef456639dda7cbbdeb504f8b4ba61a2104fc50079b43e9633bd554880a768f1f"
+    },
+    {
+      "path": "content/achilles-elongation/video-template/README.md",
+      "bytes": 511,
+      "sha256": "fd947e0f0587bf7ea185fc561f42eab835eb357a86476c03745b40b1bf221c35"
+    },
+    {
+      "path": "content/achilles-elongation/video-template/placement.json",
+      "bytes": 387,
+      "sha256": "a2efe33ab826a9e2a8833952c5c656244a934b83645de8207cea2b01ae82a882"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/QA_REPORT.md",
+      "bytes": 1231,
+      "sha256": "7aecdbf208a5ef2a7e4ea1236abe5b3955538c69b67c32353954f05a99acbe3e"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/VIDEO_PLAN.md",
+      "bytes": 2655,
+      "sha256": "dfa3856e7f8d129f9c8d0370c5cd15eb64b9a84143b5ff25405368c013f6056d"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/caption.md",
+      "bytes": 4110,
+      "sha256": "f2bcad4d0d4bf9b8b166b2f946f520acdcbbb968edb9001833f1acddf3d11edd"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/storyboard.md",
+      "bytes": 3574,
+      "sha256": "9edcc5019b95b4d3cd4a3d2da1999eef1d0ac35ab07ff9682646c490727abae1"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/B01.svg",
+      "bytes": 218,
+      "sha256": "44f862691d96fec3c46a65c347a599be2d0e92a2f08b46b1b5eaf52b29ddca68"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/achilles-anatomy-comparison.png",
+      "bytes": 1491673,
+      "sha256": "2919734591fdab1ac036bed6f0653c5efa9ba857435409fd673f1369ddd34533"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/anatomy-generation.md",
+      "bytes": 1529,
+      "sha256": "09a505acd11c3722ea2dd4bd0f8b194f8aa7fef454d7f31bd03e30f76ed61ea6"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/asset_manifest.md",
+      "bytes": 4115,
+      "sha256": "e5ca14fa78b1e3e8e706c76093c678bcb70369ccbaed3c57013805673c0b6288"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/assets/heel-rise-scenario.png",
+      "bytes": 1805988,
+      "sha256": "bfcacaf22ebcd1b343e2f9e396183b302186a08834a6624768a161ba495bf1ad"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/01.png",
+      "bytes": 521152,
+      "sha256": "b1846c97a4541b92fb488d3c55fe0a7674b41f53113dad78f7905da921a13dcc"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/02.png",
+      "bytes": 417192,
+      "sha256": "682231e6251fc794f2641806e01fc20566b2321d747644c26864a1181b051ca9"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/03.png",
+      "bytes": 88272,
+      "sha256": "b62086c3140f9b2d5c3b22a38b3de542ffcfc984cc6a1ba803bba46aa6d304ba"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/04.png",
+      "bytes": 83626,
+      "sha256": "ea1a531281eed0829a3870ee9c6e7414323b15df11ec0437e63fda5540a288af"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/05.png",
+      "bytes": 108470,
+      "sha256": "018ef143fcd60a94d0c9c010ef8d66ba03b039d2c251dd4ddccd296485c8a241"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/exports/06.png",
+      "bytes": 105725,
+      "sha256": "a9d73a5134a6a9af4b8258a8fd4d2efa0ea39fe40bd582ed79ead0dd608c6826"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/01-mobile.png",
+      "bytes": 124370,
+      "sha256": "bb83f1e648ac3ceb04d75dad0dcb66591359629a6814d46664b1195637cdfb37"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/02-mobile.png",
+      "bytes": 95805,
+      "sha256": "5e70f01dc6a905c023b0821bb52373e6e52761951f309d8848d35cb3d87ad802"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/03-mobile.png",
+      "bytes": 58511,
+      "sha256": "8b627f0a42881e0f543e9a557687658955829e469574d485fd91dd76aed704d2"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/04-blank-background-mobile.png",
+      "bytes": 1454,
+      "sha256": "a1dfe1dc367541a8d7885812b852dd4c883b2977a7708fab5ae8ecf17bb3404b"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/04-mobile.png",
+      "bytes": 53214,
+      "sha256": "16f8e83d32fe3f335468af07b6fc160f092002ef49ba20495afb771258920337"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/04-video-background-mobile.png",
+      "bytes": 46201,
+      "sha256": "67d0602a83169142731937e43f2823a0ec87bb6334767583ef96feb72ad0d796"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/05-mobile.png",
+      "bytes": 66280,
+      "sha256": "241aeba9e99dd8bb2d5693090a63ad39a6083fb1fc6b74bb67a2e2de88a982b9"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/06-mobile.png",
+      "bytes": 75549,
+      "sha256": "228ecb0775ee34e4397b7cf6946291bff84db7154bbcf88a9ebb1c4bce9388c3"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/file-check.json",
+      "bytes": 619,
+      "sha256": "cd4d8ad9462ba646408f44701df6f0e26d8b5e6d110f0809aa48847abf9f7a78"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/layout-check.json",
+      "bytes": 11568,
+      "sha256": "62d3b182f8b1d04acf1300faabdf0d403b1e579061b50e929b7ed55331c10902"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/qa/mobile-review.png",
+      "bytes": 458739,
+      "sha256": "ef9a84e9a444e50a265747c96590320ba00b3780eba719f7d957f7dca70d7709"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/aaos-anatomy-reference.jpg",
+      "bytes": 829007,
+      "sha256": "5bd3d6e9325420cf708749e6ad438277cb368260d13dc9bfa7355dfc43f3586d"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/claims.md",
+      "bytes": 2383,
+      "sha256": "335c6f586515099ce65dd52c3782ea6676da6ca847693550c8f04dc4c9f7e4ba"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/production-AGENTS.md",
+      "bytes": 17417,
+      "sha256": "a3a8f54d0999cf7646195cd1b4792eefac487a67b92b7c0b52c443d3a9c8680e"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/production-CARDNEWS_PROMPT.md",
+      "bytes": 9493,
+      "sha256": "1a98d7afa4911ee5fb6d3a0b35c5826fb27e1c7ae2e895b55bb8ca175de47319"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/production-CARDNEWS_WORKFLOW.md",
+      "bytes": 20210,
+      "sha256": "05c4c5ad4e2b9cc4f2aa83a94104db66f634e153bf237875b13cc24a0d4f3b61"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/production-DESIGN_SYSTEM.md",
+      "bytes": 25700,
+      "sha256": "146bd47b76d78c855957abdcf21d547cb1ca2a3a1645a5cab276c6c01ac4fda4"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/research/sources.md",
+      "bytes": 7491,
+      "sha256": "ae091a052f92a973ea4ba23fd652d1e347e30a34f934b416b9838e48fa986d13"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/01.html",
+      "bytes": 850,
+      "sha256": "1edf413b402730217bb8f605e40acf751aa145d38d27cfc62b1d5fcb4065dad0"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/02.html",
+      "bytes": 1331,
+      "sha256": "3153d95c248264ea58ff48d0758363e5e7b4e7e66c71093366e6c65e39397668"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/03.html",
+      "bytes": 1569,
+      "sha256": "cdc5c73016e3f5cf3745d2dfe6d8fde01d895d506a14438985618fddcc526efc"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/04-blank-background.html",
+      "bytes": 126,
+      "sha256": "4d00d5152bfd1f2f921bb076f0219a5b1c05c8e410d2ca905ccdbbc648d1c279"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/04-video-background.html",
+      "bytes": 1362,
+      "sha256": "37e9b9297f77642884d7734b8f312b83d5b3b2604f7e1d16828bb1089935c813"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/04.html",
+      "bytes": 1390,
+      "sha256": "1dfbe3d016de768c22b38bee2a92d247a5d847e5486c215f96d5ed8647c9fef9"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/05.html",
+      "bytes": 1632,
+      "sha256": "b94f8795a9e0cf53f61d281b69b769cc02e7fb9259f1e1159b1ba6415fb6e929"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/06.html",
+      "bytes": 1428,
+      "sha256": "8f5e8a23e334ec3d0bf9ed854d78f4a9bd1fa112521d0b676c8e278d4344cbdd"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/README.md",
+      "bytes": 1333,
+      "sha256": "fc99f87937ccf8fa8b2139756bc1c868811f3a2d79a31588badea69463fe1bb4"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/build.py",
+      "bytes": 19003,
+      "sha256": "e11da25b6aba959311019f10b18a5389cc9e9a8918eda6796c9fa332e61467c0"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/cards.css",
+      "bytes": 12971,
+      "sha256": "c373ab8019fee928b0a3afcaa4cc31c88db85b51bd79d541b8ae8185c302e3e4"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/prepare.py",
+      "bytes": 2930,
+      "sha256": "5e2abfb164e30348a5c85fa9f0ca6379fe412b71da255799911a3e696b5df154"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/render.cjs",
+      "bytes": 4965,
+      "sha256": "cdd9fec8986b1cf76ab42a52082713cd785d7dab599bf68ecb26a71a6c10f73a"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/source/verify_package.py",
+      "bytes": 1385,
+      "sha256": "ddb5115023319cd1981a4fac68ff1f99c88ab6ab863a7ed67441f2f857463746"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/video-template/04-blank-background.png",
+      "bytes": 7201,
+      "sha256": "edc9858e195cd578d5181dde02679f1492778e47faa8fc37f71b96fee59d842e"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/video-template/04-video-background.png",
+      "bytes": 72384,
+      "sha256": "4ec4f6ed42f5df9184abf3f66715e2817c93ac20c375ec6a23214118b98ef94e"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/video-template/04-video-overlay.png",
+      "bytes": 69402,
+      "sha256": "094cede61dcb2c6c3e041036943ebf2afafd132fcdd336f6e69f22b12dced22e"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/video-template/README.md",
+      "bytes": 391,
+      "sha256": "2d197088fb573335287710227f940ac46e4e31e34537cd1305bfd18af7aa534b"
+    },
+    {
+      "path": "content/achilles-elongation-anatomy/video-template/placement.json",
+      "bytes": 407,
+      "sha256": "01de56602b53e8984a83ff96110ef6fddf807dd4c81a9052394b6303af962619"
+    },
+    {
+      "path": "content/achilles-elongation-b01/QA_REPORT.md",
+      "bytes": 1308,
+      "sha256": "738ffa62d881f0594af8de4e33b1c79dfb74fdb9231632a1c40f8a72e7c6f33a"
+    },
+    {
+      "path": "content/achilles-elongation-b01/VIDEO_PLAN.md",
+      "bytes": 2655,
+      "sha256": "dfa3856e7f8d129f9c8d0370c5cd15eb64b9a84143b5ff25405368c013f6056d"
+    },
+    {
+      "path": "content/achilles-elongation-b01/caption.md",
+      "bytes": 3712,
+      "sha256": "8234e1387771f451d7cf68a1575a2bb25e1cd0df88764f32063ed0ce675f8f75"
+    },
+    {
+      "path": "content/achilles-elongation-b01/storyboard.md",
+      "bytes": 3307,
+      "sha256": "b823d22dc771bda6939c6fe03eab7978462aa29c68013db59642cc81088024d4"
+    },
+    {
+      "path": "content/achilles-elongation-b01/assets/B01.svg",
+      "bytes": 218,
+      "sha256": "44f862691d96fec3c46a65c347a599be2d0e92a2f08b46b1b5eaf52b29ddca68"
+    },
+    {
+      "path": "content/achilles-elongation-b01/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/achilles-elongation-b01/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/achilles-elongation-b01/assets/asset_manifest.md",
+      "bytes": 4013,
+      "sha256": "5d8b138c384eb188492158074c11217b2aaee766a0d26fe2f19432dee9cf5c8b"
+    },
+    {
+      "path": "content/achilles-elongation-b01/assets/heel-rise-scenario.png",
+      "bytes": 1805988,
+      "sha256": "bfcacaf22ebcd1b343e2f9e396183b302186a08834a6624768a161ba495bf1ad"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/01.png",
+      "bytes": 521152,
+      "sha256": "b1846c97a4541b92fb488d3c55fe0a7674b41f53113dad78f7905da921a13dcc"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/02.png",
+      "bytes": 82603,
+      "sha256": "e8af18b3934a21e1c1434e68f474302edd99003c149d87fdc3da4ae8f530004f"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/03.png",
+      "bytes": 88272,
+      "sha256": "b62086c3140f9b2d5c3b22a38b3de542ffcfc984cc6a1ba803bba46aa6d304ba"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/04.png",
+      "bytes": 83626,
+      "sha256": "ea1a531281eed0829a3870ee9c6e7414323b15df11ec0437e63fda5540a288af"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/05.png",
+      "bytes": 108470,
+      "sha256": "018ef143fcd60a94d0c9c010ef8d66ba03b039d2c251dd4ddccd296485c8a241"
+    },
+    {
+      "path": "content/achilles-elongation-b01/exports/06.png",
+      "bytes": 105725,
+      "sha256": "a9d73a5134a6a9af4b8258a8fd4d2efa0ea39fe40bd582ed79ead0dd608c6826"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/01-mobile.png",
+      "bytes": 124370,
+      "sha256": "bb83f1e648ac3ceb04d75dad0dcb66591359629a6814d46664b1195637cdfb37"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/02-mobile.png",
+      "bytes": 48208,
+      "sha256": "7be840d256e27d63b65c260a49cacc876d5423a8b2dfca628a70d5295ae0afc9"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/03-mobile.png",
+      "bytes": 58511,
+      "sha256": "8b627f0a42881e0f543e9a557687658955829e469574d485fd91dd76aed704d2"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/04-blank-background-mobile.png",
+      "bytes": 1454,
+      "sha256": "a1dfe1dc367541a8d7885812b852dd4c883b2977a7708fab5ae8ecf17bb3404b"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/04-mobile.png",
+      "bytes": 53214,
+      "sha256": "16f8e83d32fe3f335468af07b6fc160f092002ef49ba20495afb771258920337"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/04-video-background-mobile.png",
+      "bytes": 46201,
+      "sha256": "67d0602a83169142731937e43f2823a0ec87bb6334767583ef96feb72ad0d796"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/05-mobile.png",
+      "bytes": 66280,
+      "sha256": "241aeba9e99dd8bb2d5693090a63ad39a6083fb1fc6b74bb67a2e2de88a982b9"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/06-mobile.png",
+      "bytes": 75549,
+      "sha256": "228ecb0775ee34e4397b7cf6946291bff84db7154bbcf88a9ebb1c4bce9388c3"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/file-check.json",
+      "bytes": 618,
+      "sha256": "6fc0c0cbc2a86fffc77a9469a0e9a9e3498cc8818fe4b029ed19c8cbb5c547c0"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/layout-check.json",
+      "bytes": 11767,
+      "sha256": "4cf782d3d5adace5149f3344d81c44522e104767e9b8e774cf5d2de47cce0907"
+    },
+    {
+      "path": "content/achilles-elongation-b01/qa/mobile-review.png",
+      "bytes": 417612,
+      "sha256": "9ff0282ce113a4693b25f2db285d7d52008e05f884ea74871c35182e5e2b44c4"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/claims.md",
+      "bytes": 2017,
+      "sha256": "f1626ecaa6358a451c01c7a929450de1869bc03fa350f10245093c61d3a02ebc"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/production-AGENTS.md",
+      "bytes": 17331,
+      "sha256": "7415c4205db018c1f9c88b0c29767d3d83faccd87b12847b82bdf83a3dc39967"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/production-CARDNEWS_PROMPT.md",
+      "bytes": 9466,
+      "sha256": "04e4cd0c631530e64ff62ff4499cc5233579d9c6a3a52d07512d2f8304bfce3e"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/production-CARDNEWS_WORKFLOW.md",
+      "bytes": 20142,
+      "sha256": "420eb57c4eef5d01792c016b5247c9ecf79d4e492d58dd9ddc4654fb4d07256e"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/production-DESIGN_SYSTEM.md",
+      "bytes": 25523,
+      "sha256": "1d273afcc3735e158876ec4094d8978649ec2710c036df8052108dacccd23d98"
+    },
+    {
+      "path": "content/achilles-elongation-b01/research/sources.md",
+      "bytes": 5864,
+      "sha256": "9ca8a809dd170b6dafcb46393eebe8b54262e4c1c4d7065e775c6608ebddb9b4"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/01.html",
+      "bytes": 850,
+      "sha256": "1edf413b402730217bb8f605e40acf751aa145d38d27cfc62b1d5fcb4065dad0"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/02.html",
+      "bytes": 1350,
+      "sha256": "1ac493ed6b87ca35ed7ea48a3664266b9ec89b5e925c2a154d8f64ab7e14def3"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/03.html",
+      "bytes": 1569,
+      "sha256": "cdc5c73016e3f5cf3745d2dfe6d8fde01d895d506a14438985618fddcc526efc"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/04-blank-background.html",
+      "bytes": 126,
+      "sha256": "4d00d5152bfd1f2f921bb076f0219a5b1c05c8e410d2ca905ccdbbc648d1c279"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/04-video-background.html",
+      "bytes": 1362,
+      "sha256": "37e9b9297f77642884d7734b8f312b83d5b3b2604f7e1d16828bb1089935c813"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/04.html",
+      "bytes": 1390,
+      "sha256": "1dfbe3d016de768c22b38bee2a92d247a5d847e5486c215f96d5ed8647c9fef9"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/05.html",
+      "bytes": 1632,
+      "sha256": "b94f8795a9e0cf53f61d281b69b769cc02e7fb9259f1e1159b1ba6415fb6e929"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/06.html",
+      "bytes": 1428,
+      "sha256": "8f5e8a23e334ec3d0bf9ed854d78f4a9bd1fa112521d0b676c8e278d4344cbdd"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/README.md",
+      "bytes": 1325,
+      "sha256": "db9fd03fda77fd6ed1aa6fa7d9a149c31d772545ec567dce05b20779e68580cc"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/build.py",
+      "bytes": 17444,
+      "sha256": "dc83a8c3889e616ab9e651c68ccb4c8da8b816b4fea89af973a20cc2391ba17c"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/cards.css",
+      "bytes": 12373,
+      "sha256": "e2541c686f6849e89e79612f43e2469d309f485b7b2b22936adbc4ed303c8320"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/prepare.py",
+      "bytes": 1655,
+      "sha256": "8925cf0090850c8de6df32a0efcbd6c22dcb4450dcb76b762da986fc8e6d49dd"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/render.cjs",
+      "bytes": 4965,
+      "sha256": "cdd9fec8986b1cf76ab42a52082713cd785d7dab599bf68ecb26a71a6c10f73a"
+    },
+    {
+      "path": "content/achilles-elongation-b01/source/verify_package.py",
+      "bytes": 1373,
+      "sha256": "c55850a48df3dcd49b020f0744d532eee4eafd67fb6afb3743557b01d96d2ad5"
+    },
+    {
+      "path": "content/achilles-elongation-b01/video-template/04-blank-background.png",
+      "bytes": 7201,
+      "sha256": "edc9858e195cd578d5181dde02679f1492778e47faa8fc37f71b96fee59d842e"
+    },
+    {
+      "path": "content/achilles-elongation-b01/video-template/04-video-background.png",
+      "bytes": 72384,
+      "sha256": "4ec4f6ed42f5df9184abf3f66715e2817c93ac20c375ec6a23214118b98ef94e"
+    },
+    {
+      "path": "content/achilles-elongation-b01/video-template/04-video-overlay.png",
+      "bytes": 69402,
+      "sha256": "094cede61dcb2c6c3e041036943ebf2afafd132fcdd336f6e69f22b12dced22e"
+    },
+    {
+      "path": "content/achilles-elongation-b01/video-template/README.md",
+      "bytes": 391,
+      "sha256": "2d197088fb573335287710227f940ac46e4e31e34537cd1305bfd18af7aa534b"
+    },
+    {
+      "path": "content/achilles-elongation-b01/video-template/placement.json",
+      "bytes": 407,
+      "sha256": "01de56602b53e8984a83ff96110ef6fddf807dd4c81a9052394b6303af962619"
+    },
+    {
+      "path": "content/achilles-elongation-final/QA_REPORT.md",
+      "bytes": 2711,
+      "sha256": "5cb2bad62d897de16a3afa6c788d9b4113329f0793d3f937d90492897cb088fd"
+    },
+    {
+      "path": "content/achilles-elongation-final/VIDEO_PLAN.md",
+      "bytes": 2626,
+      "sha256": "1bd7358d231a04b12988b22a536cc19144532d8cba32e9fe19c7b3389e0fa4de"
+    },
+    {
+      "path": "content/achilles-elongation-final/caption.md",
+      "bytes": 3685,
+      "sha256": "a8d292e86dece75f95d9060c1c2b8cfced2d5831adb36ef4ce705d01e3ba57b0"
+    },
+    {
+      "path": "content/achilles-elongation-final/storyboard.md",
+      "bytes": 3289,
+      "sha256": "97ce4c6a96843de5e769cfcd6d2ffb74d8b4c15f0351c32d1860a0652ef51c9f"
+    },
+    {
+      "path": "content/achilles-elongation-final/assets/C01.svg",
+      "bytes": 785,
+      "sha256": "cd220bc49ec231ccb1f2d1fe486bdf9f898a824761ce95ef62729aecc761b608"
+    },
+    {
+      "path": "content/achilles-elongation-final/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/achilles-elongation-final/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/achilles-elongation-final/assets/asset_manifest.md",
+      "bytes": 3994,
+      "sha256": "b71836b7c3e6611dcd2c0887e27fdaaf31057b9285d30317cb969575c7ae6b75"
+    },
+    {
+      "path": "content/achilles-elongation-final/assets/heel-rise-scenario.png",
+      "bytes": 1805988,
+      "sha256": "bfcacaf22ebcd1b343e2f9e396183b302186a08834a6624768a161ba495bf1ad"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/01.png",
+      "bytes": 562451,
+      "sha256": "54d86a1154f194e7b12ead2e0f7989107211b4d1c3d19d5f15eb6f4ef6b91d02"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/02.png",
+      "bytes": 125261,
+      "sha256": "b15c0dc5b3ff0990609d6210cd0d549f1acd6832f00bace127513b64f0f55c35"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/03.png",
+      "bytes": 130584,
+      "sha256": "36e39d0183c87769577ff8cc418af93745847f8879e564ef75fa5e88bbd9cb27"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/04.png",
+      "bytes": 126311,
+      "sha256": "d356d2547456fd403cafd4500b4c1d1c87fcd4d19a1c247f3e04fc4e11422d4f"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/05.png",
+      "bytes": 150470,
+      "sha256": "fe0e4d38f1352f8df6339436551a1d79cbd5440b5acee48aeba08aa93404604a"
+    },
+    {
+      "path": "content/achilles-elongation-final/exports/06.png",
+      "bytes": 148409,
+      "sha256": "5f68fa266b681f3b89936f4f753d6ca5b4bbcd1a791ce5f75c7bf8ba57230eff"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/01-mobile.png",
+      "bytes": 128646,
+      "sha256": "850ab0ace10f00f1454bc4d9f66144ab92c8e07e03c633a14395fdd3ae474ac3"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/02-mobile.png",
+      "bytes": 52818,
+      "sha256": "1daafc7a7f2bef98fec8416a88fe728341ed93541e72107015fcbd2633748e4d"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/03-mobile.png",
+      "bytes": 62891,
+      "sha256": "1489e9d6fdf215c03167bfb98ca9a17ea01d098b47b5bff1668e03b51f579979"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/04-blank-background-mobile.png",
+      "bytes": 1454,
+      "sha256": "a1dfe1dc367541a8d7885812b852dd4c883b2977a7708fab5ae8ecf17bb3404b"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/04-mobile.png",
+      "bytes": 57830,
+      "sha256": "9ddcd23e0e51e695c960642514d5fcde26248f84953329d920ed6810d1b18fe2"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/04-video-background-mobile.png",
+      "bytes": 50855,
+      "sha256": "0716ea7232144fc0ebf52247f9004576fd37b5c6fc82969ddf46b65ed7d61c37"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/05-mobile.png",
+      "bytes": 70808,
+      "sha256": "f261f1fba57bc3f431d7e65f9184fd18f56f9566a03f09755c69f01173ac3376"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/06-mobile.png",
+      "bytes": 80073,
+      "sha256": "e9b081424c3612f1488b62975fe065397d2fe43f1decd7bbdda1521869dcf5ed"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/cover-final-inspection.png",
+      "bytes": 562451,
+      "sha256": "54d86a1154f194e7b12ead2e0f7989107211b4d1c3d19d5f15eb6f4ef6b91d02"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/file-check.json",
+      "bytes": 621,
+      "sha256": "6fc89c992928ad08187c3d9eb7090eecfdec436cccbfd0cea5d37af2997120c5"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/layout-check.json",
+      "bytes": 11771,
+      "sha256": "9a06add2f7b7e0276251c8ae09906cf330bfc6f733dfb52f2ae113a0e9c381bd"
+    },
+    {
+      "path": "content/achilles-elongation-final/qa/mobile-review.png",
+      "bytes": 431011,
+      "sha256": "a7107efe639f3405aae104192b9479f3c997f13983ffcaad8654cdac396386fe"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/claims.md",
+      "bytes": 2017,
+      "sha256": "f1626ecaa6358a451c01c7a929450de1869bc03fa350f10245093c61d3a02ebc"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/production-AGENTS.md",
+      "bytes": 17331,
+      "sha256": "7415c4205db018c1f9c88b0c29767d3d83faccd87b12847b82bdf83a3dc39967"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/production-CARDNEWS_PROMPT.md",
+      "bytes": 9466,
+      "sha256": "04e4cd0c631530e64ff62ff4499cc5233579d9c6a3a52d07512d2f8304bfce3e"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/production-CARDNEWS_WORKFLOW.md",
+      "bytes": 20142,
+      "sha256": "420eb57c4eef5d01792c016b5247c9ecf79d4e492d58dd9ddc4654fb4d07256e"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/production-DESIGN_SYSTEM.md",
+      "bytes": 25523,
+      "sha256": "1d273afcc3735e158876ec4094d8978649ec2710c036df8052108dacccd23d98"
+    },
+    {
+      "path": "content/achilles-elongation-final/research/sources.md",
+      "bytes": 5864,
+      "sha256": "9ca8a809dd170b6dafcb46393eebe8b54262e4c1c4d7065e775c6608ebddb9b4"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/01.html",
+      "bytes": 1430,
+      "sha256": "31d7dcb5d3bd6b5b995aa71d1862f7b9a70c8d162772375ad8fc23b32008ed06"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/02.html",
+      "bytes": 1930,
+      "sha256": "b9bf54d9004a9111e19807c7c484fa5f7ef3c2b2a0d4bb01d0c4d717409f143b"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/03.html",
+      "bytes": 2149,
+      "sha256": "3e6077668d7bb417aac3d3d908e4f97ef65cda818534512afa1ca117b1aea84e"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/04-blank-background.html",
+      "bytes": 126,
+      "sha256": "4d00d5152bfd1f2f921bb076f0219a5b1c05c8e410d2ca905ccdbbc648d1c279"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/04-video-background.html",
+      "bytes": 1942,
+      "sha256": "ede842841228278e4da23af91cdb08c4e2f752c5693230c487b755d1a3bb810f"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/04.html",
+      "bytes": 1970,
+      "sha256": "24255b512b0866e7a2aac815c1fa55ee8a2998202b3bd8e0870ce935596d799b"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/05.html",
+      "bytes": 2212,
+      "sha256": "f89612a4ab9eb8351ed83b75943b7dba4d4c53023b74a1a1e9e938d93d2fee9f"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/06.html",
+      "bytes": 2008,
+      "sha256": "f4540b1f42d9c462fde8f5ca9771843055c402cccfe6c6401730ca7dea17a849"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/README.md",
+      "bytes": 1329,
+      "sha256": "881f5f6c0643d29d4b9f323e4f1871df289a6dc3ea875053fad37fb5521e5f92"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/build.py",
+      "bytes": 17444,
+      "sha256": "7a95d844f9d82fe758efacd1a7b5b48430643a01e224b947687fa0f7ebd57b93"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/cards.css",
+      "bytes": 12373,
+      "sha256": "e2541c686f6849e89e79612f43e2469d309f485b7b2b22936adbc4ed303c8320"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/prepare.py",
+      "bytes": 3026,
+      "sha256": "b02ec4f6a602f5b6a197e5b34ba8bea3af01088da30c34bc0a2ae0473f731291"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/render.cjs",
+      "bytes": 4965,
+      "sha256": "e31cf7af17919a4dfb08495bc48b02cf8a2139dc38168d8c1ea859b667b6fab3"
+    },
+    {
+      "path": "content/achilles-elongation-final/source/verify_package.py",
+      "bytes": 1379,
+      "sha256": "bd88498fb02e45e8489e6c1d9c807e3ab80f4718ccbbf3aa3d01e39296848f7c"
+    },
+    {
+      "path": "content/achilles-elongation-final/video-template/04-blank-background.png",
+      "bytes": 7201,
+      "sha256": "edc9858e195cd578d5181dde02679f1492778e47faa8fc37f71b96fee59d842e"
+    },
+    {
+      "path": "content/achilles-elongation-final/video-template/04-video-background.png",
+      "bytes": 115189,
+      "sha256": "8d78418870eda3e380d2cacb1ddd17ac24db6ad6b916d2848cc483d6a241aa14"
+    },
+    {
+      "path": "content/achilles-elongation-final/video-template/04-video-overlay.png",
+      "bytes": 93938,
+      "sha256": "0b7ce19c283550e694d748f4348e5dec585d96ad3d0c35a1de37d93c3b21c462"
+    },
+    {
+      "path": "content/achilles-elongation-final/video-template/README.md",
+      "bytes": 384,
+      "sha256": "003e63b5d8f80e9c77c7b4321cdf0fe530abff6f1ced01582372b793234d12a9"
+    },
+    {
+      "path": "content/achilles-elongation-final/video-template/placement.json",
+      "bytes": 407,
+      "sha256": "01de56602b53e8984a83ff96110ef6fddf807dd4c81a9052394b6303af962619"
+    },
+    {
+      "path": "content/achilles-elongation-v2/QA_REPORT.md",
+      "bytes": 2765,
+      "sha256": "ea65dd4ddfaac659124310c6e7048e418928344da4b4c30e2a924f3139a07e35"
+    },
+    {
+      "path": "content/achilles-elongation-v2/VIDEO_PLAN.md",
+      "bytes": 2422,
+      "sha256": "7bfa11a43482fbaabebc8a227832b46cbc37b53e0be87fbea5e6d5748af27257"
+    },
+    {
+      "path": "content/achilles-elongation-v2/caption.md",
+      "bytes": 3685,
+      "sha256": "a8d292e86dece75f95d9060c1c2b8cfced2d5831adb36ef4ce705d01e3ba57b0"
+    },
+    {
+      "path": "content/achilles-elongation-v2/storyboard.md",
+      "bytes": 2976,
+      "sha256": "d706e13ec2e3e365ebb8b2ed3cde8f2eac20ca76b596645a974a3f6c74d3dd7a"
+    },
+    {
+      "path": "content/achilles-elongation-v2/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/achilles-elongation-v2/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/achilles-elongation-v2/assets/asset_manifest.md",
+      "bytes": 3683,
+      "sha256": "6d7df40c1e3eb4d88e181b126b706cb7aa6238e98262a4abc9f7a99ae467045e"
+    },
+    {
+      "path": "content/achilles-elongation-v2/assets/heel-rise-scenario.png",
+      "bytes": 1805988,
+      "sha256": "bfcacaf22ebcd1b343e2f9e396183b302186a08834a6624768a161ba495bf1ad"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/01.png",
+      "bytes": 519274,
+      "sha256": "f5fec7c1c669c65f344308019c43048dbcd5941568b24b0ea7eb95169c042b23"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/02.png",
+      "bytes": 80785,
+      "sha256": "f0ffea225c5966465ac27a14fb0c914d7875314feb4d614e65e76914ab9b037d"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/03.png",
+      "bytes": 86579,
+      "sha256": "e06338b46d9ea8abeab6ce8a608b6f8bd9aae18c51d76b5f17a082df1487ea9a"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/04.png",
+      "bytes": 81791,
+      "sha256": "445116d7979cb72ed189f83df3450e6f072532d0e923d4e060055c58b3edc2a1"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/05.png",
+      "bytes": 106588,
+      "sha256": "9c7350de5093c34d6546b66dce3d27b96cd002e2a28814c62940171795170881"
+    },
+    {
+      "path": "content/achilles-elongation-v2/exports/06.png",
+      "bytes": 103724,
+      "sha256": "c39089de14ec0cd70c1d80760f0d9d2c72d21ba7ecc153ed8ebeda246d4ee891"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/01-mobile.png",
+      "bytes": 123767,
+      "sha256": "f740067eb0d213e1ffc967fabef940bfeb962914b9c1e1f133029aa64f3973cc"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/02-mobile.png",
+      "bytes": 47559,
+      "sha256": "2b42a7fc435fbe18f88cb9ec9bf548374f9432506291e126961c873dc29a7a12"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/03-mobile.png",
+      "bytes": 57892,
+      "sha256": "0914199eb4ecd262351c0488545a2e0cc22b8837aa6f0ecd8d5a3d29dc927734"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/04-blank-background-mobile.png",
+      "bytes": 1454,
+      "sha256": "a1dfe1dc367541a8d7885812b852dd4c883b2977a7708fab5ae8ecf17bb3404b"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/04-mobile.png",
+      "bytes": 52608,
+      "sha256": "ddf38050db7fb78a0ce8e5e7b9b25a4117c6698ffb6daa4db49a49d922a4e9e9"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/04-video-background-mobile.png",
+      "bytes": 45461,
+      "sha256": "3f64f60c860bc2906e61e513d5db08e0d3b00e419186bb134ef927eed6525ef4"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/05-mobile.png",
+      "bytes": 65458,
+      "sha256": "42dd8161f588aba3e82975080b356b13a1cb3d368b264506d57350fe2d28f7da"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/06-mobile.png",
+      "bytes": 74889,
+      "sha256": "4053a63a2c5ea9c1baa0a59340182881c51a27753c65d4fa5e91367fa7ecbb75"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/file-check.json",
+      "bytes": 618,
+      "sha256": "3f32c75777270bc437ec2a7cc199200faf6c06d0e89052432ff8059e2fa1a929"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/layout-check.json",
+      "bytes": 11599,
+      "sha256": "990719aca7854fe0bd5d364db899f5418333a9487b5363d8ddbb7a95a6ece48a"
+    },
+    {
+      "path": "content/achilles-elongation-v2/qa/mobile-review.png",
+      "bytes": 413703,
+      "sha256": "cf5991489e1684e10a6809e60db58245d322ba7664df0c50887c11abf7907198"
+    },
+    {
+      "path": "content/achilles-elongation-v2/research/claims.md",
+      "bytes": 2017,
+      "sha256": "f1626ecaa6358a451c01c7a929450de1869bc03fa350f10245093c61d3a02ebc"
+    },
+    {
+      "path": "content/achilles-elongation-v2/research/sources.md",
+      "bytes": 5864,
+      "sha256": "9ca8a809dd170b6dafcb46393eebe8b54262e4c1c4d7065e775c6608ebddb9b4"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/01.html",
+      "bytes": 607,
+      "sha256": "8e02d5cfa3a1781ea88c9b3d127094b09b99e09535012b9a80e4c68bab5ebfc2"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/02.html",
+      "bytes": 1107,
+      "sha256": "25ecde037de24a9ddeebeca0af7f0b385b69dd4155bb1aa1bcaa9928aec051e6"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/03.html",
+      "bytes": 1326,
+      "sha256": "5ffa39b9dd72d032c9c77170802cc322aa59cd3445ac17b79cfe8166e1e3eadd"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/04-blank-background.html",
+      "bytes": 126,
+      "sha256": "4d00d5152bfd1f2f921bb076f0219a5b1c05c8e410d2ca905ccdbbc648d1c279"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/04-video-background.html",
+      "bytes": 1119,
+      "sha256": "ae3537ebe901335eb1b80cf372c556973126f77dea91a02c646da4253fddd616"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/04.html",
+      "bytes": 1147,
+      "sha256": "df1a6d4263f33c4cb684803b3e4515fb16c61f1284ecee21bbe74ca048ce7796"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/05.html",
+      "bytes": 1389,
+      "sha256": "2d15b911b33cfc97868794d68a70b31d10f5982cae223b1b6ee402a38f5e72a2"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/06.html",
+      "bytes": 1185,
+      "sha256": "25b7c4b2c3aa2078ff6925c8a39e43d7ebf199be99cfaa76592e2a131a5c23ab"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/README.md",
+      "bytes": 1014,
+      "sha256": "8eea376444af7a519e5e5ab465aa892d6cf988e64d925b96be90d418c9ca3cb8"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/build.py",
+      "bytes": 17195,
+      "sha256": "8b57b95893c798b6538d9f30d7dceabf0dabeab027268733e7de272e7babe47f"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/cards.css",
+      "bytes": 12277,
+      "sha256": "df5364d465ec4c31a4cad708a4e788fd37b23d21266e5d658cc84cccb9a4c831"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/render.cjs",
+      "bytes": 4744,
+      "sha256": "c49c821af9d5034109727c15c3e68d35c3215c60b44f4ea4818e57368831fe83"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/upgrade.py",
+      "bytes": 7240,
+      "sha256": "44c4680c22415f0f6b37e00b64b76bfc823b6999aa62a3ad9cc3cfa568a1d090"
+    },
+    {
+      "path": "content/achilles-elongation-v2/source/verify_package.py",
+      "bytes": 1356,
+      "sha256": "e13f8472352766be7bf4fed23c1d9380a7b2550b54e7f7f291977d072151a85f"
+    },
+    {
+      "path": "content/achilles-elongation-v2/video-template/04-blank-background.png",
+      "bytes": 7201,
+      "sha256": "edc9858e195cd578d5181dde02679f1492778e47faa8fc37f71b96fee59d842e"
+    },
+    {
+      "path": "content/achilles-elongation-v2/video-template/04-video-background.png",
+      "bytes": 70471,
+      "sha256": "0039c85e9fda3992c475d6c70ded6feda52dd320a3f098da3b78b651dd6b0866"
+    },
+    {
+      "path": "content/achilles-elongation-v2/video-template/04-video-overlay.png",
+      "bytes": 61306,
+      "sha256": "0ebb8c03f38adbd7e3109dd1b29b7be024ad2c9b1cb81d4b53f0c49d6ec063a5"
+    },
+    {
+      "path": "content/achilles-elongation-v2/video-template/README.md",
+      "bytes": 384,
+      "sha256": "003e63b5d8f80e9c77c7b4321cdf0fe530abff6f1ced01582372b793234d12a9"
+    },
+    {
+      "path": "content/achilles-elongation-v2/video-template/placement.json",
+      "bytes": 407,
+      "sha256": "01de56602b53e8984a83ff96110ef6fddf807dd4c81a9052394b6303af962619"
+    },
+    {
+      "path": "content/acl-return-to-running/QA_REPORT.md",
+      "bytes": 6046,
+      "sha256": "9cca2849ea8b84295c9ed6b8d17fdf951bd6f2415a11906af1d9b2253784db17"
+    },
+    {
+      "path": "content/acl-return-to-running/VIDEO_PLAN.md",
+      "bytes": 3561,
+      "sha256": "90b7ab0249d3679f7439b188a1efeb753c3703de43a3815077aba49b38a4ea8f"
+    },
+    {
+      "path": "content/acl-return-to-running/caption.md",
+      "bytes": 2332,
+      "sha256": "91694c63fa6f2d5258f3330e6ad1363c8735c36de9a1d42d54c7fa92606c0d18"
+    },
+    {
+      "path": "content/acl-return-to-running/storyboard.md",
+      "bytes": 2501,
+      "sha256": "48b2eb1659e110af7c8faa79033a951ae88630dbeba531c19065c307e9e9df2d"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/asset_manifest.md",
+      "bytes": 6309,
+      "sha256": "d3b32da37ac763df13d0b7101f13e69ec539d71812133f13aa895005695d6767"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/dynamic-runner-v3.png",
+      "bytes": 1919930,
+      "sha256": "84916c5575ec8d3198ad32c5ad4391d144931b8ba172cf2f110d419f336a95d1"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/font-license-metadata.txt",
+      "bytes": 559,
+      "sha256": "a90da63e2ad4e8ac9d67f65875b620ed08acf269fd3816d6ae038887d9c078d0"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/jogging-hero.png",
+      "bytes": 2361270,
+      "sha256": "ab6cee0c1c7b7682b65ada7b0439f17995decf851ddc7955bbf0ae9e0c105c6f"
+    },
+    {
+      "path": "content/acl-return-to-running/assets/zoomies-cat-v2.png",
+      "bytes": 2046262,
+      "sha256": "940e4f9f2112876267ca0b717ea66222e965cfb5ec5c24e58967fa5f6c8984da"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/01.png",
+      "bytes": 648677,
+      "sha256": "913d336feab56f8709b37e1bf740484df1ac5dcd39db6aa1cccea3f5ca2d63ab"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/02.png",
+      "bytes": 76705,
+      "sha256": "857451e7930b5d990e6ec5236d4a5a3a2ca72605ea6b91f8887a60a5a6ddb026"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/03.png",
+      "bytes": 88820,
+      "sha256": "d5679781ddbd374fc3cadb5c116fb11710195d24eb9dff7d1814b865ffe62ac4"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/04.png",
+      "bytes": 94124,
+      "sha256": "fc6467d0958160643d4fa0a543fec1d33ee26ebb98c1c1a1449b0b9577292eca"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/05.png",
+      "bytes": 94626,
+      "sha256": "1837a2d90cf016d2723836e7979921e7e3199910289094352cd26d3649852738"
+    },
+    {
+      "path": "content/acl-return-to-running/exports/06.png",
+      "bytes": 85393,
+      "sha256": "bd9660db78bbfa94179461e98e4e3353ac03fc435ab699dd64ab10a1cc53e8ea"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/01-mobile.png",
+      "bytes": 151832,
+      "sha256": "8e5bc1ccd5f9fef87ab364eddc116735c3117da48b657fa7cb01ca11be915050"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/02-mobile.png",
+      "bytes": 48403,
+      "sha256": "b3d70ecb82dde95e8fe66eadc5344f0d728ec281191db439c4404848b7dc7577"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/03-mobile.png",
+      "bytes": 52697,
+      "sha256": "6e130cc34e925d2383d73ff87c7248cac4a85b6be2c5b3050100fdb821cb042f"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/04-before-video-mobile.png",
+      "bytes": 45958,
+      "sha256": "72b3138222e209a0c5aaf6d175a9f2462eb1b97d9796e0df0158d0d070ddee17"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/04-mobile.png",
+      "bytes": 56702,
+      "sha256": "dd9c9d5d83dd6110daa46d8099fc3c8d64bfa398187401d4d89ca268edf8c5db"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/04-video-background-mobile.png",
+      "bytes": 45621,
+      "sha256": "8f58db540222c25bf5e93f03be4c3a6b97c1ecaa40fc8647e1c6101c20a85d24"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/05-after-video-mobile.png",
+      "bytes": 60543,
+      "sha256": "bce456b4cdd4030858e6dcc382584e97a7f687cf5a93ee00dc2fee9749185489"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/05-mobile.png",
+      "bytes": 63016,
+      "sha256": "ebf19a1d40ae28083648f65fdf2da620edcf93ca159cf9b6a6a2f35c921704e0"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/06-mobile.png",
+      "bytes": 60602,
+      "sha256": "b9daf43c140ff901d6ebad19191f058962eb17bc24a1f41246b79bdbffbd5eae"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/layout-check.json",
+      "bytes": 4734,
+      "sha256": "85e0e7bb29b167f8145a6f7c1973c588901f0934419f392d8acd0c805cc75092"
+    },
+    {
+      "path": "content/acl-return-to-running/qa/video-template-check.json",
+      "bytes": 194,
+      "sha256": "9f1cb3e9df8334881eeb586d2f523736831ce7b6d20160ab46bd31602b57591f"
+    },
+    {
+      "path": "content/acl-return-to-running/research/claims.md",
+      "bytes": 2431,
+      "sha256": "6f841bf0fef4f2b104e7af748e0fe15412932216757ea94434e4ac40c57419f0"
+    },
+    {
+      "path": "content/acl-return-to-running/research/sources.md",
+      "bytes": 4566,
+      "sha256": "8fd2d7d3a797ca4a0e546b85ff4220cfc3f373b705845624d446b0f56996023c"
+    },
+    {
+      "path": "content/acl-return-to-running/source/01.html",
+      "bytes": 591,
+      "sha256": "f34220fb1db7f23b1224d70a4e20f795e71a67c205781b960a8506408f7d891e"
+    },
+    {
+      "path": "content/acl-return-to-running/source/02.html",
+      "bytes": 887,
+      "sha256": "6afa5467cded06879a4389299920505ce5541a882b24e9690456367196e66f2c"
+    },
+    {
+      "path": "content/acl-return-to-running/source/03.html",
+      "bytes": 1212,
+      "sha256": "a207338d1251f4a1a60378c8415aa87e77cc99335dfbbb760608925a048ef8fc"
+    },
+    {
+      "path": "content/acl-return-to-running/source/04-before-video.html",
+      "bytes": 959,
+      "sha256": "9a104e656b7f399d9bcb36a609d6d2bab6e677b84e90bc3d1816a3674f5cc8d5"
+    },
+    {
+      "path": "content/acl-return-to-running/source/04-video-background.html",
+      "bytes": 1503,
+      "sha256": "83af4fd9304814ae001150d568d951458d46c9c74eae54010b8000654199b6a9"
+    },
+    {
+      "path": "content/acl-return-to-running/source/04.html",
+      "bytes": 1489,
+      "sha256": "d315d4a206c67e66dfc16cfee4f0f55229398ecfc2f960648b4cf63dbf416063"
+    },
+    {
+      "path": "content/acl-return-to-running/source/05-after-video.html",
+      "bytes": 1365,
+      "sha256": "d34f9c1978e9b916e2c70f69b3510fadabb247df80a240f4f66ab641ccd20862"
+    },
+    {
+      "path": "content/acl-return-to-running/source/05.html",
+      "bytes": 1340,
+      "sha256": "d247041076987388ce23fd64f06bc45552b5cc5eecd688cd01f65ef560d1e37e"
+    },
+    {
+      "path": "content/acl-return-to-running/source/06.html",
+      "bytes": 952,
+      "sha256": "86514ee5cb9b1616797f803b2751afea6f9ce59bb0b559ff0da88cd996321377"
+    },
+    {
+      "path": "content/acl-return-to-running/source/README.md",
+      "bytes": 1693,
+      "sha256": "e6479ab4e149f84d8c3d34533c404cb0249304daa892224c7c38e6bdc7f85a29"
+    },
+    {
+      "path": "content/acl-return-to-running/source/build.py",
+      "bytes": 11795,
+      "sha256": "70f2862081f0fa148577e90e870b71f3c6916d177ccdca6b2f6f87cbc8d5b661"
+    },
+    {
+      "path": "content/acl-return-to-running/source/cards.css",
+      "bytes": 9070,
+      "sha256": "e995b83f70a86feaf43fb12bb7c9f6508fa9b5d5908be3362451ebb8faff69ed"
+    },
+    {
+      "path": "content/acl-return-to-running/source/font_metadata.py",
+      "bytes": 914,
+      "sha256": "ca4f21b15cd413009899931e77e172b8a3fa67a53c7697081f9b0238ead2c059"
+    },
+    {
+      "path": "content/acl-return-to-running/source/package.py",
+      "bytes": 898,
+      "sha256": "9cc86e9de7f4ed7179dbeccd987604fde63d8a741edc361c8c3f279543f2af50"
+    },
+    {
+      "path": "content/acl-return-to-running/source/render.cjs",
+      "bytes": 4074,
+      "sha256": "c0556bf7eae0d93c55a897aa062e27c130f5ff3d8cacda5bd3082a80647f2de9"
+    },
+    {
+      "path": "content/acl-return-to-running/source/verify_video.cjs",
+      "bytes": 1141,
+      "sha256": "0a455f7c0351b102542583a3f9b3bb45e55edbf76681680d26b6c112969210ef"
+    },
+    {
+      "path": "content/acl-return-to-running/video-option/04-before-video.png",
+      "bytes": 69210,
+      "sha256": "b4a93cc8a1febc3302a7ab47d7f31db2b063e4b16ada596c67d969ac8f1a7f61"
+    },
+    {
+      "path": "content/acl-return-to-running/video-option/05-after-video.png",
+      "bytes": 96884,
+      "sha256": "13573be790775c0916d5932cd51ee8bad98d295a518bdd5a4212e33653db0aaf"
+    },
+    {
+      "path": "content/acl-return-to-running/video-template/04-video-background.png",
+      "bytes": 78402,
+      "sha256": "5e74d18d89694f7b57db0daeadf2a5ec149d80e72c4b4f64caf2697257c5ba5e"
+    },
+    {
+      "path": "content/acl-return-to-running/video-template/04-video-overlay.png",
+      "bytes": 62875,
+      "sha256": "69f9eab224e220842158b21b80f4064150a346c3fb2b242a7c690c863d0892c7"
+    },
+    {
+      "path": "content/acl-return-to-running/video-template/README.md",
+      "bytes": 2165,
+      "sha256": "f4f73e137388b3ea5b813ea1ed508b18afb30ef0c8c5d4eaea87d52b8e839f5a"
+    },
+    {
+      "path": "content/acl-return-to-running/video-template/placement.json",
+      "bytes": 304,
+      "sha256": "3e2372f26b0f10af4ba37fceacc97caf780ba42656cc85355f475bb075161c70"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/VIDEO_PLAN.md",
+      "bytes": 2311,
+      "sha256": "e2b0ab7fd9e43149ac6466e68d49c59c6949c46e37c294b2f6d9ed971d286ca7"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/caption.md",
+      "bytes": 2771,
+      "sha256": "43f6549a55880d9ba6ee1a6ef2d2a1795dde3986b1213254006f46dd3ff74a14"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/storyboard.md",
+      "bytes": 1963,
+      "sha256": "8f2eaed37b1e5e767901beade1b91557b4214761977034144640606ec266b2b1"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W500.ttf",
+      "bytes": 6222812,
+      "sha256": "316775ae472b5694190b376f1864d50c858adc229cdea9b347221c14e03b39ab"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W650.ttf",
+      "bytes": 6220596,
+      "sha256": "a3c00ee09c1f035efbaa3e1e7be4d9dcc2062590a8ea6039b6c69dc859eb2d1f"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W700.ttf",
+      "bytes": 6223144,
+      "sha256": "f01608cbef846759a436fea3231964782988e7e35e5a3ffeac1cf93c668764ef"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W750.ttf",
+      "bytes": 6222264,
+      "sha256": "b4540bc9e6406a0b92b6096e253d83b49203e534e6415938c4d52151b7fbbbb3"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W800.ttf",
+      "bytes": 6222084,
+      "sha256": "edad60699be9777098d1ede1400cdae7f3356b10250d969c2b4aaffc6f8b4720"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/adobe-express/pptx-build/fonts/RCardnews-W850.ttf",
+      "bytes": 6221320,
+      "sha256": "3f5c392063c0275b94b462cd764cc0c3076eb9b1193485f12b9c8b3c2f1d0871"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/B01.svg",
+      "bytes": 223,
+      "sha256": "b6c06f0115634fa273ef703b9e82ffad2a97d3e38ece105700ea59257961756e"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/asset_manifest.md",
+      "bytes": 1561,
+      "sha256": "ae754567229343603baf27e629e07811e7c6cd8e641886b0b1e781a3bd47b1c5"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/dynamic-runner-v3.png",
+      "bytes": 1919930,
+      "sha256": "84916c5575ec8d3198ad32c5ad4391d144931b8ba172cf2f110d419f336a95d1"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/assets/font-license-metadata.txt",
+      "bytes": 559,
+      "sha256": "a90da63e2ad4e8ac9d67f65875b620ed08acf269fd3816d6ae038887d9c078d0"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/research/claims.md",
+      "bytes": 2837,
+      "sha256": "946b72861a212d82754d5ee8bc6058d61826ffef8cd9a69db57d1fa853e0c5fd"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/research/sources.md",
+      "bytes": 5073,
+      "sha256": "7c3a06c11943c3f61a0a7bbebbe3cbdf1f82fdd1d83ac7b06687891308457f43"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/01.html",
+      "bytes": 841,
+      "sha256": "9d98f3fe600ae930a4c7a5258e43cc322c06954d55740fbbff6c2e656a7b93e3"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/02.html",
+      "bytes": 927,
+      "sha256": "cb37f768017a893a9fc443922b340209d7a0e7c45d4efeac80c6f18cf6564d6e"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/03.html",
+      "bytes": 1311,
+      "sha256": "438de3247ec00c8a0a701ffa24c5857c4e351a3709b9fd1549b2b7feca4c2ada"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/04-blank-background.html",
+      "bytes": 464,
+      "sha256": "bce8b12ef248f12493353b06387bbabbcb6f7bc8cd498b1b37a1595433c8d764"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/04-video-background.html",
+      "bytes": 1396,
+      "sha256": "a8189f46407c53f14ac0619517df8e70d35bf7eb53738f43e6124a1c72c456d7"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/04.html",
+      "bytes": 1384,
+      "sha256": "7a660dec0e9f272ae7179098505537539e48e09e315217e3bdc51d1941de0227"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/05.html",
+      "bytes": 1590,
+      "sha256": "bf6499882042cc3fd83a47b6dc7e736c2a45231665f5e7ba456c29558d5068c4"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/06.html",
+      "bytes": 1190,
+      "sha256": "473210a3b04bdf9a3310262691127bc8922ce337e366515d8428f1dc49680c62"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/README.md",
+      "bytes": 972,
+      "sha256": "dc69004a00975db738de82bf75ec953ccccc2094d45eeaabbaa1aa5ad1b109de"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/base.css",
+      "bytes": 9070,
+      "sha256": "e995b83f70a86feaf43fb12bb7c9f6508fa9b5d5908be3362451ebb8faff69ed"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/build-express-pptx.mjs",
+      "bytes": 2092,
+      "sha256": "5d618b57721f4adfddccc146d82d8c79be8979de697e5d666f69f4964ca05c90"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/build.py",
+      "bytes": 6179,
+      "sha256": "0c9269f1cbb5a69ae0b3ebf3321333119cd9dd42fe6b031d9c834aa2d73db80b"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/cards.css",
+      "bytes": 11482,
+      "sha256": "5ee3078e09e805f695aeceff18114f463b35eef36bda3aa8c5b49f022188ddc5"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/cards.json",
+      "bytes": 5334,
+      "sha256": "830cac826601ef313d6a93d65c3fdbdc43ea7b10320f4e87e02adfa1310831b1"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/export-express.cjs",
+      "bytes": 1330,
+      "sha256": "d50add91f700f878044eac2711b242fc148a797e342757877f921c3e36f62345"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/express-static-fonts.py",
+      "bytes": 993,
+      "sha256": "7916e42b04e6a361b50ed4058c7a19def592013a770d314224ceac9cd7ffe3a2"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/extract-express-layers.cjs",
+      "bytes": 2565,
+      "sha256": "2e9ad1a6c31e152a2c863d28ec28ada5bb81b62066023af55c8de8dde524ceef"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/finalize-express-pptx.mjs",
+      "bytes": 2566,
+      "sha256": "8bf9b83632c20cb3fc54b0a0aee8f53c9da93082f2465e80108a697f1483f7d5"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/package-express-editable.py",
+      "bytes": 742,
+      "sha256": "ce662807cb745ea891df12ee4f71b87f7cd6f2fed2a9ec10bfb56271fe7e7961"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/package.py",
+      "bytes": 734,
+      "sha256": "ed67a485e11b6f095aa460050991dcaa9e11b597fffbf1277006fa8c15533bbf"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/patch-express-spacing.py",
+      "bytes": 1409,
+      "sha256": "614a83e6cff67515669e8ec58b906e412117d30e370d32fa29591c52fd3b2439"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/render.cjs",
+      "bytes": 4148,
+      "sha256": "c79ce62b7808b5d31f9c8356a18bdc93035c2ce33a2b1f26e43007c427ff8fd5"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/source/verify-express.py",
+      "bytes": 1793,
+      "sha256": "12fdb54e397f387c6951ce1df1decafb94a5d5374b46765a6990b712894c988c"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/video-template/04-blank-background.png",
+      "bytes": 8988,
+      "sha256": "ae58466fb1c949a0063de9b91589f5283469c0f967cf7cd6bba3afbd6c75d2c2"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/video-template/04-video-background.png",
+      "bytes": 62797,
+      "sha256": "a7cf52c8b51ab601f4d186e0f5a9dd3e8d998b582a3291d26519aa10ecd469b7"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/video-template/04-video-overlay.png",
+      "bytes": 62066,
+      "sha256": "d488faf1c1c5807a01510f3e7b50c639f08748248b4d68bf8dfd3b66d71eca5e"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/video-template/README.md",
+      "bytes": 701,
+      "sha256": "78f9600773978a6f8afff8c3be8c2429baacb5e5e6db56203a7bc6195baf4498"
+    },
+    {
+      "path": "content/acl-return-to-running-large-type/video-template/placement.json",
+      "bytes": 430,
+      "sha256": "2f5c7ebbf8e59281c26dd60538ff736c0121eab4403685a96ad5694d991ecb92"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/QA_REPORT.md",
+      "bytes": 3649,
+      "sha256": "d31676b09e28cf0e4cd0ef2ff2c610ae3ab25abaf050a61c9eafb3a528ed395b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/VIDEO_PLAN.md",
+      "bytes": 2311,
+      "sha256": "e2b0ab7fd9e43149ac6466e68d49c59c6949c46e37c294b2f6d9ed971d286ca7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/caption.md",
+      "bytes": 2771,
+      "sha256": "43f6549a55880d9ba6ee1a6ef2d2a1795dde3986b1213254006f46dd3ff74a14"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/storyboard.md",
+      "bytes": 1963,
+      "sha256": "8f2eaed37b1e5e767901beade1b91557b4214761977034144640606ec266b2b1"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/ACL-cards-Express-import.pdf",
+      "bytes": 4295727,
+      "sha256": "a3e44d5a6679a543118571627d0472ef72a978528ea2461ea68f4faf70597815"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/README.md",
+      "bytes": 2453,
+      "sha256": "316dfcbe8b5d5556993356aff5562a2a037f4bbe79d43ee85c925a49688833f2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/verification.json",
+      "bytes": 1093,
+      "sha256": "fd7225d8aff421f05b4c2f1793e0c6340e399cb7f5eb886fa953d4f110440e82"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-cards-Express-fixed-lines.pptx",
+      "bytes": 1165047,
+      "sha256": "c50fecf138be8cf393dd1cbc4277f28b6060d89949ccc3e2c71a4496ac6ca62f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/IMPORT_GUIDE.md",
+      "bytes": 3067,
+      "sha256": "a56df48c8d5e35dd837a29d8c7b8c8e3d27c3d9811d804f628959593cb9b6e92"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/ACL-cards-Express-fixed-lines.pptx",
+      "bytes": 1165047,
+      "sha256": "c50fecf138be8cf393dd1cbc4277f28b6060d89949ccc3e2c71a4496ac6ca62f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/IMPORT_GUIDE.md",
+      "bytes": 3067,
+      "sha256": "a56df48c8d5e35dd837a29d8c7b8c8e3d27c3d9811d804f628959593cb9b6e92"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/VIDEO_PLAN.md",
+      "bytes": 2311,
+      "sha256": "e2b0ab7fd9e43149ac6466e68d49c59c6949c46e37c294b2f6d9ed971d286ca7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W500.ttf",
+      "bytes": 6222812,
+      "sha256": "316775ae472b5694190b376f1864d50c858adc229cdea9b347221c14e03b39ab"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W650.ttf",
+      "bytes": 6220596,
+      "sha256": "a3c00ee09c1f035efbaa3e1e7be4d9dcc2062590a8ea6039b6c69dc859eb2d1f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W700.ttf",
+      "bytes": 6223144,
+      "sha256": "f01608cbef846759a436fea3231964782988e7e35e5a3ffeac1cf93c668764ef"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W750.ttf",
+      "bytes": 6222264,
+      "sha256": "b4540bc9e6406a0b92b6096e253d83b49203e534e6415938c4d52151b7fbbbb3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W800.ttf",
+      "bytes": 6222084,
+      "sha256": "edad60699be9777098d1ede1400cdae7f3356b10250d969c2b4aaffc6f8b4720"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/fonts/RCardnews-W850.ttf",
+      "bytes": 6221320,
+      "sha256": "3f5c392063c0275b94b462cd764cc0c3076eb9b1193485f12b9c8b3c2f1d0871"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/01.png",
+      "bytes": 654272,
+      "sha256": "e041d4b0148dea239787766497681fe3a21f8b1ae726868544d5f3af884b4a6f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/02.png",
+      "bytes": 56904,
+      "sha256": "b7d527c36d6e5857f9b975ed31f84b3ffa6d5c47c28da1201317d9416d024210"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/03.png",
+      "bytes": 74925,
+      "sha256": "64dadca26412cec073728901349622cdc609fe69cc985d78ecd8fc23d348f6d8"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/04.png",
+      "bytes": 72500,
+      "sha256": "b4707275132d8fb3b1500b0ed64fed58132a1c56de9b9851f854be46a9e8c952"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/05.png",
+      "bytes": 98731,
+      "sha256": "f504d705a8a22f5ec77d3984be4982132dc8b4ed513c3f7204d6ac64183ae8c7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/reference-png/06.png",
+      "bytes": 89847,
+      "sha256": "3faa77294d4a8d5c5d75f705d78612a327c09ca35319cb347ce7c86a95513b7b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/video-template/04-blank-background.png",
+      "bytes": 8988,
+      "sha256": "ae58466fb1c949a0063de9b91589f5283469c0f967cf7cd6bba3afbd6c75d2c2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/video-template/04-video-background.png",
+      "bytes": 62797,
+      "sha256": "a7cf52c8b51ab601f4d186e0f5a9dd3e8d998b582a3291d26519aa10ecd469b7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/video-template/04-video-overlay.png",
+      "bytes": 62066,
+      "sha256": "d488faf1c1c5807a01510f3e7b50c639f08748248b4d68bf8dfd3b66d71eca5e"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/video-template/README.md",
+      "bytes": 701,
+      "sha256": "78f9600773978a6f8afff8c3be8c2429baacb5e5e6db56203a7bc6195baf4498"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/editable/ACL-Express-editable-package/video-template/placement.json",
+      "bytes": 430,
+      "sha256": "2f5c7ebbf8e59281c26dd60538ff736c0121eab4403685a96ad5694d991ecb92"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/01-check.png",
+      "bytes": 643737,
+      "sha256": "eea8d35484f081ba098a2284e9ab071506ff7a6777c8e84f09cccb76131f9be4"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/01.pdf",
+      "bytes": 3367531,
+      "sha256": "f5cf625dd004a25fe946b3fdbd54a89c8fa8e75a5b6fa10893abf15224bde815"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/02-check.png",
+      "bytes": 69448,
+      "sha256": "b631d9140e59034f5c43cd94d1cad6b98a29d045b5ef0c122030746e3c17b392"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/02.pdf",
+      "bytes": 125740,
+      "sha256": "3a43b8845ea2e7d2541b19f36e25863f3336acfcddfc27e78535bd0f01625537"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/03-check.png",
+      "bytes": 90360,
+      "sha256": "95281156dcea5450dac807b7e706f47a6c6fc2452cf47087c3c0475ca63ec127"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/03.pdf",
+      "bytes": 151396,
+      "sha256": "1a4c5a967373d9641343bc555b1d43e8e9bdd5214aec003fbdd115ddacac8355"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/04-check.png",
+      "bytes": 87604,
+      "sha256": "dec06e8f982af531626d4eeaa1e39b3ad56e52d9dbb256686da13e1b9f766ab7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/04.pdf",
+      "bytes": 195629,
+      "sha256": "cfe9017be14c41a2b1b0691fab7dd30670495205ccf865f2c06557545b0f8cb3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/05-check.png",
+      "bytes": 124649,
+      "sha256": "2a223f7a082641805e80150166b00b6ca12e3d6a709035eb4d8c0ee81499b15d"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/05.pdf",
+      "bytes": 262084,
+      "sha256": "5563a3b2393d69f22b37b0d0e1f657d92f07c36880fc9abf91ff68a11ca24013"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/06-check.png",
+      "bytes": 111156,
+      "sha256": "7692cfcc992bc80bb41d5426f71c92dcad7dbcdf370a51c55f5951eb8e6e7242"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/06.pdf",
+      "bytes": 191744,
+      "sha256": "ae32cea9575525a08ee6785f5889ee6e21f1da541877eb5483cb8f0ecfd658e3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pages/qa-preview.jpg",
+      "bytes": 118489,
+      "sha256": "9cbfb6fecd76110558d17a7e64bfe00e76cc59d418839ea025ff035d18c2c76d"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/01-artwork.png",
+      "bytes": 1116331,
+      "sha256": "1894ce05fa66ed8e702f03d703f8c39c3bb6f99f4a81d46462f0a8adcb001250"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/01-final.png",
+      "bytes": 705140,
+      "sha256": "ab20ab010399992258cf869492375fd0108492a18093f029956278f5fcb1ec93"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/01-preview.png",
+      "bytes": 705210,
+      "sha256": "24472ca6921a84e18354cb5d973b5c4b18e3312280c763978ebb95cfb25b84ce"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/02-artwork.png",
+      "bytes": 13483,
+      "sha256": "55c5d33c1752c270626743dd7e48330d9246a80daf014e6e4ae9db49d46fb708"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/02-final.png",
+      "bytes": 51087,
+      "sha256": "d4574dfcb18bd40553303c646fb2e887fb2c95b947f3e9ec2ea328fc3ec3ad9f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/02-preview.png",
+      "bytes": 51037,
+      "sha256": "53292ad5937f615e80e8ae889ebb92fac0709eb9d99a37810d232f2cccdf7cf5"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/03-artwork.png",
+      "bytes": 13535,
+      "sha256": "401a534d8c3017c1376f33932d3dcec4ccca3958570cf9f0beb8708a69bb0949"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/03-final.png",
+      "bytes": 64141,
+      "sha256": "772ba364aad59f91dec491f1eb20427fcf8f86201551d807bc6399e2ae0cc592"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/03-preview.png",
+      "bytes": 64017,
+      "sha256": "8f253d4435bfdb82aeb482406116d2f0493c792e270520e74cb21b6db9c4a167"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/04-artwork.png",
+      "bytes": 28217,
+      "sha256": "9cc1baa2145ad6a4a2c44e14cb5e89a4f67cfdbe6fc9e7a77fe22c55b0ee8704"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/04-final.png",
+      "bytes": 61470,
+      "sha256": "ff54beec9fd5e740084040e4e61fe25a4c3af176e50b00dcb362afed9f8758ce"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/04-preview.png",
+      "bytes": 62088,
+      "sha256": "17c7f60528cd249bbfd62cc928272a19f17afaea11bd6ef2ce50017dee34a96f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/05-artwork.png",
+      "bytes": 13368,
+      "sha256": "ebde2a325946eb1528e6825f1436dc75d3e9c226f564d3740b2c4ea3adfe539c"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/05-final.png",
+      "bytes": 86225,
+      "sha256": "a947e5256ad2d1b426229ec75355063c0b4ac1aaa9ff488a9b44006c290f2baa"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/05-preview.png",
+      "bytes": 86084,
+      "sha256": "fcda274c5e0f56f13a1b9a877c8cb107daf307b1596dba2e2a31ba3efec711ef"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/06-artwork.png",
+      "bytes": 25733,
+      "sha256": "1ed463e5cf5f88371515bc9dbf2c39af1bcc083bcbe3f93b4437b4b5a7a5835b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/06-final.png",
+      "bytes": 79828,
+      "sha256": "d10158a7fef55c040f07406baaf7bc1c0225e9e627ff798a2380edd4572888a3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/06-preview.png",
+      "bytes": 79766,
+      "sha256": "9ae378e921851820997b9425a74c48d87ab394c5b11064a84545495bf436608b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/candidate-spacing.pptx",
+      "bytes": 1165047,
+      "sha256": "c50fecf138be8cf393dd1cbc4277f28b6060d89949ccc3e2c71a4496ac6ca62f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/candidate.pptx",
+      "bytes": 1165695,
+      "sha256": "daf8a26b2273192772bc51ca87a634b0bf7e488664d33320ba58637f85f8ac40"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/candidate.pptx.inspect.ndjson",
+      "bytes": 23956,
+      "sha256": "4a615cde2472d19649905e50eeafa0b45d5b5c6f2603c3bf2113f1731340baff"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/layers.json",
+      "bytes": 21527,
+      "sha256": "e735fac72f8b9c59b76ca03e9377f52ca4661a8dccf14fc3c5f752d767e3db58"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/validation.json",
+      "bytes": 4933,
+      "sha256": "8ab11c6eed2103e8544891b6c3f042d0472780d946a68c5f2d271a677d3681aa"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W500.ttf",
+      "bytes": 6222812,
+      "sha256": "316775ae472b5694190b376f1864d50c858adc229cdea9b347221c14e03b39ab"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W650.ttf",
+      "bytes": 6220596,
+      "sha256": "a3c00ee09c1f035efbaa3e1e7be4d9dcc2062590a8ea6039b6c69dc859eb2d1f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W700.ttf",
+      "bytes": 6223144,
+      "sha256": "f01608cbef846759a436fea3231964782988e7e35e5a3ffeac1cf93c668764ef"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W750.ttf",
+      "bytes": 6222264,
+      "sha256": "b4540bc9e6406a0b92b6096e253d83b49203e534e6415938c4d52151b7fbbbb3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W800.ttf",
+      "bytes": 6222084,
+      "sha256": "edad60699be9777098d1ede1400cdae7f3356b10250d969c2b4aaffc6f8b4720"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/adobe-express/pptx-build/fonts/RCardnews-W850.ttf",
+      "bytes": 6221320,
+      "sha256": "3f5c392063c0275b94b462cd764cc0c3076eb9b1193485f12b9c8b3c2f1d0871"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/B01.svg",
+      "bytes": 223,
+      "sha256": "b6c06f0115634fa273ef703b9e82ffad2a97d3e38ece105700ea59257961756e"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/asset_manifest.md",
+      "bytes": 1561,
+      "sha256": "ae754567229343603baf27e629e07811e7c6cd8e641886b0b1e781a3bd47b1c5"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/dynamic-runner-v3.png",
+      "bytes": 1919930,
+      "sha256": "84916c5575ec8d3198ad32c5ad4391d144931b8ba172cf2f110d419f336a95d1"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/assets/font-license-metadata.txt",
+      "bytes": 559,
+      "sha256": "a90da63e2ad4e8ac9d67f65875b620ed08acf269fd3816d6ae038887d9c078d0"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/01.png",
+      "bytes": 654272,
+      "sha256": "e041d4b0148dea239787766497681fe3a21f8b1ae726868544d5f3af884b4a6f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/02.png",
+      "bytes": 56904,
+      "sha256": "b7d527c36d6e5857f9b975ed31f84b3ffa6d5c47c28da1201317d9416d024210"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/03.png",
+      "bytes": 74925,
+      "sha256": "64dadca26412cec073728901349622cdc609fe69cc985d78ecd8fc23d348f6d8"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/04.png",
+      "bytes": 72500,
+      "sha256": "b4707275132d8fb3b1500b0ed64fed58132a1c56de9b9851f854be46a9e8c952"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/05.png",
+      "bytes": 98731,
+      "sha256": "f504d705a8a22f5ec77d3984be4982132dc8b4ed513c3f7204d6ac64183ae8c7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/exports/06.png",
+      "bytes": 89847,
+      "sha256": "3faa77294d4a8d5c5d75f705d78612a327c09ca35319cb347ce7c86a95513b7b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/01-mobile.png",
+      "bytes": 153588,
+      "sha256": "dedb0045d11c2037fb789de5e280d65aa6b79875481592b5f755c3002d85feab"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/02-mobile.png",
+      "bytes": 38590,
+      "sha256": "aa7df05b5b6bb89eda03aa38ed598a7af3df0a033d7985beca21c384970ee758"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/03-mobile.png",
+      "bytes": 47158,
+      "sha256": "ef8a874a86ab8c367031510b51d7eb37a753d233b00f0ece5eaa7c6752a2d28f"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/04-blank-background-mobile.png",
+      "bytes": 2002,
+      "sha256": "487cb2382d3b2a27ce256d202baf4c825d1ac6c7a2e7d0bf8ad767ffcec9a745"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/04-mobile.png",
+      "bytes": 45780,
+      "sha256": "60c25537d492c74fc233b1336f6c7f2828805bc6858fd2f72f7a29caaf0c9439"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/04-video-background-mobile.png",
+      "bytes": 39838,
+      "sha256": "97c6c1b31f6ee413c877c749c4a77c204bf59d374afe92f5d4496396388a528d"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/05-mobile.png",
+      "bytes": 67146,
+      "sha256": "bf41350d1b51a6088233db0f2e08ff511a19f2508d287490db85d807c7f528f9"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/06-mobile.png",
+      "bytes": 63674,
+      "sha256": "737670ab15b2583f39e94a9104ca1032e0ddbadd261624b6ba3d009c5df2124d"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/qa/layout-check.json",
+      "bytes": 4806,
+      "sha256": "a8f2dd00c50dc4952edddcff8b28793eec2ee1ae7af4963595ab5759364357f7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/research/claims.md",
+      "bytes": 2837,
+      "sha256": "946b72861a212d82754d5ee8bc6058d61826ffef8cd9a69db57d1fa853e0c5fd"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/research/sources.md",
+      "bytes": 5073,
+      "sha256": "7c3a06c11943c3f61a0a7bbebbe3cbdf1f82fdd1d83ac7b06687891308457f43"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/01.html",
+      "bytes": 841,
+      "sha256": "9d98f3fe600ae930a4c7a5258e43cc322c06954d55740fbbff6c2e656a7b93e3"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/02.html",
+      "bytes": 927,
+      "sha256": "cb37f768017a893a9fc443922b340209d7a0e7c45d4efeac80c6f18cf6564d6e"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/03.html",
+      "bytes": 1311,
+      "sha256": "438de3247ec00c8a0a701ffa24c5857c4e351a3709b9fd1549b2b7feca4c2ada"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/04-blank-background.html",
+      "bytes": 464,
+      "sha256": "bce8b12ef248f12493353b06387bbabbcb6f7bc8cd498b1b37a1595433c8d764"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/04-video-background.html",
+      "bytes": 1396,
+      "sha256": "a8189f46407c53f14ac0619517df8e70d35bf7eb53738f43e6124a1c72c456d7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/04.html",
+      "bytes": 1384,
+      "sha256": "7a660dec0e9f272ae7179098505537539e48e09e315217e3bdc51d1941de0227"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/05.html",
+      "bytes": 1590,
+      "sha256": "bf6499882042cc3fd83a47b6dc7e736c2a45231665f5e7ba456c29558d5068c4"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/06.html",
+      "bytes": 1190,
+      "sha256": "473210a3b04bdf9a3310262691127bc8922ce337e366515d8428f1dc49680c62"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/README.md",
+      "bytes": 972,
+      "sha256": "dc69004a00975db738de82bf75ec953ccccc2094d45eeaabbaa1aa5ad1b109de"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/base.css",
+      "bytes": 9070,
+      "sha256": "e995b83f70a86feaf43fb12bb7c9f6508fa9b5d5908be3362451ebb8faff69ed"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/build-express-pptx.mjs",
+      "bytes": 2092,
+      "sha256": "5d618b57721f4adfddccc146d82d8c79be8979de697e5d666f69f4964ca05c90"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/build.py",
+      "bytes": 6179,
+      "sha256": "0c9269f1cbb5a69ae0b3ebf3321333119cd9dd42fe6b031d9c834aa2d73db80b"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/cards.css",
+      "bytes": 11482,
+      "sha256": "5ee3078e09e805f695aeceff18114f463b35eef36bda3aa8c5b49f022188ddc5"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/cards.json",
+      "bytes": 5334,
+      "sha256": "830cac826601ef313d6a93d65c3fdbdc43ea7b10320f4e87e02adfa1310831b1"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/export-express.cjs",
+      "bytes": 1330,
+      "sha256": "d50add91f700f878044eac2711b242fc148a797e342757877f921c3e36f62345"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/express-static-fonts.py",
+      "bytes": 993,
+      "sha256": "7916e42b04e6a361b50ed4058c7a19def592013a770d314224ceac9cd7ffe3a2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/extract-express-layers.cjs",
+      "bytes": 2565,
+      "sha256": "2e9ad1a6c31e152a2c863d28ec28ada5bb81b62066023af55c8de8dde524ceef"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/finalize-express-pptx.mjs",
+      "bytes": 2566,
+      "sha256": "8bf9b83632c20cb3fc54b0a0aee8f53c9da93082f2465e80108a697f1483f7d5"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/package-express-editable.py",
+      "bytes": 742,
+      "sha256": "ce662807cb745ea891df12ee4f71b87f7cd6f2fed2a9ec10bfb56271fe7e7961"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/package.py",
+      "bytes": 734,
+      "sha256": "ed67a485e11b6f095aa460050991dcaa9e11b597fffbf1277006fa8c15533bbf"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/patch-express-spacing.py",
+      "bytes": 1409,
+      "sha256": "614a83e6cff67515669e8ec58b906e412117d30e370d32fa29591c52fd3b2439"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/render.cjs",
+      "bytes": 4148,
+      "sha256": "c79ce62b7808b5d31f9c8356a18bdc93035c2ce33a2b1f26e43007c427ff8fd5"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/source/verify-express.py",
+      "bytes": 1793,
+      "sha256": "12fdb54e397f387c6951ce1df1decafb94a5d5374b46765a6990b712894c988c"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/video-template/04-blank-background.png",
+      "bytes": 8988,
+      "sha256": "ae58466fb1c949a0063de9b91589f5283469c0f967cf7cd6bba3afbd6c75d2c2"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/video-template/04-video-background.png",
+      "bytes": 62797,
+      "sha256": "a7cf52c8b51ab601f4d186e0f5a9dd3e8d998b582a3291d26519aa10ecd469b7"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/video-template/04-video-overlay.png",
+      "bytes": 62066,
+      "sha256": "d488faf1c1c5807a01510f3e7b50c639f08748248b4d68bf8dfd3b66d71eca5e"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/video-template/README.md",
+      "bytes": 701,
+      "sha256": "78f9600773978a6f8afff8c3be8c2429baacb5e5e6db56203a7bc6195baf4498"
+    },
+    {
+      "path": "content/acl-return-to-running-latest/video-template/placement.json",
+      "bytes": 430,
+      "sha256": "2f5c7ebbf8e59281c26dd60538ff736c0121eab4403685a96ad5694d991ecb92"
+    },
+    {
+      "path": "content/border-design-options/QA_REPORT.md",
+      "bytes": 855,
+      "sha256": "26bb1db9be9248b42d6b14d7487b91730c16d77238ce76df9767db2f3477744a"
+    },
+    {
+      "path": "content/border-design-options/README.md",
+      "bytes": 1520,
+      "sha256": "a700c4325ac074f1ca9d2c3c4c3cec177ffd1709a31572a36eb4eebb7fcd5020"
+    },
+    {
+      "path": "content/border-design-options/options.json",
+      "bytes": 864,
+      "sha256": "29bff1983dc369bdd80d233b3877df6c20f723d9f491235a410a9dd492ca5877"
+    },
+    {
+      "path": "content/border-design-options/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/border-design-options/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/border-design-options/exports/B01.png",
+      "bytes": 88272,
+      "sha256": "b62086c3140f9b2d5c3b22a38b3de542ffcfc984cc6a1ba803bba46aa6d304ba"
+    },
+    {
+      "path": "content/border-design-options/exports/B02.png",
+      "bytes": 87855,
+      "sha256": "0b79d7ed10e0c593be3feb5658633192d9dd867bab878aeacd4e97056a9322ba"
+    },
+    {
+      "path": "content/border-design-options/exports/B03.png",
+      "bytes": 88128,
+      "sha256": "eacc9b9d8bab0b5505a40046b96676427e2d2c689bd81b55d9b1395a6bba80b1"
+    },
+    {
+      "path": "content/border-design-options/exports/B04.png",
+      "bytes": 88810,
+      "sha256": "4fcd08b29a127314b6f83c59964d5939a864c3306697c5605c701f6dcb2a4860"
+    },
+    {
+      "path": "content/border-design-options/exports/B05.png",
+      "bytes": 90767,
+      "sha256": "24b4323fd468d55096870331aa947799ddf5325dffb9ea8aacbee9c770be254f"
+    },
+    {
+      "path": "content/border-design-options/qa/B01-mobile.png",
+      "bytes": 58511,
+      "sha256": "8b627f0a42881e0f543e9a557687658955829e469574d485fd91dd76aed704d2"
+    },
+    {
+      "path": "content/border-design-options/qa/B02-mobile.png",
+      "bytes": 58454,
+      "sha256": "6f8139a5bb41e81f4c1224592f642b9dc62e50e94b7e241a54e46f44d1799252"
+    },
+    {
+      "path": "content/border-design-options/qa/B03-mobile.png",
+      "bytes": 58535,
+      "sha256": "28a393d4aebee7ced75bf45c778bc7d84482770ab1d7c89cd3d89bfdec195a24"
+    },
+    {
+      "path": "content/border-design-options/qa/B04-mobile.png",
+      "bytes": 58509,
+      "sha256": "54687fcbc1557e570dee42d2d3a11ebd7b1eccb4cd774da1d3de36908bdf4295"
+    },
+    {
+      "path": "content/border-design-options/qa/B05-mobile.png",
+      "bytes": 59224,
+      "sha256": "261d09c5d56e844eba5b58145d6126f8afba7a2befe1308ece0f1554b2a43b9e"
+    },
+    {
+      "path": "content/border-design-options/qa/layout-check.json",
+      "bytes": 3052,
+      "sha256": "3d1d0be15089420d7f9df0f1ff14bc51d8748075ef0f50ce0a1faa7e070f7208"
+    },
+    {
+      "path": "content/border-design-options/source/B01.html",
+      "bytes": 1504,
+      "sha256": "cf753ead2d6b7832694dec1ff0e5d30176b193d8009e5e2f49078884775f901a"
+    },
+    {
+      "path": "content/border-design-options/source/B02.html",
+      "bytes": 1653,
+      "sha256": "1b61cc5cd862c20972d8b488a23752e7cb3e45bc952e0cccfecd4d3704d4833f"
+    },
+    {
+      "path": "content/border-design-options/source/B03.html",
+      "bytes": 1724,
+      "sha256": "564d33c11185488c5688a193ed6f55727a37c8082f87039181b217ce62155347"
+    },
+    {
+      "path": "content/border-design-options/source/B04.html",
+      "bytes": 1602,
+      "sha256": "325a816156eb4aea7de64e44ebc9a61c644d62a4f54741ede0849c4b13030e3f"
+    },
+    {
+      "path": "content/border-design-options/source/B05.html",
+      "bytes": 1619,
+      "sha256": "5f022d294982a74b1909697b6a27fda1dbde74bf409a2955724fd573892946dd"
+    },
+    {
+      "path": "content/border-design-options/source/build.py",
+      "bytes": 3085,
+      "sha256": "36757ec9c287f0aee2a11651ed08080c1234bbfcc826d5f7c27892dc5fb2da49"
+    },
+    {
+      "path": "content/border-design-options/source/cards.css",
+      "bytes": 12446,
+      "sha256": "5b76d7a4c1fc3beba20563170684f3908a9709fb720c062ea397fe0b1c8a5098"
+    },
+    {
+      "path": "content/border-design-options/source/package.py",
+      "bytes": 685,
+      "sha256": "9c2fb77cd8a7905846c57898f937f0f26e6477fbfb6bdf976a1993a2bd0b8070"
+    },
+    {
+      "path": "content/border-design-options/source/render.cjs",
+      "bytes": 1805,
+      "sha256": "9530bbae1b3e6437584398e16aa7c6c35833e9dfb0701baab52953a0c5e9c015"
+    },
+    {
+      "path": "content/border-design-refined/QA_REPORT.md",
+      "bytes": 909,
+      "sha256": "c485ec0d0e17d63bda061ea0638a9e07d57dc17e1ffacd0af57ce8c1adcbc052"
+    },
+    {
+      "path": "content/border-design-refined/README.md",
+      "bytes": 1172,
+      "sha256": "7e360c273b7e31b2f46806b3c91ecfcabe78f9fb279d491b82295c5b996d6c64"
+    },
+    {
+      "path": "content/border-design-refined/options.json",
+      "bytes": 932,
+      "sha256": "995b3fc03e44ec7a3ac4579839584502bd436f35c1487b9ebb2fc92fc5a368b8"
+    },
+    {
+      "path": "content/border-design-refined/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "content/border-design-refined/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "content/border-design-refined/exports/C01.png",
+      "bytes": 130584,
+      "sha256": "36e39d0183c87769577ff8cc418af93745847f8879e564ef75fa5e88bbd9cb27"
+    },
+    {
+      "path": "content/border-design-refined/exports/C02.png",
+      "bytes": 92714,
+      "sha256": "1db3eb8f4c2a61f5cc02944922a2914ba24038adb23c13d786d6f39aa8c7bd04"
+    },
+    {
+      "path": "content/border-design-refined/exports/C03.png",
+      "bytes": 90606,
+      "sha256": "01bc21688f3919f2d668366de48a09617428765defe22367f0bcb1fcaa5c7f61"
+    },
+    {
+      "path": "content/border-design-refined/exports/C04.png",
+      "bytes": 102245,
+      "sha256": "83d322f89033c3b680b37f02bc76e0b766bdfaf72f77c1919ec3031b08b80d85"
+    },
+    {
+      "path": "content/border-design-refined/exports/C05.png",
+      "bytes": 94881,
+      "sha256": "d83a8118d7e299dc215bc59ee4a7d10eff1c21f3873a5b36a5ff64c6dfedd16c"
+    },
+    {
+      "path": "content/border-design-refined/qa/C01-mobile.png",
+      "bytes": 62891,
+      "sha256": "1489e9d6fdf215c03167bfb98ca9a17ea01d098b47b5bff1668e03b51f579979"
+    },
+    {
+      "path": "content/border-design-refined/qa/C02-mobile.png",
+      "bytes": 60391,
+      "sha256": "8f0f3797c77c9e0ffafd505320fa7b8c7e74e9607a711677adc77209b1894f59"
+    },
+    {
+      "path": "content/border-design-refined/qa/C03-mobile.png",
+      "bytes": 59914,
+      "sha256": "71553e504b4d72579ef8a0815565bc01a567a8f4233bffa309a57e18e16ec052"
+    },
+    {
+      "path": "content/border-design-refined/qa/C04-mobile.png",
+      "bytes": 63142,
+      "sha256": "ff6d2c35c145a160246fab39dd0a7db4ef696b50207beae51af255142d54caf4"
+    },
+    {
+      "path": "content/border-design-refined/qa/C05-mobile.png",
+      "bytes": 61330,
+      "sha256": "73531b17d31b626b5d8a79908c647cb66aaa4a70267e501a70f4606b77c046a1"
+    },
+    {
+      "path": "content/border-design-refined/qa/layout-check.json",
+      "bytes": 3052,
+      "sha256": "47fbad33753e08ecf11ebf4c4ff75771709f63e4dd9176cad50b22a55eac016a"
+    },
+    {
+      "path": "content/border-design-refined/source/C01.html",
+      "bytes": 1996,
+      "sha256": "3672a56187cbd2e12b024eb61cff948832d044fb5135e4ae4d098ffdd265e50e"
+    },
+    {
+      "path": "content/border-design-refined/source/C02.html",
+      "bytes": 2053,
+      "sha256": "dfb6f0b6e06b33365143c4f2caa64c7f88865a85d46ba8ccc40c1d22c4de2371"
+    },
+    {
+      "path": "content/border-design-refined/source/C03.html",
+      "bytes": 1839,
+      "sha256": "24a685167d2a48ed14a2a6435699320dec9dd25fed9b67236f8a0da9847d5d86"
+    },
+    {
+      "path": "content/border-design-refined/source/C04.html",
+      "bytes": 2034,
+      "sha256": "df449c4f2243fb6c63c4cbfb108c4f16f48ab5d71cbb75abd66acdfc65e003ad"
+    },
+    {
+      "path": "content/border-design-refined/source/C05.html",
+      "bytes": 1766,
+      "sha256": "a0a608d85d052f1b92f8a086e7d30dea3b43ae528ed6d097f3412856dc32fd97"
+    },
+    {
+      "path": "content/border-design-refined/source/build.py",
+      "bytes": 4984,
+      "sha256": "ae47b1972527fe6050bce5438ba7a91e6833f974a0090d242fb3b549344b947d"
+    },
+    {
+      "path": "content/border-design-refined/source/cards.css",
+      "bytes": 12446,
+      "sha256": "5b76d7a4c1fc3beba20563170684f3908a9709fb720c062ea397fe0b1c8a5098"
+    },
+    {
+      "path": "content/border-design-refined/source/package.py",
+      "bytes": 657,
+      "sha256": "67d4fda9f6247654e412340140e01c035f8c070ac9f99dc72e37ea71ca1628bc"
+    },
+    {
+      "path": "content/border-design-refined/source/render.cjs",
+      "bytes": 1832,
+      "sha256": "13d1f9d251227b3eb5845722210a60bbb583d39547ede0b8935d78fdda92ccd2"
+    },
+    {
+      "path": "references/approved_acl_v3/01.png",
+      "bytes": 648677,
+      "sha256": "913d336feab56f8709b37e1bf740484df1ac5dcd39db6aa1cccea3f5ca2d63ab"
+    },
+    {
+      "path": "references/approved_acl_v3/02.png",
+      "bytes": 76705,
+      "sha256": "857451e7930b5d990e6ec5236d4a5a3a2ca72605ea6b91f8887a60a5a6ddb026"
+    },
+    {
+      "path": "references/approved_acl_v3/03.png",
+      "bytes": 88820,
+      "sha256": "d5679781ddbd374fc3cadb5c116fb11710195d24eb9dff7d1814b865ffe62ac4"
+    },
+    {
+      "path": "references/approved_acl_v3/04-video-background.png",
+      "bytes": 78402,
+      "sha256": "5e74d18d89694f7b57db0daeadf2a5ec149d80e72c4b4f64caf2697257c5ba5e"
+    },
+    {
+      "path": "references/approved_acl_v3/04-video-overlay.png",
+      "bytes": 62875,
+      "sha256": "69f9eab224e220842158b21b80f4064150a346c3fb2b242a7c690c863d0892c7"
+    },
+    {
+      "path": "references/approved_acl_v3/04.png",
+      "bytes": 94124,
+      "sha256": "fc6467d0958160643d4fa0a543fec1d33ee26ebb98c1c1a1449b0b9577292eca"
+    },
+    {
+      "path": "references/approved_acl_v3/05.png",
+      "bytes": 94626,
+      "sha256": "1837a2d90cf016d2723836e7979921e7e3199910289094352cd26d3649852738"
+    },
+    {
+      "path": "references/approved_acl_v3/06.png",
+      "bytes": 85393,
+      "sha256": "bd9660db78bbfa94179461e98e4e3353ac03fc435ab699dd64ab10a1cc53e8ea"
+    },
+    {
+      "path": "references/approved_acl_v3/README.md",
+      "bytes": 2182,
+      "sha256": "9c0794adeb220003bb169663edb2801afcac250c4826d31276c1a3028b4fb7c6"
+    },
+    {
+      "path": "references/approved_frame_b01/01.png",
+      "bytes": 88272,
+      "sha256": "b62086c3140f9b2d5c3b22a38b3de542ffcfc984cc6a1ba803bba46aa6d304ba"
+    },
+    {
+      "path": "references/approved_frame_b01/README.md",
+      "bytes": 878,
+      "sha256": "d34baa84fa2cc12c2fcc5570740609c5df15e2161e7db133d66f8ac13c1b08a6"
+    },
+    {
+      "path": "references/approved_frame_c01/01.png",
+      "bytes": 130584,
+      "sha256": "36e39d0183c87769577ff8cc418af93745847f8879e564ef75fa5e88bbd9cb27"
+    },
+    {
+      "path": "references/approved_frame_c01/README.md",
+      "bytes": 1156,
+      "sha256": "7cbc51fa28ece5fcbbde3b70c72fcccd83fd7d2936699b411ba80e7df19fcd74"
+    },
+    {
+      "path": "references/avoid/codex_document_board_avoid.png",
+      "bytes": 496351,
+      "sha256": "a2f966973ec43e25a7e0539f91cfcc844183496a5cd0cc756672ac57c43c3b7a"
+    },
+    {
+      "path": "references/original/back_pain_physio_01.jpg",
+      "bytes": 181451,
+      "sha256": "472c7081eeb7a6035ab2dfbcc8e9cc349502d1e403b446e2d368910b15322891"
+    },
+    {
+      "path": "references/original/back_pain_physio_02.jpg",
+      "bytes": 304076,
+      "sha256": "daf9354a23dabb18bbfe79a4a0c8881cdecf637f2c3cad0b24613239097883e9"
+    },
+    {
+      "path": "references/original/orca_physio_01.jpg",
+      "bytes": 196952,
+      "sha256": "65f6a0d3ba10d95dc83886556cb13a21b2ef1b1168016d622843fe3d38377a7d"
+    },
+    {
+      "path": "references/original/orca_physio_02.jpg",
+      "bytes": 235667,
+      "sha256": "fd45bc659993e2ace4951a6068c1da8fe7eee4ccefc3e9f56333edf322e54996"
+    },
+    {
+      "path": "references/original/orca_physio_03.jpg",
+      "bytes": 175919,
+      "sha256": "f19dccb2844911dd2da5de888872f136b669c0defde18564fd1dc06153751421"
+    },
+    {
+      "path": "references/original/orca_physio_04.jpg",
+      "bytes": 192956,
+      "sha256": "94df72a1dba9d1ace847143aa744b9baff84d4392abd7a0fc580d81b4e398851"
+    },
+    {
+      "path": "references/original/orca_physio_05.jpg",
+      "bytes": 159617,
+      "sha256": "2ab1382d52d4dac0aa46737e1ffce725f6e7901d54ea170d452ec38c93bc5617"
+    },
+    {
+      "path": "references/original/orca_physio_06.jpg",
+      "bytes": 230084,
+      "sha256": "2f487dfd47048a6b4637b9d11c4b3fba5de2fd2bb4d429ef5f3b98c2a1a844b7"
+    },
+    {
+      "path": "references/original/orca_physio_07.jpg",
+      "bytes": 203483,
+      "sha256": "f2983d597a61201b8d4a2f4d834d935e52b8fddb003dca6a662ed17448d105a2"
+    },
+    {
+      "path": "references/original/orca_physio_08.jpg",
+      "bytes": 195339,
+      "sha256": "f00377c44f3ed0af734fff8b0412f5412c2a800aa327ec13a1638a06d827512d"
+    },
+    {
+      "path": "references/user_selected/preferred_01.png",
+      "bytes": 223343,
+      "sha256": "8328a37ca3fbd6b2c28ceb2db0ffc5329029d283dd992a98a7a748b2d0ffb68b"
+    },
+    {
+      "path": "references/user_selected/preferred_02.png",
+      "bytes": 212609,
+      "sha256": "0edd9c8a399d12e4dd851db3bb553fa9243da8cb9a0177beec79dd2af39e972a"
+    },
+    {
+      "path": "references/user_selected/preferred_03.png",
+      "bytes": 192524,
+      "sha256": "645e02b95fb4fc100ea34104f14b26110c640cbcac047493a3e8fb79e7721f0d"
+    },
+    {
+      "path": "references/user_selected/preferred_04.png",
+      "bytes": 206142,
+      "sha256": "06dd99746d32479e787d29cb12017cdd27da537c90603ca75eb1fcdec05ffa7f"
+    },
+    {
+      "path": "references/user_selected/preferred_05.png",
+      "bytes": 201854,
+      "sha256": "6a0d8d6e2f65abe213eb8f8dfc6994dd9c427855cc251a05f41097786cbd9184"
+    },
+    {
+      "path": "references/user_selected/preferred_06.png",
+      "bytes": 222924,
+      "sha256": "b315b6d926900ea3932c9ff1279c517997736136327d6aba29bb1629466b979f"
+    },
+    {
+      "path": "templates/design_tokens.json",
+      "bytes": 823,
+      "sha256": "7440901feae491ba798543a21c8ef32cea61908e0d97d12faf051b25bff0aa9e"
+    },
+    {
+      "path": "templates/card_frames/B01.svg",
+      "bytes": 223,
+      "sha256": "b6c06f0115634fa273ef703b9e82ffad2a97d3e38ece105700ea59257961756e"
+    },
+    {
+      "path": "templates/card_frames/C01.svg",
+      "bytes": 785,
+      "sha256": "cd220bc49ec231ccb1f2d1fe486bdf9f898a824761ce95ef62729aecc761b608"
+    },
+    {
+      "path": "templates/card_frames/README.md",
+      "bytes": 1775,
+      "sha256": "5d7c8132311584530bcf288aa9ab8c9eb31f3a11ee4a43fb8fe891b05266f7f2"
+    },
+    {
+      "path": "templates/video_cards/QA_REPORT.md",
+      "bytes": 1440,
+      "sha256": "745fb4d81b4c1a6081b26e023717b642b51417cfb00bca97ac97c2944bd32c43"
+    },
+    {
+      "path": "templates/video_cards/README.md",
+      "bytes": 3669,
+      "sha256": "0d392e16973939a8742924bf93c1434835c4d40bb8727d14d24f63c4defa5a13"
+    },
+    {
+      "path": "templates/video_cards/placements.json",
+      "bytes": 1627,
+      "sha256": "d1ee29dbc79d1b9e5a441b4b827e78b09f55947cb016e14b76676885b660de1f"
+    },
+    {
+      "path": "templates/video_cards/rotation_state.json",
+      "bytes": 1209,
+      "sha256": "720fd2ab48eb35f82e3da58cbe15409200eeeed943d0347f5346a9cab3ee6714"
+    },
+    {
+      "path": "templates/video_cards/assets/NotoSansKR-VF.ttf",
+      "bytes": 10415532,
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+    },
+    {
+      "path": "templates/video_cards/assets/OFL.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "templates/video_cards/assets/font-license-metadata.txt",
+      "bytes": 559,
+      "sha256": "a90da63e2ad4e8ac9d67f65875b620ed08acf269fd3816d6ae038887d9c078d0"
+    },
+    {
+      "path": "templates/video_cards/backgrounds/T01.png",
+      "bytes": 78402,
+      "sha256": "5e74d18d89694f7b57db0daeadf2a5ec149d80e72c4b4f64caf2697257c5ba5e"
+    },
+    {
+      "path": "templates/video_cards/backgrounds/T02.png",
+      "bytes": 68775,
+      "sha256": "6f6c97b314ec2452e646100f06526b4c1e159e9125957612ec5c9f878ad402cf"
+    },
+    {
+      "path": "templates/video_cards/backgrounds/T03.png",
+      "bytes": 57088,
+      "sha256": "56f3e374a755dc2fe400a5791d214424eaabda84ec90cbc1caf11904cf274cb0"
+    },
+    {
+      "path": "templates/video_cards/backgrounds/T04.png",
+      "bytes": 56423,
+      "sha256": "862736fe72bb97b782aa8a343679cc5533a2309bbefb3493b65ffd814afb938d"
+    },
+    {
+      "path": "templates/video_cards/backgrounds/T05.png",
+      "bytes": 59490,
+      "sha256": "c9f89d3d15ae2649f17e62e7b3eea74045a223a824d82f335dcaadb7d94c88da"
+    },
+    {
+      "path": "templates/video_cards/overlays/T01.png",
+      "bytes": 62875,
+      "sha256": "69f9eab224e220842158b21b80f4064150a346c3fb2b242a7c690c863d0892c7"
+    },
+    {
+      "path": "templates/video_cards/overlays/T02.png",
+      "bytes": 60013,
+      "sha256": "a6313c998781d4a372ccdc4f2d54f18b7b105e60d04b278711d646e13b5a6d43"
+    },
+    {
+      "path": "templates/video_cards/overlays/T03.png",
+      "bytes": 52350,
+      "sha256": "e2d2e012d609ff000f849ec94c47f87bec7db40e272d8ce32bd05b6f5a4ef50c"
+    },
+    {
+      "path": "templates/video_cards/overlays/T04.png",
+      "bytes": 47352,
+      "sha256": "0a0dc61432a53f99baf68d7bc5d1bf904c9486bf476f24730c1ed1f74fe45aa1"
+    },
+    {
+      "path": "templates/video_cards/overlays/T05.png",
+      "bytes": 53072,
+      "sha256": "8846a80ac43e67420402b97f3957312c7a889f603dffff5c277481a9cdf74382"
+    },
+    {
+      "path": "templates/video_cards/previews/T01.png",
+      "bytes": 94124,
+      "sha256": "fc6467d0958160643d4fa0a543fec1d33ee26ebb98c1c1a1449b0b9577292eca"
+    },
+    {
+      "path": "templates/video_cards/previews/T02.png",
+      "bytes": 79017,
+      "sha256": "33bac3db929fde498bb48bf03a03bedd80b19acefd36e583b8324f37b498a867"
+    },
+    {
+      "path": "templates/video_cards/previews/T03.png",
+      "bytes": 66109,
+      "sha256": "3b998bc18f2e3c634ac590937bd00b1803c2b566cf6292213f4c3dcd932a1a9d"
+    },
+    {
+      "path": "templates/video_cards/previews/T04.png",
+      "bytes": 66517,
+      "sha256": "24756796648f17899d7e36abd8b858e43982e98d1182d6ec868a0ec97162e17f"
+    },
+    {
+      "path": "templates/video_cards/previews/T05.png",
+      "bytes": 71367,
+      "sha256": "3cfd475d2e1536514be1979f2f1d2366195705e869ed68c5d4221772be68e92e"
+    },
+    {
+      "path": "templates/video_cards/qa/T01-clean-mobile.png",
+      "bytes": 45621,
+      "sha256": "8f58db540222c25bf5e93f03be4c3a6b97c1ecaa40fc8647e1c6101c20a85d24"
+    },
+    {
+      "path": "templates/video_cards/qa/T01-mobile.png",
+      "bytes": 56702,
+      "sha256": "dd9c9d5d83dd6110daa46d8099fc3c8d64bfa398187401d4d89ca268edf8c5db"
+    },
+    {
+      "path": "templates/video_cards/qa/T02-clean-mobile.png",
+      "bytes": 45538,
+      "sha256": "0ebf36629bf34ee224cf32d2061c219fc1c3ee053015ee82c4354a138127e628"
+    },
+    {
+      "path": "templates/video_cards/qa/T02-mobile.png",
+      "bytes": 51900,
+      "sha256": "137159a6284c86d0cbd545f8f89ecda5cc7a20b857f825198e482bdf2bb2a04f"
+    },
+    {
+      "path": "templates/video_cards/qa/T03-clean-mobile.png",
+      "bytes": 34950,
+      "sha256": "89012cb6be32e3aedd02bc788148d4af18ed5161820e3bad795f5aeede86de28"
+    },
+    {
+      "path": "templates/video_cards/qa/T03-mobile.png",
+      "bytes": 40714,
+      "sha256": "de6332b87265a6bb6ed561d97ba899cd0f97b96578019895336c18aa6b2198db"
+    },
+    {
+      "path": "templates/video_cards/qa/T04-clean-mobile.png",
+      "bytes": 36341,
+      "sha256": "386fec75dfdb1e1f412162ba79e8a9cb34671a14d6222843a00544d87812b1f7"
+    },
+    {
+      "path": "templates/video_cards/qa/T04-mobile.png",
+      "bytes": 43600,
+      "sha256": "336c584dcd0ac9bc03a78c9625fcbde2b9f1934ef6efc3301fceb8106b6a857f"
+    },
+    {
+      "path": "templates/video_cards/qa/T05-clean-mobile.png",
+      "bytes": 38636,
+      "sha256": "e68fea974a61cc97b34464981d722005ef464b8a369275b5db09017e36295ace"
+    },
+    {
+      "path": "templates/video_cards/qa/T05-mobile.png",
+      "bytes": 46466,
+      "sha256": "7e2587d61795f5c97fdce515d96c91263a9850fc36b4309931aa8b6d5042ef22"
+    },
+    {
+      "path": "templates/video_cards/qa/layout-check.json",
+      "bytes": 959,
+      "sha256": "89a3f251059424c485fa3fb34fbd78adc66b448f31e44fc25c857bf0570af04e"
+    },
+    {
+      "path": "templates/video_cards/source/T01-clean.html",
+      "bytes": 1511,
+      "sha256": "5465885fd7fc0ef01c9597b601aff3fa207abb73f49d5cb1fc74eadb4539c7db"
+    },
+    {
+      "path": "templates/video_cards/source/T01.html",
+      "bytes": 1497,
+      "sha256": "2e0f187958afae370e446d29d6eb0bc5891036d81caac815fb640d4dde524c39"
+    },
+    {
+      "path": "templates/video_cards/source/T02-clean.html",
+      "bytes": 1153,
+      "sha256": "39194fdcbeba18d0d693488e77b8421585bc49e0a0db10df784bf033ebb79e28"
+    },
+    {
+      "path": "templates/video_cards/source/T02.html",
+      "bytes": 1139,
+      "sha256": "d0681625bc87a06919b288f9db649fca5f933b6a40a844c57797939df775ca1b"
+    },
+    {
+      "path": "templates/video_cards/source/T03-clean.html",
+      "bytes": 1197,
+      "sha256": "af6aaea7aac1e8f8ccdf04faa117a7a3fc2353e90e93b051f4a115464962fdc5"
+    },
+    {
+      "path": "templates/video_cards/source/T03.html",
+      "bytes": 1183,
+      "sha256": "9310a4ac3ff2899fd3476fbf516981241bbaee4e44a7d8f1e81ad43a0683cbaf"
+    },
+    {
+      "path": "templates/video_cards/source/T04-clean.html",
+      "bytes": 941,
+      "sha256": "9a1295514ac6669770a652143441d98dc84f78023d2d926925fa23b90fa8e33b"
+    },
+    {
+      "path": "templates/video_cards/source/T04.html",
+      "bytes": 927,
+      "sha256": "832d3c3d63e75205ba1583f3766ada830d41751dd4821437e948341c6fbe20cf"
+    },
+    {
+      "path": "templates/video_cards/source/T05-clean.html",
+      "bytes": 1318,
+      "sha256": "8f8dee2ef192dae60d66ee691794722e7ef060a1cd9933772219a710d534ee8a"
+    },
+    {
+      "path": "templates/video_cards/source/T05.html",
+      "bytes": 1304,
+      "sha256": "a417d5c4f6a30b9f747cc963b3e930015d2d5678192d97492aa75afbfb9463ec"
+    },
+    {
+      "path": "templates/video_cards/source/build.py",
+      "bytes": 7778,
+      "sha256": "1d63e229fd25be3fd4ebce7f9bc0613687411d8e7b9958f5521ba6de6902dc9e"
+    },
+    {
+      "path": "templates/video_cards/source/package.py",
+      "bytes": 603,
+      "sha256": "ce5119c306960abd9847adb746cb6597601f0b8f68f3c1a90273d2802e6185f0"
+    },
+    {
+      "path": "templates/video_cards/source/render.cjs",
+      "bytes": 3427,
+      "sha256": "a8decdd2f6b7ab324d704971481195e21f84c2d593f0bd3361d8effedb2e9fb2"
+    },
+    {
+      "path": "templates/video_cards/source/templates.css",
+      "bytes": 11357,
+      "sha256": "3d03ee197e37c562e2cf91dd5c5da3b203459b1dbb43f132e4d39d772a08a457"
+    },
+    {
+      "path": "tools/package_cloud.py",
+      "bytes": 2817,
+      "sha256": "4ea606f95a6aec5f556a7221117e0ca19804c06751d5181040ec8c8d7b82125d"
+    },
+    {
+      "path": "tools/package_final.py",
+      "bytes": 5583,
+      "sha256": "da0745a00934f7fcc1282ad949ef730a1910b115981276bd0fc69f5eb86801cb"
+    },
+    {
+      "path": "tools/update_handoff_docs.py",
+      "bytes": 142,
+      "sha256": "e386189e4ed0162a0ff51ef74c921e65167e0f6ee76a7b1a85dd96a640f11955"
+    }
+  ],
+  "excluded": [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "cloud-delivery",
+    "final-delivery",
+    "node_modules",
+    "python-libs",
+    "venv",
+    "*.zip",
+    "*.pyc"
+  ],
+  "note": "Markdown bundle omits images/sources. Portable bundle includes them. Historical content snapshots are not active V4 guidance."
+}

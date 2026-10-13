@@ -1,0 +1,93 @@
+[
+  {
+    "id": "T01",
+    "name": "가로 영상 + 질문 리듬",
+    "class": "video",
+    "slots": [
+      {
+        "x": 108,
+        "y": 440,
+        "width": 864,
+        "height": 486,
+        "ratio": "16:9"
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "name": "세로 영상 + 옆 해설",
+    "class": "portrait",
+    "slots": [
+      {
+        "x": 96,
+        "y": 410,
+        "width": 432,
+        "height": 768,
+        "ratio": "9:16"
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "name": "좌우 영상 비교",
+    "class": "comparison",
+    "slots": [
+      {
+        "x": 108,
+        "y": 400,
+        "width": 360,
+        "height": 640,
+        "ratio": "9:16"
+      },
+      {
+        "x": 612,
+        "y": 400,
+        "width": 360,
+        "height": 640,
+        "ratio": "9:16"
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "name": "가로 영상 + 큰 질문",
+    "class": "focus",
+    "slots": [
+      {
+        "x": 108,
+        "y": 320,
+        "width": 864,
+        "height": 486,
+        "ratio": "16:9"
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "name": "동작 순서 + 반복 관찰",
+    "class": "sequence",
+    "slots": [
+      {
+        "x": 96,
+        "y": 390,
+        "width": 432,
+        "height": 243,
+        "ratio": "16:9"
+      },
+      {
+        "x": 96,
+        "y": 668,
+        "width": 432,
+        "height": 243,
+        "ratio": "16:9"
+      },
+      {
+        "x": 96,
+        "y": 946,
+        "width": 432,
+        "height": 243,
+        "ratio": "16:9"
+      }
+    ]
+  }
+]
