@@ -16,6 +16,7 @@
 
 | 폴더 | 상태·용도 |
 |---|---|
+| `pfp-runners-part1` | 2026-10-14 PFP 1탄(역학·진단 기준·움직임·근육) V4 신규 제작. PNG 6장·소스·근거·QA 존재. 표지는 자체 픽토그램(사진 교체 권장). 2탄(Powers 2014 OKC/CKC·싱글 레그 데드리프트) 미제작 |
 | `acl-return-to-running-latest` | 기존 문구·B01·가운데 정렬 반영 ACL 납품본. V4 확대/하단 여백 기준 적용 전 결과. PNG 6장, 소스, QA, T03 비교 영상 틀, Express 편집용 PPTX 존재 |
 | `acl-return-to-running-large-type` | 더 늦게 만들어진 초안. exports에 PNG가 없고 QA_REPORT.md가 없음. 자동으로 완성본이나 승인본으로 승격하지 않음 |
 | `achilles-elongation-anatomy` | 아킬레스 B01 결과의 2장 해부학 설명도 개선본. PNG 6장 및 QA 존재. 최신 아킬레스 내용 수정 기준 |
