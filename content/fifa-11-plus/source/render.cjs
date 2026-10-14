@@ -21,7 +21,7 @@ const {pathToFileURL}=require('url');
       for(const b of rg.getClientRects()){const t=b.top-cr.top,bt=b.bottom-cr.top,l=b.left-cr.left,rt=b.right-cr.left;
         bottom=Math.max(bottom,bt);if(l<87.5||rt>992.5||t<95.5||bt>1252.5)errors.push(id+' text outside safe: '+n.textContent.trim().slice(0,20)+` (${l|0},${t|0},${rt|0},${bt|0})`);}
       const fs=getComputedStyle(e).fontSize;sizes[e.className||e.tagName]=fs;}}
-    if(e.matches('.cover-art,.video-slot,.pill,.box')){const b=e.getBoundingClientRect();bottom=Math.max(bottom,b.bottom-cr.top);
+    if(e.matches('.cover-art,.video-slot,.box,.bar,.habit,.element > svg')){const b=e.getBoundingClientRect();bottom=Math.max(bottom,b.bottom-cr.top);
       if(b.left-cr.left<87.5||b.right-cr.left>992.5||b.bottom-cr.top>1252.5)errors.push(id+' block outside safe: '+e.className);}
     if(e.clientWidth&&e.scrollWidth>e.clientWidth+1&&getComputedStyle(e).overflow!=='visible')errors.push(id+' overflow '+e.className);
    }

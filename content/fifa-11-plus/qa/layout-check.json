@@ -1,19 +1,48 @@
 [
   {
     "id": "c01",
-    "contentBottom": 1147.3,
-    "bottomGap": 168.8,
+    "contentBottom": 1200.5,
+    "bottomGap": 115.5,
     "sizes": {
       "headline": "88px",
       "accent": "88px",
-      "key": "52px"
+      "key": "50px",
+      "brand": "44px"
     },
     "errors": []
   },
   {
     "id": "c02",
-    "contentBottom": 1182.9,
-    "bottomGap": 133.1,
+    "contentBottom": 1164.2,
+    "bottomGap": 151.8,
+    "sizes": {
+      "headline": "84px",
+      "big-number": "168px",
+      "note": "36px",
+      "bar base": "42px",
+      "bar fifa": "42px",
+      "note bar-note": "36px",
+      "body": "44px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c03",
+    "contentBottom": 1201.5,
+    "bottomGap": 114.5,
+    "sizes": {
+      "headline": "84px",
+      "accent": "84px",
+      "element-name": "46px",
+      "element-sub": "36px",
+      "body": "44px"
+    },
+    "errors": []
+  },
+  {
+    "id": "c04",
+    "contentBottom": 1169.7,
+    "bottomGap": 146.3,
     "sizes": {
       "headline": "84px",
       "accent": "84px",
@@ -21,35 +50,9 @@
       "part-num": "160px",
       "part-label": "40px",
       "arrow": "48px",
-      "key": "60px",
+      "key": "56px",
       "body": "44px",
-      "box match": "44px"
-    },
-    "errors": []
-  },
-  {
-    "id": "c03",
-    "contentBottom": 1176.2,
-    "bottomGap": 139.8,
-    "sizes": {
-      "headline": "84px",
-      "accent": "84px",
-      "section-label": "38px",
-      "pill": "42px"
-    },
-    "errors": []
-  },
-  {
-    "id": "c04",
-    "contentBottom": 1232.6,
-    "bottomGap": 83.4,
-    "sizes": {
-      "headline": "84px",
-      "accent": "84px",
-      "level-name": "46px",
-      "level-path": "38px",
-      "B": "38px",
-      "rule": "42px"
+      "box": "44px"
     },
     "errors": []
   },
@@ -70,14 +73,14 @@
   },
   {
     "id": "c06",
-    "contentBottom": 1169.6,
-    "bottomGap": 146.4,
+    "contentBottom": 1193.5,
+    "bottomGap": 122.5,
     "sizes": {
       "headline": "84px",
-      "big-number": "156px",
-      "note": "36px",
-      "box": "44px",
-      "body closing": "44px"
+      "accent": "84px",
+      "habit-name": "48px",
+      "habit-sub": "38px",
+      "body": "44px"
     },
     "errors": []
   }
