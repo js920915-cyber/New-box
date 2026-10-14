@@ -16,6 +16,8 @@
 
 | 폴더 | 상태·용도 |
 |---|---|
+| `plyometric-load-volume-2026` | 2026-10-14 신규. 플라이오메트릭 부하(Zhang Z 2026 Sci Rep)·점프 수(Zhang F 2026 Front Physiol, Wu 2025 RCT) 6장, V4 수치·하단 여백 적용. PNG 6장·소스·근거·QA 존재. 영상/Express 없음 |
+| `strength-training-acsm-2026` | 2026-10-13 신규. ACSM 2026 근력운동 입장문 6장, V4 수치·하단 여백 기준 적용. PNG 6장·소스·근거·QA 존재. 영상 없음. 2026-10-14 V5 cardkit 첫 적용: delivery/에 PNG·Express용 PPTX·caption 3종, PowerPoint 검증 PASS, Express 실제 가져오기 미확인 |
 | `acl-return-to-running-latest` | 기존 문구·B01·가운데 정렬 반영 ACL 납품본. V4 확대/하단 여백 기준 적용 전 결과. PNG 6장, 소스, QA, T03 비교 영상 틀, Express 편집용 PPTX 존재 |
 | `acl-return-to-running-large-type` | 더 늦게 만들어진 초안. exports에 PNG가 없고 QA_REPORT.md가 없음. 자동으로 완성본이나 승인본으로 승격하지 않음 |
 | `achilles-elongation-anatomy` | 아킬레스 B01 결과의 2장 해부학 설명도 개선본. PNG 6장 및 QA 존재. 최신 아킬레스 내용 수정 기준 |

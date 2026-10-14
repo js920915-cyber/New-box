@@ -1,4 +1,4 @@
-# 다른 환경에서 시작하기 — V4
+# 다른 환경에서 시작하기 — V5
 
 ## 전달할 묶음
 
@@ -10,10 +10,13 @@ ZIP을 해제하고 내부 R-Sports-Cardnews/를 프로젝트 루트로 삼는�
 ## 새 에이전트에 보낼 첫 메시지
 
 ```text
-이 폴더는 R스포츠재활센터 카드뉴스 프로젝트다. 루트 AGENTS.md, DESIGN_SYSTEM.md, CARDNEWS_WORKFLOW.md, CARDNEWS_PROMPT.md, PROJECT_HANDOFF.md를 읽고 V4 지침을 적용해라. B01 프레임·가운데 정렬·기존 코드 디자인을 유지하고 Adobe 템플릿으로 대체하지 마라. 표지88/내부84/본문44/보조36px 시작값과 일반 설명 콘텐츠 하단 y1140~1240, 과도한 하단 여백 검수를 전체 카드에 적용해라. 기존 결과는 V4 확대 전 비교 자료이며 large-type은 미완료 초안이다. 실제 영상과 Express 가져오기 검수를 완료한 것으로 가정하지 마라. 요청 범위에 맞춰 작업하고 신규 주제면 근거 조사부터 개별PNG까지 진행해라.
+이 폴더는 R스포츠재활센터 카드뉴스 프로젝트다. 루트 AGENTS.md, DESIGN_SYSTEM.md, CARDNEWS_WORKFLOW.md, CARDNEWS_PROMPT.md, PROJECT_HANDOFF.md, tools/cardkit/README.md를 읽고 V5 지침을 적용해라. B01 프레임·가운데 정렬·기존 코드 디자인을 유지하고 Adobe 템플릿으로 대체하지 마라. 표지88/내부84/본문44/보조36px 시작값과 일반 설명 콘텐츠 하단 y1140~1240, 과도한 하단 여백 검수를 전체 카드에 적용해라. 기존 결과는 V4 확대 전 비교 자료이며 large-type은 미완료 초안이다. 실제 영상과 Express 가져오기 검수를 완료한 것으로 가정하지 마라. 요청 범위에 맞춰 작업하고 신규 주제면 근거 조사부터 진행해, tools/cardkit로 content/<slug>/delivery/에 PNG·Adobe Express 편집용 PPTX(폰트·크기·줄바꿈·간격 보존, PowerPoint 검증 PASS)·caption.md 3종만 납품해라.
 ```
 
 ## 실행 환경
+
+V5 출고 도구(tools/cardkit)는 Windows + Google Chrome + Python 3 + Microsoft PowerPoint(검증용)를 쓴다. 폰트 재생성 때만 fontTools가 필요하다. PowerPoint가 없는 환경에서는 PPTX 검증 미실시로 보고한다. 아래는 이전 ACL 코드에 대한 기록이다.
+
 
 Python·Node.js·Playwright·Sharp와 Chromium/Chrome을 확인한다. 기존 source/render.cjs 등은 Windows 런타임과 Chrome 절대경로가 있으므로 새 환경 경로/일반 모듈 import로 수정해야 한다. 런타임·설치 라이브러리·브라우저는 압축에 포함하지 않는다. 클라우드 실행 성공을 검증한 패키지는 아니다.
 

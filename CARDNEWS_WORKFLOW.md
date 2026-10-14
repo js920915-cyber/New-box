@@ -1,6 +1,6 @@
-# 제작·검수 워크플로 — V4
+# 제작·검수 워크플로 — V5
 
-버전: 2026-10-13. [AGENTS.md](./AGENTS.md)와 [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md)의 전체 카드 기준을 실행한다.
+버전: 2026-10-14. [AGENTS.md](./AGENTS.md)와 [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md)의 전체 카드 기준을 실행한다.
 
 ## 1. 시작
 
@@ -44,32 +44,47 @@ VIDEO_PLAN.md에 장면·길이·구도·비율·좌표·크기를 기록한다.
 
 QA_REPORT.md에 카드별 실제 폰트 크기·contentBottom·bottomGap·수정·원본/모바일 확인 여부를 적는다. 자동 검사와 육안 확인은 대체 관계가 아니다. 임상·권리 오류와 이유 없는 큰 하단 공백은 수정 전 출고하지 않는다.
 
-## 6. Express 편집본
+## 6. Express 편집용 PPTX — 매 주제 기본
 
-디자인은 Adobe로 새로 생성하지 않는다. 원래 HTML 좌표에서 PPTX 실제 텍스트 상자를 직접 작성한다. 줄/강조 구간 분리, 자동 줄바꿈/자동 크기 조절 끄기, 폰트·자간·크기·좌표 보존. 정적 폰트는 이름과 OFL 기록.
+사용자는 마지막 결과를 Adobe Express에서 추가 편집한다. 요청이 없어도 모든 주제에 PPTX를 만들고, 폰트·크기·줄바꿈·줄 간격·위치를 PNG와 같게 유지한다. 디자인은 Adobe로 새로 만들지 않는다. PDF→PPTX→Express 변환 금지.
 
-PDF는 읽기/비교용 선택 산출물. PDF→PPTX→Express 연속 변환 금지. PDF 가져오기 오류 이력이 있으므로 직접 제작한 PPTX 우선. PPTX도 완전 보존을 보장하지 않는다.
+[tools/cardkit](./tools/cardkit/README.md)으로 실행한다.
 
-페이지 수·4:5·실제 텍스트·로컬 재가져오기 렌더를 검사한다. Express 실제 가져오기는 별도 확인. 묶인 이미지 레이어의 편집 범위와 사용자 글꼴 업로드의 계정 제약을 안내하며 전달 시 공식 정보를 확인한다. 로컬/Express/실제 영상 검수 상태를 분리한다.
+```bash
+powershell -ExecutionPolicy Bypass -File tools/cardkit/make_all.ps1 -Topic content/<slug>
+```
+
+| 단계 | 도구 | 확인 |
+|---|---|---|
+| 조판 규칙 | source/build.py | qa.js·layers.js 포함, 글은 h1/p, 굵기 500·650·700·750·800·850만, 카드 kind 클래스와 내부 클래스 이름 분리, 사진은 img(+overflow:hidden 크롭) |
+| 렌더 | render.ps1 | PNG 1080×1350, 오류 없음, contentBottom |
+| 좌표 | extract_layers.ps1 | 줄 수가 카드 문구 줄 수와 같음, 사진 크롭 실제 픽셀 |
+| PPTX | build_pptx.py | 한 줄=한 상자, wrap=none, noAutofit, 여백0, pt=px×0.75, RCardnews W*(latin/ea/cs), 도형·사진. WARN(인라인 SVG) 없음 |
+| 검증 | verify_pptx.ps1 | PowerPoint 내보내기 vs PNG: 세로 ≤2px, 픽셀 차이 <8%, wrap/autosize 경고 없음 → qa/pptx-check.json PASS |
+| 납품 | deliver.ps1 | PASS일 때만 delivery/ 생성 |
+
+PowerPoint가 없는 환경이면 검증 미실시를 보고하고 PASS라고 하지 않는다. Express 내부 가져오기는 이 검사로 확인되지 않으므로 별도 확인 대상으로 남긴다. 사용자는 templates/fonts의 RCardnews 6개를 Express에 한 번 업로드한다(유료 플랜 기능).
 
 ## 7. 납품 계약
 
 ```text
 content/<topic-slug>/
-  research/sources.md
+  delivery/                # ← 사용자에게 주는 것은 이 3종뿐
+    01.png ... 06.png
+    <topic-slug>.pptx      # Adobe Express 편집용
+    caption.md
+  research/sources.md      # 이하 작업 기록: 보존하되 납품하지 않음
   research/claims.md
   assets/asset_manifest.md
   storyboard.md
   source/
-  exports/01.png ... 06.png
-  video-template/          # 영상형일 때
-  VIDEO_PLAN.md           # 영상형일 때
-  adobe-express/          # 편집 요청 시 PPTX/폰트/안내
+  exports/  qa/  adobe-express/
+  video-template/ VIDEO_PLAN.md   # 영상형일 때
   caption.md
   QA_REPORT.md
 ```
 
-파일 존재/크기/링크 확인 후 PNG·소스·편집 파일 경로와 미검수 부분을 간단히 전달한다. 콜라주를 기본 납품물로 내지 않는다. 임상 게시 판단·실제 영상·앱 가져오기 상태를 구분한다.
+최종 보고는 짧게: delivery 경로와 3종 파일, 핵심 근거 1~2줄, 미검수 사항(Express 실제 가져오기·게시 전 임상 검토·실제 영상). 연구·QA 문서·콜라주·ZIP·폰트 묶음을 따로 나열하거나 전달하지 않는다.
 
 ## 8. 영구 수정
 
