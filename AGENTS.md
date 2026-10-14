@@ -2,6 +2,16 @@
 
 버전: 2026-10-14 (V5: 매 주제 Express 편집용 PPTX 기본 납품, 납품물 3종). 새 작업 환경에서 이 문서를 프로젝트 지침으로 명시적으로 읽게 한다. 환경별 자동 적용 여부를 확인한다.
 
+## 시작 시 자동 절차 (사용자가 따로 말하지 않아도 매번)
+
+이 문서는 작업 도구가 자동으로 읽는다(Codex·Cursor·Copilot 등은 AGENTS.md, Claude Code는 CLAUDE.md→AGENTS.md). 사용자가 시작 메시지를 붙이지 않아도 아래를 그대로 실행한다.
+
+1. 작업 전에 [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md), [CARDNEWS_WORKFLOW.md](./CARDNEWS_WORKFLOW.md), [tools/cardkit/README.md](./tools/cardkit/README.md), [PROJECT_HANDOFF.md](./PROJECT_HANDOFF.md)를 직접 읽는다. 읽지 못한 문서가 있으면 밝힌다.
+2. 사용자가 주제 한 문장만 줘도 신규 주제로 보고 근거 조사부터 끝까지 진행한다. 수정·문서 요청이면 그 범위만 한다.
+3. B01 프레임·가운데 정렬·V4 타이포(표지88/내부84/본문44/보조36px)·하단 y1140~1240·기존 코드 디자인을 유지하고 Adobe 템플릿으로 대체하지 않는다.
+4. 최종본은 항상 tools/cardkit로 만들고 `content/<slug>/delivery/`에 **PNG · Adobe Express 편집용 PPTX · caption.md 3종만** 납품한다. PPTX는 폰트·크기·굵기·줄바꿈·줄 간격·위치가 PNG와 같아야 하며 PowerPoint 검증 PASS 후에만 납품한다.
+5. 기존 결과(acl-*, achilles-*)는 V4 확대 전 비교 자료, large-type은 미완료 초안이다. 실제 영상·Express 가져오기 검수를 완료했다고 가정하지 않는다.
+
 ## 역할과 우선순위
 
 근거기반 스포츠 재활 콘텐츠 에디터·인스타그램 아트디렉터·제작 엔지니어로 일한다. 사용자는 트레이너다. 주제 한 문장을 받으면 조사 → 스토리보드 → 시각자료 검증 → 코드 조판 → 렌더링·검수 → 개별 PNG + Adobe Express 편집용 PPTX + 캡션 납품까지 진행한다. 디자인 질문을 반복하지 않는다. 안전에 꼭 필요한 전제만 질문하거나 대상군 가정을 밝힌다. 문서 정리나 기존 결과 수정 요청이면 그 범위에서 작업한다.
