@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><title>T04 미리보기</title><style>
+@font-face{font-family:'Noto Sans KR';src:url('../assets/NotoSansKR-VF.ttf') format('truetype');font-weight:100 900}
+:root{--cw:1080px;--ch:1350px;--gutter:96px;--h-cover:88px;--h-inside:84px;--key:56px;--body:44px;--note:36px;
+ --ink:#121416;--muted:#5e6570;--blue:#0879d8;--red:#cc414a;--tint:#f0f7fc}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:#e9edf1}
+body{display:flex;flex-direction:column;align-items:center;gap:40px;padding:40px 0}
+.card{position:relative;width:var(--cw);height:var(--ch);padding:104px var(--gutter) 98px;overflow:hidden;background:#fff;
+ font-family:'Noto Sans KR',sans-serif;color:var(--ink);text-align:center;display:flex;flex-direction:column;align-items:center}
+.card-frame{position:absolute;inset:0;pointer-events:none}
+.headline{margin:0;font-size:var(--h-inside);font-weight:850;line-height:1.2;letter-spacing:-.035em}
+.cover .headline{font-size:var(--h-cover);line-height:1.18}
+.body{margin:0;font-size:var(--body);font-weight:500;line-height:1.42;letter-spacing:-.02em}
+.key{margin:0;font-size:var(--key);font-weight:800;line-height:1.3;letter-spacing:-.03em}
+.note{margin:0;font-size:var(--note);font-weight:500;line-height:1.42;color:var(--muted);letter-spacing:-.02em}
+.safety{margin:0;font-size:var(--note);font-weight:650;line-height:1.42;letter-spacing:-.02em}
+.accent{color:var(--blue)}
+.item-h{margin:0;font-size:48px;font-weight:800;line-height:1.3;letter-spacing:-.03em}
+.panel{width:888px;border-radius:24px;background:var(--tint);position:relative}
+
+.c02 .col{display:flex;flex-direction:column;align-items:center}
+.c02 .col .note{margin-top:6px;font-size:34px}
+.c05 .band{padding:17px 0}
+.c05 .band + .band{border-top:2px solid #e6ecf1}
+.c05 .band .body{margin-top:8px;font-size:42px;line-height:1.38}
+.c05 .callout{margin-top:30px;width:100%;background:var(--tint);border-radius:24px;padding:30px}
+.c05 .callout .body{font-size:42px}
+.c08 .msgs{margin-top:60px;width:100%;display:flex;flex-direction:column;gap:42px}
+.c08 .range{margin-top:56px;width:100%}
+.c08 .bar{display:flex;height:84px;border-radius:20px;overflow:hidden;gap:4px}
+.c08 .bar div{flex:1;display:flex;align-items:center;justify-content:center;color:#fff;font-size:40px;font-weight:800;letter-spacing:-.02em}
+.c08 .ticks{display:flex;justify-content:space-between;margin-top:12px;font-size:34px;font-weight:600;color:var(--muted)}
+.c08 .msg .body{margin-top:8px}
+.video .slot{position:absolute;overflow:hidden}
+.video .vq{position:absolute;left:96px;right:96px;top:852px;font-size:60px;font-weight:850;line-height:1.24}
+.video .vnotes{position:absolute;left:96px;right:96px;top:1036px;display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.video .vnotes .body{margin-top:6px;line-height:1.36}
+</style></head><body>
+<article class="card c07 video" id="c07">
+
+ <h2 class="headline">싱글 레그 데드리프트,<br><span class="accent">이것만</span> 보세요</h2>
+ <div class="slot" style="left:108px;top:328px;width:864px;height:486px"><div style="width:864px;height:486px;background:#f3f5f7;border:2px solid #d8dde3;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px"><strong style="font-size:38px">여기에 싱글 레그 데드리프트 영상</strong><span style="font-size:32px;color:#5e6570">가로 16:9 · 옆모습 전신 · 발끝까지</span></div></div>
+ <p class="key vq">엉덩이가 먼저<br>뒤로 가나요?</p>
+ <div class="vnotes">
+  <div><h3 class="item-h" style="font-size:44px">무릎</h3><p class="body" style="font-size:40px">둘째 발가락 방향,<br>안으로 모이지 않게</p></div>
+  <div><h3 class="item-h" style="font-size:44px">골반</h3><p class="body" style="font-size:40px">양쪽 높이를<br>수평으로 유지</p></div>
+ </div>
+
+<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350"><rect x="34" y="34" width="1012" height="1282" rx="28" fill="none" stroke="#d0dce5" stroke-width="2"/></svg>
+</article>
+</body></html>

@@ -1,0 +1,1495 @@
+[
+ {
+  "id": "c01",
+  "lines": [
+   {
+    "block": "h1.headline",
+    "left": 97.96875,
+    "right": 982.03125,
+    "glyphTop": 102,
+    "glyphBottom": 208,
+    "maxSize": 88,
+    "runs": [
+     {
+      "text": "스쿼트 vs 레그 익스텐션,",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -3.08
+     }
+    ]
+   },
+   {
+    "block": "h1.headline",
+    "left": 174.265625,
+    "right": 905.734375,
+    "glyphTop": 205.828125,
+    "glyphBottom": 311.828125,
+    "maxSize": 88,
+    "runs": [
+     {
+      "text": "무릎",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -3.08
+     },
+     {
+      "text": "에 덜 부담인 건?",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -3.08
+     }
+    ]
+   },
+   {
+    "block": "p.lead",
+    "left": 287.03125,
+    "right": 792.953125,
+    "glyphTop": 947.65625,
+    "glyphBottom": 1005.65625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "정답은 운동 이름이 아니라",
+      "size": 48,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.lead",
+    "left": 321.53125,
+    "right": 758.4375,
+    "glyphTop": 1014.84375,
+    "glyphBottom": 1072.84375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "‘무릎 각도’에 있습니다",
+      "size": 48,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 224.65625,
+    "right": 855.34375,
+    "glyphTop": 1104.03125,
+    "glyphBottom": 1147.03125,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "PFP 2탄 · 1탄 ‘러너의 무릎 앞 통증’ 이어서",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "panel",
+    "x": 96,
+    "y": 363.65625,
+    "w": 888,
+    "h": 520,
+    "radius": 24,
+    "fill": "rgb(240, 247, 252)",
+    "border": null
+   }
+  ],
+  "pics": [
+   {
+    "id": "c01-pic1",
+    "x": 96,
+    "y": 363.65625,
+    "w": 888,
+    "h": 520,
+    "label": "스쿼트와 앉아서 무릎 펴기 픽토그램"
+   }
+  ]
+ },
+ {
+  "id": "c02",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 381.234375,
+    "right": 698.765625,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "1탄 결론,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 174.59375,
+    "right": 905.40625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "허벅지 앞 근육",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": " 키우기",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 239.90625,
+    "right": 840.078125,
+    "glyphTop": 353.59375,
+    "glyphBottom": 406.59375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "발생 위험 요인으로 확인된 예외가",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 203.5625,
+    "right": 876.421875,
+    "glyphTop": 416.0625,
+    "glyphBottom": 469.0625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎 폄 근력이었죠. 어떻게 키울까요?",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 181.25,
+    "right": 298.734375,
+    "glyphTop": 870.53125,
+    "glyphBottom": 923.53125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "스쿼트",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 113.203125,
+    "right": 366.796875,
+    "glyphTop": 934.71875,
+    "glyphBottom": 975.71875,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "CKC · 발이 바닥에",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.68
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 456.171875,
+    "right": 623.8125,
+    "glyphTop": 870.53125,
+    "glyphBottom": 923.53125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎 펴기",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 426.609375,
+    "right": 653.375,
+    "glyphTop": 934.71875,
+    "glyphBottom": 975.71875,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "OKC · 발목 중량",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.68
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 756.171875,
+    "right": 923.8125,
+    "glyphTop": 870.53125,
+    "glyphBottom": 923.53125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎 펴기",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 726.609375,
+    "right": 953.375,
+    "glyphTop": 934.71875,
+    "glyphBottom": 975.71875,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "OKC · 고정 저항",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.68
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 214.390625,
+    "right": 865.59375,
+    "glyphTop": 1047.984375,
+    "glyphBottom": 1100.984375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "세 운동을 같은 근육 활성도로 맞추고",
+      "size": 44,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 155.4375,
+    "right": 924.5625,
+    "glyphTop": 1110.453125,
+    "glyphBottom": 1163.453125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "0~90° 각도별 무릎뼈 압박을 비교했습니다.",
+      "size": 44,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": [
+   {
+    "id": "c02-pic1",
+    "x": 102,
+    "y": 538.53125,
+    "w": 276,
+    "h": 330,
+    "label": null
+   },
+   {
+    "id": "c02-pic2",
+    "x": 402,
+    "y": 538.53125,
+    "w": 276,
+    "h": 330,
+    "label": null
+   },
+   {
+    "id": "c02-pic3",
+    "x": 702,
+    "y": 538.53125,
+    "w": 276,
+    "h": 330,
+    "label": null
+   }
+  ]
+ },
+ {
+  "id": "c03",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 343.859375,
+    "right": 736.140625,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "각도에 따라",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 232.34375,
+    "right": 847.65625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "압박이 ",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     },
+     {
+      "text": "뒤집힙니다",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 259.28125,
+    "right": 820.6875,
+    "glyphTop": 1022.59375,
+    "glyphBottom": 1075.59375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "깊게 굽힐수록 스쿼트가, 펼수록",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 234.1875,
+    "right": 845.796875,
+    "glyphTop": 1085.0625,
+    "glyphBottom": 1138.0625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "발목 중량 무릎 펴기가 압박이 컸고",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 249.09375,
+    "right": 830.90625,
+    "glyphTop": 1159.53125,
+    "glyphBottom": 1217.53125,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "45°에서는 차이가 없었습니다.",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": [
+   {
+    "id": "c03-pic1",
+    "x": 96,
+    "y": 345.59375,
+    "w": 888,
+    "h": 640,
+    "label": "무릎 굽힘 각도별 슬개대퇴관절 압박: 스쿼트는 굽힐수록 증가, 발목 중량 무릎 펴기는 펼수록 증가, 고정 저항은 전 구간 5~8 MPa"
+   }
+  ]
+ },
+ {
+  "id": "c04",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 288.4375,
+    "right": 791.546875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "0~45°는 CKC,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 272.640625,
+    "right": 807.34375,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "45~90°는 ",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     },
+     {
+      "text": "OKC",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 210.234375,
+    "right": 869.75,
+    "glyphTop": 1022.59375,
+    "glyphBottom": 1075.59375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "얕은 스쿼트 + 굽힌 구간의 무릎 펴기,",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 147.65625,
+    "right": 932.328125,
+    "glyphTop": 1085.0625,
+    "glyphBottom": 1138.0625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "이 조합에서 압박이 약 4 MPa 아래였습니다.",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 198.109375,
+    "right": 881.875,
+    "glyphTop": 1163.53125,
+    "glyphBottom": 1206.53125,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "4 MPa: 계단을 오르내릴 때 보고된 최대치 수준",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": [
+   {
+    "id": "c04-pic1",
+    "x": 96,
+    "y": 345.59375,
+    "w": 888,
+    "h": 640,
+    "label": "0~45도 스쿼트와 45~90도 발목 중량 무릎 펴기를 이으면 전 구간 약 4 MPa 이하"
+   }
+  ]
+ },
+ {
+  "id": "c05",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 184.875,
+    "right": 895.109375,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "그대로 처방하기 전에",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 381.015625,
+    "right": 698.96875,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "알아둘 것",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 399.828125,
+    "right": 680.15625,
+    "glyphTop": 354.59375,
+    "glyphBottom": 412.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "고정 저항 기계",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 333.46875,
+    "right": 746.515625,
+    "glyphTop": 425.984375,
+    "glyphBottom": 475.984375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "전 구간 4 MPa 이상이라",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 296.40625,
+    "right": 783.578125,
+    "glyphTop": 483.9375,
+    "glyphBottom": 533.9375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "연구진도 주의를 권했습니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 372.515625,
+    "right": 707.46875,
+    "glyphTop": 576.890625,
+    "glyphBottom": 634.890625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "건강한 성인 10명",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 291.3125,
+    "right": 788.6875,
+    "glyphTop": 648.28125,
+    "glyphBottom": 698.28125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "PFP 환자는 접촉 면적이 작아",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 323.296875,
+    "right": 756.703125,
+    "glyphTop": 706.234375,
+    "glyphBottom": 756.234375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "압박이 더 클 수 있습니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 427.1875,
+    "right": 652.796875,
+    "glyphTop": 799.1875,
+    "glyphBottom": 857.1875,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "모델 추정값",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 321.171875,
+    "right": 758.8125,
+    "glyphTop": 870.578125,
+    "glyphBottom": 920.578125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "올라오는 구간만 계산했고",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 334.21875,
+    "right": 745.78125,
+    "glyphTop": 928.53125,
+    "glyphBottom": 978.53125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "실제 측정값이 아닙니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 358.15625,
+    "right": 721.84375,
+    "glyphTop": 1064.484375,
+    "glyphBottom": 1114.484375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "각도는 출발점입니다.",
+      "size": 42,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 178.828125,
+    "right": 901.15625,
+    "glyphTop": 1124.109375,
+    "glyphBottom": 1174.109375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "운동 중·다음 날 통증 반응으로 조절하세요.",
+      "size": 42,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "callout",
+    "x": 96,
+    "y": 1030.484375,
+    "w": 888,
+    "h": 179.25,
+    "radius": 24,
+    "fill": "rgb(240, 247, 252)",
+    "border": null
+   },
+   {
+    "kind": "line",
+    "x": 96,
+    "y": 556.890625,
+    "w": 888,
+    "h": 0,
+    "stroke": 2,
+    "color": "rgb(230, 236, 241)"
+   },
+   {
+    "kind": "line",
+    "x": 96,
+    "y": 779.1875,
+    "w": 888,
+    "h": 0,
+    "stroke": 2,
+    "color": "rgb(230, 236, 241)"
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c06",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 306.6875,
+    "right": 773.3125,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "움직임 패턴은",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 316.96875,
+    "right": 763.03125,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "엉덩관절",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "에서",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 292.9375,
+    "right": 787.0625,
+    "glyphTop": 343.59375,
+    "glyphBottom": 396.59375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "1탄에서 본 몸통 기울어짐과",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 259.296875,
+    "right": 820.703125,
+    "glyphTop": 406.0625,
+    "glyphBottom": 459.0625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "허벅지가 안으로 모이는 움직임,",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 295.59375,
+    "right": 784.40625,
+    "glyphTop": 868.53125,
+    "glyphBottom": 930.53125,
+    "maxSize": 52,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트로",
+      "size": 52,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.56
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 289.09375,
+    "right": 790.90625,
+    "glyphTop": 936.125,
+    "glyphBottom": 998.125,
+    "maxSize": 52,
+    "runs": [
+     {
+      "text": "한 발 조절을 연습합니다",
+      "size": 52,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.56
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 148.859375,
+    "right": 931.140625,
+    "glyphTop": 1027.71875,
+    "glyphBottom": 1080.71875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "엉덩이 근육을 크게 쓰는 동작으로 보고되고,",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 187.796875,
+    "right": 892.203125,
+    "glyphTop": 1090.1875,
+    "glyphBottom": 1143.1875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "엉덩관절+무릎 운동 병행이 권장됩니다.",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "panel",
+    "x": 96,
+    "y": 500.53125,
+    "w": 888,
+    "h": 330,
+    "radius": 24,
+    "fill": "rgb(240, 247, 252)",
+    "border": null
+   }
+  ],
+  "pics": [
+   {
+    "id": "c06-pic1",
+    "x": 96,
+    "y": 500.53125,
+    "w": 888,
+    "h": 330,
+    "label": "1탄 움직임 도식에서 싱글 레그 데드리프트로 연결"
+   }
+  ]
+ },
+ {
+  "id": "c07",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 171.8125,
+    "right": 908.171875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 306.671875,
+    "right": 773.3125,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "이것만",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": " 보세요",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 372.296875,
+    "right": 707.703125,
+    "glyphTop": 853,
+    "glyphBottom": 925,
+    "maxSize": 60,
+    "runs": [
+     {
+      "text": "엉덩이가 먼저",
+      "size": 60,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.8
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 383.9375,
+    "right": 696.0625,
+    "glyphTop": 927.390625,
+    "glyphBottom": 999.390625,
+    "maxSize": 60,
+    "runs": [
+     {
+      "text": "뒤로 가나요?",
+      "size": 60,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.8
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 268.828125,
+    "right": 347.15625,
+    "glyphTop": 1038,
+    "glyphBottom": 1091,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 166.015625,
+    "right": 449.984375,
+    "glyphTop": 1102.1875,
+    "glyphBottom": 1150.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "둘째 발가락 방향,",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 153.59375,
+    "right": 462.40625,
+    "glyphTop": 1156.578125,
+    "glyphBottom": 1204.578125,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "안으로 모이지 않게",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 732.828125,
+    "right": 811.15625,
+    "glyphTop": 1038,
+    "glyphBottom": 1091,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "골반",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 676.796875,
+    "right": 867.203125,
+    "glyphTop": 1102.1875,
+    "glyphBottom": 1150.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "양쪽 높이를",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 658.796875,
+    "right": 885.203125,
+    "glyphTop": 1156.578125,
+    "glyphBottom": 1204.578125,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "수평으로 유지",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": [
+   {
+    "id": "c07-pic1",
+    "x": 108,
+    "y": 328,
+    "w": 864,
+    "h": 486,
+    "label": "싱글 레그 데드리프트 시범 픽토그램(영상 자리)"
+   }
+  ]
+ },
+ {
+  "id": "c08",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 198.703125,
+    "right": 881.296875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "무릎 앞이 아픈 러너,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 232.34375,
+    "right": 847.65625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "이렇게 시작",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "합니다",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "div",
+    "left": 219.3125,
+    "right": 414.671875,
+    "glyphTop": 379.59375,
+    "glyphBottom": 427.59375,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "CKC 스쿼트",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(255, 255, 255)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "div",
+    "left": 639.796875,
+    "right": 886.1875,
+    "glyphTop": 379.59375,
+    "glyphBottom": 427.59375,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "OKC 발목 중량",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(255, 255, 255)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span",
+    "left": 96,
+    "right": 129.125,
+    "glyphTop": 457.59375,
+    "glyphBottom": 498.59375,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "0°",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "span",
+    "left": 503.71875,
+    "right": 556.5625,
+    "glyphTop": 457.59375,
+    "glyphBottom": 498.59375,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "45°",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "span",
+    "left": 931.15625,
+    "right": 984,
+    "glyphTop": 457.59375,
+    "glyphBottom": 498.59375,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "90°",
+      "size": 34,
+      "weight": 600,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 424.46875,
+    "right": 655.53125,
+    "glyphTop": 560.59375,
+    "glyphBottom": 618.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "얕게는 CKC",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 268.359375,
+    "right": 811.640625,
+    "glyphTop": 632.984375,
+    "glyphBottom": 685.984375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "스쿼트는 무릎 0~45° 범위에서",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 421.671875,
+    "right": 658.3125,
+    "glyphTop": 735.453125,
+    "glyphBottom": 793.453125,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "깊게는 OKC",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 230.734375,
+    "right": 849.25,
+    "glyphTop": 807.84375,
+    "glyphBottom": 860.84375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "발목 중량 무릎 펴기는 90~45°에서",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 399.828125,
+    "right": 680.15625,
+    "glyphTop": 910.3125,
+    "glyphBottom": 968.3125,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "조절은 한 발로",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 200.3125,
+    "right": 879.671875,
+    "glyphTop": 982.703125,
+    "glyphBottom": 1035.703125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트로 엉덩관절 연습",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.safety",
+    "left": 220.3125,
+    "right": 859.6875,
+    "glyphTop": 1097.171875,
+    "glyphBottom": 1140.171875,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "통증이 운동 중 커지거나 다음 날까지 남으면",
+      "size": 36,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.72
+     }
+    ]
+   },
+   {
+    "block": "p.safety",
+    "left": 171.015625,
+    "right": 908.984375,
+    "glyphTop": 1148.28125,
+    "glyphBottom": 1191.28125,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "범위와 무게를 줄이고 담당 트레이너와 조정하세요.",
+      "size": 36,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "",
+    "x": 96,
+    "y": 361.59375,
+    "w": 442,
+    "h": 84,
+    "radius": 0,
+    "fill": "rgb(18, 20, 22)",
+    "border": null
+   },
+   {
+    "kind": "roundRect",
+    "cls": "",
+    "x": 542,
+    "y": 361.59375,
+    "w": 442,
+    "h": 84,
+    "radius": 0,
+    "fill": "rgb(8, 121, 216)",
+    "border": null
+   }
+  ],
+  "pics": []
+ }
+]
