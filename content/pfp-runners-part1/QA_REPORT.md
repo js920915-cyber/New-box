@@ -53,3 +53,11 @@
 - 영상 카드 없음(사유: storyboard.md). rotation_state.json 미변경.
 - Express 편집용 PPTX 미제작(요청 없음).
 - 임상 게시 판단은 담당 전문가 검토 범위.
+
+## Adobe Express 편집용 PPTX (2026-10-14 추가)
+- 파일: `adobe-express/pfp-runners-part1_express.pptx` (+ 폰트·기준 PNG·안내를 묶은 `pfp-runners-part1_express_package.zip`). 안내: `adobe-express/README.md`.
+- 제작: HTML 원래 좌표(`source/extract_layout.cjs`)에서 줄별 고정 텍스트 상자 69개를 직접 작성(`source/build_pptx.py`). 자동 줄바꿈·자동 크기 끔, 여백 0, 가운데 정렬, 자간 보존. PDF 경유 없음.
+- 폰트: 가변 폰트에서 굵기별 정적 폰트 6개(Noto Sans KR W500/600/650/700/800/850) 생성, 세로 메트릭 통일, 한글 음절 전체 포함 서브셋(각 2.8MB). OFL 동봉.
+- 검증: 구조(6장·1080×1350·wrap none·p:style 없음·zip 무결성) / HarfBuzz 줄 폭 최대 3.1px / LibreOffice 렌더 세로 ±2px, 그림자 없음, 넘침·겹침 없음.
+- LibreOffice는 한글–라틴·가운뎃점 주변에 자동 간격을 추가해 가로가 넓게 렌더됨(LO 고유 동작, 파일 속성 아님).
+- **Express 실제 가져오기·폰트 업로드 적용, PowerPoint 실물 열기: 미확인.**

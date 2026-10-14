@@ -1,0 +1,1375 @@
+[
+ {
+  "id": "c01",
+  "lines": [
+   {
+    "block": "h1.headline",
+    "left": 384.234375,
+    "right": 695.765625,
+    "glyphTop": 102,
+    "glyphBottom": 208,
+    "maxSize": 88,
+    "runs": [
+     {
+      "text": "달릴수록",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -3.08
+     }
+    ]
+   },
+   {
+    "block": "h1.headline",
+    "left": 185.046875,
+    "right": 894.953125,
+    "glyphTop": 205.828125,
+    "glyphBottom": 311.828125,
+    "maxSize": 88,
+    "runs": [
+     {
+      "text": "무릎 앞",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -3.08
+     },
+     {
+      "text": "이 아프다면?",
+      "size": 88,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -3.08
+     }
+    ]
+   },
+   {
+    "block": "p.lead",
+    "left": 316.3125,
+    "right": 763.6875,
+    "glyphTop": 1017.65625,
+    "glyphBottom": 1075.65625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "러너 부상 1위로 보고된",
+      "size": 48,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.lead",
+    "left": 275.15625,
+    "right": 804.84375,
+    "glyphTop": 1084.84375,
+    "glyphBottom": 1142.84375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "슬개대퇴 통증(PFP) 이야기",
+      "size": 48,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "cover-art",
+    "x": 96,
+    "y": 363.65625,
+    "w": 888,
+    "h": 590,
+    "radius": 24,
+    "fill": "rgb(240, 247, 252)",
+    "border": null
+   }
+  ],
+  "pics": [
+   {
+    "id": "c01-pic1",
+    "x": 96,
+    "y": 363.65625,
+    "w": 888,
+    "h": 590,
+    "label": "달리는 사람의 앞쪽 무릎에 통증 표시가 있는 픽토그램"
+   }
+  ]
+ },
+ {
+  "id": "c02",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 296.390625,
+    "right": 783.59375,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "달리기 부상 중",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 259.21875,
+    "right": 820.765625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "가장 흔했던",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": " 통증",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "div.big-num",
+    "left": 370.640625,
+    "right": 709.359375,
+    "glyphTop": 373.59375,
+    "glyphBottom": 560.59375,
+    "maxSize": 156,
+    "runs": [
+     {
+      "text": "331",
+      "size": 156,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -6.24
+     },
+     {
+      "text": "명",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.52
+     }
+    ]
+   },
+   {
+    "block": "p.num-label",
+    "left": 282.6875,
+    "right": 797.296875,
+    "glyphTop": 567.390625,
+    "glyphBottom": 615.390625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "부상 러너 2,002명 중 PFP 진단",
+      "size": 40,
+      "weight": 600,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 292.78125,
+    "right": 787.21875,
+    "glyphTop": 733.390625,
+    "glyphBottom": 800.390625,
+    "maxSize": 56,
+    "runs": [
+     {
+      "text": "2위 장경인대증후군의",
+      "size": 56,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.68
+     }
+    ]
+   },
+   {
+    "block": "p.key",
+    "left": 333.9375,
+    "right": 746.046875,
+    "glyphTop": 806.1875,
+    "glyphBottom": 873.1875,
+    "maxSize": 56,
+    "runs": [
+     {
+      "text": "2배가 넘었습니다.",
+      "size": 56,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.68
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 214.828125,
+    "right": 865.15625,
+    "glyphTop": 908.984375,
+    "glyphBottom": 961.984375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "PFP 진단의 62%는 여성이었습니다.",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 252.375,
+    "right": 827.625,
+    "glyphTop": 1043.453125,
+    "glyphBottom": 1086.453125,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "클리닉을 찾은 부상 러너의 후향 연구로,",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 310.328125,
+    "right": 769.65625,
+    "glyphTop": 1094.5625,
+    "glyphBottom": 1137.5625,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "전체 러너의 발생률은 아닙니다.",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": []
+ },
+ {
+  "id": "c03",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 448.890625,
+    "right": 631.09375,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "PFP,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 174.59375,
+    "right": 905.40625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "세 가지",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "로 먼저 봅니다",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "span.badge",
+    "left": 429.359375,
+    "right": 449.734375,
+    "glyphTop": 375.78125,
+    "glyphBottom": 416.78125,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "1",
+      "size": 34,
+      "weight": 800,
+      "color": "rgb(255, 255, 255)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 485.546875,
+    "right": 668.4375,
+    "glyphTop": 367.59375,
+    "glyphBottom": 425.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "통증 위치",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 278.671875,
+    "right": 801.3125,
+    "glyphTop": 443.984375,
+    "glyphBottom": 496.984375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎뼈 앞쪽·주변·뒤쪽의 통증",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "span.badge",
+    "left": 386.640625,
+    "right": 407.015625,
+    "glyphTop": 558.640625,
+    "glyphBottom": 599.640625,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "2",
+      "size": 34,
+      "weight": 800,
+      "color": "rgb(255, 255, 255)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 442.828125,
+    "right": 711.15625,
+    "glyphTop": 550.453125,
+    "glyphBottom": 608.453125,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "심해지는 상황",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 317.859375,
+    "right": 762.140625,
+    "glyphTop": 626.84375,
+    "glyphBottom": 679.84375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "쪼그려 앉기·달리기·계단,",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 313.390625,
+    "right": 766.59375,
+    "glyphTop": 689.3125,
+    "glyphBottom": 742.3125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "오래 앉아 있을 때 더 아픔",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "span.badge",
+    "left": 380.640625,
+    "right": 401.015625,
+    "glyphTop": 803.96875,
+    "glyphBottom": 844.96875,
+    "maxSize": 34,
+    "runs": [
+     {
+      "text": "3",
+      "size": 34,
+      "weight": 800,
+      "color": "rgb(255, 255, 255)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 436.828125,
+    "right": 717.15625,
+    "glyphTop": 795.78125,
+    "glyphBottom": 853.78125,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "다른 원인 배제",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 304.609375,
+    "right": 775.375,
+    "glyphTop": 872.171875,
+    "glyphBottom": 925.171875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎힘줄병증·인대 손상 등",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 324.828125,
+    "right": 755.15625,
+    "glyphTop": 934.640625,
+    "glyphBottom": 987.640625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "비슷한 통증과 먼저 구분",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 363.609375,
+    "right": 716.375,
+    "glyphTop": 1053.109375,
+    "glyphBottom": 1096.109375,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "진단 기준의 요약입니다.",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 257.046875,
+    "right": 822.9375,
+    "glyphTop": 1104.21875,
+    "glyphBottom": 1147.21875,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "자가진단 대신 전문 평가로 확인하세요.",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "ellipse",
+    "cls": "badge",
+    "x": 411.546875,
+    "y": 368.78125,
+    "w": 56,
+    "h": 56,
+    "radius": 50,
+    "fill": "rgb(8, 121, 216)",
+    "border": null
+   },
+   {
+    "kind": "ellipse",
+    "cls": "badge",
+    "x": 368.828125,
+    "y": 551.640625,
+    "w": 56,
+    "h": 56,
+    "radius": 50,
+    "fill": "rgb(8, 121, 216)",
+    "border": null
+   },
+   {
+    "kind": "ellipse",
+    "cls": "badge",
+    "x": 362.828125,
+    "y": 796.96875,
+    "w": 56,
+    "h": 56,
+    "radius": 50,
+    "fill": "rgb(8, 121, 216)",
+    "border": null
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c04",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 306.671875,
+    "right": 773.296875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "아픈 무릎에서",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 306.671875,
+    "right": 773.3125,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "보이는 ",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     },
+     {
+      "text": "움직임",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 265.265625,
+    "right": 350.71875,
+    "glyphTop": 713.59375,
+    "glyphBottom": 771.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "몸통",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 170.234375,
+    "right": 445.765625,
+    "glyphTop": 784.984375,
+    "glyphBottom": 834.984375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "한쪽으로 기울고",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 145.875,
+    "right": 470.125,
+    "glyphTop": 842.9375,
+    "glyphBottom": 892.9375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "지치면 앞으로 숙임",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 686.546875,
+    "right": 857.4375,
+    "glyphTop": 713.59375,
+    "glyphBottom": 771.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "엉덩관절",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 634.234375,
+    "right": 909.765625,
+    "glyphTop": 784.984375,
+    "glyphBottom": 834.984375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "허벅지가 안으로",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 653.125,
+    "right": 890.859375,
+    "glyphTop": 842.9375,
+    "glyphBottom": 892.9375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "모이고 돌아감",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 265.265625,
+    "right": 350.71875,
+    "glyphTop": 921.890625,
+    "glyphBottom": 979.890625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "무릎",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 226.9375,
+    "right": 389.0625,
+    "glyphTop": 993.28125,
+    "glyphBottom": 1043.28125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "덜 굽히고",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 170.234375,
+    "right": 445.765625,
+    "glyphTop": 1051.234375,
+    "glyphBottom": 1101.234375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "케이던스가 낮음",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 750.625,
+    "right": 793.359375,
+    "glyphTop": 921.890625,
+    "glyphBottom": 979.890625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "발",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 615.328125,
+    "right": 928.65625,
+    "glyphTop": 993.28125,
+    "glyphBottom": 1043.28125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "뒤꿈치가 안쪽으로",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 634.234375,
+    "right": 909.765625,
+    "glyphTop": 1051.234375,
+    "glyphBottom": 1101.234375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "과하게 기울어짐",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.safety",
+    "left": 223.59375,
+    "right": 856.40625,
+    "glyphTop": 1144.1875,
+    "glyphBottom": 1187.1875,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "원인인지, 통증의 결과인지는 불분명합니다.",
+      "size": 36,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.72
+     }
+    ]
+   },
+   {
+    "block": "p.safety",
+    "left": 347.046875,
+    "right": 732.9375,
+    "glyphTop": 1195.296875,
+    "glyphBottom": 1238.296875,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "양방향일 가능성이 큽니다.",
+      "size": 36,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [],
+  "pics": [
+   {
+    "id": "c04-pic1",
+    "x": 246,
+    "y": 329.59375,
+    "w": 588,
+    "h": 360,
+    "label": "한 발 지지 시 몸통이 지지 쪽으로 기울고 무릎이 기준선 안쪽으로 모이는 개념 도식"
+   }
+  ]
+ },
+ {
+  "id": "c05",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 184.875,
+    "right": 895.109375,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "근육은 힘만이 아니라",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 266.734375,
+    "right": 813.25,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "조절·타이밍",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "까지",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 497.265625,
+    "right": 582.71875,
+    "glyphTop": 361.59375,
+    "glyphBottom": 419.59375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "근력",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 290.546875,
+    "right": 789.4375,
+    "glyphTop": 434.984375,
+    "glyphBottom": 484.984375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "몸통 옆·엉덩관절·무릎 근력이",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 272.046875,
+    "right": 807.9375,
+    "glyphTop": 492.9375,
+    "glyphBottom": 542.9375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "통증 없는 사람보다 낮았습니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 447.109375,
+    "right": 632.875,
+    "glyphTop": 591.890625,
+    "glyphBottom": 649.890625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "파워·조절",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 296.765625,
+    "right": 783.21875,
+    "glyphTop": 665.28125,
+    "glyphBottom": 715.28125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "여성 PFP는 근력보다 파워와",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 242.234375,
+    "right": 837.765625,
+    "glyphTop": 723.234375,
+    "glyphBottom": 773.234375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "힘 유지 능력의 차이가 더 컸습니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 475.90625,
+    "right": 604.078125,
+    "glyphTop": 822.1875,
+    "glyphBottom": 880.1875,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "타이밍",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 302.265625,
+    "right": 777.71875,
+    "glyphTop": 895.578125,
+    "glyphBottom": 945.578125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "계단 과제에서 안쪽넓은근이",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 258.609375,
+    "right": 821.375,
+    "glyphTop": 953.53125,
+    "glyphBottom": 1003.53125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "가쪽넓은근보다 늦게 켜졌습니다.",
+      "size": 42,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 247.265625,
+    "right": 832.71875,
+    "glyphTop": 1086.484375,
+    "glyphBottom": 1136.484375,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "대부분 발생 위험 요인은 아니었고,",
+      "size": 42,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 194.640625,
+    "right": 885.34375,
+    "glyphTop": 1145.28125,
+    "glyphBottom": 1195.28125,
+    "maxSize": 42,
+    "runs": [
+     {
+      "text": "예외는 무릎 폄 근력(군 집단)이었습니다.",
+      "size": 42,
+      "weight": 650,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.84
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "callout",
+    "x": 96,
+    "y": 1054.484375,
+    "w": 888,
+    "h": 173.59375,
+    "radius": 24,
+    "fill": "rgb(240, 247, 252)",
+    "border": null
+   },
+   {
+    "kind": "line",
+    "x": 96,
+    "y": 568.890625,
+    "w": 888,
+    "h": 0,
+    "stroke": 2,
+    "color": "rgb(230, 236, 241)"
+   },
+   {
+    "kind": "line",
+    "x": 96,
+    "y": 799.1875,
+    "w": 888,
+    "h": 0,
+    "stroke": 2,
+    "color": "rgb(230, 236, 241)"
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c06",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 424.78125,
+    "right": 655.203125,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "PFP는",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 137.421875,
+    "right": 942.578125,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "한 가지 원인",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "이 아닙니다",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 363.703125,
+    "right": 716.28125,
+    "glyphTop": 369.59375,
+    "glyphBottom": 422.59375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "러너에게 흔한 통증,",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 233.46875,
+    "right": 846.53125,
+    "glyphTop": 432.0625,
+    "glyphBottom": 485.0625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "세 가지 기준으로 먼저 구분합니다.",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 369.421875,
+    "right": 710.5625,
+    "glyphTop": 538.53125,
+    "glyphBottom": 591.53125,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "움직임·근육 차이는",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 278.78125,
+    "right": 801.203125,
+    "glyphTop": 601,
+    "glyphBottom": 654,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "원인이자 결과일 수 있습니다.",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 278.0625,
+    "right": 801.9375,
+    "glyphTop": 707.46875,
+    "glyphBottom": 760.46875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "두려움·체중·수면 같은 요인도",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 318.390625,
+    "right": 761.609375,
+    "glyphTop": 769.9375,
+    "glyphBottom": 822.9375,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "함께 관여할 수 있습니다.",
+      "size": 44,
+      "weight": 600,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "div.tag",
+    "left": 470.84375,
+    "right": 609.140625,
+    "glyphTop": 930.40625,
+    "glyphBottom": 976.40625,
+    "maxSize": 38,
+    "runs": [
+     {
+      "text": "2탄 예고",
+      "size": 38,
+      "weight": 800,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 271.4375,
+    "right": 808.546875,
+    "glyphTop": 992.796875,
+    "glyphBottom": 1045.796875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎 각도별 OKC·CKC 강화와",
+      "size": 44,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 350.359375,
+    "right": 729.640625,
+    "glyphTop": 1055.265625,
+    "glyphBottom": 1108.265625,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트",
+      "size": 44,
+      "weight": 700,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.note",
+    "left": 199.09375,
+    "right": 880.90625,
+    "glyphTop": 1190.734375,
+    "glyphBottom": 1233.734375,
+    "maxSize": 36,
+    "runs": [
+     {
+      "text": "통증이 계속되면 운동 전 전문 평가를 받으세요.",
+      "size": 36,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": -0.72
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "next",
+    "x": 96,
+    "y": 892.40625,
+    "w": 888,
+    "h": 258.328125,
+    "radius": 24,
+    "fill": "rgba(0, 0, 0, 0)",
+    "border": {
+     "w": 3,
+     "color": "rgb(8, 121, 216)"
+    }
+   }
+  ],
+  "pics": []
+ }
+]
