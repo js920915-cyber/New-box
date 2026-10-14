@@ -124,11 +124,16 @@ def main():
                 shp.fill.background()
             if sh["border"]:
                 shp.line.color.rgb = rgb(sh["border"]["color"]); shp.line.width = E(sh["border"]["w"])
+                if sh["border"].get("dash"):
+                    from pptx.enum.dml import MSO_LINE_DASH_STYLE
+                    shp.line.dash_style = MSO_LINE_DASH_STYLE.DASH
             else:
                 shp.line.fill.background()
             no_shadow(shp)
             label = {"badge": "번호원", "cover-art": "그림배경", "panel": "그림배경", "callout": "강조박스", "next": "예고박스", "": "구간막대"}
             shp.name = f"{n}_{label.get((sh['cls'] or '').split()[0] if sh['cls'] else '', '도형')}_{i+1}"
+            if sh.get("slot"):
+                shp.name = f"{n}_사진영상자리_{sh['slot']}"
         # 2) 픽토그램 PNG
         for p in card["pics"]:
             pic = s.shapes.add_picture(os.path.join(BUILD, p["id"] + ".png"), E(p["x"]), E(p["y"]), E(p["w"]), E(p["h"]))

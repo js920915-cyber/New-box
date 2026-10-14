@@ -44,11 +44,62 @@
     ]
    },
    {
-    "block": "p.lead",
+    "block": "span.g-tag",
+    "left": 442.71875,
+    "right": 637.28125,
+    "glyphTop": 549.40625,
+    "glyphBottom": 587.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "사진 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 379.1875,
+    "right": 700.796875,
+    "glyphTop": 601.40625,
+    "glyphBottom": 649.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "표지: 운동하는 러너",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 294.578125,
+    "right": 785.40625,
+    "glyphTop": 665.40625,
+    "glyphBottom": 703.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "가로 888×560 · 표정·무릎이 보이게",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
     "left": 287.03125,
     "right": 792.953125,
-    "glyphTop": 947.65625,
-    "glyphBottom": 1005.65625,
+    "glyphTop": 958,
+    "glyphBottom": 1016,
     "maxSize": 48,
     "runs": [
      {
@@ -61,11 +112,11 @@
     ]
    },
    {
-    "block": "p.lead",
-    "left": 321.53125,
-    "right": 758.4375,
-    "glyphTop": 1014.84375,
-    "glyphBottom": 1072.84375,
+    "block": "p.abs",
+    "left": 321.546875,
+    "right": 758.453125,
+    "glyphTop": 1025.1875,
+    "glyphBottom": 1083.1875,
     "maxSize": 48,
     "runs": [
      {
@@ -78,11 +129,11 @@
     ]
    },
    {
-    "block": "p.note",
+    "block": "p.abs",
     "left": 224.65625,
     "right": 855.34375,
-    "glyphTop": 1104.03125,
-    "glyphBottom": 1147.03125,
+    "glyphTop": 1116,
+    "glyphBottom": 1159,
     "maxSize": 36,
     "runs": [
      {
@@ -98,26 +149,22 @@
   "shapes": [
    {
     "kind": "roundRect",
-    "cls": "panel",
+    "cls": "slot guide",
     "x": 96,
-    "y": 363.65625,
+    "y": 348,
     "w": 888,
-    "h": 520,
-    "radius": 24,
-    "fill": "rgb(240, 247, 252)",
-    "border": null
+    "h": 560,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "01-1"
    }
   ],
-  "pics": [
-   {
-    "id": "c01-pic1",
-    "x": 96,
-    "y": 363.65625,
-    "w": 888,
-    "h": 520,
-    "label": "스쿼트와 앉아서 무릎 펴기 픽토그램"
-   }
-  ]
+  "pics": []
  },
  {
   "id": "c02",
@@ -813,7 +860,8 @@
     "h": 179.25,
     "radius": 24,
     "fill": "rgb(240, 247, 252)",
-    "border": null
+    "border": null,
+    "slot": null
    },
    {
     "kind": "line",
@@ -838,6 +886,509 @@
  },
  {
   "id": "c06",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 391.3125,
+    "right": 688.6875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "스쿼트는",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 317.140625,
+    "right": 762.859375,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "무릎 45°",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "까지",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "span.g-tag",
+    "left": 442.71875,
+    "right": 637.28125,
+    "glyphTop": 504.40625,
+    "glyphBottom": 542.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "영상 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 426.796875,
+    "right": 653.203125,
+    "glyphTop": 556.40625,
+    "glyphBottom": 604.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "스쿼트 옆모습",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 367.078125,
+    "right": 712.90625,
+    "glyphTop": 620.40625,
+    "glyphBottom": 658.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "가로 16:9 · 무릎·발끝까지",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 360.453125,
+    "right": 719.546875,
+    "glyphTop": 862,
+    "glyphBottom": 932,
+    "maxSize": 58,
+    "runs": [
+     {
+      "text": "무릎이 45°보다",
+      "size": 58,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.03
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 306.046875,
+    "right": 773.9375,
+    "glyphTop": 933.90625,
+    "glyphBottom": 1003.90625,
+    "maxSize": 58,
+    "runs": [
+     {
+      "text": "더 굽혀지지 않나요?",
+      "size": 58,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.03
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 268.828125,
+    "right": 347.15625,
+    "glyphTop": 1042,
+    "glyphBottom": 1095,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "깊이",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 171.59375,
+    "right": 444.40625,
+    "glyphTop": 1104.1875,
+    "glyphBottom": 1152.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "높은 박스로 제한",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 732.828125,
+    "right": 811.15625,
+    "glyphTop": 1042,
+    "glyphBottom": 1095,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "통증",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 606.8125,
+    "right": 937.1875,
+    "glyphTop": 1104.1875,
+    "glyphBottom": 1152.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "운동 중·다음 날 확인",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "slot guide",
+    "x": 108,
+    "y": 340,
+    "w": 864,
+    "h": 486,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "06-1"
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c07",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 343.859375,
+    "right": 736.140625,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "무릎 펴기는",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 297.359375,
+    "right": 782.640625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "90°→45°",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": "까지",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "span.g-tag",
+    "left": 214.71875,
+    "right": 409.28125,
+    "glyphTop": 477.40625,
+    "glyphBottom": 515.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "사진 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 234.796875,
+    "right": 389.203125,
+    "glyphTop": 529.40625,
+    "glyphBottom": 577.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "시작 자세",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 231.0625,
+    "right": 392.921875,
+    "glyphTop": 593.40625,
+    "glyphBottom": 631.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "1:1 · 옆모습",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "span.g-tag",
+    "left": 670.71875,
+    "right": 865.28125,
+    "glyphTop": 477.40625,
+    "glyphBottom": 515.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "사진 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 690.796875,
+    "right": 845.203125,
+    "glyphTop": 529.40625,
+    "glyphBottom": 577.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "멈춘 자세",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 687.0625,
+    "right": 848.921875,
+    "glyphTop": 593.40625,
+    "glyphBottom": 631.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "1:1 · 옆모습",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 221.546875,
+    "right": 402.4375,
+    "glyphTop": 798,
+    "glyphBottom": 851,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "시작 · 90°",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 677.546875,
+    "right": 858.4375,
+    "glyphTop": 798,
+    "glyphBottom": 851,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "멈춤 · 45°",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 394.65625,
+    "right": 685.34375,
+    "glyphTop": 894,
+    "glyphBottom": 956,
+    "maxSize": 52,
+    "runs": [
+     {
+      "text": "다리를 끝까지",
+      "size": 52,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.56
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 394.65625,
+    "right": 685.34375,
+    "glyphTop": 961.59375,
+    "glyphBottom": 1023.59375,
+    "maxSize": 52,
+    "runs": [
+     {
+      "text": "펴지 않습니다",
+      "size": 52,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.56
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 305.03125,
+    "right": 774.953125,
+    "glyphTop": 1062,
+    "glyphBottom": 1115,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "발목에 중량을 달고 앉아서",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 331.78125,
+    "right": 748.203125,
+    "glyphTop": 1124.46875,
+    "glyphBottom": 1177.46875,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "무릎 45°에서 멈춥니다.",
+      "size": 44,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.88
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "slot guide",
+    "x": 96,
+    "y": 340,
+    "w": 432,
+    "h": 432,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "07-1"
+   },
+   {
+    "kind": "roundRect",
+    "cls": "slot guide",
+    "x": 552,
+    "y": 340,
+    "w": 432,
+    "h": 432,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "07-2"
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c08",
   "lines": [
    {
     "block": "h2.headline",
@@ -993,12 +1544,13 @@
     "h": 330,
     "radius": 24,
     "fill": "rgb(240, 247, 252)",
-    "border": null
+    "border": null,
+    "slot": null
    }
   ],
   "pics": [
    {
-    "id": "c06-pic1",
+    "id": "c08-pic1",
     "x": 96,
     "y": 500.53125,
     "w": 888,
@@ -1008,7 +1560,7 @@
   ]
  },
  {
-  "id": "c07",
+  "id": "c09",
   "lines": [
    {
     "block": "h2.headline",
@@ -1029,21 +1581,21 @@
    },
    {
     "block": "h2.headline",
-    "left": 306.671875,
-    "right": 773.3125,
+    "left": 343.84375,
+    "right": 736.140625,
     "glyphTop": 203.796875,
     "glyphBottom": 304.796875,
     "maxSize": 84,
     "runs": [
      {
-      "text": "이것만",
+      "text": "옆에서",
       "size": 84,
       "weight": 850,
       "color": "rgb(8, 121, 216)",
       "ls": -2.94
      },
      {
-      "text": " 보세요",
+      "text": " 보기",
       "size": 84,
       "weight": 850,
       "color": "rgb(18, 20, 22)",
@@ -1052,49 +1604,100 @@
     ]
    },
    {
-    "block": "p.key",
-    "left": 372.296875,
-    "right": 707.703125,
-    "glyphTop": 853,
-    "glyphBottom": 925,
-    "maxSize": 60,
+    "block": "span.g-tag",
+    "left": 442.71875,
+    "right": 637.28125,
+    "glyphTop": 504.40625,
+    "glyphBottom": 542.40625,
+    "maxSize": 32,
     "runs": [
      {
-      "text": "엉덩이가 먼저",
-      "size": 60,
-      "weight": 850,
-      "color": "rgb(18, 20, 22)",
-      "ls": -1.8
+      "text": "영상 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
      }
     ]
    },
    {
-    "block": "p.key",
-    "left": 383.9375,
-    "right": 696.0625,
-    "glyphTop": 927.390625,
-    "glyphBottom": 999.390625,
-    "maxSize": 60,
+    "block": "strong",
+    "left": 308.390625,
+    "right": 771.59375,
+    "glyphTop": 556.40625,
+    "glyphBottom": 604.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트 옆모습",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 337.9375,
+    "right": 742.046875,
+    "glyphTop": 620.40625,
+    "glyphBottom": 658.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "가로 16:9 · 머리부터 발끝까지",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 378.890625,
+    "right": 701.09375,
+    "glyphTop": 862,
+    "glyphBottom": 932,
+    "maxSize": 58,
+    "runs": [
+     {
+      "text": "엉덩이가 먼저",
+      "size": 58,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.03
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 390.15625,
+    "right": 689.84375,
+    "glyphTop": 933.90625,
+    "glyphBottom": 1003.90625,
+    "maxSize": 58,
     "runs": [
      {
       "text": "뒤로 가나요?",
-      "size": 60,
+      "size": 58,
       "weight": 850,
       "color": "rgb(18, 20, 22)",
-      "ls": -1.8
+      "ls": -2.03
      }
     ]
    },
    {
     "block": "h3.item-h",
-    "left": 268.828125,
-    "right": 347.15625,
-    "glyphTop": 1038,
-    "glyphBottom": 1091,
+    "left": 288.40625,
+    "right": 327.578125,
+    "glyphTop": 1042,
+    "glyphBottom": 1095,
     "maxSize": 44,
     "runs": [
      {
-      "text": "무릎",
+      "text": "등",
       "size": 44,
       "weight": 800,
       "color": "rgb(18, 20, 22)",
@@ -1104,10 +1707,211 @@
    },
    {
     "block": "p.body",
-    "left": 166.015625,
-    "right": 449.984375,
-    "glyphTop": 1102.1875,
-    "glyphBottom": 1150.1875,
+    "left": 147.75,
+    "right": 468.234375,
+    "glyphTop": 1104.1875,
+    "glyphBottom": 1152.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "머리~뒷다리 일직선",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 688.171875,
+    "right": 855.8125,
+    "glyphTop": 1042,
+    "glyphBottom": 1095,
+    "maxSize": 44,
+    "runs": [
+     {
+      "text": "지지 무릎",
+      "size": 44,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.32
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 630.390625,
+    "right": 913.59375,
+    "glyphTop": 1104.1875,
+    "glyphBottom": 1152.1875,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "살짝 굽힌 채 유지",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   }
+  ],
+  "shapes": [
+   {
+    "kind": "roundRect",
+    "cls": "slot guide",
+    "x": 108,
+    "y": 340,
+    "w": 864,
+    "h": 486,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "09-1"
+   }
+  ],
+  "pics": []
+ },
+ {
+  "id": "c10",
+  "lines": [
+   {
+    "block": "h2.headline",
+    "left": 171.8125,
+    "right": 908.171875,
+    "glyphTop": 103,
+    "glyphBottom": 204,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트,",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "h2.headline",
+    "left": 343.84375,
+    "right": 736.140625,
+    "glyphTop": 203.796875,
+    "glyphBottom": 304.796875,
+    "maxSize": 84,
+    "runs": [
+     {
+      "text": "앞에서",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(8, 121, 216)",
+      "ls": -2.94
+     },
+     {
+      "text": " 보기",
+      "size": 84,
+      "weight": 850,
+      "color": "rgb(18, 20, 22)",
+      "ls": -2.94
+     }
+    ]
+   },
+   {
+    "block": "span.g-tag",
+    "left": 214.71875,
+    "right": 409.28125,
+    "glyphTop": 619.40625,
+    "glyphBottom": 657.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "영상 넣는 자리",
+      "size": 32,
+      "weight": 700,
+      "color": "rgb(8, 121, 216)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 139.59375,
+    "right": 484.40625,
+    "glyphTop": 671.40625,
+    "glyphBottom": 719.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "싱글 레그 데드리프트",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "strong",
+    "left": 276,
+    "right": 348,
+    "glyphTop": 723.40625,
+    "glyphBottom": 771.40625,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "정면",
+      "size": 40,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "span.g-spec",
+    "left": 168.515625,
+    "right": 455.46875,
+    "glyphTop": 787.40625,
+    "glyphBottom": 825.40625,
+    "maxSize": 32,
+    "runs": [
+     {
+      "text": "세로 9:16 · 무릎·골반",
+      "size": 32,
+      "weight": 500,
+      "color": "rgb(94, 101, 112)",
+      "ls": 0
+     }
+    ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 725.265625,
+    "right": 810.71875,
+    "glyphTop": 374,
+    "glyphBottom": 432,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "무릎",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 626.015625,
+    "right": 909.984375,
+    "glyphTop": 441.390625,
+    "glyphBottom": 489.390625,
     "maxSize": 40,
     "runs": [
      {
@@ -1121,10 +1925,10 @@
    },
    {
     "block": "p.body",
-    "left": 153.59375,
-    "right": 462.40625,
-    "glyphTop": 1156.578125,
-    "glyphBottom": 1204.578125,
+    "left": 613.59375,
+    "right": 922.40625,
+    "glyphTop": 495.78125,
+    "glyphBottom": 543.78125,
     "maxSize": 40,
     "runs": [
      {
@@ -1138,27 +1942,27 @@
    },
    {
     "block": "h3.item-h",
-    "left": 732.828125,
-    "right": 811.15625,
-    "glyphTop": 1038,
-    "glyphBottom": 1091,
-    "maxSize": 44,
+    "left": 725.265625,
+    "right": 810.71875,
+    "glyphTop": 593.171875,
+    "glyphBottom": 651.171875,
+    "maxSize": 48,
     "runs": [
      {
       "text": "골반",
-      "size": 44,
+      "size": 48,
       "weight": 800,
       "color": "rgb(18, 20, 22)",
-      "ls": -1.32
+      "ls": -1.44
      }
     ]
    },
    {
     "block": "p.body",
-    "left": 676.796875,
-    "right": 867.203125,
-    "glyphTop": 1102.1875,
-    "glyphBottom": 1150.1875,
+    "left": 672.796875,
+    "right": 863.203125,
+    "glyphTop": 660.5625,
+    "glyphBottom": 708.5625,
     "maxSize": 40,
     "runs": [
      {
@@ -1172,10 +1976,10 @@
    },
    {
     "block": "p.body",
-    "left": 658.796875,
-    "right": 885.203125,
-    "glyphTop": 1156.578125,
-    "glyphBottom": 1204.578125,
+    "left": 654.796875,
+    "right": 881.203125,
+    "glyphTop": 714.953125,
+    "glyphBottom": 762.953125,
     "maxSize": 40,
     "runs": [
      {
@@ -1186,22 +1990,115 @@
       "ls": -0.8
      }
     ]
+   },
+   {
+    "block": "h3.item-h",
+    "left": 725.265625,
+    "right": 810.71875,
+    "glyphTop": 812.34375,
+    "glyphBottom": 870.34375,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "몸통",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 631.59375,
+    "right": 904.40625,
+    "glyphTop": 879.734375,
+    "glyphBottom": 927.734375,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "지지 다리 쪽으로",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "p.body",
+    "left": 672.796875,
+    "right": 863.203125,
+    "glyphTop": 934.125,
+    "glyphBottom": 982.125,
+    "maxSize": 40,
+    "runs": [
+     {
+      "text": "기울지 않게",
+      "size": 40,
+      "weight": 500,
+      "color": "rgb(18, 20, 22)",
+      "ls": -0.8
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 634.09375,
+    "right": 901.890625,
+    "glyphTop": 1052,
+    "glyphBottom": 1110,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "1탄의 움직임,",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
+   },
+   {
+    "block": "p.abs",
+    "left": 670.625,
+    "right": 865.375,
+    "glyphTop": 1114.390625,
+    "glyphBottom": 1172.390625,
+    "maxSize": 48,
+    "runs": [
+     {
+      "text": "보이나요?",
+      "size": 48,
+      "weight": 800,
+      "color": "rgb(18, 20, 22)",
+      "ls": -1.44
+     }
+    ]
    }
   ],
-  "shapes": [],
-  "pics": [
+  "shapes": [
    {
-    "id": "c07-pic1",
-    "x": 108,
-    "y": 328,
-    "w": 864,
-    "h": 486,
-    "label": "싱글 레그 데드리프트 시범 픽토그램(영상 자리)"
+    "kind": "roundRect",
+    "cls": "slot guide",
+    "x": 96,
+    "y": 340,
+    "w": 432,
+    "h": 768,
+    "radius": 0,
+    "fill": "rgb(243, 245, 247)",
+    "border": {
+     "w": 3,
+     "color": "rgb(185, 196, 207)",
+     "dash": true
+    },
+    "slot": "10-1"
    }
-  ]
+  ],
+  "pics": []
  },
  {
-  "id": "c08",
+  "id": "c11",
   "lines": [
    {
     "block": "h2.headline",
@@ -1416,14 +2313,14 @@
    },
    {
     "block": "p.body",
-    "left": 200.3125,
-    "right": 879.671875,
+    "left": 207.84375,
+    "right": 872.15625,
     "glyphTop": 982.703125,
     "glyphBottom": 1035.703125,
     "maxSize": 44,
     "runs": [
      {
-      "text": "싱글 레그 데드리프트로 엉덩관절 연습",
+      "text": "싱글 레그 데드리프트, 옆·앞에서 확인",
       "size": 44,
       "weight": 500,
       "color": "rgb(18, 20, 22)",
@@ -1476,7 +2373,8 @@
     "h": 84,
     "radius": 0,
     "fill": "rgb(18, 20, 22)",
-    "border": null
+    "border": null,
+    "slot": null
    },
    {
     "kind": "roundRect",
@@ -1487,7 +2385,8 @@
     "h": 84,
     "radius": 0,
     "fill": "rgb(8, 121, 216)",
-    "border": null
+    "border": null,
+    "slot": null
    }
   ],
   "pics": []

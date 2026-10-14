@@ -202,26 +202,37 @@ body{display:flex;flex-direction:column;align-items:center;gap:40px;padding:40px
 """
 
 
+MODE = "preview"   # preview: 안내 문구 있는 자리 / clean: 빈 자리(배경·오버레이용)
+SLOTS = []
+
+
 def card(i, cls, inner):
     return f'<article class="card {cls}" id="c{i:02d}">\n{inner}\n{FRAME}\n</article>'
 
 
+def slot(card_no, n, x, y, w, h, kind, what, spec):
+    """사용자 사진/영상 자리. 좌표는 카드 기준 절대값(오버레이와 정확히 일치시키기 위해)."""
+    SLOTS.append(dict(card=f"{card_no:02d}", id=f"{card_no:02d}-{n}", kind=kind, x=x, y=y, width=w, height=h,
+                      ratio=spec.split(" · ")[0], content=what))
+    style = f"left:{x}px;top:{y}px;width:{w}px;height:{h}px"
+    if MODE == "clean":
+        return f'<div class="slot" data-slot="{card_no:02d}-{n}" style="{style}"></div>'
+    tag = "영상" if kind == "video" else "사진"
+    return (f'<div class="slot guide" data-slot="{card_no:02d}-{n}" style="{style}">'
+            f'<span class="g-tag">{tag} 넣는 자리</span><strong>{what}</strong><span class="g-spec">{spec}</span></div>')
+
+
 def cards():
+    SLOTS.clear()
     out = []
-    # 01 표지
-    out.append(card(1, "cover c01", f"""
+    # 01 표지 — 사진
+    out.append(card(1, "cover c01 media", f"""
  <h1 class="headline">스쿼트 vs 레그 익스텐션,<br><span class="accent">무릎</span>에 덜 부담인 건?</h1>
- <div class="panel" style="margin-top:52px;height:520px">
-  <svg width="888" height="520" viewBox="0 0 888 520" aria-label="스쿼트와 앉아서 무릎 펴기 픽토그램">
-   {picto_squat(20, 70, 1.0)}
-   <text x="444" y="300" text-anchor="middle" font-family="Noto Sans KR" font-size="64" font-weight="850" fill="{BLUE}">VS</text>
-   {picto_seated(480, 70, 1.0)}
-  </svg>
- </div>
- <p class="lead" style="margin:60px 0 0;font-size:48px;font-weight:700;line-height:1.4;letter-spacing:-.03em">정답은 운동 이름이 아니라<br>‘무릎 각도’에 있습니다</p>
- <p class="note" style="margin-top:22px">PFP 2탄 · 1탄 ‘러너의 무릎 앞 통증’ 이어서</p>
+ {slot(1, 1, 96, 348, 888, 560, "photo", "표지: 운동하는 러너", "가로 888×560 · 표정·무릎이 보이게")}
+ <p class="abs lead" style="top:954px">정답은 운동 이름이 아니라<br>‘무릎 각도’에 있습니다</p>
+ <p class="abs note" style="top:1112px">PFP 2탄 · 1탄 ‘러너의 무릎 앞 통증’ 이어서</p>
 """))
-    # 02 연구 설정
+    # 02 연구 설정 (연구 장비 설명이라 픽토그램 유지)
     cols = [("스쿼트", "CKC · 발이 바닥에", picto_squat(-40, 0, 0.72)),
             ("무릎 펴기", "OKC · 발목 중량", picto_seated(10, 0, 0.72)),
             ("무릎 펴기", "OKC · 고정 저항", picto_seated(10, 0, 0.72, True))]
@@ -233,14 +244,14 @@ def cards():
  <div class="cols" style="margin-top:64px;width:100%;display:grid;grid-template-columns:repeat(3,1fr);gap:12px">{colhtml}</div>
  <p class="body" style="margin-top:64px;font-weight:650">세 운동을 같은 근육 활성도로 맞추고<br>0~90° 각도별 무릎뼈 압박을 비교했습니다.</p>
 """))
-    # 03 그래프: 각도에 따라 역전
+    # 03 그래프
     out.append(card(3, "c03", f"""
  <h2 class="headline">각도에 따라<br>압박이 <span class="accent">뒤집힙니다</span></h2>
  <div style="margin-top:40px">{chart_compare()}</div>
  <p class="body" style="margin-top:30px">깊게 굽힐수록 스쿼트가, 펼수록<br>발목 중량 무릎 펴기가 압박이 컸고</p>
  <p class="key" style="font-size:48px;margin-top:14px">45°에서는 차이가 없었습니다.</p>
 """))
-    # 04 그래프: 조합 규칙
+    # 04 그래프 규칙
     out.append(card(4, "c04", f"""
  <h2 class="headline">0~45°는 CKC,<br>45~90°는 <span class="accent">OKC</span></h2>
  <div style="margin-top:40px">{chart_path()}</div>
@@ -257,8 +268,27 @@ def cards():
  </div>
  <div class="callout"><p class="body" style="font-weight:650">각도는 출발점입니다.<br>운동 중·다음 날 통증 반응으로 조절하세요.</p></div>
 """))
-    # 06 왜 싱글 레그 데드리프트
-    out.append(card(6, "c06", f"""
+    # 06 스쿼트 — 영상 T01
+    out.append(card(6, "c06 media", f"""
+ <h2 class="headline">스쿼트는<br><span class="accent">무릎 45°</span>까지</h2>
+ {slot(6, 1, 108, 340, 864, 486, "video", "스쿼트 옆모습", "가로 16:9 · 무릎·발끝까지")}
+ <p class="abs vq" style="top:862px">무릎이 45°보다<br>더 굽혀지지 않나요?</p>
+ <div class="abs vnotes" style="top:1040px">
+  <div><h3 class="item-h">깊이</h3><p class="body">높은 박스로 제한</p></div>
+  <div><h3 class="item-h">통증</h3><p class="body">운동 중·다음 날 확인</p></div>
+ </div>
+"""))
+    # 07 무릎 펴기 — 사진 2컷
+    out.append(card(7, "c07 media", f"""
+ <h2 class="headline">무릎 펴기는<br><span class="accent">90°→45°</span>까지</h2>
+ {slot(7, 1, 96, 340, 432, 432, "photo", "시작 자세", "1:1 · 옆모습")}
+ {slot(7, 2, 552, 340, 432, 432, "photo", "멈춘 자세", "1:1 · 옆모습")}
+ <div class="abs pair" style="top:796px"><h3 class="item-h">시작 · 90°</h3><h3 class="item-h">멈춤 · 45°</h3></div>
+ <p class="abs key" style="top:892px;font-size:52px">다리를 끝까지<br>펴지 않습니다</p>
+ <p class="abs body" style="top:1058px">발목에 중량을 달고 앉아서<br>무릎 45°에서 멈춥니다.</p>
+"""))
+    # 08 왜 싱글 레그 데드리프트
+    out.append(card(8, "c08", f"""
  <h2 class="headline">움직임 패턴은<br><span class="accent">엉덩관절</span>에서</h2>
  <p class="body" style="margin-top:34px">1탄에서 본 몸통 기울어짐과<br>허벅지가 안으로 모이는 움직임,</p>
  <div class="panel" style="margin-top:36px;height:330px">
@@ -271,36 +301,41 @@ def cards():
  <p class="key" style="margin-top:36px;font-size:52px">싱글 레그 데드리프트로<br>한 발 조절을 연습합니다</p>
  <p class="body" style="margin-top:22px">엉덩이 근육을 크게 쓰는 동작으로 보고되고,<br>엉덩관절+무릎 운동 병행이 권장됩니다.</p>
 """))
-    # 07 영상(T04)
-    out.append(card(7, "c07 video", VIDEO_INNER.format(slot=SLOT_PREVIEW)))
-    # 08 요약
-    out.append(card(8, "c08", """
+    # 09 SLDL 옆 — 영상 T04
+    out.append(card(9, "c09 media", f"""
+ <h2 class="headline">싱글 레그 데드리프트,<br><span class="accent">옆에서</span> 보기</h2>
+ {slot(9, 1, 108, 340, 864, 486, "video", "싱글 레그 데드리프트 옆모습", "가로 16:9 · 머리부터 발끝까지")}
+ <p class="abs vq" style="top:862px">엉덩이가 먼저<br>뒤로 가나요?</p>
+ <div class="abs vnotes" style="top:1040px">
+  <div><h3 class="item-h">등</h3><p class="body">머리~뒷다리 일직선</p></div>
+  <div><h3 class="item-h">지지 무릎</h3><p class="body">살짝 굽힌 채 유지</p></div>
+ </div>
+"""))
+    # 10 SLDL 앞 — 영상 T02
+    out.append(card(10, "c10 media", f"""
+ <h2 class="headline">싱글 레그 데드리프트,<br><span class="accent">앞에서</span> 보기</h2>
+ {slot(10, 1, 96, 340, 432, 768, "video", "싱글 레그 데드리프트 정면", "세로 9:16 · 무릎·골반")}
+ <div class="abs side" style="top:372px">
+  <div><h3 class="item-h">무릎</h3><p class="body">둘째 발가락 방향,<br>안으로 모이지 않게</p></div>
+  <div><h3 class="item-h">골반</h3><p class="body">양쪽 높이를<br>수평으로 유지</p></div>
+  <div><h3 class="item-h">몸통</h3><p class="body">지지 다리 쪽으로<br>기울지 않게</p></div>
+ </div>
+ <p class="abs key side-q" style="top:1050px">1탄의 움직임,<br>보이나요?</p>
+"""))
+    # 11 요약
+    out.append(card(11, "c11", """
  <h2 class="headline">무릎 앞이 아픈 러너,<br><span class="accent">이렇게 시작</span>합니다</h2>
  <div class="range"><div class="bar"><div style="background:var(--ink)">CKC 스쿼트</div><div style="background:var(--blue)">OKC 발목 중량</div></div>
   <div class="ticks"><span>0°</span><span>45°</span><span>90°</span></div></div>
  <div class="msgs">
   <div class="msg"><h3 class="item-h">얕게는 CKC</h3><p class="body">스쿼트는 무릎 0~45° 범위에서</p></div>
   <div class="msg"><h3 class="item-h">깊게는 OKC</h3><p class="body">발목 중량 무릎 펴기는 90~45°에서</p></div>
-  <div class="msg"><h3 class="item-h">조절은 한 발로</h3><p class="body">싱글 레그 데드리프트로 엉덩관절 연습</p></div>
+  <div class="msg"><h3 class="item-h">조절은 한 발로</h3><p class="body">싱글 레그 데드리프트, 옆·앞에서 확인</p></div>
  </div>
  <p class="safety" style="margin-top:52px">통증이 운동 중 커지거나 다음 날까지 남으면<br>범위와 무게를 줄이고 담당 트레이너와 조정하세요.</p>
 """))
     return out
 
-
-SLOT = dict(x=108, y=328, w=864, h=486)
-SLOT_PREVIEW = (f'<svg width="864" height="486" viewBox="0 0 864 486" aria-label="싱글 레그 데드리프트 시범 픽토그램(영상 자리)">'
-                f'<rect width="864" height="486" fill="#f0f7fc"/>{picto_sldl(130, 40, 1.0)}'
-                f'<line x1="60" y1="432" x2="804" y2="432" stroke="#c9d6e0" stroke-width="6" stroke-linecap="round"/></svg>')
-VIDEO_INNER = """
- <h2 class="headline">싱글 레그 데드리프트,<br><span class="accent">이것만</span> 보세요</h2>
- <div class="slot" style="left:{SX}px;top:{SY}px;width:{SW}px;height:{SH}px">{slot}</div>
- <p class="key vq">엉덩이가 먼저<br>뒤로 가나요?</p>
- <div class="vnotes">
-  <div><h3 class="item-h" style="font-size:44px">무릎</h3><p class="body" style="font-size:40px">둘째 발가락 방향,<br>안으로 모이지 않게</p></div>
-  <div><h3 class="item-h" style="font-size:44px">골반</h3><p class="body" style="font-size:40px">양쪽 높이를<br>수평으로 유지</p></div>
- </div>
-""".replace("{SX}", str(SLOT["x"])).replace("{SY}", str(SLOT["y"])).replace("{SW}", str(SLOT["w"])).replace("{SH}", str(SLOT["h"]))
 
 EXTRA_CSS = """
 .c02 .col{display:flex;flex-direction:column;align-items:center}
@@ -310,16 +345,29 @@ EXTRA_CSS = """
 .c05 .band .body{margin-top:8px;font-size:42px;line-height:1.38}
 .c05 .callout{margin-top:30px;width:100%;background:var(--tint);border-radius:24px;padding:30px}
 .c05 .callout .body{font-size:42px}
-.c08 .msgs{margin-top:60px;width:100%;display:flex;flex-direction:column;gap:42px}
-.c08 .range{margin-top:56px;width:100%}
-.c08 .bar{display:flex;height:84px;border-radius:20px;overflow:hidden;gap:4px}
-.c08 .bar div{flex:1;display:flex;align-items:center;justify-content:center;color:#fff;font-size:40px;font-weight:800;letter-spacing:-.02em}
-.c08 .ticks{display:flex;justify-content:space-between;margin-top:12px;font-size:34px;font-weight:600;color:var(--muted)}
-.c08 .msg .body{margin-top:8px}
-.video .slot{position:absolute;overflow:hidden}
-.video .vq{position:absolute;left:96px;right:96px;top:852px;font-size:60px;font-weight:850;line-height:1.24}
-.video .vnotes{position:absolute;left:96px;right:96px;top:1036px;display:grid;grid-template-columns:1fr 1fr;gap:40px}
-.video .vnotes .body{margin-top:6px;line-height:1.36}
+.c11 .msgs{margin-top:60px;width:100%;display:flex;flex-direction:column;gap:42px}
+.c11 .range{margin-top:56px;width:100%}
+.c11 .bar{display:flex;height:84px;border-radius:20px;overflow:hidden;gap:4px}
+.c11 .bar div{flex:1;display:flex;align-items:center;justify-content:center;color:#fff;font-size:40px;font-weight:800;letter-spacing:-.02em}
+.c11 .ticks{display:flex;justify-content:space-between;margin-top:12px;font-size:34px;font-weight:600;color:var(--muted)}
+.c11 .msg .body{margin-top:8px}
+.media .slot{position:absolute;overflow:hidden;background:#f3f5f7}
+.media .guide{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:24px;
+ border:3px dashed #b9c4cf;text-align:center}
+.media .guide .g-tag{font-size:32px;font-weight:700;color:var(--blue)}
+.media .guide strong{font-size:40px;font-weight:800;line-height:1.3;letter-spacing:-.02em}
+.media .guide .g-spec{font-size:32px;font-weight:500;color:var(--muted);line-height:1.35}
+.media .abs{position:absolute;left:96px;right:96px;margin:0}
+.media .lead{font-size:48px;font-weight:700;line-height:1.4;letter-spacing:-.03em}
+.media .vq{font-size:58px;font-weight:850;line-height:1.24;letter-spacing:-.035em}
+.media .vnotes{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.media .vnotes .item-h{font-size:44px}
+.media .vnotes .body{margin-top:4px;font-size:40px;line-height:1.36}
+.c07 .pair{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.c07 .pair .item-h{font-size:44px}
+.c10 .side{left:552px;right:96px;display:flex;flex-direction:column;gap:44px}
+.c10 .side .body{margin-top:4px;font-size:40px;line-height:1.36}
+.c10 .side-q{left:552px;font-size:48px}
 """
 
 
@@ -328,16 +376,12 @@ def page(body, title):
             f'<style>{CSS}{EXTRA_CSS}</style></head><body>\n{body}\n</body></html>\n')
 
 
-def video_page(slot_html, title):
-    return page(card(7, "c07 video", VIDEO_INNER.format(slot=slot_html)), title)
-
-
 if __name__ == "__main__":
-    open(os.path.join(HERE, "cards.html"), "w", encoding="utf-8").write(page("\n".join(cards()), "PFP 2탄 — 각도별 OKC·CKC와 싱글 레그 데드리프트"))
-    # 영상 템플릿: 미리보기(안내 문구) / 배경(빈 창)
-    guide = ('<div style="width:864px;height:486px;background:#f3f5f7;border:2px solid #d8dde3;display:flex;flex-direction:column;'
-             'align-items:center;justify-content:center;gap:14px"><strong style="font-size:38px">여기에 싱글 레그 데드리프트 영상</strong>'
-             '<span style="font-size:32px;color:#5e6570">가로 16:9 · 옆모습 전신 · 발끝까지</span></div>')
-    open(os.path.join(HERE, "video-preview.html"), "w", encoding="utf-8").write(video_page(guide, "T04 미리보기"))
-    open(os.path.join(HERE, "video-clean.html"), "w", encoding="utf-8").write(video_page('<div style="width:864px;height:486px;background:#f3f5f7"></div>', "T04 배경"))
-    print("ok")
+    import json
+    title = "PFP 2탄 — 각도별 OKC·CKC와 싱글 레그 데드리프트"
+    MODE = "preview"
+    open(os.path.join(HERE, "cards.html"), "w", encoding="utf-8").write(page("\n".join(cards()), title))
+    MODE = "clean"
+    open(os.path.join(HERE, "cards-clean.html"), "w", encoding="utf-8").write(page("\n".join(cards()), title + " (빈 자리)"))
+    json.dump(SLOTS, open(os.path.join(HERE, "slots.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print("ok", len(SLOTS), "slots")

@@ -1,0 +1,68 @@
+[
+ {
+  "card": "01",
+  "id": "01-1",
+  "kind": "photo",
+  "x": 96,
+  "y": 348,
+  "width": 888,
+  "height": 560,
+  "ratio": "가로 888×560",
+  "content": "표지: 운동하는 러너"
+ },
+ {
+  "card": "06",
+  "id": "06-1",
+  "kind": "video",
+  "x": 108,
+  "y": 340,
+  "width": 864,
+  "height": 486,
+  "ratio": "가로 16:9",
+  "content": "스쿼트 옆모습"
+ },
+ {
+  "card": "07",
+  "id": "07-1",
+  "kind": "photo",
+  "x": 96,
+  "y": 340,
+  "width": 432,
+  "height": 432,
+  "ratio": "1:1",
+  "content": "시작 자세"
+ },
+ {
+  "card": "07",
+  "id": "07-2",
+  "kind": "photo",
+  "x": 552,
+  "y": 340,
+  "width": 432,
+  "height": 432,
+  "ratio": "1:1",
+  "content": "멈춘 자세"
+ },
+ {
+  "card": "09",
+  "id": "09-1",
+  "kind": "video",
+  "x": 108,
+  "y": 340,
+  "width": 864,
+  "height": 486,
+  "ratio": "가로 16:9",
+  "content": "싱글 레그 데드리프트 옆모습"
+ },
+ {
+  "card": "10",
+  "id": "10-1",
+  "kind": "video",
+  "x": 96,
+  "y": 340,
+  "width": 432,
+  "height": 768,
+  "ratio": "세로 9:16",
+  "content": "싱글 레그 데드리프트 정면"
+ }
+]

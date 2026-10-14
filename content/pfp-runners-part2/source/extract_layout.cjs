@@ -22,7 +22,7 @@ catch { ({ chromium } = require('/opt/node22/lib/node_modules/playwright')); }
       const c = card.getBoundingClientRect();
       const X = r => r.left - c.left, Y = r => r.top - c.top;
       // 텍스트: 블록 요소별로 문자 위치를 모아 줄 단위로 묶는다
-      const blocks = card.querySelectorAll('h1,h2,h3,p,.big-num,.tag,.badge,.bar > div,.ticks span');
+      const blocks = card.querySelectorAll('h1,h2,h3,p,.big-num,.tag,.badge,.bar > div,.ticks span,.guide > *');
       const lines = [];
       for (const blk of blocks) {
         const chars = [];
@@ -66,11 +66,11 @@ catch { ({ chromium } = require('/opt/node22/lib/node_modules/playwright')); }
       }
       // 도형
       const shapes = [];
-      for (const e of card.querySelectorAll('.cover-art,.panel,.callout,.next,.badge,.bar > div')) {
+      for (const e of card.querySelectorAll('.cover-art,.panel,.callout,.next,.badge,.bar > div,.slot')) {
         const r = e.getBoundingClientRect(), st = getComputedStyle(e);
         shapes.push({ kind: e.classList.contains('badge') ? 'ellipse' : 'roundRect', cls: e.className,
           x: X(r), y: Y(r), w: r.width, h: r.height, radius: px(st.borderTopLeftRadius),
-          fill: st.backgroundColor, border: px(st.borderTopWidth) && st.borderTopStyle !== 'none' ? { w: px(st.borderTopWidth), color: st.borderTopColor } : null });
+          fill: st.backgroundColor, border: px(st.borderTopWidth) && st.borderTopStyle !== 'none' ? { w: px(st.borderTopWidth), color: st.borderTopColor, dash: st.borderTopStyle === 'dashed' } : null, slot: e.dataset.slot || null });
       }
       for (const e of card.querySelectorAll('.band + .band, .c05 .band + .band')) {
         const r = e.getBoundingClientRect(), st = getComputedStyle(e);
