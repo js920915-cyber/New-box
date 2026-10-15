@@ -58,7 +58,7 @@
 - 모든 PNG 원본과360×450 축소본을 실제 연다. 텍스트 잘림/겹침/오타/UI·크기·하단 여백·프레임·영상 투명도·근거/권리 검사. QA에 카드별 실제 크기/contentBottom/bottomGap/예외/확인 범위를 기록한다.
 - content/<slug>/에 개별PNG, source, storyboard.md, caption.md, research/sources.md·claims.md, assets/asset_manifest.md, QA_REPORT.md 저장. 영상/Express 요청이면 해당 편집 파일 추가.
 - 실제 파일·해상도·링크 확인 후 간단히 경로와 미검수 사항 전달. 콜라주를 기본 납품하지 않는다. 로컬 렌더/Express 가져오기/실제 영상/게시 전 임상 판단을 구분한다.
-- 내 Google Drive `R스포츠재활센터 카드뉴스/<YYYY-MM-DD>_<topic-slug>/`에는 Express PPTX와 캡션(Google 문서) 두 가지만 올린다. 기존 폴더를 먼저 검색해 재사용한다. PPTX는 tools/upload_drive.py로 Drive API에 직접 올리고(크기·md5 대조), 커넥터 base64 직접 입력으로 올리지 않는다. 인증 환경 변수가 없으면 PPTX는 대화 첨부로 준다. 캡션은 커넥터로 텍스트를 올려 Google 문서로 만든다. 수정본은 이전버전 폴더로 옮기고 덮어쓰거나 지우지 않는다. 공유 권한은 바꾸지 않는다.
+- 내 Google Drive `R스포츠재활센터 카드뉴스/<YYYY-MM-DD>_<topic-slug>/`에는 캡션(Google 문서)과 Express PPTX만 둔다. 기존 폴더를 먼저 검색해 재사용한다. 캡션은 네가 커넥터로 텍스트를 올려 Google 문서로 만든다. PPTX는 대화 첨부로 주고 내가 폴더에 직접 끌어다 놓는다(커넥터 base64 직접 입력 금지). 수정본은 이전버전 폴더로 옮기고 덮어쓰거나 지우지 않는다. 공유 권한은 바꾸지 않는다.
 - 폰트(Noto Sans KR W500~W850)는 이미 받았으므로 Express 패키지에 다시 넣지 않는다.
 - 업로드 후 파일 목록을 다시 조회해 확인하고, 최종 보고 맨 앞에 Drive 폴더 링크와 실패 파일을 적는다. Drive 연결이 없으면 업로드했다고 하지 않고 로컬 경로를 보고한다.
 - 반복 피드백은 결과물뿐 아니라 전체 프롬프트·수치 토큰·워크플로·코드 기본값에 영구 반영한다.

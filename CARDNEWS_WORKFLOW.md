@@ -77,18 +77,18 @@ content/<topic-slug>/
 
 1. 루트 폴더 `R스포츠재활센터 카드뉴스`를 내 드라이브(`parentId = 'root'`)에서 제목으로 검색한다. 없을 때만 만든다.
 2. 주제 폴더 `<YYYY-MM-DD>_<topic-slug>`(예: `2026-10-14_pfp-runners-part2`)를 같은 방식으로 찾거나 만든다. 시리즈는 slug에 1탄·2탄을 구분한다.
-3. 올리는 파일은 두 가지뿐이다(2026-10-15 사용자 지시). 하위 폴더 없이 주제 폴더에 둔다.
+3. Drive 주제 폴더에 두는 것은 두 가지다(2026-10-15 사용자 지시·선택). 하위 폴더 없이 주제 폴더에 둔다.
 
-| 파일 | 방법 |
+| 파일 | 누가·어떻게 |
 |---|---|
-| `<slug>_express.pptx` | `python3 tools/upload_drive.py --topic <날짜>_<slug> <pptx 경로>` — Drive API 직접 업로드, 변환 없음, 크기·md5 대조 |
-| `<주제> 캡션` (Google 문서) | Drive 커넥터 `create_file`에 caption.md 본문을 `textContent`, `contentMimeType: text/plain`으로 → Google 문서 변환 |
+| `<주제> 캡션` (Google 문서) | 에이전트: Drive 커넥터 `create_file`에 caption.md 본문을 `textContent`, `contentMimeType: text/plain` → Google 문서 변환 |
+| `<slug>_express.pptx` | 사용자: 에이전트가 대화 첨부로 전달 → 사용자가 주제 폴더에 끌어다 놓음 |
 
-PNG·폰트·zip·사진영상 틀·기록 문서는 Drive에 올리지 않는다. PNG는 대화 첨부로, 나머지는 git `content/<slug>/`에 둔다.
-4. PPTX를 커넥터 `base64Content`로 올리지 않는다. 수십만 자를 손으로 옮겨 써야 해서 한 글자만 틀려도 파일이 깨진다. `tools/upload_drive.py`는 환경 변수 `GDRIVE_CLIENT_ID`·`GDRIVE_CLIENT_SECRET`·`GDRIVE_REFRESH_TOKEN`(scope `drive`)이 필요하다. 없으면 업로드했다고 하지 않고 PPTX를 대화 첨부로 전달하며, 클라우드 환경 설정에 등록하도록 안내한다(채팅에 붙여넣게 하지 않는다).
-5. 수정본: 같은 이름 파일이 있으면 기존 파일을 `이전버전_<날짜>` 폴더로 옮긴 뒤 새로 올린다(스크립트가 자동 처리). 캡션은 새 문서를 만들고 이전 문서를 같은 폴더로 옮긴다. 덮어쓰거나 삭제하지 않는다. 공유 권한은 바꾸지 않는다.
-6. 검증: PPTX는 스크립트 출력의 크기·md5 일치를 확인한다. 캡션은 `download_file_content`로 다시 받아 원문과 대조한다(검색 미리보기의 이모지 `ð` 표시는 미리보기 문제이며 내용 확인은 다운로드로 한다).
-7. 보고: Drive 주제 폴더 링크를 최종 보고 맨 앞에 둔다. 커넥터가 없거나 권한이 없으면 업로드 완료라고 하지 않는다.
+PNG·폰트·zip·사진영상 틀·기록 문서는 Drive에 두지 않는다. PNG는 대화 첨부로, 나머지는 git `content/<slug>/`에 둔다.
+4. PPTX를 커넥터 `base64Content`로 올리지 않는다. 수십만 자를 손으로 옮겨 써야 해서 한 글자만 틀려도 파일이 깨진다. 사용자가 나중에 `GDRIVE_CLIENT_ID`·`GDRIVE_CLIENT_SECRET`·`GDRIVE_REFRESH_TOKEN`을 등록하면(`tools/DRIVE_SETUP.md`) `python3 tools/upload_drive.py --topic <날짜>_<slug> <pptx>`로 자동 업로드할 수 있다. 등록 전에는 첨부 전달이 기본이다.
+5. 수정본: 캡션은 새 문서를 만들고 이전 문서를 `이전버전_<날짜>` 폴더로 옮긴다. 덮어쓰거나 삭제하지 않는다. 공유 권한은 바꾸지 않는다.
+6. 검증: 캡션은 `download_file_content`로 다시 받아 원문과 대조한다(검색 미리보기의 이모지 `ð` 표시는 미리보기 문제이며 내용 확인은 다운로드로 한다).
+7. 보고: Drive 주제 폴더 링크를 최종 보고 맨 앞에 두고, PPTX 첨부를 이 폴더에 넣어 달라고 적는다. 커넥터가 없거나 권한이 없으면 업로드 완료라고 하지 않는다.
 
 git 저장소에는 지금처럼 `content/<slug>/` 전체(소스 포함)를 커밋한다. Drive는 사용자가 꺼내 쓰는 납품 위치다.
 
