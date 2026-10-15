@@ -69,7 +69,29 @@ content/<topic-slug>/
   QA_REPORT.md
 ```
 
-파일 존재/크기/링크 확인 후 PNG·소스·편집 파일 경로와 미검수 부분을 간단히 전달한다. 콜라주를 기본 납품물로 내지 않는다. 임상 게시 판단·실제 영상·앱 가져오기 상태를 구분한다.
+파일 존재/크기/링크 확인 후 7-1에 따라 Google Drive에 올리고, Drive 폴더 링크·PNG·소스·편집 파일 경로와 미검수 부분을 간단히 전달한다. 콜라주를 기본 납품물로 내지 않는다. 임상 게시 판단·실제 영상·앱 가져오기 상태를 구분한다.
+
+## 7-1. Google Drive 업로드 (2026-10-15 추가)
+
+완성 납품물의 저장 위치는 사용자 Google Drive다. Google Drive 커넥터로 올린다.
+
+1. 루트 폴더 `R스포츠재활센터 카드뉴스`를 내 드라이브(`parentId = 'root'`)에서 제목으로 검색한다. 없을 때만 만든다.
+2. 주제 폴더 `<YYYY-MM-DD>_<topic-slug>`(예: `2026-10-14_pfp-runners-part2`)를 같은 방식으로 찾거나 만든다. 시리즈는 slug에 1탄·2탄을 구분한다.
+3. 하위 폴더와 내용:
+
+| 폴더 | 올릴 파일 |
+|---|---|
+| `01_게시용PNG` | exports/01.png … (1080×1350 원본, 이름 유지) |
+| `02_Express편집` | Express PPTX, 폰트·기준 PNG·안내를 묶은 zip |
+| `03_사진영상틀` | 사진/영상 카드의 background·overlay·preview PNG, placement.json, MEDIA_PLAN.md (해당 주제만) |
+| `04_기록` | caption(Google 문서로 변환), caption.md·storyboard.md·sources.md·claims.md·asset_manifest.md·QA_REPORT.md(원본 형식) |
+
+4. 업로드 규칙: PNG·PPTX·zip·JSON·MD는 `disableConversionToGoogleType: true`로 원본 형식을 유지한다. 캡션만 복사용 Google 문서를 추가로 만든다. 공유 권한은 바꾸지 않는다.
+5. 수정본: 같은 이름 파일이 있으면 기존 파일을 `이전버전_<날짜>` 하위 폴더로 옮긴 뒤 새 파일을 올린다. 덮어쓰거나 삭제하지 않는다.
+6. 검증: 업로드 후 각 하위 폴더를 다시 조회해 파일 수·이름을 로컬 목록과 대조한다. 실패·크기 제한으로 못 올린 파일은 이름과 이유를 보고하고 로컬 경로를 함께 적는다.
+7. 보고: Drive 주제 폴더 링크를 최종 보고 맨 앞에 둔다. 커넥터가 없거나 권한이 없으면 업로드 완료라고 하지 않는다.
+
+git 저장소에는 지금처럼 `content/<slug>/` 전체(소스 포함)를 커밋한다. Drive는 사용자가 꺼내 쓰는 납품 위치다.
 
 ## 8. 영구 수정
 
