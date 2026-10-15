@@ -5,7 +5,7 @@ Drive 커넥터는 파일 내용을 base64 텍스트로 손으로 옮겨야 해�
 
 필요한 환경 변수 (클라우드 환경 설정의 Network secrets/환경 변수에 등록, 채팅에 붙여넣지 않음):
   GDRIVE_CLIENT_ID, GDRIVE_CLIENT_SECRET, GDRIVE_REFRESH_TOKEN
-  - Google Cloud OAuth 클라이언트(데스크톱 앱)와 scope https://www.googleapis.com/auth/drive 로 받은 refresh token
+  - Google Cloud OAuth 클라이언트(웹 애플리케이션)와 scope https://www.googleapis.com/auth/drive 로 받은 refresh token (발급 절차: tools/DRIVE_SETUP.md)
   - drive.file 범위로는 Drive 커넥터가 만든 기존 `R스포츠재활센터 카드뉴스` 폴더를 볼 수 없어 중복 폴더가 생기므로 drive 범위가 필요
 
 사용:
