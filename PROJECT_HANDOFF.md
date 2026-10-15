@@ -16,6 +16,10 @@
 
 사용자 Google Drive `R스포츠재활센터 카드뉴스/<날짜>_<slug>/`에 Express PPTX와 캡션(Google 문서)만 올린다(CARDNEWS_WORKFLOW.md 7-1). 캡션은 에이전트가 Drive 커넥터로 올리고, PPTX는 대화 첨부로 전달해 사용자가 직접 끌어다 놓는다(2026-10-15 사용자 선택). `tools/upload_drive.py`는 인증 등록 시 선택 경로. 폰트는 `templates/express_fonts/`에 두고 재납품하지 않는다. git은 소스·기록 보관.
 
+## 시각자료: 사진 우선 (2026-10-15)
+
+직접 그린 픽토그램·도식 대신 사진(사용자 소재 또는 사용권 명확한 인터넷 사진)을 쓴다. 데이터 그래프는 유지. 절차는 CARDNEWS_WORKFLOW.md 2-1. 2026-10-15 현재 이 환경에서 Wikimedia·Openverse·Unsplash·Pexels·Pixabay·Flickr 접속이 네트워크 정책으로 차단됨 → 허용 도메인 추가 필요. 1·2탄의 기존 픽토그램은 이 규칙 이전 결과물이다.
+
 ## 작업 상태와 기준 폴더
 
 | 폴더 | 상태·용도 |
