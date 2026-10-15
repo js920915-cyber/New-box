@@ -14,7 +14,7 @@
 
 ## 납품 저장 위치 (2026-10-15)
 
-완성 납품물은 사용자 Google Drive `R스포츠재활센터 카드뉴스/<날짜>_<slug>/`에 올린다(CARDNEWS_WORKFLOW.md 7-1). git은 소스·기록 보관.
+사용자 Google Drive `R스포츠재활센터 카드뉴스/<날짜>_<slug>/`에 Express PPTX와 캡션(Google 문서)만 올린다(CARDNEWS_WORKFLOW.md 7-1). PPTX는 `tools/upload_drive.py`(인증 환경 변수 필요, 2026-10-15 현재 미등록), 캡션은 Drive 커넥터. 폰트는 `templates/express_fonts/`에 두고 재납품하지 않는다. git은 소스·기록 보관.
 
 ## 작업 상태와 기준 폴더
 

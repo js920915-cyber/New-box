@@ -46,7 +46,7 @@ QA_REPORT.md에 카드별 실제 폰트 크기·contentBottom·bottomGap·수정
 
 ## 6. Express 편집본
 
-디자인은 Adobe로 새로 생성하지 않는다. 원래 HTML 좌표에서 PPTX 실제 텍스트 상자를 직접 작성한다. 줄/강조 구간 분리, 자동 줄바꿈/자동 크기 조절 끄기, 폰트·자간·크기·좌표 보존. 정적 폰트는 이름과 OFL 기록.
+디자인은 Adobe로 새로 생성하지 않는다. 원래 HTML 좌표에서 PPTX 실제 텍스트 상자를 직접 작성한다. 줄/강조 구간 분리, 자동 줄바꿈/자동 크기 조절 끄기, 폰트·자간·크기·좌표 보존. 정적 폰트는 이름과 OFL 기록. 폰트 파일(`templates/express_fonts/`, Noto Sans KR W500~W850)은 사용자가 이미 받았으므로 2026-10-15부터 Express 패키지에 다시 넣지 않는다. 새 굵기가 필요할 때만 해당 폰트를 추가로 전달한다.
 
 PDF는 읽기/비교용 선택 산출물. PDF→PPTX→Express 연속 변환 금지. PDF 가져오기 오류 이력이 있으므로 직접 제작한 PPTX 우선. PPTX도 완전 보존을 보장하지 않는다.
 
@@ -64,7 +64,7 @@ content/<topic-slug>/
   exports/01.png ... 06.png
   video-template/          # 영상형일 때
   VIDEO_PLAN.md           # 영상형일 때
-  adobe-express/          # 편집 요청 시 PPTX/폰트/안내
+  adobe-express/          # 편집 요청 시 PPTX/안내 (폰트는 templates/express_fonts, 재납품 안 함)
   caption.md
   QA_REPORT.md
 ```
@@ -77,18 +77,17 @@ content/<topic-slug>/
 
 1. 루트 폴더 `R스포츠재활센터 카드뉴스`를 내 드라이브(`parentId = 'root'`)에서 제목으로 검색한다. 없을 때만 만든다.
 2. 주제 폴더 `<YYYY-MM-DD>_<topic-slug>`(예: `2026-10-14_pfp-runners-part2`)를 같은 방식으로 찾거나 만든다. 시리즈는 slug에 1탄·2탄을 구분한다.
-3. 하위 폴더와 내용:
+3. 올리는 파일은 두 가지뿐이다(2026-10-15 사용자 지시). 하위 폴더 없이 주제 폴더에 둔다.
 
-| 폴더 | 올릴 파일 |
+| 파일 | 방법 |
 |---|---|
-| `01_게시용PNG` | exports/01.png … (1080×1350 원본, 이름 유지) |
-| `02_Express편집` | Express PPTX, 폰트·기준 PNG·안내를 묶은 zip |
-| `03_사진영상틀` | 사진/영상 카드의 background·overlay·preview PNG, placement.json, MEDIA_PLAN.md (해당 주제만) |
-| `04_기록` | caption(Google 문서로 변환), caption.md·storyboard.md·sources.md·claims.md·asset_manifest.md·QA_REPORT.md(원본 형식) |
+| `<slug>_express.pptx` | `python3 tools/upload_drive.py --topic <날짜>_<slug> <pptx 경로>` — Drive API 직접 업로드, 변환 없음, 크기·md5 대조 |
+| `<주제> 캡션` (Google 문서) | Drive 커넥터 `create_file`에 caption.md 본문을 `textContent`, `contentMimeType: text/plain`으로 → Google 문서 변환 |
 
-4. 업로드 규칙: PNG·PPTX·zip·JSON·MD는 `disableConversionToGoogleType: true`로 원본 형식을 유지한다. 캡션만 복사용 Google 문서를 추가로 만든다. 공유 권한은 바꾸지 않는다.
-5. 수정본: 같은 이름 파일이 있으면 기존 파일을 `이전버전_<날짜>` 하위 폴더로 옮긴 뒤 새 파일을 올린다. 덮어쓰거나 삭제하지 않는다.
-6. 검증: 업로드 후 각 하위 폴더를 다시 조회해 파일 수·이름을 로컬 목록과 대조한다. 실패·크기 제한으로 못 올린 파일은 이름과 이유를 보고하고 로컬 경로를 함께 적는다.
+PNG·폰트·zip·사진영상 틀·기록 문서는 Drive에 올리지 않는다. PNG는 대화 첨부로, 나머지는 git `content/<slug>/`에 둔다.
+4. PPTX를 커넥터 `base64Content`로 올리지 않는다. 수십만 자를 손으로 옮겨 써야 해서 한 글자만 틀려도 파일이 깨진다. `tools/upload_drive.py`는 환경 변수 `GDRIVE_CLIENT_ID`·`GDRIVE_CLIENT_SECRET`·`GDRIVE_REFRESH_TOKEN`(scope `drive`)이 필요하다. 없으면 업로드했다고 하지 않고 PPTX를 대화 첨부로 전달하며, 클라우드 환경 설정에 등록하도록 안내한다(채팅에 붙여넣게 하지 않는다).
+5. 수정본: 같은 이름 파일이 있으면 기존 파일을 `이전버전_<날짜>` 폴더로 옮긴 뒤 새로 올린다(스크립트가 자동 처리). 캡션은 새 문서를 만들고 이전 문서를 같은 폴더로 옮긴다. 덮어쓰거나 삭제하지 않는다. 공유 권한은 바꾸지 않는다.
+6. 검증: PPTX는 스크립트 출력의 크기·md5 일치를 확인한다. 캡션은 `download_file_content`로 다시 받아 원문과 대조한다(검색 미리보기의 이모지 `ð` 표시는 미리보기 문제이며 내용 확인은 다운로드로 한다).
 7. 보고: Drive 주제 폴더 링크를 최종 보고 맨 앞에 둔다. 커넥터가 없거나 권한이 없으면 업로드 완료라고 하지 않는다.
 
 git 저장소에는 지금처럼 `content/<slug>/` 전체(소스 포함)를 커밋한다. Drive는 사용자가 꺼내 쓰는 납품 위치다.
