@@ -54,14 +54,14 @@ def gap(px):
     return f'<div style="height:{px}px;flex:none"></div>'
 
 
-WHY_CARD =     ('kind-why', [
-        '<h1 class="headline">무릎 앞 통증,<br><span class="accent">왜</span> 생길까요?</h1>', gap(44),
-        '<div class="box"><p class="key">무릎뼈 관절 압박<br>= 누르는 힘 ÷ 닿는 면적</p></div>', gap(48),
-        '<div class="list" style="gap:32px">'
-        + pair('누르는 힘이 커질 때', '무릎을 굽힌 채 버티는 부하가<br>갑자기 늘 때')
-        + pair('닿는 면적이 작아질 때', '무릎뼈 정렬, 허벅지가 안으로<br>모이는 움직임 등') + '</div>', gap(44),
-        '<p class="body">견딜 수 있는 수준을 넘는 압박이 반복되면<br>주변 조직이 예민해져 아플 수 있습니다.</p>', gap(16),
-        '<p class="note">어느 조직이 아픈지는 아직 정확히 모릅니다</p>'])
+WHY_CARD = ('kind-why', [  # 근거: Powers 2017 BJSM 51:1713 (원문 확인) Statement 1, 1.1, 1.1a, 1.1a.2, 1.2b.2
+        '<h1 class="headline">무릎 앞 통증,<br><span class="accent">왜</span> 생길까요?</h1>', gap(40),
+        '<div class="box"><p class="key">무릎뼈 관절 압박<br>= 누르는 힘 ÷ 닿는 면적</p></div>', gap(40),
+        '<div class="list" style="gap:28px">'
+        + pair('누르는 힘이 커질 때', '무릎 펴는 근육이 크게 일할 때<br>예: 상체를 꼿꼿이 세우고 달리기')
+        + pair('닿는 면적이 작아질 때', '무릎뼈가 바깥으로 치우치거나<br>허벅지가 안으로 돌아갈 때') + '</div>', gap(40),
+        '<p class="body">과한 압박이 반복되면 무릎뼈 속 압력이<br>올라 아플 수 있다고 추정합니다.</p>', gap(14),
+        '<p class="note">아직 가설이며, 통증에는 신경이 예민해지는 등<br>다른 요인도 함께 작용합니다</p>'])
 
 CARDS = [
     # 01 표지

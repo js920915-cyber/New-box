@@ -7,9 +7,9 @@
     {
       "card": "01",
       "verticalShiftPx": 2,
-      "diffPct": 7.99,
-      "pass": true
+      "diffPct": 8.47,
+      "pass": false
     }
   ],
-  "result": "LO-PASS"
+  "result": "LO-FAIL"
 }
