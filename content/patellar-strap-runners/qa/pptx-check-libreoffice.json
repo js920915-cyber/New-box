@@ -1,0 +1,57 @@
+{
+  "pptx": "adobe-express/patellar-strap-runners-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 8,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 5.91,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 2,
+      "diffPct": 5.67,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 2,
+      "diffPct": 8.23,
+      "pass": false
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 7.98,
+      "pass": true
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 5.95,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 2,
+      "diffPct": 8.94,
+      "pass": false
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 2,
+      "diffPct": 4.06,
+      "pass": true
+    },
+    {
+      "card": "08",
+      "verticalShiftPx": 3,
+      "diffPct": 8.43,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}
