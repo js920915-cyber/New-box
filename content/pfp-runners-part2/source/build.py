@@ -54,6 +54,15 @@ def gap(px):
     return f'<div style="height:{px}px;flex:none"></div>'
 
 
+WHY_CARD =     ('kind-why', [
+        '<h1 class="headline">무릎 앞 통증,<br><span class="accent">왜</span> 생길까요?</h1>', gap(44),
+        '<div class="box"><p class="key">무릎뼈 관절 압박<br>= 누르는 힘 ÷ 닿는 면적</p></div>', gap(48),
+        '<div class="list" style="gap:32px">'
+        + pair('누르는 힘이 커질 때', '무릎을 굽힌 채 버티는 부하가<br>갑자기 늘 때')
+        + pair('닿는 면적이 작아질 때', '무릎뼈 정렬, 허벅지가 안으로<br>모이는 움직임 등') + '</div>', gap(44),
+        '<p class="body">견딜 수 있는 수준을 넘는 압박이 반복되면<br>주변 조직이 예민해져 아플 수 있습니다.</p>', gap(16),
+        '<p class="note">어느 조직이 아픈지는 아직 정확히 모릅니다</p>'])
+
 CARDS = [
     # 01 표지
     ('kind-cover', [
@@ -117,8 +126,15 @@ CARDS = [
         '<p class="safety warn">통증이 커지거나 다음 날까지 남으면<br>범위·무게를 줄이고 담당 트레이너와<br>조정하세요.</p>']),
 ]
 
-for i, (kind, parts) in enumerate(CARDS, 1):
-    html = (f'<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>PFP 2탄 {i:02d}</title><style>{CSS}</style></head>'
-            f'<body><article class="card {kind}">{FRAME}{"".join(parts)}</article>{SCRIPTS}</body></html>')
-    (HERE / f'{i:02d}.html').write_text(html, encoding='utf-8')
-print(f'{len(CARDS)} cards')
+
+
+def write_cards(cards, out):
+    for i, (kind, parts) in enumerate(cards, 1):
+        html = (f'<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>PFP 2탄 {i:02d}</title><style>{CSS}</style></head>'
+                f'<body><article class="card {kind}">{FRAME}{"".join(parts)}</article>{SCRIPTS}</body></html>')
+        (out / f'{i:02d}.html').write_text(html, encoding='utf-8')
+    print(f'{len(cards)} cards')
+
+
+if __name__ == '__main__':
+    write_cards(CARDS, HERE)

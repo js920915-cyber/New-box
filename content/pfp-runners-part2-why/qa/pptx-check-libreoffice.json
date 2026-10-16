@@ -1,0 +1,15 @@
+{
+  "pptx": "adobe-express/pfp-runners-part2-why-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 1,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 2,
+      "diffPct": 7.99,
+      "pass": true
+    }
+  ],
+  "result": "LO-PASS"
+}
