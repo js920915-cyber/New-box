@@ -2,14 +2,13 @@
   {
     "card": "01",
     "size": "1080x1350",
-    "contentBottom": 1232.9,
-    "bottomGap": 83.1,
+    "contentBottom": 1224.7,
+    "bottomGap": 91.3,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "key": "56px/800",
-      "item": "48px/800",
       "note": "36px/500",
       "body": "44px/500"
     }
