@@ -1,0 +1,63 @@
+{
+  "pptx": "adobe-express/pfp-runners-part2-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 9,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 6.1,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 3,
+      "diffPct": 8.14,
+      "pass": false
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 2,
+      "diffPct": 3.31,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 4.63,
+      "pass": true
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 7.07,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 2,
+      "diffPct": 4.06,
+      "pass": true
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 2,
+      "diffPct": 4.62,
+      "pass": true
+    },
+    {
+      "card": "08",
+      "verticalShiftPx": 1,
+      "diffPct": 4.77,
+      "pass": true
+    },
+    {
+      "card": "09",
+      "verticalShiftPx": 3,
+      "diffPct": 6.81,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}
