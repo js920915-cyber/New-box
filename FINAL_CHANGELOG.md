@@ -1,3 +1,11 @@
+# V5.1 변경 기록 — 2026-10-16
+
+- **납품물은 매번 대화창 다운로드 첨부.** delivery 3종(PNG 각 장·PPTX·caption.md) 전부를 대화창 첨부 파일로 보내 사용자가 "다운로드"만 눌러 받게 한다. 경로만 알려 주고 끝내지 않는다(AGENTS·WORKFLOW 7-1·PROMPT·CLOUD_START).
+- **그림 대신 사진**(2026-10-15 지시를 main 지침에 통합): 사용자 소재 → CC0/CC BY/CC BY-SA 등 사용권 확인 사진 → 없으면 사진 자리. 데이터 그래프는 유지. 사용권 기록·캡션 저작자 표시(WORKFLOW 2-1).
+- **PowerPoint 없는 환경 경로**: `tools/cardkit/linux_render.cjs`(렌더·QA·줄 좌표·사진 크롭), `verify_pptx_lo.py`(LibreOffice 대체 검사, PASS 아님). 클라우드에서 같은 PNG·PPTX를 만들고 "PowerPoint 미검증"으로 보고.
+- 다른 플랫폼은 main 브랜치를 읽으므로 지침 변경은 main에 합쳐져야 똑같이 적용된다(CLOUD_START).
+- 첫 적용: content/pfp-runners-part2 (9장).
+
 # V5 변경 기록 — 2026-10-14
 
 - **매 주제 Adobe Express 편집용 PPTX 기본 납품.** 요청 없어도 제작. 폰트·글자 크기·줄바꿈·줄 간격·위치가 PNG와 같아야 함.

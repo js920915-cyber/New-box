@@ -25,6 +25,19 @@ powershell -ExecutionPolicy Bypass -File tools/cardkit/make_all.ps1 -Topic conte
 
 단계별: `render.ps1` → `extract_layers.ps1` → `build_pptx.py` → `verify_pptx.ps1` → `deliver.ps1`.
 
+## Linux(클라우드)에서 실행
+
+PowerShell·PowerPoint가 없는 환경용. 같은 qa.js·layers.js·build_pptx.py를 쓴다.
+
+```bash
+python3 content/<slug>/source/build.py
+node tools/cardkit/linux_render.cjs content/<slug>          # render.ps1 + extract_layers.ps1 (Playwright Chromium)
+python3 tools/cardkit/build_pptx.py content/<slug>
+python3 tools/cardkit/verify_pptx_lo.py content/<slug>      # LibreOffice 대체 검사 → qa/pptx-check-libreoffice.json
+```
+
+verify_pptx_lo.py 결과는 LO-PASS/LO-FAIL이며 PowerPoint PASS가 아니다. LibreOffice는 한글–숫자/라틴 사이에 자동 간격을 넣고 세로 보정값이 PowerPoint 기준이라 픽셀 차이가 약간 크게 나온다. 줄 수·줄바꿈·넘침 확인용으로 쓰고, PowerPoint 검증은 미실시로 보고한다.
+
 ## PPTX 설계 (폰트·크기·줄·간격 보존)
 
 | 항목 | 처리 |
