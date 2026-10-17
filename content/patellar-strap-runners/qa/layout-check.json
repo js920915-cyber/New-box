@@ -30,13 +30,12 @@
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1164.8,
-    "bottomGap": 151.2,
+    "contentBottom": 1184,
+    "bottomGap": 132,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "42px/750",
-      "body": "44px/500",
       "note": "32px/500",
       "flow": "42px/750"
     }
