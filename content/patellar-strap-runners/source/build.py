@@ -69,15 +69,14 @@ CARDS = [
         '<div class="slot" style="height:580px"><p class="tag">사진 넣는 자리</p>'
         '<p class="guide">스트랩을 찬 무릎 · 정면 또는 옆모습<br>띠가 무릎뼈 바로 아래 힘줄 위를 지나게</p></div>', gap(44),
         '<p class="body">무릎뼈와 정강이를 잇는 <span class="strong">힘줄</span> 위를<br>지나갑니다. 점프·착지에서 이 힘줄이<br>아픈 ‘점퍼 무릎’에서 주로 연구됐습니다.</p>']),
-    # 03 효과 — 얼굴 통증 척도 (de Vries 2016 Table 2 중앙값 ÷10)
+    # 03 효과 — 얼굴 통증 척도, 각 군의 착용 전 통증 → 착용 후 (de Vries 2016 Fig.4)
     ('kind-effect', [
-        '<h1 class="headline">진짜 스트랩 vs<br><span class="accent">가짜 테이프</span><br>실험해 봤습니다</h1>', gap(24),
-        '<div class="photo" style="height:440px"><img src="../assets/charts/vas.png" alt="0~10 얼굴 통증 척도: 안 찼을 때 3.3에서 가짜 테이프 2.6, 진짜 스트랩 1.9로 감소" style="width:888px;left:0;top:0"></div>', gap(8),
-        '<p class="note" style="font-size:32px;line-height:1.35">슬개건병증 선수 97명 · 한 다리 경사 스쿼트 10회 통증<br>가짜 테이프 = 힘줄을 누르지 않게 짧게 붙인 테이프</p>', gap(20),
-        '<div class="box" style="padding:26px 40px;display:flex;flex-direction:column;gap:6px">'
-        '<p class="flow">① 진짜 스트랩: <span class="accent">확실히 ↓</span></p>'
-        '<p class="flow">② 가짜 테이프: 조금 ↓ (확실하진 않음)</p>'
-        '<p class="flow">③ 스트랩 vs 가짜 테이프 → <span class="accent">큰 차이 없음</span></p></div>']),
+        '<h1 class="headline">진짜 스트랩 vs<br><span class="accent">가짜 테이프</span><br>실험해 봤습니다</h1>', gap(28),
+        '<div class="photo" style="height:384px"><img src="../assets/charts/vas.png" alt="0~10 얼굴 통증 척도: 진짜 스트랩 3.5에서 2.7, 가짜 테이프 3.4에서 2.7로 감소" style="width:888px;left:0;top:0"></div>', gap(12),
+        '<p class="note" style="font-size:32px;line-height:1.35">슬개건병증 선수 · 1주는 그냥, 2주째는 착용하고 운동<br>운동 2시간 뒤 통증 (가짜 테이프 = 힘줄을 누르지 않는 테이프)</p>', gap(28),
+        '<div class="box" style="padding:30px 40px;display:flex;flex-direction:column;gap:8px">'
+        '<p class="key">둘 다 <span class="accent">0.7~0.8점</span> 줄었습니다</p>'
+        '<p class="body">진짜 스트랩의 효과가 가짜 테이프와<br><span class="strong">크게 다르지 않았다는 뜻</span>입니다</p></div>']),
     # 04 기전 가설 ① 흐름 + X선
     ('kind-mech1', [
         '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(32),
