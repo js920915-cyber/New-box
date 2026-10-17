@@ -30,15 +30,15 @@
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1161.6,
-    "bottomGap": 154.4,
+    "contentBottom": 1164.8,
+    "bottomGap": 151.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "48px/800",
+      "accent": "42px/750",
       "body": "44px/500",
-      "note": "36px/500",
-      "item": "48px/800"
+      "note": "32px/500",
+      "flow": "42px/750"
     }
   },
   {
@@ -68,6 +68,7 @@
       "headline": "84px/850",
       "accent": "56px/750",
       "key": "56px/750",
+      "strong": "38px/750",
       "note": "38px/500"
     }
   },

@@ -69,15 +69,16 @@ CARDS = [
         '<div class="slot" style="height:580px"><p class="tag">사진 넣는 자리</p>'
         '<p class="guide">스트랩을 찬 무릎 · 정면 또는 옆모습<br>띠가 무릎뼈 바로 아래 힘줄 위를 지나게</p></div>', gap(44),
         '<p class="body">무릎뼈와 정강이를 잇는 <span class="strong">힘줄</span> 위를<br>지나갑니다. 점프·착지에서 이 힘줄이<br>아픈 ‘점퍼 무릎’에서 주로 연구됐습니다.</p>']),
-    # 03 효과 — 실험 결과
+    # 03 효과 — 실험 결과 (de Vries 2016 Table 2 중앙값)
     ('kind-effect', [
-        '<h1 class="headline">진짜 스트랩 vs<br><span class="accent">가짜 테이프</span><br>실험해 봤습니다</h1>', gap(36),
-        '<p class="body">운동선수 97명 · 한 다리 경사 스쿼트</p>', gap(12),
-        '<div class="photo" style="height:400px"><img src="../assets/charts/vas.png" alt="0~100mm 통증 척도에서 14mm 감소를 나타낸 화살표" style="width:888px;left:0;top:0"></div>',
-        '<p class="note">스트랩을 찼을 때 줄어든 폭 (화살표 길이만 실제 비율)</p>', gap(32),
-        '<div class="box" style="padding:30px 40px;display:flex;flex-direction:column;gap:10px">'
-        '<p class="item">결과 ① <span class="accent">둘 다</span> 통증이 줄었고</p>'
-        '<p class="item">결과 ② 둘 사이 <span class="accent">큰 차이는 없었습니다</span></p></div>']),
+        '<h1 class="headline">진짜 스트랩 vs<br><span class="accent">가짜 테이프</span><br>실험해 봤습니다</h1>', gap(24),
+        '<p class="body">선수 97명 · 한 다리 경사 스쿼트 10회 통증</p>', gap(8),
+        '<div class="photo" style="height:400px"><img src="../assets/charts/vas.png" alt="경사 스쿼트 통증 중앙값: 안 찼을 때 33, 가짜 테이프 26, 진짜 스트랩 19" style="width:888px;left:0;top:0"></div>',
+        '<p class="note" style="font-size:32px">가짜 테이프 = 힘줄을 누르지 않게 짧게 붙인 키네시오 테이프</p>', gap(20),
+        '<div class="box" style="padding:26px 40px;display:flex;flex-direction:column;gap:6px">'
+        '<p class="flow">① 진짜 스트랩: <span class="accent">확실히 ↓</span> (−14mm)</p>'
+        '<p class="flow">② 가짜 테이프: 조금 ↓ (확실하진 않음)</p>'
+        '<p class="flow">③ 스트랩 vs 가짜 테이프 → <span class="accent">큰 차이 없음</span></p></div>']),
     # 04 기전 가설 ① 흐름 + X선
     ('kind-mech1', [
         '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(32),
@@ -93,8 +94,8 @@ CARDS = [
     ('kind-mech2', [
         '<h1 class="headline">부딪힌 팔꿈치를<br><span class="accent">문지르면</span> 덜 아픈 것처럼</h1>', gap(130),
         '<p class="key" style="font-weight:750">피부를 누르는 감각이<br><span class="accent">통증 신호를 덮을 수</span> 있습니다</p>', gap(88),
-        '<p class="key" style="font-weight:750">여기에 <span class="accent">‘차면 덜 아파’</span><br>기대도 더해집니다</p>', gap(130),
-        '<div class="box" style="padding:44px 40px"><p class="note" style="color:var(--ink);font-size:38px">가짜 테이프 결과로 추정한 가능성입니다.<br>실제로 잰 감각은 ‘무릎 위치 감각’ 하나,<br>원래 감각이 떨어진 선수에서만 좋아졌습니다.</p></div>']),
+        '<p class="key" style="font-weight:750">여기에 <span class="accent">‘차면 덜 아파’</span><br>기대도 더해질 수 있습니다</p>', gap(130),
+        '<div class="box" style="padding:44px 40px"><p class="note" style="color:var(--ink);font-size:38px"><span class="strong">논문 저자들의 해석</span><br>뭐든 붙이면 피부가 자극돼 통증 신호가 바뀐다<br>스트랩은 힘줄 압박이 조금 더 보탰을 수 있다</p></div>']),
     # 06 슬개건병증 통증 부위
     ('kind-who', [
         '<h1 class="headline"><span class="accent">슬개건병증</span>,<br>여기가 아프다면</h1>', gap(40),
