@@ -533,171 +533,163 @@
         ]
       },
       {
-        "left": 357.109375,
-        "right": 722.875,
-        "top": 363.59375,
-        "bottom": 421.59375,
+        "left": 379.96875,
+        "right": 700.015625,
+        "top": 767.59375,
+        "bottom": 817.59375,
         "runs": [
           {
             "text": "슬개건 스트랩 착용",
             "style": {
-              "size": 48,
-              "weight": 800,
+              "size": 42,
+              "weight": 750,
               "color": "#121416",
-              "spacing": -1.44
+              "spacing": -1.26
             }
           }
         ]
       },
       {
-        "left": 516.703125,
-        "right": 563.265625,
-        "top": 431.984375,
-        "bottom": 489.984375,
+        "left": 522.984375,
+        "right": 556.984375,
+        "top": 817.1875,
+        "bottom": 858.1875,
         "runs": [
           {
             "text": "↓",
             "style": {
-              "size": 48,
+              "size": 34,
               "weight": 800,
               "color": "#0879d8",
-              "spacing": -1.44
+              "spacing": 0
             }
           }
         ]
       },
       {
-        "left": 357.109375,
-        "right": 722.875,
-        "top": 500.375,
-        "bottom": 558.375,
+        "left": 379.96875,
+        "right": 700.015625,
+        "top": 857.875,
+        "bottom": 907.875,
         "runs": [
           {
             "text": "슬개건에 국소 압박",
             "style": {
-              "size": 48,
-              "weight": 800,
+              "size": 42,
+              "weight": 750,
               "color": "#121416",
-              "spacing": -1.44
+              "spacing": -1.26
             }
           }
         ]
       },
       {
-        "left": 516.703125,
-        "right": 563.265625,
-        "top": 568.765625,
-        "bottom": 626.765625,
+        "left": 522.984375,
+        "right": 556.984375,
+        "top": 907.46875,
+        "bottom": 948.46875,
         "runs": [
           {
             "text": "↓",
             "style": {
-              "size": 48,
+              "size": 34,
               "weight": 800,
               "color": "#0879d8",
-              "spacing": -1.44
+              "spacing": 0
             }
           }
         ]
       },
       {
-        "left": 203.3125,
-        "right": 876.671875,
-        "top": 637.15625,
-        "bottom": 695.15625,
+        "left": 245.546875,
+        "right": 834.4375,
+        "top": 948.15625,
+        "bottom": 998.15625,
         "runs": [
           {
             "text": "슬개골–슬개건 각도·유효 길이 변화",
             "style": {
-              "size": 48,
-              "weight": 800,
+              "size": 42,
+              "weight": 750,
               "color": "#121416",
-              "spacing": -1.44
+              "spacing": -1.26
             }
           }
         ]
       },
       {
-        "left": 516.703125,
-        "right": 563.265625,
-        "top": 705.546875,
-        "bottom": 763.546875,
+        "left": 224.328125,
+        "right": 855.65625,
+        "top": 1001.75,
+        "bottom": 1039.75,
+        "runs": [
+          {
+            "text": "각도 = PPTA (patella–patellar tendon angle)",
+            "style": {
+              "size": 32,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.64
+            }
+          }
+        ]
+      },
+      {
+        "left": 522.984375,
+        "right": 556.984375,
+        "top": 1039.34375,
+        "bottom": 1080.34375,
         "runs": [
           {
             "text": "↓",
             "style": {
-              "size": 48,
+              "size": 34,
               "weight": 800,
               "color": "#0879d8",
-              "spacing": -1.44
+              "spacing": 0
             }
           }
         ]
       },
       {
-        "left": 205,
-        "right": 874.984375,
-        "top": 773.9375,
-        "bottom": 831.9375,
+        "left": 247.703125,
+        "right": 832.28125,
+        "top": 1080.03125,
+        "bottom": 1130.03125,
         "runs": [
           {
             "text": "슬개건 변형률(strain) 감소 가능성",
             "style": {
-              "size": 48,
-              "weight": 800,
-              "color": "#0879d8",
-              "spacing": -1.44
-            }
-          }
-        ]
-      },
-      {
-        "left": 265.4375,
-        "right": 814.5625,
-        "top": 926.328125,
-        "bottom": 979.328125,
-        "runs": [
-          {
-            "text": "이것 때문에 통증이 줄었는지는",
-            "style": {
-              "size": 44,
-              "weight": 500,
-              "color": "#121416",
-              "spacing": -0.88
-            }
-          }
-        ]
-      },
-      {
-        "left": 408.59375,
-        "right": 671.40625,
-        "top": 988.796875,
-        "bottom": 1041.796875,
-        "runs": [
-          {
-            "text": "아직 모릅니다.",
-            "style": {
-              "size": 44,
+              "size": 42,
               "weight": 750,
-              "color": "#121416",
-              "spacing": -0.88
+              "color": "#0879d8",
+              "spacing": -1.26
             }
           }
         ]
       },
       {
-        "left": 282.328125,
-        "right": 797.671875,
-        "top": 1106.265625,
-        "bottom": 1149.265625,
+        "left": 129.234375,
+        "right": 950.765625,
+        "top": 1160.625,
+        "bottom": 1210.625,
         "runs": [
           {
-            "text": "근거: X선 사진 20명 기반 계산 모델",
+            "text": "그런데 이것 때문에 통증이 줄었는지는 ",
             "style": {
-              "size": 36,
+              "size": 42,
               "weight": 500,
-              "color": "#5e6570",
-              "spacing": -0.72
+              "color": "#121416",
+              "spacing": -0.84
+            }
+          },
+          {
+            "text": "아직 모름",
+            "style": {
+              "size": 42,
+              "weight": 750,
+              "color": "#cc414a",
+              "spacing": -0.84
             }
           }
         ]
@@ -705,13 +697,22 @@
     ],
     "shapes": [
       {
-        "type": "box",
-        "x": 96,
-        "y": 886.328125,
-        "w": 888,
-        "h": 196.9375,
-        "fill": "#f0f7fc",
-        "radius": 20
+        "type": "photo",
+        "x": 310,
+        "y": 337.59375,
+        "w": 460,
+        "h": 400,
+        "src": "../assets/photos/xray-knee-lateral_Haggstrom_cc0_ppta.png",
+        "alt": "무릎 옆모습 X선, 무릎뼈 축과 슬개건 사이 각도(PPTA) 표시",
+        "img": {
+          "x": 310,
+          "y": 337.59375,
+          "w": 460,
+          "h": 400.609375,
+          "naturalW": 1162,
+          "naturalH": 1012
+        },
+        "file": "04-photo1.png"
       }
     ]
   },

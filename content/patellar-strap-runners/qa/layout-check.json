@@ -44,17 +44,18 @@
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1149.3,
-    "bottomGap": 166.7,
+    "contentBottom": 1210.6,
+    "bottomGap": 105.4,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "item": "48px/800",
-      "item accent": "48px/800",
-      "body": "44px/500",
-      "strong": "44px/750",
-      "note": "36px/500"
+      "flow": "42px/750",
+      "arrow": "34px/800",
+      "note": "32px/500",
+      "flow accent": "42px/750",
+      "body": "42px/500",
+      "strong warn": "42px/750"
     }
   },
   {

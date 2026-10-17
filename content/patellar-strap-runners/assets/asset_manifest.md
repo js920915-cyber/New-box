@@ -7,6 +7,7 @@
 | photos/cover-marathon_equinoxefr_ccby20.jpg | 01 | equinoxefr | https://www.flickr.com/photos/15900030@N05/4510885523 (“Run !”) | CC BY 2.0 | 2026-10-16 (Openverse 썸네일 프록시, 1024px) | 도로 마라톤 러너 무리. 스트랩 착용자 없음(종아리 압박 슬리브만) → 카드에서 사진 속 인물의 통증·착용을 말하지 않음 |
 | photos/mini-squat_BaoBaoLeung_ccbysa40.jpg | 07 | Bao Bao Leung 0218 | https://commons.wikimedia.org/wiki/File:Mini_squat.jpg | CC BY-SA 4.0 | 2026-10-16 (pfp-runners-part2에서 재사용) | 옆모습 얕은 미니 스쿼트. 무릎 근력 운동 일반 예시. 특정 힘줄 부하 프로그램 시범 아님 |
 | photos/knee-downhill_Memphre_ccbysa30.jpg → _marked.png | 06 | Memphre | https://commons.wikimedia.org/wiki/File:Syndrome_rotulien.jpg | CC BY-SA 3.0 | 2026-10-17 (Wikimedia 960px 썸네일) | 내리막 걷는 사람의 무릎 정면. 크롭 + 무릎뼈 바로 아래(슬개건 부착부 주변)에 빨간 원 표시 추가 → 수정본도 CC BY-SA 3.0. 원 위치는 일반적 통증 부위 안내이며 사진 속 인물의 진단이 아님 |
+| photos/xray-knee-lateral_Haggstrom_cc0.jpg → _ppta.png | 04 | Mikael Häggström | https://commons.wikimedia.org/wiki/File:X-ray_of_a_normal_knee_by_lateral_projection.jpg | CC0 | 2026-10-17 (원본 1133×1939) | 정상 무릎 옆모습 X선(굽힌 자세). 크롭 + 무릎뼈 장축(파랑)·슬개건(흰색) 선과 PPTA 각도 호(노랑)·라벨 표시 추가. 선 위치는 육안 추정이며 측정값 아님. Lavagnino 2011도 옆 X선에서 PPTA를 잼 |
 | (사진 자리) | 02 | 사용자 촬영 예정 | — | — | — | 스트랩을 찬 무릎 정면/옆모습, 띠가 무릎뼈 바로 아래 힘줄 위 |
 
 ## 찾았지만 쓰지 않은 것

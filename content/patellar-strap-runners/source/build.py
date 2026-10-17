@@ -33,6 +33,9 @@ h1,p{{margin:0;text-align:center}}
 .slot .guide{{font-size:36px;font-weight:500;color:var(--muted);line-height:1.42}}
 .list{{display:flex;flex-direction:column;align-items:center;gap:40px}}
 .pair{{display:flex;flex-direction:column;align-items:center;gap:8px}}
+
+.flow{{font-size:42px;font-weight:750;line-height:1.3;letter-spacing:-.03em}}
+.arrow{{font-size:34px;font-weight:800;line-height:1.05;color:var(--blue)}}
 .box{{background:var(--tint);border-radius:20px;padding:32px 40px;width:888px}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
@@ -75,16 +78,17 @@ CARDS = [
         '<div class="box" style="padding:30px 40px;display:flex;flex-direction:column;gap:10px">'
         '<p class="item">결과 ① <span class="accent">둘 다</span> 통증이 줄었고</p>'
         '<p class="item">결과 ② 둘 사이 <span class="accent">큰 차이는 없었습니다</span></p></div>']),
-    # 04 기전 가설 ① 흐름
+    # 04 기전 가설 ① 흐름 + X선
     ('kind-mech1', [
-        '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(56),
-        '<div class="list" style="gap:6px">'
-        '<p class="item">슬개건 스트랩 착용</p><p class="item accent">↓</p>'
-        '<p class="item">슬개건에 국소 압박</p><p class="item accent">↓</p>'
-        '<p class="item">슬개골–슬개건 각도·유효 길이 변화</p><p class="item accent">↓</p>'
-        '<p class="item accent">슬개건 변형률(strain) 감소 가능성</p></div>', gap(52),
-        '<div class="box" style="padding:36px 40px"><p class="body">이것 때문에 통증이 줄었는지는<br><span class="strong">아직 모릅니다.</span></p></div>', gap(20),
-        '<p class="note">근거: X선 사진 20명 기반 계산 모델</p>']),
+        '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(32),
+        '<div class="photo" style="width:460px;height:400px;border-radius:16px"><img src="../assets/photos/xray-knee-lateral_Haggstrom_cc0_ppta.png" alt="무릎 옆모습 X선, 무릎뼈 축과 슬개건 사이 각도(PPTA) 표시" style="width:460px;left:0;top:0"></div>', gap(28),
+        '<div class="list" style="gap:0">'
+        '<p class="flow">슬개건 스트랩 착용</p><p class="arrow">↓</p>'
+        '<p class="flow">슬개건에 국소 압박</p><p class="arrow">↓</p>'
+        '<p class="flow">슬개골–슬개건 각도·유효 길이 변화</p>'
+        '<p class="note" style="font-size:32px;line-height:1.3">각도 = PPTA (patella–patellar tendon angle)</p><p class="arrow">↓</p>'
+        '<p class="flow accent">슬개건 변형률(strain) 감소 가능성</p></div>', gap(24),
+        '<p class="body" style="font-size:42px">그런데 이것 때문에 통증이 줄었는지는 <span class="strong warn">아직 모름</span></p>']),
     # 05 이유 ② 감각과 기대
     ('kind-mech2', [
         '<h1 class="headline">부딪힌 팔꿈치를<br><span class="accent">문지르면</span> 덜 아픈 것처럼</h1>', gap(130),
