@@ -66,35 +66,37 @@ CARDS = [
         '<div class="slot" style="height:580px"><p class="tag">사진 넣는 자리</p>'
         '<p class="guide">스트랩을 찬 무릎 · 정면 또는 옆모습<br>띠가 무릎뼈 바로 아래 힘줄 위를 지나게</p></div>', gap(44),
         '<p class="body">무릎뼈와 정강이를 잇는 <span class="strong">힘줄</span> 위를<br>지나갑니다. 점프·착지에서 이 힘줄이<br>아픈 ‘점퍼 무릎’에서 주로 연구됐습니다.</p>']),
-    # 03 효과 — VAS 화살표
+    # 03 효과 — 실험 결과
     ('kind-effect', [
-        '<h1 class="headline">차면 덜 아팠습니다<br>그런데 <span class="accent">가짜 테이프</span>도요</h1>', gap(64),
-        '<p class="body">운동선수 97명 · 한 다리 경사 스쿼트 통증</p>', gap(44),
-        '<div class="photo" style="height:400px"><img src="../assets/charts/vas.png" alt="0~100mm 통증 척도에서 14mm 감소를 나타낸 화살표" style="width:888px;left:0;top:0"></div>', gap(8),
-        '<p class="note">안 찼을 때보다 줄어든 폭 (화살표 길이만 실제 비율)</p>', gap(64),
-        '<div class="box"><p class="body">아무 힘도 주지 않는 가짜 테이프와<br>비교하면 <span class="strong">뚜렷한 차이가 없었습니다.</span></p></div>']),
-    # 04 이유 ① 덜 당겨진다
+        '<h1 class="headline">진짜 스트랩 vs<br><span class="accent">가짜 테이프</span><br>실험해 봤습니다</h1>', gap(36),
+        '<p class="body">운동선수 97명 · 한 다리 경사 스쿼트</p>', gap(12),
+        '<div class="photo" style="height:400px"><img src="../assets/charts/vas.png" alt="0~100mm 통증 척도에서 14mm 감소를 나타낸 화살표" style="width:888px;left:0;top:0"></div>',
+        '<p class="note">스트랩을 찼을 때 줄어든 폭 (화살표 길이만 실제 비율)</p>', gap(32),
+        '<div class="box" style="padding:30px 40px;display:flex;flex-direction:column;gap:10px">'
+        '<p class="item">결과 ① <span class="accent">둘 다</span> 통증이 줄었고</p>'
+        '<p class="item">결과 ② 둘 사이 <span class="accent">큰 차이는 없었습니다</span></p></div>']),
+    # 04 기전 가설 ① 흐름
     ('kind-mech1', [
-        '<h1 class="headline">고무줄 중간을<br><span class="accent">손가락으로 누르면</span></h1>', gap(112),
-        '<p class="key">아래쪽이 덜 늘어나죠.</p>', gap(48),
-        '<p class="body">스트랩이 힘줄을 누르면 각도와 길이가<br>바뀌어, 아픈 부위가 <span class="strong">덜 당겨진다고</span><br><span class="strong">계산</span>됐습니다.</p>', gap(48),
-        '<p class="note">X선 사진 20명 기반 모델. 달리기 분석 모델에서도<br>허벅지 앞 근육 힘이 줄었다는 계산 결과</p>', gap(96),
-        '<div class="box" style="padding:56px 40px"><p class="safety">둘 다 계산값입니다.<br>통증이 줄어드는 걸 직접 잰 건 아닙니다.</p></div>']),
+        '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(56),
+        '<div class="list" style="gap:6px">'
+        '<p class="item">슬개건 스트랩 착용</p><p class="item accent">↓</p>'
+        '<p class="item">슬개건에 국소 압박</p><p class="item accent">↓</p>'
+        '<p class="item">슬개골–슬개건 각도·유효 길이 변화</p><p class="item accent">↓</p>'
+        '<p class="item accent">슬개건 변형률(strain) 감소 가능성</p></div>', gap(52),
+        '<div class="box" style="padding:36px 40px"><p class="body">이것 때문에 통증이 줄었는지는<br><span class="strong">아직 모릅니다.</span></p></div>', gap(20),
+        '<p class="note">근거: X선 사진 20명 기반 계산 모델</p>']),
     # 05 이유 ② 감각과 기대
     ('kind-mech2', [
         '<h1 class="headline">부딪힌 팔꿈치를<br><span class="accent">문지르면</span> 덜 아픈 것처럼</h1>', gap(130),
         '<p class="key" style="font-weight:750">피부를 누르는 감각이<br><span class="accent">통증 신호를 덮을 수</span> 있습니다</p>', gap(88),
         '<p class="key" style="font-weight:750">여기에 <span class="accent">‘차면 덜 아파’</span><br>기대도 더해집니다</p>', gap(130),
         '<div class="box" style="padding:44px 40px"><p class="note" style="color:var(--ink);font-size:38px">가짜 테이프 결과로 추정한 가능성입니다.<br>실제로 잰 감각은 ‘무릎 위치 감각’ 하나,<br>원래 감각이 떨어진 선수에서만 좋아졌습니다.</p></div>']),
-    # 06 아픈 자리로 구분
+    # 06 슬개건병증 통증 부위
     ('kind-who', [
-        '<h1 class="headline"><span class="accent">어디가</span> 아픈지가<br>먼저입니다</h1>', gap(110),
-        '<div class="list" style="gap:90px">'
-        + pair('<span class="accent">써볼 만함</span> · 무릎뼈 아래', '점프·착지·내리막에서 아플 때', 'key')
-        + pair('<span class="warn">권하지 않음</span> · 무릎뼈 주변·뒤', '러너에게 흔한 통증, 가이드라인 비권고', 'key')
-        + pair('<span class="warn">근거 부족</span> · 예방용', '안 아픈데 미리 찰 때', 'key')
-        + '</div>', gap(84),
-        '<p class="note">정확한 구분은 평가가 필요합니다</p>']),
+        '<h1 class="headline"><span class="accent">슬개건병증</span>,<br>여기가 아프다면</h1>', gap(40),
+        '<div class="photo" style="height:560px"><img src="../assets/photos/knee-downhill_Memphre_ccbysa30_marked.png" alt="내리막을 걷는 사람의 무릎, 무릎뼈 바로 아래에 빨간 원 표시" style="width:888px;left:0;top:0"></div>', gap(40),
+        '<p class="body">점프·착지·내리막에서 아픈 자리.<br>스트랩을 차면 <span class="strong">단기 통증 감소</span>가 보고됐습니다.</p>', gap(20),
+        '<p class="note">무릎뼈 주변·뒤가 아픈 슬개대퇴통증에는<br>가이드라인이 스트랩을 권하지 않습니다</p>']),
     # 07 차라리 운동
     ('kind-exercise', [
         '<h1 class="headline">힘줄은<br><span class="accent">쓰면서</span> 튼튼해집니다</h1>', gap(48),
