@@ -107,9 +107,9 @@ CARDS = [
         '<p class="note">무릎뼈 주변·뒤가 아픈 슬개대퇴통증에는<br>가이드라인이 스트랩을 권하지 않습니다</p>', cite('de Vries A et al. Scand J Med Sci Sports 2016;26(10):1217–24', 'Dar G, Mei-Dan E. Prosthet Orthot Int 2019;43(1):21–7', 'Willy RW et al. J Orthop Sports Phys Ther 2019;49(9):CPG1–95')]),
     # 07 차라리 운동
     ('kind-exercise', [
-        '<h1 class="headline">힘줄은<br><span class="accent">쓰면서</span> 튼튼해집니다</h1>', gap(32),
-        photo('mini-squat_BaoBaoLeung_ccbysa40.jpg', 570, 856, 16, 0, '무릎을 살짝 굽힌 미니 스쿼트 옆모습'), gap(48),
-        '<p class="body">무게를 조금씩 올린 힘줄 운동 24주,<br>기능 점수 <span class="strong accent">+28점</span> (기존 운동 +18점)</p>', gap(20),
+        '<h1 class="headline">힘줄은 <span class="accent">점진적인 부하</span>로<br>좋아집니다</h1>', gap(32),
+        photo('mini-squat_BaoBaoLeung_ccbysa40.jpg', 500, 750, 69, 0, '무릎을 살짝 굽힌 미니 스쿼트 옆모습'), gap(48),
+        '<p class="body">통증이 버틸 만한 범위에서 무게와 강도를<br><span class="strong">조금씩 늘려 힘줄에 부하를 주는 운동</span>,<br>이게 회복의 핵심입니다.</p>', gap(16),
         '<p class="note">무릎뼈 주변 통증 → 엉덩이 + 허벅지 근력 운동을 함께</p>', cite('Breda SJ et al. Br J Sports Med 2021;55:501–9', 'Collins NJ et al. Br J Sports Med 2018;52:1170–8')]),
     # 08 언더랩 2,500원 대체법 (사진 자리)
     ('kind-wrap', [
