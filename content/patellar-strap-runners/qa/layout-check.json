@@ -100,5 +100,22 @@
       "strong accent": "44px/750",
       "note": "36px/500"
     }
+  },
+  {
+    "card": "08",
+    "size": "1080x1350",
+    "contentBottom": 1169.9,
+    "bottomGap": 146.1,
+    "errors": "",
+    "fonts": {
+      "accent": "84px/850",
+      "headline": "84px/850",
+      "tag": "36px/700",
+      "guide": "36px/500",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500",
+      "safety warn": "38px/700"
+    }
   }
 ]

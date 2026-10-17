@@ -16,7 +16,7 @@
 
 | 폴더 | 상태·용도 |
 |---|---|
-| `patellar-strap-runners` | 2026-10-16 신규(V5 cardkit, 8장). 러너 슬개골 스트랩: 효과(de Vries 2016 RCT, 가짜 테이프와 차이 없음)·기전 가설 2장(힘줄 변형률·근육 힘 모델 / 감각·기대)·대상 구분(슬개건병증 vs PFP 가이드라인 비권고)·운동(Breda 2021). 근거는 원문 접속 차단으로 초록 수준. 사진 2장(CC BY/BY-SA), 02는 사진 자리(사용자 삽입 필요). delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(LibreOffice 대체 검사만), Express 실제 가져오기 미확인 |
+| `patellar-strap-runners` | 2026-10-17 개정(V5 cardkit, 8장). 메시지: 진짜 스트랩 효과가 가짜 테이프와 크게 다르지 않음(de Vries 2016 원문 Fig.4: 3.5→2.7 vs 3.4→2.7). 기전 가설(PPTA, 감각), 슬개건병증 통증 부위, 운동, 2,500원 언더랩. 사진 4장(CC BY/CC0/CC BY-SA), 02·08 사진 자리(사용자 삽입 필요), 08 언더랩 감는 방법 미정. delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(LibreOffice 대체 검사만), Express 실제 가져오기 미확인 |
 | `pfp-runners-part2` | 2026-10-16 재제작(V5 cardkit, 9장). Powers 2014 각도별 무릎뼈 압박 + 싱글 레그 데드리프트. 그림 대신 사용권 확인 사진 3장(CC BY/BY-SA)+데이터 그래프 2장, 07은 사진 자리(사용자 삽입 필요). delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(Linux, LibreOffice 대체 검사만), Express 실제 가져오기 미확인. 이전 11장 시안은 브랜치 claude/adoring-hopper-6vhtnl에 보존 |
 | `plyometric-load-volume-2026` | 2026-10-14 신규. 플라이오메트릭 부하(Zhang Z 2026 Sci Rep)·점프 수(Zhang F 2026 Front Physiol, Wu 2025 RCT) 6장, V4 수치·하단 여백 적용. PNG 6장·소스·근거·QA 존재. 영상/Express 없음 |
 | `strength-training-acsm-2026` | 2026-10-13 신규. ACSM 2026 근력운동 입장문 6장, V4 수치·하단 여백 기준 적용. PNG 6장·소스·근거·QA 존재. 영상 없음. 2026-10-14 V5 cardkit 첫 적용: delivery/에 PNG·Express용 PPTX·caption 3종, PowerPoint 검증 PASS, Express 실제 가져오기 미확인 |

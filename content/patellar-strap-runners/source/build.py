@@ -106,6 +106,14 @@ CARDS = [
         photo('mini-squat_BaoBaoLeung_ccbysa40.jpg', 600, 900, -6, 0, '무릎을 살짝 굽힌 미니 스쿼트 옆모습'), gap(48),
         '<p class="body">무게를 조금씩 올린 힘줄 운동 24주,<br>기능 점수 <span class="strong accent">+28점</span> (기존 운동 +18점)</p>', gap(20),
         '<p class="note">무릎뼈 주변 통증 → 엉덩이 + 허벅지 근력 운동을 함께</p>']),
+    # 08 언더랩 2,500원 대체법 (사진 자리)
+    ('kind-wrap', [
+        '<h1 class="headline"><span class="accent">2,500원 언더랩</span>으로<br>대신해 보세요</h1>', gap(36),
+        '<div class="slot" style="height:470px"><p class="tag">사진 넣는 자리</p>'
+        '<p class="guide">언더랩을 띠처럼 말아<br>무릎뼈 바로 아래에 감은 모습</p></div>', gap(36),
+        '<p class="body">가짜 테이프도 스트랩과 비슷하게<br>줄었다면, <span class="strong">비싼 스트랩이 꼭 필요하진 않습니다.</span></p>', gap(16),
+        '<p class="note">언더랩 자체를 시험한 연구는 없습니다 · 저리면 느슨하게</p>', gap(28),
+        '<p class="safety warn">덜 아프다고 무리하면 힘줄이 더 상할 수 있습니다.<br>붓기·밤 통증이 있으면 진료가 먼저입니다.</p>']),
 ]
 
 for i, (kind, parts) in enumerate(CARDS, 1):
