@@ -19,37 +19,37 @@
     {
       "card": "03",
       "verticalShiftPx": 1,
-      "diffPct": 6.98,
+      "diffPct": 7.37,
       "pass": true
     },
     {
       "card": "04",
       "verticalShiftPx": 2,
-      "diffPct": 6.15,
+      "diffPct": 6.34,
       "pass": true
     },
     {
       "card": "05",
       "verticalShiftPx": 3,
-      "diffPct": 6.2,
+      "diffPct": 6.59,
       "pass": false
     },
     {
       "card": "06",
       "verticalShiftPx": 1,
-      "diffPct": 5.13,
+      "diffPct": 6.28,
       "pass": true
     },
     {
       "card": "07",
       "verticalShiftPx": 2,
-      "diffPct": 4.29,
+      "diffPct": 4.97,
       "pass": true
     },
     {
       "card": "08",
       "verticalShiftPx": 2,
-      "diffPct": 7.31,
+      "diffPct": 7.71,
       "pass": true
     }
   ],

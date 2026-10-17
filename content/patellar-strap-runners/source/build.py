@@ -36,6 +36,7 @@ h1,p{{margin:0;text-align:center}}
 
 .flow{{font-size:42px;font-weight:750;line-height:1.3;letter-spacing:-.03em}}
 .arrow{{font-size:34px;font-weight:800;line-height:1.05;color:var(--blue)}}
+.cite{{position:absolute;left:96px;right:96px;bottom:98px;font-size:24px;font-weight:500;line-height:1.3;color:#8a929c;letter-spacing:-.01em}}
 .box{{background:var(--tint);border-radius:20px;padding:32px 40px;width:888px}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
@@ -51,6 +52,10 @@ def photo(src, h, iw, ix, iy, alt):
 def pair(head, sub, cls='item'):
     sub_cls = 'body' if cls == 'key' else 'note'
     return f'<div class="pair"><p class="{cls}">{head}</p><p class="{sub_cls}" style="color:var(--muted)">{sub}</p></div>'
+
+
+def cite(*refs):
+    return '<p class="cite">' + '<br>'.join(refs) + '</p>'
 
 
 def gap(px):
@@ -76,36 +81,36 @@ CARDS = [
         '<p class="note" style="font-size:32px;line-height:1.35">슬개건병증 선수 · 1주는 그냥, 2주째는 착용하고 운동<br>운동 2시간 뒤 통증 (가짜 테이프 = 힘줄을 누르지 않는 테이프)</p>', gap(28),
         '<div class="box" style="padding:30px 40px;display:flex;flex-direction:column;gap:8px">'
         '<p class="key">둘 다 <span class="accent">0.7~0.8점</span> 줄었습니다</p>'
-        '<p class="body">진짜 스트랩의 효과가 가짜 테이프와<br><span class="strong">크게 다르지 않았다는 뜻</span>입니다</p></div>']),
+        '<p class="body">진짜 스트랩의 효과가 가짜 테이프와<br><span class="strong">크게 다르지 않았다는 뜻</span>입니다</p></div>', cite('de Vries A et al. Scand J Med Sci Sports 2016;26(10):1217–24')]),
     # 04 기전 가설 ① 흐름 + X선
     ('kind-mech1', [
-        '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(32),
-        '<div class="photo" style="width:460px;height:400px;border-radius:16px"><img src="../assets/photos/xray-knee-lateral_Haggstrom_cc0_ppta.png" alt="무릎 옆모습 X선, 무릎뼈 축과 슬개건 사이 각도(PPTA) 표시" style="width:460px;left:0;top:0"></div>', gap(28),
+        '<h1 class="headline">기전 가설 ①<br><span class="accent">힘줄이 덜 당겨진다?</span></h1>', gap(24),
+        '<div class="photo" style="width:438px;height:381px;border-radius:16px"><img src="../assets/photos/xray-knee-lateral_Haggstrom_cc0_ppta.png" alt="무릎 옆모습 X선, 무릎뼈 축과 슬개건 사이 각도(PPTA) 표시" style="width:438px;left:0;top:0"></div>', gap(28),
         '<div class="list" style="gap:0">'
         '<p class="flow">슬개건 스트랩 착용</p><p class="arrow">↓</p>'
         '<p class="flow">슬개건에 국소 압박</p><p class="arrow">↓</p>'
         '<p class="flow">슬개골–슬개건 각도·유효 길이 변화</p>'
         '<p class="note" style="font-size:32px;line-height:1.3">각도 = PPTA (patella–patellar tendon angle)</p><p class="arrow">↓</p>'
-        '<p class="flow accent">슬개건 변형률(strain) 감소 가능성</p></div>', gap(24),
-        '<p class="body" style="font-size:42px">그런데 이것 때문에 통증이 줄었는지는 <span class="strong warn">아직 모름</span></p>']),
+        '<p class="flow accent">슬개건 변형률(strain) 감소 가능성</p></div>', gap(16),
+        '<p class="body" style="font-size:42px">그런데 이것 때문에 통증이 줄었는지는 <span class="strong warn">아직 모름</span></p>', cite('Lavagnino M et al. Sports Health 2011;3(3):296–302')]),
     # 05 이유 ② 감각과 기대
     ('kind-mech2', [
         '<h1 class="headline">부딪힌 팔꿈치를<br><span class="accent">문지르면</span> 덜 아픈 것처럼</h1>', gap(130),
         '<p class="key" style="font-weight:750">피부를 누르는 감각이<br><span class="accent">통증 신호를 덮을 수</span> 있습니다</p>', gap(88),
         '<p class="key" style="font-weight:750">여기에 <span class="accent">‘차면 덜 아파’</span><br>기대도 더해질 수 있습니다</p>', gap(130),
-        '<div class="box" style="padding:44px 40px"><p class="note" style="color:var(--ink);font-size:38px"><span class="strong">논문 저자들의 해석</span><br>뭐든 붙이면 피부가 자극돼 통증 신호가 바뀐다<br>스트랩은 힘줄 압박이 조금 더 보탰을 수 있다</p></div>']),
+        '<div class="box" style="padding:44px 40px"><p class="note" style="color:var(--ink);font-size:38px"><span class="strong">논문 저자들의 해석</span><br>뭐든 붙이면 피부가 자극돼 통증 신호가 바뀐다<br>스트랩은 힘줄 압박이 조금 더 보탰을 수 있다</p></div>', cite('de Vries A et al. Scand J Med Sci Sports 2016;26(10):1217–24')]),
     # 06 슬개건병증 통증 부위
     ('kind-who', [
-        '<h1 class="headline"><span class="accent">슬개건병증</span>,<br>여기가 아프다면</h1>', gap(40),
-        '<div class="photo" style="height:560px"><img src="../assets/photos/knee-downhill_Memphre_ccbysa30_marked.png" alt="내리막을 걷는 사람의 무릎, 무릎뼈 바로 아래에 빨간 원 표시" style="width:888px;left:0;top:0"></div>', gap(40),
-        '<p class="body">점프·착지·내리막에서 아픈 자리.<br>스트랩을 차면 <span class="strong">단기 통증 감소</span>가 보고됐습니다.</p>', gap(20),
-        '<p class="note">무릎뼈 주변·뒤가 아픈 슬개대퇴통증에는<br>가이드라인이 스트랩을 권하지 않습니다</p>']),
+        '<h1 class="headline"><span class="accent">슬개건병증</span>,<br>여기가 아프다면</h1>', gap(28),
+        '<div class="photo" style="height:490px"><img src="../assets/photos/knee-downhill_Memphre_ccbysa30_marked.png" alt="내리막을 걷는 사람의 무릎, 무릎뼈 바로 아래에 빨간 원 표시" style="width:888px;left:0;top:-35px"></div>', gap(40),
+        '<p class="body">점프·착지·내리막에서 아픈 자리.<br>스트랩을 차면 <span class="strong">단기 통증 감소</span>가 보고됐습니다.</p>', gap(12),
+        '<p class="note">무릎뼈 주변·뒤가 아픈 슬개대퇴통증에는<br>가이드라인이 스트랩을 권하지 않습니다</p>', cite('de Vries A et al. Scand J Med Sci Sports 2016;26(10):1217–24', 'Dar G, Mei-Dan E. Prosthet Orthot Int 2019;43(1):21–7', 'Willy RW et al. J Orthop Sports Phys Ther 2019;49(9):CPG1–95')]),
     # 07 차라리 운동
     ('kind-exercise', [
-        '<h1 class="headline">힘줄은<br><span class="accent">쓰면서</span> 튼튼해집니다</h1>', gap(48),
-        photo('mini-squat_BaoBaoLeung_ccbysa40.jpg', 600, 900, -6, 0, '무릎을 살짝 굽힌 미니 스쿼트 옆모습'), gap(48),
+        '<h1 class="headline">힘줄은<br><span class="accent">쓰면서</span> 튼튼해집니다</h1>', gap(32),
+        photo('mini-squat_BaoBaoLeung_ccbysa40.jpg', 570, 856, 16, 0, '무릎을 살짝 굽힌 미니 스쿼트 옆모습'), gap(48),
         '<p class="body">무게를 조금씩 올린 힘줄 운동 24주,<br>기능 점수 <span class="strong accent">+28점</span> (기존 운동 +18점)</p>', gap(20),
-        '<p class="note">무릎뼈 주변 통증 → 엉덩이 + 허벅지 근력 운동을 함께</p>']),
+        '<p class="note">무릎뼈 주변 통증 → 엉덩이 + 허벅지 근력 운동을 함께</p>', cite('Breda SJ et al. Br J Sports Med 2021;55:501–9', 'Collins NJ et al. Br J Sports Med 2018;52:1170–8')]),
     # 08 언더랩 2,500원 대체법 (사진 자리)
     ('kind-wrap', [
         '<h1 class="headline"><span class="accent">2,500원 언더랩</span>으로<br>대신해 보세요</h1>', gap(36),
@@ -113,7 +118,7 @@ CARDS = [
         '<p class="guide">언더랩을 띠처럼 말아<br>무릎뼈 바로 아래에 감은 모습</p></div>', gap(36),
         '<p class="body">가짜 테이프도 스트랩과 비슷하게<br>줄었다면, <span class="strong">비싼 스트랩이 꼭 필요하진 않습니다.</span></p>', gap(16),
         '<p class="note">언더랩 자체를 시험한 연구는 없습니다 · 저리면 느슨하게</p>', gap(28),
-        '<p class="safety warn">덜 아프다고 무리하면 힘줄이 더 상할 수 있습니다.<br>붓기·밤 통증이 있으면 진료가 먼저입니다.</p>']),
+        '<p class="safety warn">덜 아프다고 무리하면 힘줄이 더 상할 수 있습니다.<br>붓기·밤 통증이 있으면 진료가 먼저입니다.</p>', cite('de Vries A et al. Scand J Med Sci Sports 2016;26(10):1217–24')]),
 ]
 
 for i, (kind, parts) in enumerate(CARDS, 1):

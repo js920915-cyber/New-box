@@ -28,6 +28,10 @@
 5. 06: 슬개건병증 + 통증 부위 빨간 원 사진.
 6. 08: 2,500원 언더랩 대체법(사진 자리, 감는 방법은 사용자 제공 예정) + 저자 경고·안전 문구.
 
+## 인용 표기 (2026-10-17 사용자 지시)
+- 03~08 하단에 인용 논문을 24px 회색으로 표기(bottom 98px, 마지막 줄 하단 y≈1251). AGENTS.md의 ‘하단 작은 회색 출처 footer 금지’보다 사용자 최신 지시를 우선 적용. contentBottom 1250.8은 인용 줄 기준이며 본문 하단은 그 위.
+- 03·05·08 de Vries 2016 / 04 Lavagnino 2011 / 06 de Vries 2016·Dar 2019·Willy 2019 / 07 Breda 2021·Collins 2018.
+
 ## Express PPTX
 - adobe-express/patellar-strap-runners-express.pptx: 8장, 줄 상자 62개, 사진·그래프는 보이는 크롭 그대로, 사진 자리·박스는 도형. WARN 없음.
 - PowerPoint 검증: 미실시(PowerPoint 없음).

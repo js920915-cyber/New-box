@@ -30,8 +30,8 @@
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1175,
-    "bottomGap": 141,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
@@ -39,14 +39,15 @@
       "note": "32px/500",
       "key": "56px/800",
       "body": "44px/500",
-      "strong": "44px/750"
+      "strong": "44px/750",
+      "cite": "24px/500"
     }
   },
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1210.6,
-    "bottomGap": 105.4,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
@@ -56,56 +57,60 @@
       "note": "32px/500",
       "flow accent": "42px/750",
       "body": "42px/500",
-      "strong warn": "42px/750"
+      "strong warn": "42px/750",
+      "cite": "24px/500"
     }
   },
   {
     "card": "05",
     "size": "1080x1350",
-    "contentBottom": 1144.2,
-    "bottomGap": 171.8,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "56px/750",
       "key": "56px/750",
       "strong": "38px/750",
-      "note": "38px/500"
+      "note": "38px/500",
+      "cite": "24px/500"
     }
   },
   {
     "card": "06",
     "size": "1080x1350",
-    "contentBottom": 1186.9,
-    "bottomGap": 129.1,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "accent": "84px/850",
       "headline": "84px/850",
       "body": "44px/500",
       "strong": "44px/750",
-      "note": "36px/500"
+      "note": "36px/500",
+      "cite": "24px/500"
     }
   },
   {
     "card": "07",
     "size": "1080x1350",
-    "contentBottom": 1192.5,
-    "bottomGap": 123.5,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "body": "44px/500",
       "strong accent": "44px/750",
-      "note": "36px/500"
+      "note": "36px/500",
+      "cite": "24px/500"
     }
   },
   {
     "card": "08",
     "size": "1080x1350",
-    "contentBottom": 1169.9,
-    "bottomGap": 146.1,
+    "contentBottom": 1250.8,
+    "bottomGap": 65.2,
     "errors": "",
     "fonts": {
       "accent": "84px/850",
@@ -115,7 +120,8 @@
       "body": "44px/500",
       "strong": "44px/750",
       "note": "36px/500",
-      "safety warn": "38px/700"
+      "safety warn": "38px/700",
+      "cite": "24px/500"
     }
   }
 ]
