@@ -1,0 +1,111 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1188.7,
+    "bottomGap": 127.3,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1226.5,
+    "bottomGap": 89.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "44px/800",
+      "note": "36px/500",
+      "accent strong": "36px/750",
+      "body": "44px/500",
+      "item": "44px/800",
+      "src": "30px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1215.8,
+    "bottomGap": 100.2,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "44px/800",
+      "note": "36px/500",
+      "body": "44px/500",
+      "item": "44px/800",
+      "src": "30px/500"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1205.7,
+    "bottomGap": 110.3,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "44px/800",
+      "body": "44px/500",
+      "note": "36px/500",
+      "name": "36px/650",
+      "val": "38px/750",
+      "item": "44px/800",
+      "src": "30px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1174.1,
+    "bottomGap": 141.9,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "44px/800",
+      "body": "44px/500",
+      "item": "44px/800",
+      "note": "36px/500",
+      "src": "30px/500"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1234.5,
+    "bottomGap": 81.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "44px/800",
+      "body": "44px/500",
+      "item": "44px/800",
+      "note": "36px/500",
+      "src": "30px/500"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1188.2,
+    "bottomGap": 127.8,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "52px/800",
+      "body": "44px/500",
+      "P": "32px/700",
+      "note": "36px/500",
+      "accent strong": "36px/750",
+      "item": "44px/800",
+      "key": "52px/800",
+      "src": "30px/500"
+    }
+  }
+]

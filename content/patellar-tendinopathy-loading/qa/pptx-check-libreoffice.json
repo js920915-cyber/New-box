@@ -1,0 +1,51 @@
+{
+  "pptx": "adobe-express/patellar-tendinopathy-loading-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 7,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 4.62,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 2,
+      "diffPct": 5.64,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 2,
+      "diffPct": 6.57,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 1,
+      "diffPct": 6.9,
+      "pass": true
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 1,
+      "diffPct": 6.86,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 1,
+      "diffPct": 7.09,
+      "pass": true
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 2,
+      "diffPct": 8.96,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}

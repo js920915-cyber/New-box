@@ -1,0 +1,2091 @@
+[
+  {
+    "card": "01",
+    "lines": [
+      {
+        "left": 331.59375,
+        "right": 748.375,
+        "top": 102,
+        "bottom": 208,
+        "runs": [
+          {
+            "text": "슬개건병증,",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 146.09375,
+        "right": 933.890625,
+        "top": 205.828125,
+        "bottom": 311.828125,
+        "runs": [
+          {
+            "text": "무조건 쉬면 ",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          },
+          {
+            "text": "좋아질까?",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 214.390625,
+        "right": 865.609375,
+        "top": 1135.65625,
+        "bottom": 1188.65625,
+        "runs": [
+          {
+            "text": "아픈 힘줄에 다시 ",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "운동이 필요한 이유",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 355.65625,
+        "w": 888,
+        "h": 740,
+        "src": "../assets/photos/cover-box-jump_nenad53_ccby20.jpg",
+        "alt": "박스 점프 후 무릎을 굽혀 착지하는 선수",
+        "img": {
+          "x": 96,
+          "y": 25.65625,
+          "w": 888,
+          "h": 1329.90625,
+          "naturalW": 1280,
+          "naturalH": 1917
+        },
+        "file": "01-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "02",
+    "lines": [
+      {
+        "left": 391.3125,
+        "right": 688.6875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "힘줄에도",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 296.390625,
+        "right": 783.59375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "감당할 수 있는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 269.515625,
+        "right": 810.484375,
+        "top": 304.59375,
+        "bottom": 405.59375,
+        "runs": [
+          {
+            "text": "부하",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "가 있습니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 138.890625,
+        "right": 497.09375,
+        "top": 763.390625,
+        "bottom": 806.390625,
+        "runs": [
+          {
+            "text": "컵 = 감당할 수 있는 능력",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 213.046875,
+        "right": 422.9375,
+        "top": 813.78125,
+        "bottom": 856.78125,
+        "runs": [
+          {
+            "text": "물 = 운동 부하",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 638.546875,
+        "right": 885.4375,
+        "top": 763.390625,
+        "bottom": 806.390625,
+        "runs": [
+          {
+            "text": "점프·강도·빈도가",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 676.296875,
+        "right": 847.671875,
+        "top": 813.78125,
+        "bottom": 856.78125,
+        "runs": [
+          {
+            "text": "갑자기",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#0879d8",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": " 늘면",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 265.4375,
+        "right": 814.5625,
+        "top": 901.171875,
+        "bottom": 954.171875,
+        "runs": [
+          {
+            "text": "운동량이나 강도가 갑자기 늘면",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 253.578125,
+        "right": 826.421875,
+        "top": 963.640625,
+        "bottom": 1016.640625,
+        "runs": [
+          {
+            "text": "감당 능력을 넘어설 수 있습니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 352.765625,
+        "right": 727.21875,
+        "top": 1052.109375,
+        "bottom": 1105.109375,
+        "runs": [
+          {
+            "text": "문제는 운동 자체보다",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 268.953125,
+        "right": 811.046875,
+        "top": 1109.296875,
+        "bottom": 1162.296875,
+        "runs": [
+          {
+            "text": "갑작스러운 증가",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "일 수 있습니다",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 271.03125,
+        "right": 808.96875,
+        "top": 1190.484375,
+        "bottom": 1226.484375,
+        "runs": [
+          {
+            "text": "참고: Cook et al., Br J Sports Med 2016",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 434.390625,
+        "w": 888,
+        "h": 310,
+        "src": "../assets/illust/cups2.png",
+        "alt": "적당히 찬 물컵과 물이 갑자기 쏟아져 넘치는 물컵",
+        "img": {
+          "x": 96,
+          "y": 434.390625,
+          "w": 888,
+          "h": 310,
+          "naturalW": 1776,
+          "naturalH": 620
+        },
+        "file": "02-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "03",
+    "lines": [
+      {
+        "left": 222.046875,
+        "right": 857.9375,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "힘줄 재활의 핵심은",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 195.171875,
+        "right": 884.828125,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "점진적인 부하",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "입니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 238.125,
+        "right": 841.859375,
+        "top": 720.59375,
+        "bottom": 763.59375,
+        "runs": [
+          {
+            "text": "컵이 커지는 것 = 감당 능력이 늘어나는 것",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 219.6875,
+        "right": 860.296875,
+        "top": 815.984375,
+        "bottom": 868.984375,
+        "runs": [
+          {
+            "text": "힘줄은 부하에 적응하는 조직입니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 285.21875,
+        "right": 794.75,
+        "top": 878.453125,
+        "bottom": 931.453125,
+        "runs": [
+          {
+            "text": "감당 가능한 운동부터 시작해",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 284.8125,
+        "right": 795.171875,
+        "top": 940.921875,
+        "bottom": 993.921875,
+        "runs": [
+          {
+            "text": "능력을 단계적으로 키웁니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 390.609375,
+        "right": 689.375,
+        "top": 1041.390625,
+        "bottom": 1094.390625,
+        "runs": [
+          {
+            "text": "무조건 쉬기보다,",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 352.765625,
+        "right": 727.21875,
+        "top": 1098.578125,
+        "bottom": 1151.578125,
+        "runs": [
+          {
+            "text": "감당 가능한 부하",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "부터",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 204.984375,
+        "right": 875.015625,
+        "top": 1179.765625,
+        "bottom": 1215.765625,
+        "runs": [
+          {
+            "text": "참고: Cook 2016 · Kongsgaard 2009 · Breda 2021",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 345.59375,
+        "w": 888,
+        "h": 360,
+        "src": "../assets/illust/cups3.png",
+        "alt": "작은 컵에서 큰 컵으로, 물도 넘치지 않게 조금씩 늘어나는 그림",
+        "img": {
+          "x": 96,
+          "y": 345.59375,
+          "w": 888,
+          "h": 360,
+          "naturalW": 1776,
+          "naturalH": 720
+        },
+        "file": "03-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "04",
+    "lines": [
+      {
+        "left": 269.5,
+        "right": 810.46875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "운동마다 힘줄이",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 184.875,
+        "right": 895.109375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "받는 ",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "부하",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "는 다릅니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 265.015625,
+        "right": 814.984375,
+        "top": 341.59375,
+        "bottom": 394.59375,
+        "runs": [
+          {
+            "text": "스쿼트부터 점프까지, 운동마다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 233.78125,
+        "right": 846.21875,
+        "top": 404.0625,
+        "bottom": 457.0625,
+        "runs": [
+          {
+            "text": "힘의 크기와 증가 속도가 다릅니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 274.09375,
+        "right": 805.890625,
+        "top": 505.53125,
+        "bottom": 548.53125,
+        "runs": [
+          {
+            "text": "슬개건 부하 지수 (건강한 성인 20명)",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 166.265625,
+        "right": 397.71875,
+        "top": 574.515625,
+        "bottom": 617.515625,
+        "runs": [
+          {
+            "text": "양발 60° 스쿼트",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -1.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 600.515625,
+        "right": 703.46875,
+        "top": 573.21875,
+        "bottom": 619.21875,
+        "runs": [
+          {
+            "text": "0.224",
+            "style": {
+              "size": 38,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 165.359375,
+        "right": 398.640625,
+        "top": 652.515625,
+        "bottom": 695.515625,
+        "runs": [
+          {
+            "text": "불가리안 스쿼트",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -1.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 695.515625,
+        "right": 798.46875,
+        "top": 651.21875,
+        "bottom": 697.21875,
+        "runs": [
+          {
+            "text": "0.406",
+            "style": {
+              "size": 38,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 176.875,
+        "right": 387.125,
+        "top": 730.515625,
+        "bottom": 773.515625,
+        "runs": [
+          {
+            "text": "양발 풀 스쿼트",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -1.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 707.515625,
+        "right": 810.46875,
+        "top": 729.21875,
+        "bottom": 775.21875,
+        "runs": [
+          {
+            "text": "0.428",
+            "style": {
+              "size": 38,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 176.875,
+        "right": 387.125,
+        "top": 808.515625,
+        "bottom": 851.515625,
+        "runs": [
+          {
+            "text": "한발 반동 점프",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -1.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 854.515625,
+        "right": 957.46875,
+        "top": 807.21875,
+        "bottom": 853.21875,
+        "runs": [
+          {
+            "text": "0.711",
+            "style": {
+              "size": 38,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 128.8125,
+        "right": 435.1875,
+        "top": 886.515625,
+        "bottom": 929.515625,
+        "runs": [
+          {
+            "text": "한발 디클라인 스쿼트",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -1.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 872.515625,
+        "right": 975.46875,
+        "top": 885.21875,
+        "bottom": 931.21875,
+        "runs": [
+          {
+            "text": "0.747",
+            "style": {
+              "size": 38,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 352.765625,
+        "right": 727.21875,
+        "top": 972.921875,
+        "bottom": 1025.921875,
+        "runs": [
+          {
+            "text": "어떤 운동이냐에 따라",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 313.609375,
+        "right": 766.390625,
+        "top": 1030.109375,
+        "bottom": 1083.109375,
+        "runs": [
+          {
+            "text": "부하의 특성",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "이 달라집니다",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 262.078125,
+        "right": 817.921875,
+        "top": 1100.296875,
+        "bottom": 1143.296875,
+        "runs": [
+          {
+            "text": "지수가 높다고 위험한 운동은 아닙니다",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 173.53125,
+        "right": 906.453125,
+        "top": 1169.6875,
+        "bottom": 1205.6875,
+        "runs": [
+          {
+            "text": "출처: Scattone Silva et al., Med Sci Sports Exerc 2024",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 468,
+        "y": 570.921875,
+        "w": 116,
+        "h": 52,
+        "fill": "#c9d9e6",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 468,
+        "y": 648.921875,
+        "w": 211,
+        "h": 52,
+        "fill": "#c9d9e6",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 468,
+        "y": 726.921875,
+        "w": 223,
+        "h": 52,
+        "fill": "#c9d9e6",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 468,
+        "y": 804.921875,
+        "w": 370,
+        "h": 52,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 468,
+        "y": 882.921875,
+        "w": 388,
+        "h": 52,
+        "fill": "#0879d8",
+        "radius": 8
+      }
+    ]
+  },
+  {
+    "card": "05",
+    "lines": [
+      {
+        "left": 184.875,
+        "right": 895.109375,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "무게만이 운동 강도를",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 232.328125,
+        "right": 847.640625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "결정하지 않습니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 273.359375,
+        "right": 806.609375,
+        "top": 341.59375,
+        "bottom": 394.59375,
+        "runs": [
+          {
+            "text": "힘줄이 받는 자극은 힘의 크기,",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 182.3125,
+        "right": 897.671875,
+        "top": 404.0625,
+        "bottom": 457.0625,
+        "runs": [
+          {
+            "text": "증가 속도, 지속 시간에 따라 달라집니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 155.796875,
+        "right": 308.203125,
+        "top": 744.53125,
+        "bottom": 792.53125,
+        "runs": [
+          {
+            "text": "힘의 크기",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 183.390625,
+        "right": 280.59375,
+        "top": 801.53125,
+        "bottom": 844.53125,
+        "runs": [
+          {
+            "text": "얼마나",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 186.390625,
+        "right": 277.59375,
+        "top": 851.921875,
+        "bottom": 894.921875,
+        "runs": [
+          {
+            "text": "큰 힘?",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 463.796875,
+        "right": 616.203125,
+        "top": 744.53125,
+        "bottom": 792.53125,
+        "runs": [
+          {
+            "text": "증가 속도",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 491.390625,
+        "right": 588.59375,
+        "top": 801.53125,
+        "bottom": 844.53125,
+        "runs": [
+          {
+            "text": "얼마나",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 429.59375,
+        "right": 650.390625,
+        "top": 851.921875,
+        "bottom": 894.921875,
+        "runs": [
+          {
+            "text": "빠르게 커지나?",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 771.796875,
+        "right": 924.203125,
+        "top": 744.53125,
+        "bottom": 792.53125,
+        "runs": [
+          {
+            "text": "누적 부하",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 778.5,
+        "right": 917.46875,
+        "top": 801.53125,
+        "bottom": 844.53125,
+        "runs": [
+          {
+            "text": "시간 동안",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 737.59375,
+        "right": 958.390625,
+        "top": 851.921875,
+        "bottom": 894.921875,
+        "runs": [
+          {
+            "text": "얼마나 쌓이나?",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 292.109375,
+        "right": 787.875,
+        "top": 914.3125,
+        "bottom": 957.3125,
+        "runs": [
+          {
+            "text": "가로 = 시간, 세로 = 힘 (개념 그림)",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 243.859375,
+        "right": 836.125,
+        "top": 1003.703125,
+        "bottom": 1056.703125,
+        "runs": [
+          {
+            "text": "무게뿐 아니라 ",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "힘이 커지는 속도",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "와",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 327.6875,
+        "right": 752.296875,
+        "top": 1060.890625,
+        "bottom": 1113.890625,
+        "runs": [
+          {
+            "text": "지속 시간도 함께 봅니다",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 173.53125,
+        "right": 906.453125,
+        "top": 1138.078125,
+        "bottom": 1174.078125,
+        "runs": [
+          {
+            "text": "참고: Scattone Silva et al., Med Sci Sports Exerc 2024",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 506.53125,
+        "w": 272,
+        "h": 220,
+        "src": "../assets/illust/ft-peak.png",
+        "alt": "힘의 크기 힘-시간 모식도",
+        "img": {
+          "x": 96,
+          "y": 506.53125,
+          "w": 272,
+          "h": 220,
+          "naturalW": 544,
+          "naturalH": 440
+        },
+        "file": "05-photo1.png"
+      },
+      {
+        "type": "photo",
+        "x": 404,
+        "y": 506.53125,
+        "w": 272,
+        "h": 220,
+        "src": "../assets/illust/ft-rate.png",
+        "alt": "증가 속도 힘-시간 모식도",
+        "img": {
+          "x": 404,
+          "y": 506.53125,
+          "w": 272,
+          "h": 220,
+          "naturalW": 544,
+          "naturalH": 440
+        },
+        "file": "05-photo2.png"
+      },
+      {
+        "type": "photo",
+        "x": 712,
+        "y": 506.53125,
+        "w": 272,
+        "h": 220,
+        "src": "../assets/illust/ft-impulse.png",
+        "alt": "누적 부하 힘-시간 모식도",
+        "img": {
+          "x": 712,
+          "y": 506.53125,
+          "w": 272,
+          "h": 220,
+          "naturalW": 544,
+          "naturalH": 440
+        },
+        "file": "05-photo3.png"
+      }
+    ]
+  },
+  {
+    "card": "06",
+    "lines": [
+      {
+        "left": 343.859375,
+        "right": 736.140625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "강한 힘에서",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 328.859375,
+        "right": 751.140625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "빠른 힘",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "까지!",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 219.6875,
+        "right": 860.296875,
+        "top": 341.59375,
+        "bottom": 394.59375,
+        "runs": [
+          {
+            "text": "근력을 회복한 뒤에는 점프·착지처럼",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 199.890625,
+        "right": 880.09375,
+        "top": 404.0625,
+        "bottom": 457.0625,
+        "runs": [
+          {
+            "text": "빠르고 반복적인 부하에도 적응합니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 176.6875,
+        "right": 447.296875,
+        "top": 920.53125,
+        "bottom": 973.53125,
+        "runs": [
+          {
+            "text": "천천히, 높은 힘",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 163.328125,
+        "right": 460.65625,
+        "top": 978.71875,
+        "bottom": 1021.71875,
+        "runs": [
+          {
+            "text": "최대 근력 · 저항운동",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 599.03125,
+        "right": 936.953125,
+        "top": 920.53125,
+        "bottom": 973.53125,
+        "runs": [
+          {
+            "text": "빠르게, 반복적으로",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 598.453125,
+        "right": 937.546875,
+        "top": 978.71875,
+        "bottom": 1021.71875,
+        "runs": [
+          {
+            "text": "빠른 부하 · 스포츠 동작",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 288.53125,
+        "right": 791.453125,
+        "top": 1064.109375,
+        "bottom": 1117.109375,
+        "runs": [
+          {
+            "text": "근력이 좋아져도 점프 능력이",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 294.015625,
+        "right": 785.953125,
+        "top": 1121.296875,
+        "bottom": 1174.296875,
+        "runs": [
+          {
+            "text": "저절로",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": " 돌아오지는 않습니다",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 265.46875,
+        "right": 814.515625,
+        "top": 1198.484375,
+        "bottom": 1234.484375,
+        "runs": [
+          {
+            "text": "참고: Breda et al., Br J Sports Med 2021",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 498.53125,
+        "w": 432,
+        "h": 404,
+        "src": "../assets/photos/barbell-squat_ThoroughlyReviewed_ccby20.jpg",
+        "alt": "바벨을 메고 스쿼트하는 여성",
+        "img": {
+          "x": -14,
+          "y": 498.53125,
+          "w": 608,
+          "h": 404.734375,
+          "naturalW": 1023,
+          "naturalH": 681
+        },
+        "file": "06-photo1.png"
+      },
+      {
+        "type": "photo",
+        "x": 552,
+        "y": 498.53125,
+        "w": 432,
+        "h": 404,
+        "src": "../assets/photos/box-jump-air_nenad53_ccby20.jpg",
+        "alt": "박스 위로 점프하는 선수",
+        "img": {
+          "x": 492,
+          "y": 308.53125,
+          "w": 500,
+          "h": 748.53125,
+          "naturalW": 684,
+          "naturalH": 1024
+        },
+        "file": "06-photo2.png"
+      }
+    ]
+  },
+  {
+    "card": "07",
+    "lines": [
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "그럼 운동 강도는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 201.171875,
+        "right": 878.8125,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "언제",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": " 높여야 할까요?",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 227.75,
+        "right": 852.25,
+        "top": 357.59375,
+        "bottom": 410.59375,
+        "runs": [
+          {
+            "text": "① 지금 운동을 안정적으로 하는가?",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 241.828125,
+        "right": 838.171875,
+        "top": 446.0625,
+        "bottom": 499.0625,
+        "runs": [
+          {
+            "text": "② 운동 중 통증이 관리 가능한가?",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.03125,
+        "right": 857.96875,
+        "top": 534.53125,
+        "bottom": 587.53125,
+        "runs": [
+          {
+            "text": "③ 다음 날 증상이 나빠지지 않는가?",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 124.1875,
+        "right": 143.078125,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "0",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 205.453125,
+        "right": 224.34375,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "1",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 286.71875,
+        "right": 305.609375,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "2",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 367.984375,
+        "right": 386.875,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "3",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 449.25,
+        "right": 468.140625,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "4",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 530.515625,
+        "right": 549.40625,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "5",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 611.78125,
+        "right": 630.671875,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "6",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 693.046875,
+        "right": 711.9375,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "7",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 774.3125,
+        "right": 793.203125,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "8",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 855.578125,
+        "right": 874.46875,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "9",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 927.40625,
+        "right": 965.171875,
+        "top": 662,
+        "bottom": 700,
+        "runs": [
+          {
+            "text": "10",
+            "style": {
+              "size": 32,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 253.625,
+        "right": 826.359375,
+        "top": 738,
+        "bottom": 781,
+        "runs": [
+          {
+            "text": "연구 예시: 한발 스쿼트 통증 ",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": "3/10 이하",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#0879d8",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": ",",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 286.71875,
+        "right": 793.25,
+        "top": 788.390625,
+        "bottom": 831.390625,
+        "runs": [
+          {
+            "text": "한 단계 최소 1주 수행 후 다음 단계",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 232.640625,
+        "right": 847.34375,
+        "top": 885.78125,
+        "bottom": 938.78125,
+        "runs": [
+          {
+            "text": "중량·범위·속도·반복량을 ",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.32
+            }
+          },
+          {
+            "text": "조금씩 ↑",
+            "style": {
+              "size": 44,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.32
+            }
+          }
+        ]
+      },
+      {
+        "left": 213.171875,
+        "right": 866.8125,
+        "top": 998.96875,
+        "bottom": 1060.96875,
+        "runs": [
+          {
+            "text": "재활의 목표는 통증 감소를 넘어",
+            "style": {
+              "size": 52,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 242.796875,
+        "right": 837.171875,
+        "top": 1066.5625,
+        "bottom": 1128.5625,
+        "runs": [
+          {
+            "text": "다시 뛰고 점프하는 것",
+            "style": {
+              "size": 52,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.56
+            }
+          },
+          {
+            "text": "입니다",
+            "style": {
+              "size": 52,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 261.859375,
+        "right": 818.140625,
+        "top": 1152.15625,
+        "bottom": 1188.15625,
+        "runs": [
+          {
+            "text": "참고: Breda 2021 (모든 사람의 기준은 아님)",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#cfe6f8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 177.265625,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#cfe6f8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 258.53125,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#cfe6f8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 339.796875,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#cfe6f8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 421.0625,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 502.328125,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 583.59375,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 664.859375,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 746.125,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 827.390625,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 908.65625,
+        "y": 645,
+        "w": 75.265625,
+        "h": 72,
+        "fill": "#e8edf1",
+        "radius": 8
+      }
+    ]
+  }
+]
