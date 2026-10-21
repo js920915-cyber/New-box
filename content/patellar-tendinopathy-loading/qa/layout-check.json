@@ -21,6 +21,7 @@
     "fonts": {
       "headline": "84px/850",
       "accent": "44px/800",
+      "badge": "40px/800",
       "note": "36px/500",
       "accent strong": "36px/750",
       "body": "44px/500",
@@ -31,8 +32,8 @@
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1215.8,
-    "bottomGap": 100.2,
+    "contentBottom": 1205.3,
+    "bottomGap": 110.7,
     "errors": "",
     "fonts": {
       "headline": "84px/850",

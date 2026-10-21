@@ -58,9 +58,26 @@ def cups2():
     return page(W, H, cup(222, 286, 190, 205, .55) + cup(666, 286, 190, 205, 1, overflow=True))
 
 
+def ghost(cx, base, w, h):
+    """이전 단계 컵 크기를 점선으로 겹쳐 그려 커진 정도를 보여준다."""
+    tl, tr, bl, br, top = cx - w / 2, cx + w / 2, cx - w * .39, cx + w * .39, base - h
+    return (f'<path d="M{tl:.1f},{top:.1f} L{bl:.1f},{base - 3} L{br:.1f},{base - 3} L{tr:.1f},{top:.1f}" fill="none" '
+            f'stroke="{BLUE}" stroke-width="4" stroke-dasharray="10 9" stroke-linecap="round" opacity=".75"/>')
+
+
 def cups3():
-    W, H = 888, 360
-    s = cup(140, 330, 130, 150, .6) + arrow(232, 300, 270) + cup(424, 330, 180, 215, .6) + arrow(540, 608, 240) + cup(726, 330, 240, 290, .6)
+    W, H, base = 888, 420, 404
+    sizes = [(92, 120, 140), (362, 210, 245), (716, 320, 370)]  # (cx, 위 폭, 높이)
+    s = ''
+    for i, (cx, w, h) in enumerate(sizes):
+        s += cup(cx, base, w, h, .6)
+        if i:
+            s += ghost(cx, base, sizes[i - 1][1], sizes[i - 1][2])
+    # 컵 위를 지나 오른쪽 위로 올라가는 성장 화살표
+    pts = [(92, 236), (362, 138), (520, 72)]
+    d = 'M' + ' L'.join(f'{x},{y}' for x, y in pts)
+    s += f'<path d="{d}" fill="none" stroke="{BLUE}" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 16"/>'
+    s += f'<path d="M{520 - 30},{72 - 1} L520,72 L{520 - 13},{72 + 27}" fill="none" stroke="{BLUE}" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>'
     return page(W, H, s)
 
 

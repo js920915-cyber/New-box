@@ -42,6 +42,8 @@ h1,p{{margin:0;text-align:center}}
 .scale .n{{flex:1;height:72px;border-radius:8px;background:#e8edf1;display:flex;align-items:center;justify-content:center}}
 .scale .n.ok{{background:#cfe6f8}}
 .scale .n p{{font-size:32px;font-weight:700;line-height:1}}
+.pop{{position:relative;width:888px}}
+.badge{{position:absolute;left:372px;top:20px;background:var(--red);color:#fff;font-size:40px;font-weight:800;line-height:1.3;letter-spacing:-.03em;padding:8px 26px;border-radius:40px}}
 .checks{{display:flex;flex-direction:column;align-items:center;gap:26px}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
@@ -99,7 +101,8 @@ CARDS = [
     # 02 물컵: 부하 > 능력
     ('kind-cup', [
         '<h1 class="headline">힘줄에도<br>감당할 수 있는<br><span class="accent">부하</span>가 있습니다</h1>', gap(28),
-        illust('cups2.png', 888, 310, '적당히 찬 물컵과 물이 갑자기 쏟아져 넘치는 물컵'), gap(16),
+        '<div class="pop">' + illust('cups2.png', 888, 310, '적당히 찬 물컵과 물이 갑자기 쏟아져 넘치는 물컵')
+        + '<p class="badge">앗! 통증?!</p></div>', gap(16),
         '<div class="cols"><div class="col"><p class="note">컵 = 감당할 수 있는 능력<br>물 = 운동 부하</p></div>'
         '<div class="col"><p class="note">점프·강도·빈도가<br><span class="accent strong">갑자기</span> 늘면</p></div></div>', gap(36),
         '<p class="body">운동량이나 강도가 갑자기 늘면<br>감당 능력을 넘어설 수 있습니다.</p>', gap(28),
@@ -108,9 +111,9 @@ CARDS = [
     # 03 물컵: 점진적 부하
     ('kind-grow', [
         '<h1 class="headline">힘줄 재활의 핵심은<br><span class="accent">점진적인 부하</span>입니다</h1>', gap(40),
-        illust('cups3.png', 888, 360, '작은 컵에서 큰 컵으로, 물도 넘치지 않게 조금씩 늘어나는 그림'), gap(12),
-        '<p class="note">컵이 커지는 것 = 감당 능력이 늘어나는 것</p>', gap(44),
-        '<p class="body">힘줄은 부하에 적응하는 조직입니다.<br>감당 가능한 운동부터 시작해<br>능력을 단계적으로 키웁니다.</p>', gap(40),
+        illust('cups3.png', 888, 420, '작은 컵에서 큰 컵으로, 물도 넘치지 않게 조금씩 늘어나는 그림'), gap(12),
+        '<p class="note">컵이 커지는 것 = 감당 능력이 늘어나는 것</p>', gap(40),
+        '<p class="body">힘줄은 부하에 적응하는 조직입니다.<br>감당 가능한 운동부터 단계적으로!</p>', gap(36),
         '<p class="item">무조건 쉬기보다,<br><span class="accent">감당 가능한 부하</span>부터</p>', gap(24),
         src_line('참고: Cook 2016 · Kongsgaard 2009 · Breda 2021')]),
     # 04 운동별 부하 지수
