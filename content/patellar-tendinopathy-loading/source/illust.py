@@ -22,8 +22,7 @@ def cup(cx, base, w, h, fill, overflow=False):
     top = base - h
     s = []
     if overflow:
-        # 위에서 쏟아지는 물줄기
-        s.append(f'<path d="M{cx - w * .07:.1f},0 L{cx + w * .07:.1f},0 L{cx + w * .1:.1f},{top - 20:.1f} L{cx - w * .1:.1f},{top - 20:.1f} Z" fill="{BLUE}" opacity=".8"/>')
+        # 넘치는 내용(훈련 단어 박스)은 카드 HTML에서 얹는다
         # 바닥에 고인 물
         s.append(f'<ellipse cx="{cx}" cy="{base + 4}" rx="{w * .95:.1f}" ry="14" fill="{WATER}"/>')
     # 물(컵 안쪽 사다리꼴 일부)

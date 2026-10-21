@@ -21,6 +21,7 @@
     "fonts": {
       "headline": "84px/850",
       "accent": "44px/800",
+      "chip": "36px/750",
       "badge": "40px/800",
       "note": "36px/500",
       "accent strong": "36px/750",

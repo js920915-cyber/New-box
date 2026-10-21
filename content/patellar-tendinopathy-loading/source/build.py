@@ -43,7 +43,8 @@ h1,p{{margin:0;text-align:center}}
 .scale .n.ok{{background:#cfe6f8}}
 .scale .n p{{font-size:32px;font-weight:700;line-height:1}}
 .pop{{position:relative;width:888px}}
-.badge{{position:absolute;left:372px;top:20px;background:var(--red);color:#fff;font-size:40px;font-weight:800;line-height:1.3;letter-spacing:-.03em;padding:8px 26px;border-radius:40px}}
+.chip{{position:absolute;background:var(--blue);color:#fff;font-size:36px;font-weight:750;line-height:1.3;letter-spacing:-.03em;padding:6px 18px;border-radius:12px}}
+.badge{{position:absolute;left:328px;top:-16px;background:var(--red);color:#fff;font-size:40px;font-weight:800;line-height:1.3;letter-spacing:-.03em;padding:8px 26px;border-radius:40px}}
 .checks{{display:flex;flex-direction:column;align-items:center;gap:26px}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
@@ -58,6 +59,11 @@ def photo(src, w, h, iw, ix, iy, alt, folder='photos'):
 
 def illust(src, w, h, alt):
     return photo(src, w, h, w, 0, 0, alt, 'illust')
+
+
+def chip(text, x, y):
+    """넘치는 컵 위·옆에 얹는 훈련 단어 박스(PPTX에서 도형+글자)"""
+    return f'<p class="chip" style="left:{x}px;top:{y}px">{text}</p>'
 
 
 def gap(px):
@@ -101,10 +107,11 @@ CARDS = [
     # 02 물컵: 부하 > 능력
     ('kind-cup', [
         '<h1 class="headline">힘줄에도<br>감당할 수 있는<br><span class="accent">부하</span>가 있습니다</h1>', gap(28),
-        '<div class="pop">' + illust('cups2.png', 888, 310, '적당히 찬 물컵과 물이 갑자기 쏟아져 넘치는 물컵')
+        '<div class="pop">' + illust('cups2.png', 888, 310, '적당히 찬 물컵과 훈련이 몰려 넘치는 물컵')
+        + chip('무리한 대회', 551, 30) + chip('템포', 612, -20) + chip('인터벌', 446, 112) + chip('장거리', 746, 156)
         + '<p class="badge">앗! 통증?!</p></div>', gap(16),
         '<div class="cols"><div class="col"><p class="note">컵 = 감당할 수 있는 능력<br>물 = 운동 부하</p></div>'
-        '<div class="col"><p class="note">점프·강도·빈도가<br><span class="accent strong">갑자기</span> 늘면</p></div></div>', gap(36),
+        '<div class="col"><p class="note">훈련이 한꺼번에<br><span class="accent strong">갑자기</span> 몰리면</p></div></div>', gap(36),
         '<p class="body">운동량이나 강도가 갑자기 늘면<br>감당 능력을 넘어설 수 있습니다.</p>', gap(28),
         '<p class="item">문제는 운동 자체보다<br><span class="accent">갑작스러운 증가</span>일 수 있습니다</p>', gap(24),
         src_line('참고: Cook et al., Br J Sports Med 2016')]),
