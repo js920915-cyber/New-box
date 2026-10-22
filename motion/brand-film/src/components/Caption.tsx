@@ -1,6 +1,7 @@
 import React from 'react';
 import {useCurrentFrame} from 'remotion';
 import {at, EASE} from '../lib/util';
+import {useCaptions} from '../captions';
 import {C, FONT, FPS} from '../theme';
 
 export type Span = string | {t: string; c: string};
@@ -16,7 +17,9 @@ export const Caption: React.FC<{
   stagger?: number;
 }> = ({lines, from, to, y = 820, size = 80, weight = 800, stagger = 0.18}) => {
   const t = useCurrentFrame() / FPS;
+  const show = useCaptions();
   const out = at(t, [to - 0.4, to], [1, 0]);
+  if (!show) return null;
   return (
     <div
       style={{

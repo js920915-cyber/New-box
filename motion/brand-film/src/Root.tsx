@@ -17,7 +17,7 @@ const base = {width: 1920, height: 1080, fps: 30} as const;
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      <Composition id="BrandFilm" component={BrandFilm} {...base} durationInFrames={TOTAL_FRAMES} defaultProps={{music: true}} />
+      <Composition id="BrandFilm" component={BrandFilm} {...base} durationInFrames={TOTAL_FRAMES} defaultProps={{music: true, captions: true}} />
       <Folder name="Scenes">
         <Composition id="S1-Universe" component={S1Universe} {...base} durationInFrames={150} />
         <Composition id="S2-Seoul" component={S2Seoul} {...base} durationInFrames={150} />

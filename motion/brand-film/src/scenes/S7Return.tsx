@@ -8,6 +8,7 @@ import {CUT, cutState} from '../lib/moves';
 const CUT_TURN1 = CUT.turn1;
 import {at, EASE, smoothstep} from '../lib/util';
 import {C, FONT, FPS, H, W} from '../theme';
+import {useCaptions} from '../captions';
 import {Ball} from './S4Question';
 
 const CUTS = [2.5, 5.0];
@@ -162,6 +163,7 @@ export const S7Return: React.FC = () => {
   const t = frame / FPS;
   const flash = Math.max(at(t, [0, 0.12], [0.35, 0]), ...CUTS.map((c) => at(t, [c - 0.02, c, c + 0.12], [0, 0.35, 0])));
   const pull = smoothstep(6.9, 8.0, t);
+  const captions = useCaptions();
   return (
     <AbsoluteFill style={{background: '#000'}}>
       <AbsoluteFill style={{scale: `${1 - 0.1 * pull}`, opacity: 1 - pull * 0.9}}>
@@ -169,7 +171,7 @@ export const S7Return: React.FC = () => {
         <Vignette k={0.55} />
         <Flash o={flash} />
       </AbsoluteFill>
-      <div style={{position: 'absolute', left: 0, right: 0, top: 130, fontFamily: FONT, fontWeight: 800, fontSize: 84, letterSpacing: '-0.02em', color: C.white, textShadow: '0 6px 40px rgba(0,0,0,0.6)', lineHeight: 1.25, opacity: at(t, [7.3, 7.9], [1, 0])}}>
+      <div style={{display: captions ? 'block' : 'none', position: 'absolute', left: 0, right: 0, top: 130, fontFamily: FONT, fontWeight: 800, fontSize: 84, letterSpacing: '-0.02em', color: C.white, textShadow: '0 6px 40px rgba(0,0,0,0.6)', lineHeight: 1.25, opacity: at(t, [7.3, 7.9], [1, 0])}}>
         <Line t={t} size={84} parts={[{text: '일상으로.', at: 0.35}, {text: '운동으로.', at: CUTS[0] + 0.2}]} />
         <Line t={t} size={84} parts={[{text: '다시 당신의 움직임으로.', at: CUTS[1] + 0.25, color: C.blueSoft}]} />
       </div>

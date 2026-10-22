@@ -2,6 +2,7 @@ import React from 'react';
 import {AbsoluteFill, Img, staticFile, useCurrentFrame} from 'remotion';
 import {at, clamp, EASE, INOUT} from '../lib/util';
 import {C, FONT, FPS, H, W} from '../theme';
+import {useCaptions} from '../captions';
 
 const CX = W / 2;
 const CY = H / 2 - 40;
@@ -36,6 +37,7 @@ export const S8Brand: React.FC<{logo?: string}> = ({logo}) => {
   const word = at(t, [2.15, 2.95], [0, 1], EASE);
   const rule = at(t, [2.25, 2.9], [0, 1], EASE);
   const tag = ['EVALUATE.', 'REHABILITATE.', 'PERFORM.'];
+  const captions = useCaptions();
   return (
     <AbsoluteFill style={{background: '#01040A'}}>
       <AbsoluteFill style={{opacity: end}}>
@@ -68,14 +70,14 @@ export const S8Brand: React.FC<{logo?: string}> = ({logo}) => {
           <line x1={CX} x2={CX - 260 * rule} y1={CY + 92} y2={CY + 92} stroke={C.blueLit} strokeWidth={5} strokeLinecap="round" />
           <line x1={CX} x2={CX + 260 * rule} y1={CY + 92} y2={CY + 92} stroke={C.redLit} strokeWidth={5} strokeLinecap="round" />
         </svg>
-        <div style={{position: 'absolute', left: 0, right: 0, top: CY - 100, display: 'flex', justifyContent: 'center', opacity: word, filter: `blur(${(1 - word) * 14}px)`}}>
+        <div style={{position: 'absolute', left: 0, right: 0, top: CY - 100, display: captions || logo ? 'flex' : 'none', justifyContent: 'center', opacity: word, filter: `blur(${(1 - word) * 14}px)`}}>
           {logo ? (
             <Img src={staticFile(logo)} style={{height: 150, objectFit: 'contain'}} />
           ) : (
             <div style={{fontFamily: FONT, fontWeight: 850, fontSize: 132, color: C.white, letterSpacing: `${-0.02 + (1 - word) * 0.12}em`, lineHeight: 1.1}}>R스포츠재활센터</div>
           )}
         </div>
-        <div style={{position: 'absolute', left: 0, right: 0, top: CY + 130, display: 'flex', justifyContent: 'center', gap: 38, fontFamily: FONT, fontWeight: 700, fontSize: 38, letterSpacing: '0.3em', color: C.mist}}>
+        <div style={{position: 'absolute', left: 0, right: 0, top: CY + 130, display: captions ? 'flex' : 'none', justifyContent: 'center', gap: 38, fontFamily: FONT, fontWeight: 700, fontSize: 38, letterSpacing: '0.3em', color: C.mist}}>
           {tag.map((w, i) => {
             const k = at(t, [2.8 + i * 0.22, 3.3 + i * 0.22], [0, 1], EASE);
             return (

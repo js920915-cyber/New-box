@@ -21,7 +21,8 @@
 npm i
 npm run fonts     # 카드뉴스 글꼴(templates/fonts) 복사 — dev/render 전에도 자동 실행
 npm run score     # 임시 음악 public/audio/score.wav 생성 (python3 + numpy + scipy)
-npm run render    # out/brand-film.mp4
+npm run render        # out/brand-film.mp4 (자막·워드마크 포함 완성본)
+npm run render:clean  # out/brand-film-clean.mp4 (자막·워드마크 없는 편집용, 브리프의 '편집 단계에서 자막·로고 삽입'용)
 npx remotion studio   # 미리보기·장면별 타임라인(Scenes 폴더)
 ```
 

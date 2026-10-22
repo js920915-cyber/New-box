@@ -212,7 +212,7 @@ const MotionPanel: React.FC<{t: number}> = ({t}) => {
   const r = (Math.PI / 180);
   const target: P3 = [0, 0.82, 0];
   const fwd: P3 = [Math.sin(yaw * r) * Math.cos(pitch * r), -Math.sin(pitch * r), Math.cos(yaw * r) * Math.cos(pitch * r)];
-  const cam: Cam = {pos: [target[0] - fwd[0] * R, target[1] - fwd[1] * R, target[2] - fwd[2] * R], yaw, pitch, f: 1500, cx: W * 0.36, cy: H * 0.5, near: 0.1};
+  const cam: Cam = {pos: [target[0] - fwd[0] * R, target[1] - fwd[1] * R, target[2] - fwd[2] * R], yaw, pitch, f: 1850, cx: W * 0.36, cy: H * 0.52, near: 0.1};
   const grid: React.ReactNode[] = [];
   for (let k = -6; k <= 6; k++) {
     const a = linePath(cam, [k * 0.25, 0, -1.5], [k * 0.25, 0, 1.5]);

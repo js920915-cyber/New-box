@@ -39,7 +39,9 @@
     "render": "remotion render BrandFilm out/brand-film.mp4 --codec=h264 --crf=18",
     "fonts": "node scripts/copy-fonts.mjs",
     "predev": "node scripts/copy-fonts.mjs",
-    "prerender": "node scripts/copy-fonts.mjs"
+    "prerender": "node scripts/copy-fonts.mjs",
+    "render:clean": "remotion render BrandFilm out/brand-film-clean.mp4 --codec=h264 --crf=18 --props='{\"captions\":false}'",
+    "prerender:clean": "node scripts/copy-fonts.mjs"
   },
   "allowScripts": {
     "esbuild": false

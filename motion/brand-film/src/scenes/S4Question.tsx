@@ -8,6 +8,7 @@ import {gaitPose, gaitSpeed, JOG, RUN, STAIR, stairPose} from '../lib/gaits';
 import {kneeHoldPose} from '../lib/moves';
 import {at, clamp, smoothstep} from '../lib/util';
 import {C, FPS, H, W} from '../theme';
+import {useCaptions} from '../captions';
 
 export const CUT_A = 1.5;
 export const CUT_B = 3.0;
@@ -120,6 +121,7 @@ const StairShot: React.FC<{t: number}> = ({t}) => {
 export const S4Question: React.FC = () => {
   const frame = useCurrentFrame();
   const t = frame / FPS;
+  const captions = useCaptions();
   const flash = Math.max(at(t, [CUT_A - 0.03, CUT_A, CUT_A + 0.14], [0, 0.5, 0]), at(t, [CUT_B - 0.03, CUT_B, CUT_B + 0.14], [0, 0.5, 0]), at(t, [0, 0.14], [0.6, 0]));
   return (
     <AbsoluteFill style={{background: C.navy}}>
@@ -128,7 +130,7 @@ export const S4Question: React.FC = () => {
       <Flash o={flash} />
       <Caption lines={[['통증이 줄었다고,'], [{t: '회복이 끝난 걸까요?', c: C.white}]]} from={3.85} to={5.97} y={150} size={84} stagger={0.35} />
       {/* thin red rule under the question */}
-      <div style={{position: 'absolute', left: W / 2 - 60, top: 400, width: 120, height: 4, background: C.red, opacity: at(t, [4.5, 4.9], [0, 1]) * at(t, [5.6, 5.97], [1, 0]), scale: `${clamp((t - 4.5) / 0.4)} 1`}} />
+      <div style={{display: captions ? 'block' : 'none', position: 'absolute', left: W / 2 - 60, top: 400, width: 120, height: 4, background: C.red, opacity: at(t, [4.5, 4.9], [0, 1]) * at(t, [5.6, 5.97], [1, 0]), scale: `${clamp((t - 4.5) / 0.4)} 1`}} />
     </AbsoluteFill>
   );
 };
