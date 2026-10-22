@@ -15,16 +15,17 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1226.5,
-    "bottomGap": 89.5,
+    "contentBottom": 1239.7,
+    "bottomGap": 76.3,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "44px/800",
-      "chip": "36px/750",
-      "badge": "40px/800",
+      "layer": "36px/750",
+      "pain": "48px/850",
       "note": "36px/500",
       "accent strong": "36px/750",
+      "warn strong": "36px/750",
       "body": "44px/500",
       "item": "44px/800",
       "src": "30px/500"

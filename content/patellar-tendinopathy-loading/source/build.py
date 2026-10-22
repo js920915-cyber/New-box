@@ -2,6 +2,7 @@
 글은 h1/p, 굵기 500·650·700·750·800·850만, 사진·그림은 overflow:hidden 크롭 안의 img.
 4장 막대그래프와 7장 통증 척도는 div 배경(→ PPTX 실제 도형)과 p(→ 편집 가능한 글)로 만든다.
 사용: python3 content/patellar-tendinopathy-loading/source/build.py"""
+import json
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -43,8 +44,8 @@ h1,p{{margin:0;text-align:center}}
 .scale .n.ok{{background:#cfe6f8}}
 .scale .n p{{font-size:32px;font-weight:700;line-height:1}}
 .pop{{position:relative;width:888px}}
-.chip{{position:absolute;background:var(--blue);color:#fff;font-size:36px;font-weight:750;line-height:1.3;letter-spacing:-.03em;padding:6px 18px;border-radius:12px}}
-.badge{{position:absolute;left:328px;top:-16px;background:var(--red);color:#fff;font-size:40px;font-weight:800;line-height:1.3;letter-spacing:-.03em;padding:8px 26px;border-radius:40px}}
+.layer{{position:absolute;width:240px;font-size:36px;font-weight:750;line-height:1.3;letter-spacing:-.03em}}
+.pain{{position:absolute;width:240px;font-size:48px;font-weight:850;line-height:1.3;letter-spacing:-.03em;color:#fff}}
 .checks{{display:flex;flex-direction:column;align-items:center;gap:26px}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
@@ -61,9 +62,17 @@ def illust(src, w, h, alt):
     return photo(src, w, h, w, 0, 0, alt, 'illust')
 
 
-def chip(text, x, y):
-    """넘치는 컵 위·옆에 얹는 훈련 단어 박스(PPTX에서 도형+글자)"""
-    return f'<p class="chip" style="left:{x}px;top:{y}px">{text}</p>'
+LABELS = json.loads((HERE / 'illust/labels.json').read_text(encoding='utf-8'))
+LAYER_INK = ['#ffffff', '#ffffff', '#0b3a63', '#0b3a63']  # illust.py LAYERS(아래층부터) 위 글자색
+
+
+def cup_labels():
+    """2장 물컵 위 글: 층마다 훈련 이름, 넘친 부분에 통증 (illust.py가 계산한 좌표)"""
+    out = ''
+    for x, y, name, i in LABELS['cups2']['layers']:
+        out += f'<p class="layer" style="left:{x - 120:.0f}px;top:{y - 23.4:.1f}px;color:{LAYER_INK[i]}">{name}</p>'
+    x, y = LABELS['cups2']['pain']
+    return out + f'<p class="pain" style="left:{x - 120:.0f}px;top:{y - 31.2:.1f}px">통증!</p>'
 
 
 def gap(px):
@@ -106,12 +115,11 @@ CARDS = [
         '<p class="body">아픈 힘줄에 다시 <span class="strong">운동이 필요한 이유</span></p>']),
     # 02 물컵: 부하 > 능력
     ('kind-cup', [
-        '<h1 class="headline">힘줄에도<br>감당할 수 있는<br><span class="accent">부하</span>가 있습니다</h1>', gap(28),
-        '<div class="pop">' + illust('cups2.png', 888, 310, '적당히 찬 물컵과 훈련이 몰려 넘치는 물컵')
-        + chip('무리한 대회', 551, 30) + chip('템포', 612, -20) + chip('인터벌', 446, 112) + chip('장거리', 746, 156)
-        + '<p class="badge">앗! 통증?!</p></div>', gap(16),
-        '<div class="cols"><div class="col"><p class="note">컵 = 감당할 수 있는 능력<br>물 = 운동 부하</p></div>'
-        '<div class="col"><p class="note">훈련이 한꺼번에<br><span class="accent strong">갑자기</span> 몰리면</p></div></div>', gap(36),
+        '<h1 class="headline">힘줄에도 감당할 수 있는<br><span class="accent">부하</span>가 있습니다</h1>', gap(32),
+        '<div class="pop">' + illust('cups2.png', 888, 420, '훈련 두 가지가 담긴 컵과, 훈련 네 가지가 몰려 통증이 넘치는 컵')
+        + cup_labels() + '</div>', gap(16),
+        '<div class="cols"><div class="col"><p class="note">컵 = 감당할 수 있는 능력<br>담긴 것 = 훈련</p></div>'
+        '<div class="col"><p class="note">훈련이 <span class="accent strong">갑자기</span> 몰리면<br>넘치는 것 = <span class="warn strong">통증</span></p></div></div>', gap(36),
         '<p class="body">운동량이나 강도가 갑자기 늘면<br>감당 능력을 넘어설 수 있습니다.</p>', gap(28),
         '<p class="item">문제는 운동 자체보다<br><span class="accent">갑작스러운 증가</span>일 수 있습니다</p>', gap(24),
         src_line('참고: Cook et al., Br J Sports Med 2016')]),
