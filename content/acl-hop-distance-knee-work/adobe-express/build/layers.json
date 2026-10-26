@@ -985,6 +985,388 @@
     "card": "05",
     "lines": [
       {
+        "left": 259.203125,
+        "right": 820.765625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "착지",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": " 때는 무릎이",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 184.875,
+        "right": 895.109375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "가장 많이 받아냅니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 165.765625,
+        "right": 914.234375,
+        "top": 321.59375,
+        "bottom": 379.59375,
+        "runs": [
+          {
+            "text": "무릎 몫: 도약 약 12% → 착지 약 65%",
+            "style": {
+              "size": 48,
+              "weight": 650,
+              "color": "#121416",
+              "spacing": -0.96
+            }
+          }
+        ]
+      },
+      {
+        "left": 139.8125,
+        "right": 311.1875,
+        "top": 406.984375,
+        "bottom": 449.984375,
+        "runs": [
+          {
+            "text": "착지 기여율",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 158.859375,
+        "right": 292.125,
+        "top": 952.875,
+        "bottom": 995.875,
+        "runs": [
+          {
+            "text": "Figure 3",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 538.1875,
+        "right": 635.390625,
+        "top": 406.984375,
+        "bottom": 449.984375,
+        "runs": [
+          {
+            "text": "수술측",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#cc414a",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 649.578125,
+        "right": 779.1875,
+        "top": 406.984375,
+        "bottom": 449.984375,
+        "runs": [
+          {
+            "text": "비수술측",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#0879d8",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 829.578125,
+        "right": 926.78125,
+        "top": 406.984375,
+        "bottom": 449.984375,
+        "runs": [
+          {
+            "text": "대조군",
+            "style": {
+              "size": 36,
+              "weight": 650,
+              "color": "#7d858d",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 421.46875,
+        "right": 934.515625,
+        "top": 953.078125,
+        "bottom": 996.078125,
+        "runs": [
+          {
+            "text": "Figure 2 · 착지 때 받아낸 일(J/kg)",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 194.15625,
+        "right": 885.8125,
+        "top": 1028.46875,
+        "bottom": 1081.46875,
+        "runs": [
+          {
+            "text": "수술측 무릎은 반대쪽보다 ",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "덜",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": " 받아내고,",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 154.5625,
+        "right": 925.421875,
+        "top": 1090.9375,
+        "bottom": 1143.9375,
+        "runs": [
+          {
+            "text": "반대쪽 무릎은 대조군보다 ",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "더",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": " 받아냈습니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 118.4375,
+        "right": 961.5625,
+        "top": 1162.40625,
+        "bottom": 1205.40625,
+        "runs": [
+          {
+            "text": "수술측은 고관절 몫을 늘리고 몸통을 더 숙여 착지했습니다",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 458.78125,
+        "w": 259,
+        "h": 483.09375,
+        "fill": "#f0f7fc",
+        "radius": 16
+      },
+      {
+        "type": "photo",
+        "x": 108,
+        "y": 470.78125,
+        "w": 235,
+        "h": 459.09375,
+        "src": "../assets/paper/k2022-fig3-landing.png",
+        "alt": "Kotsifaki 2022 Figure 3 착지 구간 관절별 일 기여율",
+        "img": {
+          "x": 108,
+          "y": 470.78125,
+          "w": 235,
+          "h": 459.09375,
+          "naturalW": 671,
+          "naturalH": 1311
+        },
+        "file": "05-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 115,
+        "y": 550.671875,
+        "w": 226.59375,
+        "h": 6,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 115,
+        "y": 803.78125,
+        "w": 226.59375,
+        "h": 6,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 115,
+        "y": 550.671875,
+        "w": 6,
+        "h": 259.1875,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 335.59375,
+        "y": 550.671875,
+        "w": 6,
+        "h": 259.1875,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 372,
+        "y": 458.984375,
+        "w": 612,
+        "h": 483.09375,
+        "fill": "#f0f7fc",
+        "radius": 16
+      },
+      {
+        "type": "photo",
+        "x": 384,
+        "y": 470.984375,
+        "w": 588,
+        "h": 459.09375,
+        "src": "../assets/paper/k2022-fig2-landing.png",
+        "alt": "Kotsifaki 2022 Figure 2 착지 구간 관절별 흡수 일",
+        "img": {
+          "x": 384,
+          "y": 470.984375,
+          "w": 588,
+          "h": 459.09375,
+          "naturalW": 1856,
+          "naturalH": 1449
+        },
+        "file": "05-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 529.6875,
+        "y": 591.375,
+        "w": 405.5,
+        "h": 4,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 529.6875,
+        "y": 924.78125,
+        "w": 405.5,
+        "h": 4,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 529.6875,
+        "y": 591.375,
+        "w": 4,
+        "h": 337.390625,
+        "fill": "#cc414a",
+        "radius": 0
+      },
+      {
+        "type": "box",
+        "x": 931.1875,
+        "y": 591.375,
+        "w": 4,
+        "h": 337.390625,
+        "fill": "#cc414a",
+        "radius": 0
+      }
+    ]
+  },
+  {
+    "card": "06",
+    "lines": [
+      {
         "left": 228.9375,
         "right": 851.0625,
         "top": 103,
@@ -1147,7 +1529,7 @@
           "naturalW": 1350,
           "naturalH": 438
         },
-        "file": "05-photo1.png"
+        "file": "06-photo1.png"
       },
       {
         "type": "photo",
@@ -1165,12 +1547,12 @@
           "naturalW": 1350,
           "naturalH": 240
         },
-        "file": "05-photo2.png"
+        "file": "06-photo2.png"
       }
     ]
   },
   {
-    "card": "06",
+    "card": "07",
     "lines": [
       {
         "left": 147.71875,
@@ -1429,7 +1811,7 @@
           "naturalW": 2289,
           "naturalH": 622
         },
-        "file": "06-photo1.png"
+        "file": "07-photo1.png"
       },
       {
         "type": "box",

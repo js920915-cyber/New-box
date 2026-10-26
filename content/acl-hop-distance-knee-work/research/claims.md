@@ -15,13 +15,18 @@
 | 04 | 논문 Figure 2 도약 패널(관절별 일 J/kg, 무릎 바이올린 강조) | S1 Figure 2 | 원문 그림 사용(사용자 지시) |
 | 04 | 이 연구에서 도약 일의 약 88%는 고관절·발목, 무릎은 약 12% | S1 Discussion(“knee joint contributes little (about 12%) … 88% … hip and ankle”) | 원문. ‘이 연구에서’로 한정(다른 홉 테스트 일반화 금지) |
 | 캡션 | 수술측 고관절 49.7·무릎 9.7·발목 40.6%, 무릎 몫 감소·고관절 몫 증가 | S1 Table 2, Results, Figure 3 설명 | 원문. 발목 기여율 차이 없음(0.65) → 발목 보완이라 쓰지 않음 |
-| 05 | Box 5 원문 조각(Return to sport/completion 머리글, Jumping biomechanics) | S2 Box 5 | 원문 그림 사용(사용자 지시) |
-| 05 | 각도·모멘트·일, 수직·수평 점프에서 고관절·무릎·발목의 절대값과 좌우 대칭을 정상 수준으로 | S2 Box 5 Jumping biomechanics(‘normalise’) | 원문 |
-| 05 | 전문 선수 복귀 평가를 위한 제안, 재부상 예방이 검증된 기준 아님 | S2 Box 5 머리말(professional athlete), 본문(테스트 통과와 재부상 위험 관계 불명확, 근거 확실성 낮음) | 원문 |
-| 06 | Andreas Bjerregaard, 2023 Aspetar ACL 재활 임상진료지침 공동저자 | S2 저자 명단·GDG | 원문 |
-| 06 | 전 Aspetar ACL Rehabilitation Team 물리치료사 | 사용자 제공 | 원문으로 '전' 여부 확인 불가 |
-| 06 | 가이드라인 제목·저자 원문(Andreas Bjerregaard 표시) | S2 1쪽 | 원문 그림 사용(사용자 지시) |
-| 06 | R스포츠 아카데미 · ACL 재활 전문가 초청 강의 | 사용자 제공 | 일시·신청 방법 미제공 → 미기재. 조인혁 선생님은 가이드라인 미참여로 06·캡션에서 제외(2026-10-26 사용자 지시) |
+| 05 | 논문 Figure 3·2 착지 패널 그림 | S1 Figure 2·3 | 원문 그림 사용(사용자 지시) |
+| 05 | 착지 때 무릎 몫 약 65% (도약 약 12%) | S1 Figure 3 설명(“knee joint is the main work absorber performing 65%”), Discussion(약 12%) | 원문 |
+| 05 | 수술측 무릎은 반대쪽보다 덜 받아냄 | S1 Results(착지 무릎 일: 비수술 > 수술 d=1.12, p<0.001), Figure 2 * | 원문. 수술측–대조군 무릎 일·기여율 차이 없음(Discussion, Table 2 p=0.70) → ‘대조군보다 덜’이라 쓰지 않음 |
+| 05 | 반대쪽 무릎은 대조군보다 더 받아냄 | S1 Results(d=0.76, p=0.003), Figure 2 ‡ | 원문 |
+| 05 | 수술측은 고관절 몫을 늘리고 몸통을 더 숙여 착지 | S1 Table 2 착지 고관절 기여율 26.3 vs 19.5(p<0.001), 최대 몸통 굽힘 47.2 vs 37.0°(p<0.001), Abstract | 원문 |
+| 06 | Box 5 원문 조각(Return to sport/completion 머리글, Jumping biomechanics) | S2 Box 5 | 원문 그림 사용(사용자 지시) |
+| 06 | 각도·모멘트·일, 수직·수평 점프에서 고관절·무릎·발목의 절대값과 좌우 대칭을 정상 수준으로 | S2 Box 5 Jumping biomechanics(‘normalise’) | 원문 |
+| 06 | 전문 선수 복귀 평가를 위한 제안, 재부상 예방이 검증된 기준 아님 | S2 Box 5 머리말(professional athlete), 본문(테스트 통과와 재부상 위험 관계 불명확, 근거 확실성 낮음) | 원문 |
+| 07 | Andreas Bjerregaard, 2023 Aspetar ACL 재활 임상진료지침 공동저자 | S2 저자 명단·GDG | 원문 |
+| 07 | 전 Aspetar ACL Rehabilitation Team 물리치료사 | 사용자 제공 | 원문으로 '전' 여부 확인 불가 |
+| 07 | 가이드라인 제목·저자 원문(Andreas Bjerregaard 표시) | S2 1쪽 | 원문 그림 사용(사용자 지시) |
+| 07 | R스포츠 아카데미 · ACL 재활 전문가 초청 강의 | 사용자 제공 | 일시·신청 방법 미제공 → 미기재. 조인혁 선생님은 가이드라인 미참여로 07·캡션에서 제외(2026-10-26 사용자 지시) |
 
 ## 표현 원칙
 - 관찰 결과(무릎 일이 적었다)를 재부상 위험 증가로 연결하지 않는다.

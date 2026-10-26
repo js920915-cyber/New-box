@@ -1,0 +1,112 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>ACL 홉 거리 07</title><style>
+@font-face{font-family:'Noto Sans KR';src:url('../../../templates/fonts/NotoSansKR-VF.ttf');font-weight:100 900}
+:root{--ink:#121416;--muted:#5e6570;--blue:#0879d8;--red:#cc414a;--tint:#f0f7fc}
+*{box-sizing:border-box} html,body{margin:0;padding:0;background:#fff}
+.card{position:relative;width:1080px;height:1350px;padding:104px 96px 98px;overflow:hidden;background:#fff;
+ font-family:'Noto Sans KR',sans-serif;color:var(--ink);text-align:center;display:flex;flex-direction:column;align-items:center}
+.card-frame{position:absolute;inset:0;pointer-events:none}
+h1,p{margin:0;text-align:center}
+.headline{font-size:84px;font-weight:850;line-height:1.2;letter-spacing:-.035em}
+.kind-cover .headline{font-size:88px;line-height:1.18}
+.body{font-size:44px;font-weight:500;line-height:1.42;letter-spacing:-.02em}
+.strong{font-weight:750}
+.sub{font-size:48px;font-weight:700;line-height:1.3;letter-spacing:-.02em}
+.key{font-size:56px;font-weight:800;line-height:1.3;letter-spacing:-.03em}
+.note{font-size:36px;font-weight:500;line-height:1.4;color:var(--muted);letter-spacing:-.02em}
+.label{font-size:36px;font-weight:700;line-height:1.4;color:var(--blue);letter-spacing:-.02em}
+.accent{color:var(--blue)} .warn{color:var(--red)}
+.slot{border-radius:20px;background:var(--tint);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;flex:none}
+.slot .tag{font-size:36px;font-weight:700;color:var(--blue);line-height:1.3}
+.slot .guide{font-size:36px;font-weight:500;color:var(--muted);line-height:1.42}
+.paper{background:var(--tint);border-radius:16px;flex:none}
+.photo{position:relative;overflow:hidden;flex:none}
+.photo img{position:absolute;left:0;top:0;display:block}
+.chart{position:relative;width:888px;flex:none}
+.chart .a{position:absolute;margin:0;white-space:nowrap}
+.lab{font-size:40px;font-weight:750;line-height:1.3;letter-spacing:-.02em}
+.tick{font-size:32px;font-weight:500;line-height:1.3;color:var(--muted)}
+.val{font-size:52px;font-weight:850;line-height:1.15;letter-spacing:-.02em}
+.row{display:flex;align-items:center;justify-content:space-between;width:888px;flex:none}
+.callout{display:flex;flex-direction:column;align-items:center}
+.grp{font-size:36px;font-weight:650;line-height:1.3;letter-spacing:-.02em}
+.num{font-size:64px;font-weight:850;line-height:1.2;letter-spacing:-.02em}
+.sdv{font-size:34px;font-weight:650;color:var(--muted);letter-spacing:0}
+.big{font-size:64px;font-weight:850;line-height:1.2;letter-spacing:-.03em;color:var(--blue)}
+.name{font-size:48px;font-weight:800;line-height:1.3;letter-spacing:-.02em}
+</style></head><body><article class="card kind-lecture"><svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true"><rect x="35" y="35" width="1010" height="1280" rx="28" fill="none" stroke="#D0DCE5" stroke-width="2"/></svg><h1 class="headline">이 가이드라인에 참여한<br><span class="accent">ACL 재활 전문가</span>를<br>만납니다</h1><div style="height:28px;flex:none"></div><div class="paper" style="padding:20px"><div class="photo" style="width:848px;height:230.4px"><img src="../assets/paper/g2023-header.png" alt="Aspetar 2023 가이드라인 제목과 저자, Andreas Bjerregaard 표시" style="width:848px;height:230.4px"><div style="position:absolute;left:204.5px;top:154.9px;width:209.3px;height:4.0px;background:#0879d8"></div><div style="position:absolute;left:204.5px;top:188.6px;width:209.3px;height:4.0px;background:#0879d8"></div><div style="position:absolute;left:204.5px;top:154.9px;width:4.0px;height:37.8px;background:#0879d8"></div><div style="position:absolute;left:409.8px;top:154.9px;width:4.0px;height:37.8px;background:#0879d8"></div></div></div><div style="height:36px;flex:none"></div><div class="row"><div class="slot" style="width:272px;height:320px"><p class="tag">사진 넣는 자리</p><p class="guide">Andreas<br>승인 프로필 사진</p></div><div class="callout" style="width:600px"><p class="name">Andreas Bjerregaard</p><div style="height:12px;flex:none"></div><p class="note" style="color:var(--ink);font-weight:650;white-space:nowrap">2023 Aspetar ACL 재활<br>임상진료지침 공동저자</p><div style="height:10px;flex:none"></div><p class="note" style="white-space:nowrap">전 Aspetar ACL Rehabilitation Team<br>물리치료사</p></div></div><div style="height:44px;flex:none"></div><p class="sub accent" style="font-size:40px">R스포츠 아카데미</p><div style="height:4px;flex:none"></div><p class="key">ACL 재활 전문가 초청 강의</p></article><script>// ?qa 로 열 때만 실행: contentBottom(실제 마지막 텍스트 줄/이미지), 안전영역, 넘침, 정렬, 폰트 크기를 기록한다.
+if (location.search.includes('qa')) (async () => {
+  await document.fonts.ready;
+  await Promise.all([...document.images].map(i => i.decode().catch(() => {})));
+  const card = document.querySelector('.card'), errors = [], fonts = {};
+  let bottom = 0;
+  const walker = document.createTreeWalker(card, NodeFilter.SHOW_TEXT);
+  while (walker.nextNode()) {
+    const t = walker.currentNode;
+    if (!t.textContent.trim() || t.parentElement.closest('.card-frame')) continue;
+    const r = document.createRange(); r.selectNodeContents(t);
+    for (const b of r.getClientRects()) {
+      bottom = Math.max(bottom, b.bottom);
+      if (b.left < 88 || b.right > 992 || b.top < 96 || b.bottom > 1252) errors.push('unsafe text: ' + t.textContent.trim().slice(0, 20));
+    }
+    const el = t.parentElement, cs = getComputedStyle(el);
+    fonts[(el.className || el.tagName) + ''] = cs.fontSize + '/' + cs.fontWeight;
+    if (cs.textAlign !== 'center') errors.push('not centered: ' + el.className);
+  }
+  for (const img of card.querySelectorAll('img')) {
+    const clip = getComputedStyle(img.parentElement).overflow === 'hidden' ? img.parentElement : img; const b = clip.getBoundingClientRect(); bottom = Math.max(bottom, b.bottom);
+    if (b.left < 88 || b.right > 992 || b.bottom > 1252) errors.push('unsafe img');
+  }
+  for (const el of card.querySelectorAll('*')) {
+    if (el.closest('.card-frame') || el.querySelector(':scope > img')) continue;
+    if (el.scrollWidth > el.clientWidth + 2 && el.clientWidth) errors.push('overflow: ' + el.className);
+  }
+  const out = document.createElement('pre'); out.id = 'qa-out';
+  out.textContent = JSON.stringify({contentBottom: Math.round(bottom * 10) / 10, bottomGap: Math.round((1316 - bottom) * 10) / 10, errors, fonts});
+  document.body.appendChild(out);
+})();
+</script><script>// ?layers 로 열 때만 실행: PPTX용 줄 단위 텍스트(스타일 구간 포함)와 배경 도형/사진 좌표를 JSON으로 기록한다.
+if (location.search.includes('layers')) (async () => {
+  await document.fonts.ready;
+  await Promise.all([...document.images].map(i => i.decode().catch(() => {})));
+  const card = document.querySelector('.card'), lines = [], shapes = [];
+  const rgb = c => '#' + c.match(/\d+/g).slice(0, 3).map(n => (+n).toString(16).padStart(2, '0')).join('');
+  for (const block of card.querySelectorAll('h1, p')) {
+    let line = null, run = null;
+    const walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT);
+    while (walker.nextNode()) {
+      const node = walker.currentNode, cs = getComputedStyle(node.parentElement);
+      const style = {size: parseFloat(cs.fontSize), weight: parseInt(cs.fontWeight), color: rgb(cs.color), spacing: parseFloat(cs.letterSpacing) || 0};
+      for (let i = 0; i < node.textContent.length; i++) {
+        const r = document.createRange(); r.setStart(node, i); r.setEnd(node, i + 1);
+        const b = r.getBoundingClientRect();
+        if (!b.width && !b.height) continue;
+        if (!line || b.left < line.right - 2) {  // 줄 바뀜: 왼쪽으로 되돌아감
+          line = {left: b.left, right: b.right, top: b.top, bottom: b.bottom, runs: []}; lines.push(line); run = null;
+        }
+        if (!run || JSON.stringify(run.style) !== JSON.stringify(style)) { run = {text: '', style}; line.runs.push(run); }
+        run.text += node.textContent[i];
+        line.left = Math.min(line.left, b.left); line.right = Math.max(line.right, b.right);
+        line.top = Math.min(line.top, b.top); line.bottom = Math.max(line.bottom, b.bottom);
+      }
+    }
+  }
+  for (const l of lines) { while (l.runs.length && !l.runs.at(-1).text.trim()) l.runs.pop(); const last = l.runs.at(-1); if (last) last.text = last.text.replace(/\s+$/, ''); const first = l.runs[0]; if (first) first.text = first.text.replace(/^\s+/, ''); }
+  for (const el of card.querySelectorAll('*')) {
+    if (el.closest('.card-frame')) continue;
+    const cs = getComputedStyle(el), b = el.getBoundingClientRect();
+    if (cs.backgroundColor !== 'rgba(0, 0, 0, 0)') shapes.push({type: 'box', x: b.left, y: b.top, w: b.width, h: b.height, fill: rgb(cs.backgroundColor), radius: parseFloat(cs.borderTopLeftRadius) || 0});
+    if (parseFloat(cs.borderTopWidth) > 0) shapes.push({type: 'line', x: b.left, y: b.top, w: b.width, h: parseFloat(cs.borderTopWidth), fill: rgb(cs.borderTopColor)});
+    if (parseFloat(cs.borderBottomWidth) > 0) shapes.push({type: 'line', x: b.left, y: b.bottom - parseFloat(cs.borderBottomWidth), w: b.width, h: parseFloat(cs.borderBottomWidth), fill: rgb(cs.borderBottomColor)});
+    if (el.tagName.toLowerCase() === 'svg') shapes.push({type: 'unsupported', what: 'inline svg', x: b.left, y: b.top, w: b.width, h: b.height});
+    if (el.tagName === 'IMG') {  // overflow:hidden 부모가 있으면 그 영역이 보이는 사진(크롭)
+      const clip = getComputedStyle(el.parentElement).overflow === 'hidden' ? el.parentElement : el;
+      const c = clip.getBoundingClientRect();
+      shapes.push({type: 'photo', x: c.left, y: c.top, w: c.width, h: c.height, src: el.getAttribute('src'), alt: el.alt || '사진',
+        img: {x: b.left, y: b.top, w: b.width, h: b.height, naturalW: el.naturalWidth, naturalH: el.naturalHeight}});
+    }
+  }
+  const out = document.createElement('pre'); out.id = 'layers-out';
+  out.textContent = JSON.stringify({lines: lines.filter(l => l.runs.length), shapes});
+  document.body.appendChild(out);
+})();
+</script></body></html>

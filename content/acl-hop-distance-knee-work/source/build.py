@@ -151,7 +151,23 @@ CARDS = [
         paper('k2022-fig2-propulsion.png', 856, 'Kotsifaki 2022 Figure 2 도약 구간 관절별 일', pad=16, box=BOX['fig2_knee'], t=4), gap(12),
         '<p class="note">논문 Figure 2 · 도약할 때 관절이 만든 일(J/kg)</p>', gap(24),
         '<p class="body">이 연구에서 도약 일의 약 88%는 고관절·발목이,<br><span class="warn strong">무릎(Knee)은 약 12%</span>를 맡았습니다.</p>']),
-    # 05 가이드라인 Box 5 원문
+    # 05 착지: Figure 3 착지 패널 + Figure 2 착지 패널 (2026-10-26 사용자 지시 — 05 가이드라인 앞에 착지 한 장)
+    ('kind-landing', [
+        '<h1 class="headline"><span class="accent">착지</span> 때는 무릎이<br>가장 많이 받아냅니다</h1>', gap(14),
+        '<p class="sub" style="font-weight:650">무릎 몫: 도약 약 12% → 착지 약 65%</p>', gap(24),
+        '<div class="row" style="align-items:flex-start">'
+        + '<div class="callout" style="width:259px"><p class="grp" style="color:var(--muted)">착지 기여율</p>' + gap(6)
+        + paper('k2022-fig3-landing.png', 235, 'Kotsifaki 2022 Figure 3 착지 구간 관절별 일 기여율', pad=12, box=BOX['fig3_landing_knee'], t=6)
+        + gap(8) + '<p class="note">Figure 3</p></div>'
+        + '<div class="callout" style="width:612px"><div class="chart" style="width:612px;height:47px">'
+        + ''.join(at(t, 12 + x * 588 / 1856, 0, 150, 'grp', f'color:{c}') for t, x, c in (('수술측', 640, RED), ('비수술측', 1043, BLUE), ('대조군', 1560, '#7d858d')))  # 원 그림의 열 가운데(px), 03장과 같은 색
+        + '</div>' + gap(6)
+        + paper('k2022-fig2-landing.png', 588, 'Kotsifaki 2022 Figure 2 착지 구간 관절별 흡수 일', pad=12, box=BOX['fig2_landing_knee'], t=4)
+        + gap(8) + '<p class="note">Figure 2 · 착지 때 받아낸 일(J/kg)</p></div>'
+        + '</div>', gap(24),
+        '<p class="body">수술측 무릎은 반대쪽보다 <span class="strong">덜</span> 받아내고,<br>반대쪽 무릎은 대조군보다 <span class="strong">더</span> 받아냈습니다.</p>', gap(10),
+        '<p class="note">수술측은 고관절 몫을 늘리고 몸통을 더 숙여 착지했습니다</p>']),
+    # 06 가이드라인 Box 5 원문
     ('kind-guide', [
         '<h1 class="headline">그래서 Aspetar는<br><span class="accent">점프의 역학</span>까지<br>살펴봅니다</h1>', gap(32),
         paper('g2023-box5-rts.png', 840, 'Aspetar 2023 가이드라인 Box 5 스포츠 복귀 최소 기준 머리글 원문'), gap(8),
@@ -159,7 +175,7 @@ CARDS = [
         '<p class="big">각도 · 모멘트 · 일</p>', gap(12),
         '<p class="body">수직·수평 점프에서 고관절·무릎·발목의<br>절대값과 좌우 대칭을 모두 정상 수준으로</p>', gap(28),
         '<p class="note">전문 선수의 복귀 평가를 위한 제안이며,<br>재부상 예방이 검증된 기준은 아닙니다.</p>']),
-    # 06 Andreas 소개 (조인혁 선생님 제외 — 2026-10-26 사용자 지시)
+    # 07 Andreas 소개 (조인혁 선생님 제외 — 2026-10-26 사용자 지시)
     ('kind-lecture', [
         '<h1 class="headline">이 가이드라인에 참여한<br><span class="accent">ACL 재활 전문가</span>를<br>만납니다</h1>', gap(28),
         paper('g2023-header.png', 848, 'Aspetar 2023 가이드라인 제목과 저자, Andreas Bjerregaard 표시', pad=20,

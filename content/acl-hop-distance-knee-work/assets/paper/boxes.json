@@ -11,6 +11,18 @@
   1774,
   1226
  ],
+ "fig3_landing_knee": [
+  20,
+  228,
+  667,
+  968
+ ],
+ "fig2_landing_knee": [
+  460,
+  380,
+  1740,
+  1445
+ ],
  "g2023_andreas": [
   552,
   418,
@@ -30,9 +42,17 @@
    2289,
    622
   ],
+  "k2022-fig2-landing.png": [
+   1856,
+   1449
+  ],
   "k2022-fig2-propulsion.png": [
    1856,
    1234
+  ],
+  "k2022-fig3-landing.png": [
+   671,
+   1311
   ],
   "k2022-fig3-propulsion.png": [
    872,

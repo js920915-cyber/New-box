@@ -1,7 +1,7 @@
 {
   "pptx": "adobe-express/acl-hop-distance-knee-work-express.pptx",
   "renderer": "LibreOffice (PowerPoint 아님)",
-  "slides": 6,
+  "slides": 7,
   "warnings": [],
   "cards": [
     {
@@ -30,12 +30,18 @@
     },
     {
       "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 7.08,
+      "pass": true
+    },
+    {
+      "card": "06",
       "verticalShiftPx": 1,
       "diffPct": 8.04,
       "pass": false
     },
     {
-      "card": "06",
+      "card": "07",
       "verticalShiftPx": 1,
       "diffPct": 7.45,
       "pass": true

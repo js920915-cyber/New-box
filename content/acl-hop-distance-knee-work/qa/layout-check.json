@@ -67,6 +67,23 @@
   {
     "card": "05",
     "size": "1080x1350",
+    "contentBottom": 1205.4,
+    "bottomGap": 110.6,
+    "errors": "",
+    "fonts": {
+      "accent": "84px/850",
+      "headline": "84px/850",
+      "sub": "48px/650",
+      "grp": "36px/650",
+      "note": "36px/500",
+      "a grp": "36px/650",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
     "contentBottom": 1234.3,
     "bottomGap": 81.7,
     "errors": "",
@@ -79,7 +96,7 @@
     }
   },
   {
-    "card": "06",
+    "card": "07",
     "size": "1080x1350",
     "contentBottom": 1229.8,
     "bottomGap": 86.2,

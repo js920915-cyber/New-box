@@ -58,11 +58,21 @@ fig2.crop((0, 0, fig2.width, 1234)).save(OUT / 'k2022-fig2-propulsion.png')
 kb = teal_box(fig2, 0, 0, fig2.width, 1234, 0)
 boxes['fig2_knee'] = [kb[0] - 70, kb[1] - 36, min(kb[2] + 150, fig2.width - 4), 1226]  # 'Knee' 이름표까지 포함
 
-# 05: Aspetar 2023 Box 5 (9쪽, 508) — Return to sport/completion 머리글(전문 선수 최소 기준) + Jumping biomechanics 항목. 사이 항목은 생략
+# 05(착지): Figure 3 착지(Landing) 패널(x1000~), Figure 2 아래쪽(착지 흡수 일, J/kg) 패널(가로 구분선 y1242 아래)
+fig3.crop((1000, 0, fig3.width, fig3.height)).save(OUT / 'k2022-fig3-landing.png')
+lb = teal_box(fig3, 1000, 0, fig3.width, fig3.height, 12)
+# 아랫선은 세 막대 무릎 띠 아래끝 중 가장 높은 곳(대조군 13%)까지 — 더 내리면 비수술측·대조군 'Ankle' 글자를 가로지른다
+low = min(teal_box(fig3, x0, 0, x0 + 200, fig3.height, 0)[3] for x0 in (1040, 1250, 1460))
+boxes['fig3_landing_knee'] = [lb[0] - 1000, lb[1], min(lb[2] - 1000, fig3.width - 1000 - 4), low + 2]
+fig2.crop((0, 1244, fig2.width, fig2.height)).save(OUT / 'k2022-fig2-landing.png')
+kb = teal_box(fig2, 0, 1244, fig2.width, fig2.height, 0)
+boxes['fig2_landing_knee'] = [kb[0] - 70, kb[1] - 1244 - 50, min(kb[2] + 150, fig2.width - 4), fig2.height - 1244 - 4]  # 'Knee' 이름표까지 포함
+
+# 06: Aspetar 2023 Box 5 (9쪽, 508) — Return to sport/completion 머리글(전문 선수 최소 기준) + Jumping biomechanics 항목. 사이 항목은 생략
 render_crop(G23, 9, 44, 336.0, 287, 414.9, 'g2023-box5-rts.png')
 render_crop(G23, 9, 44, 624.2, 287, 667.4, 'g2023-box5-jumping.png')
 
-# 06: Aspetar 2023 제목·저자 (1쪽) + Andreas Bjerregaard 이름 위치(pdftotext -bbox 실측, pt)
+# 07: Aspetar 2023 제목·저자 (1쪽) + Andreas Bjerregaard 이름 위치(pdftotext -bbox 실측, pt)
 gx0, gy0 = 140, 40  # OPEN ACCESS 로고 제외 → 저자 글씨를 크게
 render_crop(G23, 1, gx0, gy0, 552, 152, 'g2023-header.png')
 ax0, ay0, ax1, ay1 = 241.97, 116.66, 338.6, 131.85  # 'Andreas' 시작 ~ 'Bjerregaard' 끝(쉼표 제외)
