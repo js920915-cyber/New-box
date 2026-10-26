@@ -5,7 +5,7 @@
 ## S1. 주 근거 — 측정 데이터 (원문 전체 확인)
 Kotsifaki A, Whiteley R, Van Rossom S, Korakakis V, Bahr R, Sideris V, Graham-Smith P, Jonkers I. *Single leg hop for distance symmetry masks lower limb biomechanics: time to discuss hop distance as decision criterion for return to sport after ACL reconstruction?* Br J Sports Med 2022;56(5):249–256 (Online First 2021-03-09). doi:10.1136/bjsports-2020-103677.
 - 확인한 PDF: BJSM Online First 판(2021-03-16 다운로드본, 9쪽). 끝에 "Correction notice … Table 2 has been corrected." 문구가 있는 **수정 반영본**. 권·호·쪽(56(5):249–256)은 사용자 제공 서지 그대로이며 이 PDF에는 인쇄판 쪽수가 없다.
-- 권리: "© Author(s) 2021. No commercial re-use." → **Figure 2·3 이미지 사용 안 함**. Table 2 수치로 HTML 그래프를 새로 만듦(02·03·04장).
+- 권리: "© Author(s) 2021. No commercial re-use." 1차 시안은 그림 미사용(수치로 다시 그림). **2차(2026-10-26)는 사용자 지시로 제목·Figure 2·3 원문 그림을 잘라 사용** — 상업적 이용 허락 필요 여부는 assets/asset_manifest.md.
 
 ### 대상 (Methods, Table 1)
 - 남성 49명: 일차 ACL 재건술 후 26명 + 대조군 23명. "All participants were male."
@@ -45,7 +45,7 @@ Kotsifaki A, Whiteley R, Van Rossom S, Korakakis V, Bahr R, Sideris V, Graham-Sm
 
 ## S2. 가이드라인 — 연결 근거 (원문 전체 확인)
 Kotsifaki R, Korakakis V, King E, Barbosa O, Maree D, Pantouveris M, Bjerregaard A, Luomajoki J, Wilhelmsen J, Whiteley R. *Aspetar clinical practice guideline on rehabilitation after anterior cruciate ligament reconstruction.* Br J Sports Med 2023;57(9):500–514 (Online First 2023-02-02). doi:10.1136/bjsports-2022-106158.
-- 권리: "Re-use permitted under CC BY-NC. No commercial re-use." → 그림·표 이미지 사용 안 함, 문구만 요약.
+- 권리: "Re-use permitted under CC BY-NC. No commercial re-use." 2차는 사용자 지시로 1쪽 제목·저자와 Box 5 원문을 잘라 사용(저작자 표시는 카드·캡션).
 - 저자: **Andreas Bjerregaard 7번째 저자**. 방법: 가이드라인 개발 그룹(GDG) 9명 "physiotherapists/researchers, RK, VK, OB, DM, MP, **AB**, JL, JW and RW from Aspetar". AGREE II·GRADE.
 - **Box 5 Return to activities → Return to sport/completion of rehabilitation** (원문): "We propose the below minimum criteria required for a professional athlete to be cleared from the clinic/hospital setting and start training with their club …" 중 "**Jumping biomechanics—normalise absolute and symmetry values for moments, angles and work in vertical and horizontal jumps especially in sagittal and frontal plane at hip, knee and ankle.**" Modal agreement 'agree'(평균 88.8%).
 - 본문: 복귀 기준은 "based on our clinical experience, research findings and our normative data"; "Currently, it is not clear if passing a battery of tests is associated with lower risk of second ACL injury." 대부분 권고가 매우 낮은 확실성 근거.
@@ -54,7 +54,7 @@ Kotsifaki R, Korakakis V, King E, Barbosa O, Maree D, Pantouveris M, Bjerregaard
 ## S3. 강사 정보 (사용자 제공)
 - Andreas Bjerregaard: 2023 가이드라인 공동저자(S2에서 확인). "전 Aspetar ACL Rehabilitation Team 물리치료사"는 사용자 제공 문구. S2 원문은 작성 당시 Aspetar 소속(GDG)만 확인 가능하며 '전(前)' 여부는 원문으로 확인 불가 → 사용자 제공 정보로 사용.
 - **Andreas는 S1(2022 홉 논문)의 저자가 아님** — S1 저자 8명 명단에 없음 확인. 카드·캡션에서 혼동하지 않음.
-- 조인혁: 이름만 제공. 경력 문구를 만들지 않음.
+- 조인혁: 2026-10-26 사용자 지시 — 가이드라인에 참여하지 않았으므로 06장·캡션에서 제외(Andreas만 소개).
 - 강의 날짜·장소·신청 방법: 제공되지 않음 → 카드·캡션에 넣지 않음(캡션에 입력 자리만).
 
 ## 접근 제약

@@ -16,34 +16,35 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1225.8,
-    "bottomGap": 90.2,
+    "contentBottom": 1183.1,
+    "bottomGap": 132.9,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "warn": "84px/850",
       "note": "36px/500",
+      "body strong": "44px/750",
       "a lab": "40px/750",
       "a val": "52px/850",
-      "a tick": "32px/500",
-      "body": "44px/500",
-      "strong": "44px/750"
+      "a tick": "32px/500"
     }
   },
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1212.8,
-    "bottomGap": 103.2,
+    "contentBottom": 1201.8,
+    "bottomGap": 114.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "note": "36px/500",
-      "a val": "52px/850",
-      "a sd": "34px/650",
-      "a lab": "36px/750",
+      "label": "34px/700",
+      "grp": "36px/650",
+      "SPAN": "36px/650",
+      "num": "64px/850",
+      "sdv": "34px/650",
       "body": "44px/500",
       "strong": "44px/750"
     }
@@ -51,52 +52,44 @@
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1209.3,
-    "bottomGap": 106.7,
+    "contentBottom": 1216.9,
+    "bottomGap": 99.1,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "sub": "48px/650",
-      "a note-ink": "36px/650",
-      "a item": "48px/800",
-      "a key": "56px/850",
+      "note": "36px/500",
       "body": "44px/500",
-      "strong": "44px/750",
-      "note": "36px/500"
+      "warn strong": "44px/750"
     }
   },
   {
     "card": "05",
     "size": "1080x1350",
-    "contentBottom": 1142.5,
-    "bottomGap": 173.5,
+    "contentBottom": 1234.3,
+    "bottomGap": 81.7,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "note-ink": "36px/700",
-      "item": "48px/800",
-      "big": "56px/850",
-      "note": "36px/500",
+      "big": "64px/850",
       "body": "44px/500",
-      "strong": "44px/750"
+      "note": "36px/500"
     }
   },
   {
     "card": "06",
     "size": "1080x1350",
-    "contentBottom": 1150.2,
-    "bottomGap": 165.8,
+    "contentBottom": 1229.8,
+    "bottomGap": 86.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "tag": "36px/700",
       "guide": "36px/500",
-      "name": "40px/800",
-      "times": "48px/500",
-      "note-ink": "36px/650",
+      "name": "48px/800",
       "note": "36px/500",
       "sub accent": "40px/700",
       "key": "56px/800"
