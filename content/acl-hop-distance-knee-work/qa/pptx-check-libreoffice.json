@@ -1,0 +1,45 @@
+{
+  "pptx": "adobe-express/acl-hop-distance-knee-work-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 6,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 5,
+      "diffPct": 5.44,
+      "pass": false
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 0,
+      "diffPct": 9.82,
+      "pass": false
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 0,
+      "diffPct": 6.8,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 7.55,
+      "pass": true
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 8.77,
+      "pass": false
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 2,
+      "diffPct": 6.94,
+      "pass": true
+    }
+  ],
+  "result": "LO-FAIL"
+}

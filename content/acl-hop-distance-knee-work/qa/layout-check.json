@@ -1,0 +1,105 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1147.7,
+    "bottomGap": 168.3,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "tag": "36px/700",
+      "guide": "36px/500",
+      "sub": "48px/700"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1225.8,
+    "bottomGap": 90.2,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "warn": "84px/850",
+      "note": "36px/500",
+      "a lab": "40px/750",
+      "a val": "52px/850",
+      "a tick": "32px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1212.8,
+    "bottomGap": 103.2,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "note": "36px/500",
+      "a val": "52px/850",
+      "a sd": "34px/650",
+      "a lab": "36px/750",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1209.3,
+    "bottomGap": 106.7,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "sub": "48px/650",
+      "a note-ink": "36px/650",
+      "a item": "48px/800",
+      "a key": "56px/850",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1142.5,
+    "bottomGap": 173.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "note-ink": "36px/700",
+      "item": "48px/800",
+      "big": "56px/850",
+      "note": "36px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1150.2,
+    "bottomGap": 165.8,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "tag": "36px/700",
+      "guide": "36px/500",
+      "name": "40px/800",
+      "times": "48px/500",
+      "note-ink": "36px/650",
+      "note": "36px/500",
+      "sub accent": "40px/700",
+      "key": "56px/800"
+    }
+  }
+]
