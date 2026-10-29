@@ -1,0 +1,45 @@
+{
+  "pptx": "adobe-express/acl-rtd-webinar-2026-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 6,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 2,
+      "diffPct": 4.93,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 3,
+      "diffPct": 8.13,
+      "pass": false
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 0,
+      "diffPct": 7.32,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 8.68,
+      "pass": false
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 7.83,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 3,
+      "diffPct": 7.96,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}
