@@ -1,0 +1,108 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1173.5,
+    "bottomGap": 142.5,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "name": "36px/700"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1164.8,
+    "bottomGap": 151.2,
+    "errors": "",
+    "fonts": {
+      "name": "36px/700",
+      "q": "52px/750",
+      "accent": "56px/800",
+      "a": "56px/800",
+      "item": "48px/800",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1172,
+    "bottomGap": 144,
+    "errors": "",
+    "fonts": {
+      "name": "36px/700",
+      "q": "52px/750",
+      "a": "56px/800",
+      "accent": "56px/800",
+      "note": "36px/500",
+      "key": "64px/800",
+      "key accent": "64px/800",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1163.7,
+    "bottomGap": 152.3,
+    "errors": "",
+    "fonts": {
+      "name": "36px/700",
+      "q": "52px/750",
+      "a": "56px/800",
+      "accent": "56px/800",
+      "item": "48px/800",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1187.7,
+    "bottomGap": 128.3,
+    "errors": "",
+    "fonts": {
+      "name": "36px/700",
+      "q": "52px/750",
+      "a": "56px/800",
+      "accent": "56px/800",
+      "body": "44px/500",
+      "item": "48px/800"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1219.8,
+    "bottomGap": 96.2,
+    "errors": "",
+    "fonts": {
+      "name": "36px/700",
+      "q": "52px/750",
+      "a": "56px/800",
+      "accent": "56px/800",
+      "item": "48px/800",
+      "note": "36px/500",
+      "safety": "38px/700"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1187.4,
+    "bottomGap": 128.6,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item": "48px/800",
+      "body": "44px/500",
+      "note": "36px/500",
+      "key": "56px/800"
+    }
+  }
+]

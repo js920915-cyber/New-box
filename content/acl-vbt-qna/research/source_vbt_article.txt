@@ -1,0 +1,444 @@
+Integrating Velocity-Based Training Into ACL Rehabilitation
+
+Written by:
+
+Andreas Bjerregaard:  Physiotherapist, Section of Sports Traumatology,
+Department of Orthopedic Surgery, Copenhagen University Hospital
+Bispebjerg, Copenhagen, Denmark.
+
+Pedro Castellón Sánchez : Physiotherapist, MSc, MBA · Senior Client
+Success Manager at VALD and First Physiotherapist for the Saudi National
+Men’s Team.
+
+Abbreviations:
+
+VBT= Velocity based training
+
+ACLR = Anterior cruciate ligament reconstruction
+
+The aim of this blogpost are to share clinical experience on how to
+integrate velocity based training (VBT) to to guide exercise intensity,
+make decisions from one session to the next, manage fatigue, and to
+improve explosive performance after anterior cruciate ligament
+reconstruction (ACLR).
+
+“How much weight can I lift after my ACLR?”
+
+Three weeks after ACLRwith an allograft, a patient asked me a question
+that changed how we approached his training: “How much weight can I
+lift?” Before his injury, he had been a competitive bodybuilder and an
+experienced coach, squatting and deadlifting +250kg. Therefore, a pair
+of 2x10 kg dumbbells would barely challenge him. We needed to find a
+meaningful training stimulus with respect to the biological healing,
+postoperative restrictions, or his knee general response to exercises.
+we started his return to squat with sit to stand from a box equal to 90
+degree knee flexion. Adding VBT device to the movement, we could
+estimate how quickly he would stand up. With a graded exposure approach
+we added a barbell in a front squat position. The VBT transdurer then
+tracked the load we were able to apply from early in his rehab. Instead
+of talking about an estimated percentage of 1RM, we had a conversation
+around which velocity we would allowed in this early stage and with this
+range of motion. To keep the motivation high we allowed less than 70% of
+1RM. In this case he had to look for the speed per repetition rather
+than a number of reps.
+
+[]
+
+NEED VIDEO OF BOX SQUAT WITH THE BARBELL. No DEEPER THAN 90 KNEE
+FLEXION.
+
+What is velocity-based training?
+
+Velocity-based training (VBT) is a method of prescribing and monitoring
+resistance training by measuring how fast a weight is lifted. The
+principle is simple: as the weight increases, the lifting velocity
+generally decreases. This relationship is known as the load–velocity
+relationship [2,3].
+
+By using a velocity measurement device, such as a linear position
+transducer, we can measure lifting speed in meters per second (m/s).
+This information helps us estimate the relative training intensity (% of
+1RM).
+
+Why use VBT during ACLR?
+
+After ACLR, restoring quadriceps and hamstring strength is a major goal.
+But finding the right load is not straightforward. Too little resistance
+may fail to stimulate adaptation; too much may increase pain, swelling,
+or knee irritability. We often prescribe strength work as a percentage
+of one-repetition maximum (1RM), yet a patient’s capacity can change
+with fatigue, sleep, recovery, and symptoms. In the earlier stages,
+maximal testing may also be inappropriate. RIR (reps in reserve) is also
+used, but patients new to daily training often struggle to judge it
+accurately, which can push them harder than intended..
+
+VBT adds to that conversation. If we know how fast someone moves a given
+weight, we can estimate relative intensity and adjust the session to
+their performance that day. The “velocity number” therefore helps the
+patients to understand what a lighter, moderate, and heavier efforts
+actually feel like. This is called autoregulation.
+
+Imagine a patient who normally squats 60 kg at 0.80 m/s. On another day,
+the same load moves at only 0.65 m/s. That does not automatically mean
+that the patient is weaker, but it gives us a reason to check how the
+patient feels, and whether the planned session still makes sense. Rather
+than forcing the original load, we can adapt the training target.
+
+Which velocity metrics do we look at?
+
+To keep this easy to follow, we explain these metrics using the squat as
+our reference exercise. The same ideas apply later to other lifts, but
+the squat makes the phases of the movement clearer.
+
+Three metrics are particularly relevant when applying VBT:
+
+-   Peak velocity: This is the highest speed reached during the upward
+    movement of the squat. It tells us how fast the barbell moved at its
+    fastest point.
+
+-   Mean velocity: This is the mean speed throughout the entire upward
+    movement, from the bottom of the squat until we reach standing. It
+    includes both acceleration, and the braking phase, just before
+    standing position.
+
+-   Mean propulsive velocity: This is the mean speed during the
+    propulsive portion of the upward movement. Unlike concentric mean
+    velocity, it excludes the final braking phase, when you slow the
+    movement down, as you approach the standing position in a squat.
+    This can be very useful in the intermediate phases of rehab to tell
+    apart two athletes who look similar on mean velocity yet have
+    different levels of strength.
+
+Three uses of VBT in ACL rehab:
+
+Assessment, monitoring and load adjustment
+
+Over time, we found that velocity is useful not only for choosing the
+load, but also for deciding what kind of session to deliver. A simple
+reference squat can act as a daily “thermometer”: the same exercise, the
+same load, and the same velocity metric, compared with previous
+sessions.
+
+In our clinical experience, VBT has three complementary purpose that
+work together from one session to the next: Assessment, monitoring and
+load adjustment
+
+Assessment: We build an individual load–velocity profile, usually from
+the squat, to understand how that patient moves across a range with
+different sub-max loads. Fx 20kg, 30kg and 40kg. From that profile we
+can estimate relative intensity and approximate 1RM without relying on
+frequent maximal testing.
+
+Monitoring: Each session we use a daily squat “thermometer”: the same
+fixed reference load for 3×5 repetitions with maximal intended
+concentric speed, tracking concentric mean velocity against that
+patient’s recent sessions. This tells us how ready they are today before
+we decide what the strength work should look like.
+
+Load adjustment: Rather than locking the session to a fixed percentage
+of 1RM, we prescribe by a target velocity within a set. Then we use a
+velocity-loss threshold within the set to decide the numbers of
+repetitions.
+
+Assessment: Choosing a training load from lifting velocity
+
+We can use lifting velocity to estimate relative training intensity
+without repeatedly testing maximal strength. However, velocity is
+exercise-specific. Because this article centers on the squat as our
+reference exercise, the velocities we discuss are best read in that
+context. Other exercises (for example a deadlift) can show different bar
+speeds at the same percentage of 1RM. In this example, the velocity is
+influenced by the weight on the barbell and the athlete body weight
+whereas during the deadlift, the load are moved from the floor without
+the bodyweight. Therefore, 70% of 1RM in a squat are performed at
+0.77m/s, whereas in the deadlift 70% of 1RM are performed at 0.62m/s
+(Table 1).
+
+  ----------------------- ----------------------- -----------------------
+  Relative load           Back squat              Deadlift
+
+  50% 1RM                 1.06 m/s                0.87 m/s
+
+  60% 1RM                 0.91 m/s                0.75 m/s
+
+  70% 1RM                 0.77 m/s                0.62 m/s
+
+  80% 1RM                 0.62 m/s                0.50 m/s
+
+  90% 1RM                 0.47 m/s                0.37 m/s
+  ----------------------- ----------------------- -----------------------
+
+Table 1. Example values from an individual load–velocity profile
+reported by Forelli et al. [1].
+
+Speed zones: from moving fast to lifting heavy
+
+To make the force–velocity relationship easier to understand, we
+describe three broad zones: speed-strength, strength-speed, and absolute
+strength. Light loads can generally be moved faster, while heavy loads
+move more slowly. These zones help us explain the goal of a session, but
+their percentages and velocities are approximate and differ between
+exercises and individuals [1, 2].
+
+  ----------------------- ----------------------- -----------------------
+  Relative load           Strength quality        Velocity and training
+                                                  emphasis
+
+  0–40% 1RM               Speed-strength          Approximately 1.0–1.5
+                                                  m/s Relatively light
+                                                  loads moved at high
+                                                  velocity. The emphasis
+                                                  is on producing force
+                                                  quickly, rather than
+                                                  lifting a heavy weight.
+
+  40–70% 1RM              Strength-speed          Approximately 0.75–1.0
+                                                  m/s Moderate loads
+                                                  moved relatively
+                                                  quickly. The goal is to
+                                                  develop high force
+                                                  production while
+                                                  maintaining substantial
+                                                  movement velocity.
+
+  70–100% 1RM             Absolute strength       Slower lifting
+                                                  velocities;
+                                                  approximately 0.3 m/s
+                                                  at 100% 1RM for
+                                                  lower-body movements in
+                                                  the figure. Heavy
+                                                  resistance training
+                                                  where the primary
+                                                  emphasis is on
+                                                  producing high levels
+                                                  of force.
+  ----------------------- ----------------------- -----------------------
+
+Monitoring: Our daily test: a practical “thermometer”
+
+In clinical practice, we introduce VBT once the patient demonstrates
+good squat depth and with a movement quality. A typical session starts
+with a warm-up before moving into three sets of five back squats. These
+are performed with maximal intended concentric speed at a fixed
+reference load. For example, 20, 30, and 40 kg barbell, depending on the
+person. With VBT we then track concentric mean velocity, and compare it
+with that patient’s recent sessions.
+
+If the reference load moves at a similar or faster velocity than usual,
+and the knee is responding well, we may continue with the planned
+strength session. If it moves noticeably more slowly, we have two
+options: change the session towards lower-demand exercises, such as
+mobility,or reduce the load to match another intended training velocity.
+We prefer to interpret the number alongside pain, swelling, movement
+quality, and the patient’s injury history and lifting experience.
+
+[]
+
+Figure 1. Practical daily VBT decision flow illustrates a decision
+process, not a validated ACLR algorithm.
+
+Load adjustment: Knowing when to stop: velocity loss within a set
+
+Consider a squat set in which the first repetition is lifted at 0.80
+m/s. Each repetition becomes a little slower. In this example, 0.64 m/s
+represents a 20% velocity reduction from 0.80 m/s. A patient could stop
+at that point even if more repetitions were originally planned or if
+less reps were planned, he could have continued until he reached the 20%
+drop in velocity.
+
+  ----------------------------------- -----------------------------------
+  Repetition                          Velocity
+
+  1                                   0.80 m/s
+
+  2                                   0.78 m/s
+
+  3                                   0.75 m/s
+
+  4                                   0.72 m/s
+
+  5                                   0.68 m/s
+
+  6                                   0.64 m/s
+  ----------------------------------- -----------------------------------
+
+Table 2. Illustrative squat set: velocity decreases from 0.80 to 0.64
+m/s, equivalent to 20% velocity loss relative to the fastest repetition.
+
+In practice, this means we do not always have to insist on completing a
+fixed number of repetitions. We can set a velocity-loss limit and stop
+the set when performance drops beyond it.
+
+NEED VIDEO OF BACK SQUAT AND SHOWING THE SCREEN WITH 20% VELOCITY LOSS
+
+[]
+
+The chosen velocity loss depends on the goal of the exercise. Lower
+velocity loss generally means less fatigue, while higher velocity loss
+produces more fatigue and requires longer recovery. As shown in Figure
+2, a 25% velocity loss would stop the set after 7 repetitions, while a
+50% loss would allow 10 repetitions. We usually decribe 20% velocity
+loss in our ACLR rehabilitation.
+
+[]
+
+How we progress VBT across ACLR rehabilitation?
+
+In our clinical practice, we gradually progress from lighter resistance
+towards heavier strength work while introducing faster exercises as the
+patient meets the relevant criteria. The time frames below illustrate
+one approach; they are not automatic clearance dates or a validated ACLR
+protocol.
+
+-   0–3 months: Building strength and training tolerance
+
+During approximately the first 3 months, we generally emphasize
+controlled resistance training below 70% of estimated 1RM, with the aim
+of rebuilding strength and loading tolerance. Surgical restrictions,
+symptoms, and exercise selection take priority over any percentage
+target.
+
+-   3–6 months: Increasing strength and introducing strength-speed
+
+Between approximately 3–6 months, we may introduce faster strength-speed
+work. Again using the squat as our main reference exercise. We aim for a
+mean concentric velocity of approximately 0.75–1.00 m/s, depending on
+the training goal, while maintaining good movement quality. while
+maintaining good movement quality. As the patient progresses, we may
+introduce more explosive exercises,That velocity can also mark our entry
+point for adding more load to the squat. At this stage we can start
+building an initial force–velocity profile to map strength zones for
+that individual. Mean propulsive velocity may be useful here, because —
+as explained earlier — it tends to be more accurate with lighter loads.
+As the patient progresses, we may introduce more explosive exercises.
+
+where mean propulsive velocity can help us monitor the speed of the
+movement without including the final braking phase before standing
+position.
+
+-   From approximately 4.5 months: Developing explosive performance
+
+From around 4.5 months, when the athlete meets the relevant strength and
+movement criteria, we continue refining the force–velocity
+(load–velocity) profile.
+
+From around 4.5 months, when the athlete meets the relevant strength and
+movement criteria, this is a good point to start thinking in a
+force–velocity (load–velocity) profile for that patient, still with the
+squat as our main reference. Mean concentric velocity can help us be
+more accurate with the lighter loads we often use at this stage.
+Velocity loss remains a key tool to manage fatigue in the set while we
+keep progressing running, plyometrics, or change of direction. We also
+keep using velocity in the warm-up as our daily readiness check or
+¨thermometer¨ with the same fixed-load..
+
+We may also introduce loaded squat jumps, for that, we prefer peak
+velocity (it tends to be more accurate in the literature), though mean
+propulsive velocity can also be used.
+
+From around 4.5 months, we continue refining the load–velocity profile
+to improve load prediction. We use velocity loss to managing fatigue
+within a set. We may also introduce loaded squat jumps, using mean
+propulsive velocity to monitor the propulsive portion of the movement
+together with the peak velocity.
+
+The daily readiness during the warm-up set may be using the thermometer
+with the same fixed-load 3 × 5 reference sets described earlier.
+
+-   After 6 months: Maximal strength and power
+
+After 6 months, we often include heavier strength work at or above 85%
+of 1RM alongside continued power training, provided the patient is ready
+for it. We use velocity mainly for load prediction based on each
+individual profile, and as a training tool for velocity loss and
+feedback.
+
+Clinical case example:
+
+From rebuilding strength to producing force quickly
+
+Later in rehabilitation we also want the athlete to produce force
+rapidly when jumping. We may use velocity feedback during loaded squat
+jumps to choose a load that still allows fast movement. If our clinical
+goal is to improve concentric impulse in a countermovement jump (CMJ),
+we can train with loaded jumps and keep velocity around 0.75–1.00 m/s.
+
+NEED VIDEO OF CMJ WITH A TRAPBAR BARBELL GETTING INTO 0.75–1.00 m/s.
+
+Another example. We recently worked with a young tennis player who was
+11 months post-ACLR. She had 90% limb symmetry during isokinetic
+strength testing on the Biodex. One of our goals is to improve her
+ability to generate force rapidly during the triple extension (hip, knee
+and ankle) of a jump (also known a the propulsion impulse 2 (P2)
+performed during a CMJ) and thereby contribute to better performance
+during her tennis serve.
+
+We target this with an explosive split squat progressing into a
+single-leg calf raise. We positioned the safety bars to establish a
+consistent starting position for the concentric phase, allowing her to
+focus on accelerating the barbell upwards as quickly as possible. We
+targeted a movement velocity to me between 1.00-0.75– m/s. VBT help us
+reach the intended intensity in the exercise.
+
+NEED VIDEO OF SPLIT SQUAT WITH THE BARBELL ON SAFETY BARS AND FOCUS ON
+THE P2.
+
+What we want readers to take away
+
+For us, VBT creates the conversation around training intensity when the
+patient is asking, “How much weight can I lift after ACL
+reconstruction?”. Is the patient moving it as expected today? Are we
+underloading or overloading, are repetitions slowing because fatigue is
+accumulating, and is it time to emphasize heavier strength or faster
+movement? What zone should be targeted at different exercises. The goal
+with VBT is not simply to lift more weight, but deliver the target
+training stimulus at the right time.
+
+References
+
+1. Forelli F, Mazeas J, Nielsen-Le Roux M, et al. Knee strengthening
+after orthopedics surgery: A comprehensive analysis using key
+performance indicators to guide physical therapists. F1000Research.
+2025;13:1118. https://doi.org/10.12688/f1000research.156922.2
+
+2. Forelli F, Marine P, Moiroux-Sahraoui A, et al. Velocity-based
+training in mid- and late-stage rehabilitation after anterior cruciate
+ligament reconstruction: A narrative review and practical guidelines.
+BMJ Open Sport & Exercise Medicine. 2025;11:e002503.
+https://doi.org/10.1136/bmjsem-2025-002503
+
+3. Weakley J, Mann B, Banyard H, McLaren S, Scott T, Garcia-Ramos A.
+Velocity-based training: From theory to application. Strength &
+Conditioning Journal. 2021;43(2):31–49.
+https://doi.org/10.1519/SSC.0000000000000560
+
+4. González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, et al.
+Short-term recovery following resistance exercise leading or not to
+failure. International Journal of Sports Medicine. 2016;37(4):295–304.
+
+5. Randell AD, Cronin JB, Keogh JW, Gill ND, Pedersen MC. Effect of
+instantaneous performance feedback during 6 weeks of velocity-based
+resistance training on sport-specific performance tests. Journal of
+Strength and Conditioning Research. 2011;25(1):87–93.
+
+6. Forelli F, Riera J, Marine P, et al. Implementing velocity-based
+training to optimize return to sprint after anterior cruciate ligament
+reconstruction in soccer players: A clinical commentary. International
+Journal of Sports Physical Therapy. 2024;19:355–365.
+https://doi.org/10.26603/001c.92704
+
+Further reading
+
+Andreas Bjerregaard: Practical considerations for force-velocity
+strength training in rehabilitation —
+https://andreasphysioblog.com/?p=3637
+
+Andreas Bjerregaard: Previous article on velocity-based resistance
+training — https://andreasphysioblog.com/?p=3116
+
+VALD Performance: Velocity-Based Training 101 —
+https://valdperformance.com/news/velocity-based-training-101
+
+VALD Performance: Using VBT to Autoregulate and Individualize Resistance
+Training —
+https://valdperformance.com/news/using-vbt-to-autoregulate-and-individualize-resistance-training

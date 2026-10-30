@@ -1,0 +1,51 @@
+{
+  "pptx": "adobe-express/acl-vbt-qna-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 7,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 4.22,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 2,
+      "diffPct": 6.95,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 2,
+      "diffPct": 5.69,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 8.24,
+      "pass": false
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 6.76,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 2,
+      "diffPct": 7.58,
+      "pass": true
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 3,
+      "diffPct": 6.6,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}

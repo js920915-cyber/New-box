@@ -1,0 +1,1860 @@
+[
+  {
+    "card": "01",
+    "lines": [
+      {
+        "left": 358.953125,
+        "right": 721.03125,
+        "top": 102,
+        "bottom": 208,
+        "runs": [
+          {
+            "text": "ACL 재활,",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 334.515625,
+        "right": 745.484375,
+        "top": 205.828125,
+        "bottom": 311.828125,
+        "runs": [
+          {
+            "text": "무게만",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -3.08
+            }
+          },
+          {
+            "text": " 보면",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 401.296875,
+        "right": 678.6875,
+        "top": 309.65625,
+        "bottom": 415.65625,
+        "runs": [
+          {
+            "text": "될까요?",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 177.34375,
+        "right": 434.65625,
+        "top": 1130.484375,
+        "bottom": 1173.484375,
+        "runs": [
+          {
+            "text": "조진솔 PT가 묻고",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 618.96875,
+        "right": 929.03125,
+        "top": 1130.484375,
+        "bottom": 1173.484375,
+        "runs": [
+          {
+            "text": "Andreas가 답합니다",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 455.484375,
+        "w": 888,
+        "h": 440,
+        "src": "../assets/photos/cover-barbell-squat_USMC-Salazar_pd.jpg",
+        "alt": "랙에서 바벨 백스쿼트를 하는 사람 정면",
+        "img": {
+          "x": 96,
+          "y": 365.484375,
+          "w": 888,
+          "h": 591.765625,
+          "naturalW": 1280,
+          "naturalH": 853
+        },
+        "file": "01-photo1.png"
+      },
+      {
+        "type": "photo",
+        "x": 216,
+        "y": 939.484375,
+        "w": 180,
+        "h": 180,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT",
+        "img": {
+          "x": 216,
+          "y": 939.484375,
+          "w": 180,
+          "h": 180,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "01-photo2.png"
+      },
+      {
+        "type": "photo",
+        "x": 684,
+        "y": 939.484375,
+        "w": 180,
+        "h": 180,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas",
+        "img": {
+          "x": 684,
+          "y": 939.484375,
+          "w": 180,
+          "h": 180,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "01-photo3.png"
+      }
+    ]
+  },
+  {
+    "card": "02",
+    "lines": [
+      {
+        "left": 112.625,
+        "right": 263.375,
+        "top": 283,
+        "bottom": 326,
+        "runs": [
+          {
+            "text": "조진솔 PT",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 408.34375,
+        "right": 879.640625,
+        "top": 145,
+        "bottom": 207,
+        "runs": [
+          {
+            "text": "ACL 수술 후, 스쿼트는",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 397.0625,
+        "right": 890.9375,
+        "top": 214.671875,
+        "bottom": 276.671875,
+        "runs": [
+          {
+            "text": "몇 kg부터 해야 할까요?",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 822.65625,
+        "right": 961.34375,
+        "top": 543.796875,
+        "bottom": 586.796875,
+        "runs": [
+          {
+            "text": "Andreas",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 286.46875,
+        "right": 585.515625,
+        "top": 405.796875,
+        "bottom": 472.796875,
+        "runs": [
+          {
+            "text": "무게만으로는",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 220.953125,
+        "right": 651.046875,
+        "top": 479.703125,
+        "bottom": 546.703125,
+        "runs": [
+          {
+            "text": "충분하지 않습니다.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 253.671875,
+        "right": 826.328125,
+        "top": 729.59375,
+        "bottom": 787.59375,
+        "runs": [
+          {
+            "text": "그날 낼 수 있는 힘이 다릅니다",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 279.90625,
+        "right": 800.078125,
+        "top": 801.984375,
+        "bottom": 854.984375,
+        "runs": [
+          {
+            "text": "피로·수면·회복·증상에 따라",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 194.59375,
+        "right": 885.40625,
+        "top": 864.453125,
+        "bottom": 917.453125,
+        "runs": [
+          {
+            "text": "같은 사람도 날마다 달라질 수 있습니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 232.3125,
+        "right": 847.6875,
+        "top": 976.921875,
+        "bottom": 1034.921875,
+        "runs": [
+          {
+            "text": "최대 무게를 매번 잴 수 없습니다",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 275.203125,
+        "right": 804.796875,
+        "top": 1049.3125,
+        "bottom": 1102.3125,
+        "runs": [
+          {
+            "text": "수술 후 초기에는 1RM 측정이",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 305.03125,
+        "right": 774.953125,
+        "top": 1111.78125,
+        "bottom": 1164.78125,
+        "runs": [
+          {
+            "text": "적절하지 않을 수 있습니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 104,
+        "y": 104,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT 얼굴",
+        "img": {
+          "x": 104,
+          "y": 104,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "02-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 304,
+        "y": 104,
+        "w": 680,
+        "h": 215.34375,
+        "fill": "#f2f4f6",
+        "radius": 40
+      },
+      {
+        "type": "photo",
+        "x": 808,
+        "y": 364.796875,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 808,
+          "y": 364.796875,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "02-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 364.796875,
+        "w": 680,
+        "h": 223.8125,
+        "fill": "#f0f7fc",
+        "radius": 40
+      },
+      {
+        "type": "line",
+        "x": 96,
+        "y": 661.59375,
+        "w": 888,
+        "h": 2,
+        "fill": "#d0dce5"
+      }
+    ]
+  },
+  {
+    "card": "03",
+    "lines": [
+      {
+        "left": 112.625,
+        "right": 263.375,
+        "top": 283,
+        "bottom": 326,
+        "runs": [
+          {
+            "text": "조진솔 PT",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 509.203125,
+        "right": 778.796875,
+        "top": 145,
+        "bottom": 207,
+        "runs": [
+          {
+            "text": "같은 60kg도",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 409.96875,
+        "right": 878.03125,
+        "top": 214.671875,
+        "bottom": 276.671875,
+        "runs": [
+          {
+            "text": "다르게 봐야 한다고요?",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 822.65625,
+        "right": 961.34375,
+        "top": 543.796875,
+        "bottom": 586.796875,
+        "runs": [
+          {
+            "text": "Andreas",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 238.875,
+        "right": 633.125,
+        "top": 405.796875,
+        "bottom": 472.796875,
+        "runs": [
+          {
+            "text": "네. 같은 무게라도",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 254.546875,
+        "right": 617.4375,
+        "top": 479.703125,
+        "bottom": 546.703125,
+        "runs": [
+          {
+            "text": "움직이는 속도",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "는",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 263.796875,
+        "right": 608.203125,
+        "top": 553.609375,
+        "bottom": 620.609375,
+        "runs": [
+          {
+            "text": "달라질 수 있죠.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 225.65625,
+        "right": 398.34375,
+        "top": 765.515625,
+        "bottom": 808.515625,
+        "runs": [
+          {
+            "text": "평소 · 60kg",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 182.640625,
+        "right": 441.34375,
+        "top": 821.90625,
+        "bottom": 898.90625,
+        "runs": [
+          {
+            "text": "0.80 m/s",
+            "style": {
+              "size": 64,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.92
+            }
+          }
+        ]
+      },
+      {
+        "left": 660.78125,
+        "right": 875.21875,
+        "top": 765.515625,
+        "bottom": 808.515625,
+        "runs": [
+          {
+            "text": "다른 날 · 60kg",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 638.640625,
+        "right": 897.34375,
+        "top": 821.90625,
+        "bottom": 898.90625,
+        "runs": [
+          {
+            "text": "0.65 m/s",
+            "style": {
+              "size": 64,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.92
+            }
+          }
+        ]
+      },
+      {
+        "left": 285.234375,
+        "right": 794.765625,
+        "top": 994.09375,
+        "bottom": 1047.09375,
+        "runs": [
+          {
+            "text": "꼭 약해졌다는 뜻은 아니지만",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 310.75,
+        "right": 769.234375,
+        "top": 1056.5625,
+        "bottom": 1109.5625,
+        "runs": [
+          {
+            "text": "컨디션을 확인하고 계획을",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 344.203125,
+        "right": 735.78125,
+        "top": 1119.03125,
+        "bottom": 1172.03125,
+        "runs": [
+          {
+            "text": "조정할 이유",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "가 됩니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 104,
+        "y": 104,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT 얼굴",
+        "img": {
+          "x": 104,
+          "y": 104,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "03-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 304,
+        "y": 104,
+        "w": 680,
+        "h": 215.34375,
+        "fill": "#f2f4f6",
+        "radius": 40
+      },
+      {
+        "type": "photo",
+        "x": 808,
+        "y": 364.796875,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 808,
+          "y": 364.796875,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "03-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 364.796875,
+        "w": 680,
+        "h": 297.71875,
+        "fill": "#f0f7fc",
+        "radius": 40
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 722.515625,
+        "w": 432,
+        "h": 223.578125,
+        "fill": "#f2f4f6",
+        "radius": 28
+      },
+      {
+        "type": "box",
+        "x": 552,
+        "y": 722.515625,
+        "w": 432,
+        "h": 223.578125,
+        "fill": "#f0f7fc",
+        "radius": 28
+      }
+    ]
+  },
+  {
+    "card": "04",
+    "lines": [
+      {
+        "left": 112.625,
+        "right": 263.375,
+        "top": 283,
+        "bottom": 326,
+        "runs": [
+          {
+            "text": "조진솔 PT",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 498.65625,
+        "right": 789.34375,
+        "top": 145,
+        "bottom": 207,
+        "runs": [
+          {
+            "text": "그런데 속도가",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 485.890625,
+        "right": 802.109375,
+        "top": 214.671875,
+        "bottom": 276.671875,
+        "runs": [
+          {
+            "text": "왜 중요한가요?",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 822.65625,
+        "right": 961.34375,
+        "top": 543.796875,
+        "bottom": 586.796875,
+        "runs": [
+          {
+            "text": "Andreas",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 247.53125,
+        "right": 624.4375,
+        "top": 405.796875,
+        "bottom": 472.796875,
+        "runs": [
+          {
+            "text": "운동 ",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "강도",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "와 ",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "피로",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.625,
+        "right": 649.359375,
+        "top": 479.703125,
+        "bottom": 546.703125,
+        "runs": [
+          {
+            "text": "변화를 파악하는 데",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 164.109375,
+        "right": 707.875,
+        "top": 553.609375,
+        "bottom": 620.609375,
+        "runs": [
+          {
+            "text": "도움이 되기 때문입니다.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 194.15625,
+        "right": 885.84375,
+        "top": 728.515625,
+        "bottom": 786.515625,
+        "runs": [
+          {
+            "text": "강도: 무거울수록 대체로 느려집니다",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 344.625,
+        "right": 735.359375,
+        "top": 800.90625,
+        "bottom": 853.90625,
+        "runs": [
+          {
+            "text": "속도로 최대 무게 대비",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 230.4375,
+        "right": 849.5625,
+        "top": 863.375,
+        "bottom": 916.375,
+        "runs": [
+          {
+            "text": "몇 %인지(상대 강도)를 추정합니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 264.234375,
+        "right": 815.765625,
+        "top": 975.84375,
+        "bottom": 1033.84375,
+        "runs": [
+          {
+            "text": "피로: 반복할수록 느려집니다",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 229.96875,
+        "right": 850.03125,
+        "top": 1048.234375,
+        "bottom": 1101.234375,
+        "runs": [
+          {
+            "text": "예: 첫 회 0.80 → 여섯째 0.64 m/s",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 215.296875,
+        "right": 864.703125,
+        "top": 1110.703125,
+        "bottom": 1163.703125,
+        "runs": [
+          {
+            "text": "세트 안에서 속도가 20% 줄었습니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 104,
+        "y": 104,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT 얼굴",
+        "img": {
+          "x": 104,
+          "y": 104,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "04-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 304,
+        "y": 104,
+        "w": 680,
+        "h": 215.34375,
+        "fill": "#f2f4f6",
+        "radius": 40
+      },
+      {
+        "type": "photo",
+        "x": 808,
+        "y": 364.796875,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 808,
+          "y": 364.796875,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "04-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 364.796875,
+        "w": 680,
+        "h": 297.71875,
+        "fill": "#f0f7fc",
+        "radius": 40
+      }
+    ]
+  },
+  {
+    "card": "05",
+    "lines": [
+      {
+        "left": 112.625,
+        "right": 263.375,
+        "top": 283,
+        "bottom": 326,
+        "runs": [
+          {
+            "text": "조진솔 PT",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 393.09375,
+        "right": 894.90625,
+        "top": 145,
+        "bottom": 207,
+        "runs": [
+          {
+            "text": "그럼 속도로 운동 강도를",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 456.25,
+        "right": 831.75,
+        "top": 214.671875,
+        "bottom": 276.671875,
+        "runs": [
+          {
+            "text": "조절할 수 있나요?",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 822.65625,
+        "right": 961.34375,
+        "top": 543.796875,
+        "bottom": 586.796875,
+        "runs": [
+          {
+            "text": "Andreas",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 288.71875,
+        "right": 583.28125,
+        "top": 405.796875,
+        "bottom": 472.796875,
+        "runs": [
+          {
+            "text": "네. 그게 바로",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 262.5625,
+        "right": 609.4375,
+        "top": 479.703125,
+        "bottom": 546.703125,
+        "runs": [
+          {
+            "text": "VBT, 속도 기반",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 302.703125,
+        "right": 569.28125,
+        "top": 553.609375,
+        "bottom": 620.609375,
+        "runs": [
+          {
+            "text": "훈련",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "입니다.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 271.4375,
+        "right": 808.546875,
+        "top": 722.515625,
+        "bottom": 775.515625,
+        "runs": [
+          {
+            "text": "들어 올리는 속도(m/s)를 재서",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 265.4375,
+        "right": 814.5625,
+        "top": 784.984375,
+        "bottom": 837.984375,
+        "runs": [
+          {
+            "text": "운동을 처방하고 확인하는 방법",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 357.109375,
+        "right": 722.875,
+        "top": 893.453125,
+        "bottom": 951.453125,
+        "runs": [
+          {
+            "text": "무게는 목표 속도로",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 229.46875,
+        "right": 850.53125,
+        "top": 965.84375,
+        "bottom": 1018.84375,
+        "runs": [
+          {
+            "text": "%1RM 대신 목표 속도에 맞는 무게",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 329.75,
+        "right": 750.234375,
+        "top": 1062.3125,
+        "bottom": 1120.3125,
+        "runs": [
+          {
+            "text": "반복 수는 속도 감소로",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 240.109375,
+        "right": 839.875,
+        "top": 1134.703125,
+        "bottom": 1187.703125,
+        "runs": [
+          {
+            "text": "속도가 20% 줄면 세트 종료(예시)",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 104,
+        "y": 104,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT 얼굴",
+        "img": {
+          "x": 104,
+          "y": 104,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "05-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 304,
+        "y": 104,
+        "w": 680,
+        "h": 215.34375,
+        "fill": "#f2f4f6",
+        "radius": 40
+      },
+      {
+        "type": "photo",
+        "x": 808,
+        "y": 364.796875,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 808,
+          "y": 364.796875,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "05-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 364.796875,
+        "w": 680,
+        "h": 297.71875,
+        "fill": "#f0f7fc",
+        "radius": 40
+      }
+    ]
+  },
+  {
+    "card": "06",
+    "lines": [
+      {
+        "left": 112.625,
+        "right": 263.375,
+        "top": 283,
+        "bottom": 326,
+        "runs": [
+          {
+            "text": "조진솔 PT",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 498.640625,
+        "right": 789.34375,
+        "top": 145,
+        "bottom": 207,
+        "runs": [
+          {
+            "text": "ACL 재활에도",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 456.25,
+        "right": 831.75,
+        "top": 214.671875,
+        "bottom": 276.671875,
+        "runs": [
+          {
+            "text": "활용할 수 있나요?",
+            "style": {
+              "size": 52,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.56
+            }
+          }
+        ]
+      },
+      {
+        "left": 822.65625,
+        "right": 961.34375,
+        "top": 543.796875,
+        "bottom": 586.796875,
+        "runs": [
+          {
+            "text": "Andreas",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 140.875,
+        "right": 731.125,
+        "top": 405.796875,
+        "bottom": 472.796875,
+        "runs": [
+          {
+            "text": "환자의 상태와 훈련 목표에",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 165.78125,
+        "right": 706.203125,
+        "top": 479.703125,
+        "bottom": 546.703125,
+        "runs": [
+          {
+            "text": "맞춰 ",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "부하를 조절",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "하는 데",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 263.796875,
+        "right": 608.203125,
+        "top": 553.609375,
+        "bottom": 620.609375,
+        "runs": [
+          {
+            "text": "활용할 수 있죠.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 302.390625,
+        "right": 777.59375,
+        "top": 712.515625,
+        "bottom": 770.515625,
+        "runs": [
+          {
+            "text": "매 세션 같은 무게로 확인",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 263.53125,
+        "right": 816.46875,
+        "top": 783.90625,
+        "bottom": 826.90625,
+        "runs": [
+          {
+            "text": "같은 무게 스쿼트 3×5, 최대한 빠르게",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 331.546875,
+        "right": 748.4375,
+        "top": 834.296875,
+        "bottom": 877.296875,
+        "runs": [
+          {
+            "text": "지난 세션 속도와 비교합니다",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 195.59375,
+        "right": 884.40625,
+        "top": 911.6875,
+        "bottom": 969.6875,
+        "runs": [
+          {
+            "text": "눈에 띄게 느려지면 계획을 바꿉니다",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 331.546875,
+        "right": 748.4375,
+        "top": 983.078125,
+        "bottom": 1026.078125,
+        "runs": [
+          {
+            "text": "강도 낮은 운동으로 바꾸거나",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 294.46875,
+        "right": 785.515625,
+        "top": 1033.46875,
+        "bottom": 1076.46875,
+        "runs": [
+          {
+            "text": "무게를 줄여 목표 속도에 맞춥니다",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 224.015625,
+        "right": 855.96875,
+        "top": 1119.859375,
+        "bottom": 1165.859375,
+        "runs": [
+          {
+            "text": "속도는 통증·부기·움직임과 함께 봅니다.",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.76
+            }
+          }
+        ]
+      },
+      {
+        "left": 279.953125,
+        "right": 800.03125,
+        "top": 1173.8125,
+        "bottom": 1219.8125,
+        "runs": [
+          {
+            "text": "수술별 제한과 증상이 먼저입니다.",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.76
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 104,
+        "y": 104,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_jinsol.png",
+        "alt": "조진솔 PT 얼굴",
+        "img": {
+          "x": 104,
+          "y": 104,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "06-photo1.png"
+      },
+      {
+        "type": "box",
+        "x": 304,
+        "y": 104,
+        "w": 680,
+        "h": 215.34375,
+        "fill": "#f2f4f6",
+        "radius": 40
+      },
+      {
+        "type": "photo",
+        "x": 808,
+        "y": 364.796875,
+        "w": 168,
+        "h": 168,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 808,
+          "y": 364.796875,
+          "w": 168,
+          "h": 168,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "06-photo2.png"
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 364.796875,
+        "w": 680,
+        "h": 297.71875,
+        "fill": "#f0f7fc",
+        "radius": 40
+      }
+    ]
+  },
+  {
+    "card": "07",
+    "lines": [
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "같은 무게가 항상",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "같은 훈련 자극을",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 195.171875,
+        "right": 884.828125,
+        "top": 304.59375,
+        "bottom": 405.59375,
+        "runs": [
+          {
+            "text": "의미하지는 않습니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 194.234375,
+        "right": 885.765625,
+        "top": 776.390625,
+        "bottom": 834.390625,
+        "runs": [
+          {
+            "text": "ACL 재활에서 VBT를 활용하는 이유",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 333.75,
+        "right": 746.234375,
+        "top": 852.78125,
+        "bottom": 905.78125,
+        "runs": [
+          {
+            "text": "Andreas Bjerregaard",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 195.234375,
+        "right": 884.75,
+        "top": 926.25,
+        "bottom": 969.25,
+        "runs": [
+          {
+            "text": "2027 Criteria-Based ACL Rehab Workshop",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 358.546875,
+        "right": 721.4375,
+        "top": 1047.640625,
+        "bottom": 1114.640625,
+        "runs": [
+          {
+            "text": "사전 웨비나에서",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 293.03125,
+        "right": 786.953125,
+        "top": 1120.4375,
+        "bottom": 1187.4375,
+        "runs": [
+          {
+            "text": "더 자세히 알아보세요.",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 410,
+        "y": 478.390625,
+        "w": 260,
+        "h": 260,
+        "src": "../assets/photos/face_andreas.png",
+        "alt": "Andreas 얼굴",
+        "img": {
+          "x": 410,
+          "y": 478.390625,
+          "w": 260,
+          "h": 260,
+          "naturalW": 400,
+          "naturalH": 400
+        },
+        "file": "07-photo1.png"
+      }
+    ]
+  }
+]
