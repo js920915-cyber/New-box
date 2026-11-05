@@ -1,0 +1,57 @@
+{
+  "pptx": "adobe-express/running-form-change-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 8,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 2,
+      "diffPct": 3.97,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 0,
+      "diffPct": 6.85,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 0,
+      "diffPct": 3.88,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 3,
+      "diffPct": 5.11,
+      "pass": false
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 3,
+      "diffPct": 5.43,
+      "pass": false
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 4,
+      "diffPct": 2.56,
+      "pass": false
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 4,
+      "diffPct": 5.94,
+      "pass": false
+    },
+    {
+      "card": "08",
+      "verticalShiftPx": 3,
+      "diffPct": 5.57,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}
