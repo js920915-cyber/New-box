@@ -22,7 +22,54 @@ h1,p{margin:0;text-align:center}
 .list{display:flex;flex-direction:column;align-items:center;gap:30px}
 .pair{display:flex;flex-direction:column;align-items:center;gap:6px}
 .box{background:var(--tint);border-radius:20px;padding:40px 40px;width:888px;display:flex;flex-direction:column;align-items:center;gap:10px}
-</style></head><body><article class="card kind-strength"><svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true"><rect x="35" y="35" width="1010" height="1280" rx="28" fill="none" stroke="#D0DCE5" stroke-width="2"/></svg><h1 class="headline">근력은 <span class="accent">재는 순서</span>도<br>정해져 있습니다</h1><div style="height:44px;flex:none"></div><div class="list" style="gap:32px"><div class="pair"><p class="item">등척성 → 원심성</p><p class="sub">안쪽·바깥쪽 범위 모두 잽니다. 원심성은 늦게<br>회복돼 등척성이 정상이어도 좌우 차이가 보입니다</p></div><div class="pair"><p class="item">짧은 길이 → 긴 길이·빠른 속도</p><p class="sub">부상 기전에 가까운 조건까지<br>단계적으로 부하를 올립니다</p></div><div class="pair"><p class="item">“어디에서 느껴지나요?”</p><p class="sub">선수가 짚는 부위로 목표 조직에<br>부하가 가는지 확인합니다</p></div></div><div style="height:44px;flex:none"></div><div class="box"><p class="body">내전근만이 아니라<br><span class="strong">고관절 굴곡근 · 복합 운동 · 보조근</span>까지<br>네 갈래로 함께 올립니다</p></div></article><script>// ?qa 로 열 때만 실행: contentBottom(실제 마지막 텍스트 줄/이미지), 안전영역, 넘침, 정렬, 폰트 크기를 기록한다.
+
+.chips{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;max-width:888px}
+.chip{background:var(--tint);border-radius:999px;padding:16px 36px}
+.chip p{font-size:40px;font-weight:750;line-height:1.3;letter-spacing:-.02em}
+.chip.white{background:#fff}
+.chip.blue{background:var(--blue)} .chip.blue p{color:#fff}
+.chip.red p{color:var(--red)}
+.chip.big p{font-size:48px;font-weight:800}
+.arrowrow{display:flex;align-items:center;justify-content:center;gap:20px}
+.arrow{font-size:52px;font-weight:800;color:var(--muted);line-height:1}
+.tile{background:var(--tint);border-radius:24px;padding:34px 36px;width:888px;display:flex;align-items:center;gap:28px}
+.num{width:84px;height:84px;border-radius:42px;background:var(--blue);display:flex;align-items:center;justify-content:center;flex:none}
+.num.gray{background:var(--muted)}
+.num p{color:#fff;font-size:44px;font-weight:850;line-height:1}
+.tiletext{flex:1;font-size:46px;font-weight:800;line-height:1.3;letter-spacing:-.03em}
+.bar{border-radius:18px;background:var(--tint);height:100px;display:flex;align-items:center;justify-content:center}
+.bar p{font-size:42px;font-weight:800;line-height:1.2;letter-spacing:-.02em}
+.bar .kr{font-weight:500;color:var(--muted)}
+.bar.blue{background:var(--blue)} .bar.blue p,.bar.blue .kr{color:#fff}
+.stairs{display:flex;align-items:flex-end;gap:12px}
+.step{width:213px;border-radius:18px 18px 0 0;background:var(--tint);display:flex;flex-direction:column;align-items:center;padding-top:26px;gap:4px}
+.step p{font-size:40px;font-weight:750;line-height:1.3;letter-spacing:-.02em}
+.step .n{font-size:36px;font-weight:700;color:var(--blue)}
+.step.blue{background:var(--blue)} .step.blue p,.step.blue .n{color:#fff}
+.chain{display:flex;align-items:center;gap:8px}
+.link{width:248px;border-radius:20px;background:var(--tint);padding:24px 6px;display:flex;flex-direction:column;align-items:center;gap:6px}
+.link .t{font-size:40px;font-weight:800;line-height:1.25;letter-spacing:-.02em}
+.link .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.3;letter-spacing:-.02em}
+.link.blue{background:var(--blue)} .link.blue p{color:#fff}
+.cols{display:flex;gap:18px;width:888px}
+.col{flex:1;background:var(--tint);border-radius:24px;padding:44px 12px;display:flex;flex-direction:column;align-items:center;gap:18px}
+.col .t{font-size:46px;font-weight:850;line-height:1.2;letter-spacing:-.03em}
+.col .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.4;letter-spacing:-.02em}
+.layer{border-radius:20px;background:var(--tint);padding:24px 20px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.layer .t{font-size:44px;font-weight:800;line-height:1.25;letter-spacing:-.02em}
+.layer .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.3}
+.layer.blue{background:var(--blue)} .layer.blue p{color:#fff}
+.track{display:flex;gap:12px}
+.stop{width:138px;display:flex;flex-direction:column;align-items:center;gap:10px}
+.stop .who{font-size:36px;font-weight:750;color:var(--blue);line-height:1.3}
+.stop .spacer{height:94px}
+.dot{width:96px;height:96px;border-radius:48px;background:var(--tint);display:flex;align-items:center;justify-content:center}
+.dot p{font-size:44px;font-weight:850;color:var(--muted);line-height:1}
+.dot.on{background:var(--blue)} .dot.on p{color:#fff}
+.stat{background:var(--tint);border-radius:24px;padding:30px 36px;width:888px;display:flex;align-items:center;gap:24px}
+.stat .big{width:330px;flex:none;font-size:68px;font-weight:850;color:var(--blue);line-height:1.1;letter-spacing:-.03em}
+.stat .txt{flex:1;font-size:42px;font-weight:700;line-height:1.35;letter-spacing:-.02em}
+</style></head><body><article class="card kind-strength"><svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true"><rect x="35" y="35" width="1010" height="1280" rx="28" fill="none" stroke="#D0DCE5" stroke-width="2"/></svg><h1 class="headline">근력은<br>이 순서로 <span class="accent">올립니다</span></h1><div style="height:44px;flex:none"></div><p class="label">검사</p><div style="height:12px;flex:none"></div><div class="arrowrow"><div class="chip big"><p>등척성</p></div><p class="arrow">→</p><div class="chip big blue"><p>원심성</p></div></div><div style="height:12px;flex:none"></div><p class="note">원심성은 늦게 회복 · 마지막까지 좌우 비교</p><div style="height:32px;flex:none"></div><p class="label">근육 길이 · 속도</p><div style="height:12px;flex:none"></div><div class="arrowrow"><div class="chip big"><p>짧게·느리게</p></div><p class="arrow">→</p><div class="chip big blue"><p>길게·빠르게</p></div></div><div style="height:32px;flex:none"></div><p class="label">함께 올리는 4갈래</p><div style="height:12px;flex:none"></div><div class="chips"><div class="chip "><p>내전근</p></div><div class="chip "><p>고관절 굴곡근</p></div><div class="chip "><p>복합 운동</p></div><div class="chip "><p>보조근</p></div></div><div style="height:32px;flex:none"></div><div class="box"><p class="key">“어디에서 느껴지나요?”</p><p class="sub">목표 근육에 부하가 가는지 선수에게 확인</p></div></article><script>// ?qa 로 열 때만 실행: contentBottom(실제 마지막 텍스트 줄/이미지), 안전영역, 넘침, 정렬, 폰트 크기를 기록한다.
 if (location.search.includes('qa')) (async () => {
   await document.fonts.ready;
   await Promise.all([...document.images].map(i => i.decode().catch(() => {})));

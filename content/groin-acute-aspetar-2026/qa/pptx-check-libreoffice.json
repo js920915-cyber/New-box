@@ -7,49 +7,49 @@
     {
       "card": "01",
       "verticalShiftPx": 1,
-      "diffPct": 5.24,
+      "diffPct": 4.68,
       "pass": true
     },
     {
       "card": "02",
-      "verticalShiftPx": 2,
-      "diffPct": 7.59,
-      "pass": true
+      "verticalShiftPx": 3,
+      "diffPct": 4.14,
+      "pass": false
     },
     {
       "card": "03",
-      "verticalShiftPx": 2,
-      "diffPct": 10.12,
-      "pass": false
+      "verticalShiftPx": 0,
+      "diffPct": 6.04,
+      "pass": true
     },
     {
       "card": "04",
       "verticalShiftPx": 2,
-      "diffPct": 7.57,
+      "diffPct": 5.24,
       "pass": true
     },
     {
       "card": "05",
       "verticalShiftPx": 2,
-      "diffPct": 6.78,
+      "diffPct": 3.3,
       "pass": true
     },
     {
       "card": "06",
-      "verticalShiftPx": 1,
-      "diffPct": 9.31,
-      "pass": false
+      "verticalShiftPx": 0,
+      "diffPct": 6.12,
+      "pass": true
     },
     {
       "card": "07",
       "verticalShiftPx": 2,
-      "diffPct": 5.87,
+      "diffPct": 4.77,
       "pass": true
     },
     {
       "card": "08",
       "verticalShiftPx": 2,
-      "diffPct": 7.69,
+      "diffPct": 5.4,
       "pass": true
     }
   ],

@@ -7,51 +7,51 @@
     {
       "card": "01",
       "verticalShiftPx": 1,
-      "diffPct": 7.63,
+      "diffPct": 7.15,
       "pass": true
     },
     {
       "card": "02",
       "verticalShiftPx": 2,
-      "diffPct": 7.24,
+      "diffPct": 4.24,
       "pass": true
     },
     {
       "card": "03",
       "verticalShiftPx": 2,
-      "diffPct": 7.57,
+      "diffPct": 3.32,
       "pass": true
     },
     {
       "card": "04",
       "verticalShiftPx": 2,
-      "diffPct": 6.13,
+      "diffPct": 3.83,
       "pass": true
     },
     {
       "card": "05",
       "verticalShiftPx": 2,
-      "diffPct": 7.29,
+      "diffPct": 6.9,
       "pass": true
     },
     {
       "card": "06",
       "verticalShiftPx": 2,
-      "diffPct": 6.35,
+      "diffPct": 3.93,
       "pass": true
     },
     {
       "card": "07",
-      "verticalShiftPx": 2,
-      "diffPct": 5.81,
+      "verticalShiftPx": 0,
+      "diffPct": 4.15,
       "pass": true
     },
     {
       "card": "08",
-      "verticalShiftPx": 2,
-      "diffPct": 7.95,
-      "pass": true
+      "verticalShiftPx": 3,
+      "diffPct": 5.6,
+      "pass": false
     }
   ],
-  "result": "LO-PASS"
+  "result": "LO-FAIL"
 }

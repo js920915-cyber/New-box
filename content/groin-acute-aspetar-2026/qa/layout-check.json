@@ -14,29 +14,30 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1175,
-    "bottomGap": 141,
+    "contentBottom": 1134.3,
+    "bottomGap": 181.7,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "46px/800",
-      "body": "44px/500",
+      "P": "44px/850",
+      "note": "36px/500",
       "label": "36px/700",
-      "item": "46px/800",
-      "sub": "38px/500"
+      "tiletext": "46px/800"
     }
   },
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1232.5,
-    "bottomGap": 83.5,
+    "contentBottom": 1213.4,
+    "bottomGap": 102.6,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "46px/800",
-      "item": "46px/800",
-      "sub": "38px/500",
+      "accent": "84px/850",
+      "P": "42px/800",
+      "kr": "42px/500",
+      "label": "36px/700",
       "body": "44px/500",
       "strong": "44px/750"
     }
@@ -44,30 +45,31 @@
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1196,
-    "bottomGap": 120,
-    "errors": "",
-    "fonts": {
-      "headline": "84px/850",
-      "accent": "84px/850",
-      "item": "46px/800",
-      "sub": "38px/500",
-      "body": "44px/500",
-      "strong": "44px/750"
-    }
-  },
-  {
-    "card": "05",
-    "size": "1080x1350",
-    "contentBottom": 1229.7,
-    "bottomGap": 86.3,
+    "contentBottom": 1223.8,
+    "bottomGap": 92.3,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "label": "36px/700",
-      "item": "46px/800",
-      "sub": "38px/500",
+      "P": "40px/750",
+      "arrow": "52px/800",
+      "note": "36px/500",
+      "key": "52px/800",
+      "sub": "38px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1143.1,
+    "bottomGap": 172.9,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "n": "36px/700",
+      "P": "40px/750",
       "body": "44px/500",
       "strong": "44px/750"
     }
@@ -75,42 +77,45 @@
   {
     "card": "06",
     "size": "1080x1350",
-    "contentBottom": 1232.2,
-    "bottomGap": 83.8,
+    "contentBottom": 1162.4,
+    "bottomGap": 153.6,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "46px/800",
-      "body": "44px/500",
-      "note": "36px/500",
-      "item": "46px/800",
-      "sub": "38px/500"
+      "accent": "84px/850",
+      "t": "40px/800",
+      "s": "36px/500",
+      "arrow": "52px/800",
+      "P": "40px/750",
+      "note": "36px/500"
     }
   },
   {
     "card": "07",
     "size": "1080x1350",
-    "contentBottom": 1149,
-    "bottomGap": 167,
+    "contentBottom": 1172,
+    "bottomGap": 144,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "body": "44px/500",
-      "item accent": "46px/800",
-      "item warn": "46px/800"
+      "sub": "38px/500",
+      "key accent": "52px/800",
+      "P": "40px/750",
+      "key warn": "52px/800"
     }
   },
   {
     "card": "08",
     "size": "1080x1350",
-    "contentBottom": 1144.5,
-    "bottomGap": 171.5,
+    "contentBottom": 1125.7,
+    "bottomGap": 190.3,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "52px/800",
-      "key": "52px/800",
+      "accent": "84px/850",
+      "P": "44px/850",
+      "tiletext": "46px/800",
       "sub": "38px/500",
       "safety": "38px/700"
     }

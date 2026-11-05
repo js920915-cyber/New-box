@@ -22,7 +22,54 @@ h1,p{margin:0;text-align:center}
 .list{display:flex;flex-direction:column;align-items:center;gap:30px}
 .pair{display:flex;flex-direction:column;align-items:center;gap:6px}
 .box{background:var(--tint);border-radius:20px;padding:40px 40px;width:888px;display:flex;flex-direction:column;align-items:center;gap:10px}
-</style></head><body><article class="card kind-phases"><svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true"><rect x="35" y="35" width="1010" height="1280" rx="28" fill="none" stroke="#D0DCE5" stroke-width="2"/></svg><h1 class="headline">재활은 6단계,<br><span class="accent">복귀 뒤</span>까지 갑니다</h1><div style="height:40px;flex:none"></div><div class="list" style="gap:16px"><div class="pair"><p class="item">Foundation · 기초</p><p class="sub">조직 관리 · 일상 동작 · 운동 조절 기초</p></div><div class="pair"><p class="item">Reload · 재부하</p><p class="sub">범위 전체 근력 · 좌우 대칭 · 달리기 드릴</p></div><div class="pair"><p class="item">Accumulation · 누적</p><p class="sub">달리기 양·강도 · 케이블 킥 · 방향 전환 시작</p></div><div class="pair"><p class="item">Transition · 전환</p><p class="sub">고속 달리기 · 고강도 드릴 · 필드로 연결</p></div><div class="pair"><p class="item">Simulation · 실전 재현</p><p class="sub">최악 시나리오 · 최대 강도 킥 · 반응형 방향 전환</p></div><div class="pair"><p class="item"><span class="accent">Resilience · 복귀 후</span></p><p class="sub">남은 수행 목표 · 재발 위험 줄이기</p></div></div><div style="height:36px;flex:none"></div><p class="body">기간이 아니라 <span class="strong">기준을 넘어야</span> 다음 단계로</p></article><script>// ?qa 로 열 때만 실행: contentBottom(실제 마지막 텍스트 줄/이미지), 안전영역, 넘침, 정렬, 폰트 크기를 기록한다.
+
+.chips{display:flex;flex-wrap:wrap;justify-content:center;gap:16px;max-width:888px}
+.chip{background:var(--tint);border-radius:999px;padding:16px 36px}
+.chip p{font-size:40px;font-weight:750;line-height:1.3;letter-spacing:-.02em}
+.chip.white{background:#fff}
+.chip.blue{background:var(--blue)} .chip.blue p{color:#fff}
+.chip.red p{color:var(--red)}
+.chip.big p{font-size:48px;font-weight:800}
+.arrowrow{display:flex;align-items:center;justify-content:center;gap:20px}
+.arrow{font-size:52px;font-weight:800;color:var(--muted);line-height:1}
+.tile{background:var(--tint);border-radius:24px;padding:34px 36px;width:888px;display:flex;align-items:center;gap:28px}
+.num{width:84px;height:84px;border-radius:42px;background:var(--blue);display:flex;align-items:center;justify-content:center;flex:none}
+.num.gray{background:var(--muted)}
+.num p{color:#fff;font-size:44px;font-weight:850;line-height:1}
+.tiletext{flex:1;font-size:46px;font-weight:800;line-height:1.3;letter-spacing:-.03em}
+.bar{border-radius:18px;background:var(--tint);height:100px;display:flex;align-items:center;justify-content:center}
+.bar p{font-size:42px;font-weight:800;line-height:1.2;letter-spacing:-.02em}
+.bar .kr{font-weight:500;color:var(--muted)}
+.bar.blue{background:var(--blue)} .bar.blue p,.bar.blue .kr{color:#fff}
+.stairs{display:flex;align-items:flex-end;gap:12px}
+.step{width:213px;border-radius:18px 18px 0 0;background:var(--tint);display:flex;flex-direction:column;align-items:center;padding-top:26px;gap:4px}
+.step p{font-size:40px;font-weight:750;line-height:1.3;letter-spacing:-.02em}
+.step .n{font-size:36px;font-weight:700;color:var(--blue)}
+.step.blue{background:var(--blue)} .step.blue p,.step.blue .n{color:#fff}
+.chain{display:flex;align-items:center;gap:8px}
+.link{width:248px;border-radius:20px;background:var(--tint);padding:24px 6px;display:flex;flex-direction:column;align-items:center;gap:6px}
+.link .t{font-size:40px;font-weight:800;line-height:1.25;letter-spacing:-.02em}
+.link .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.3;letter-spacing:-.02em}
+.link.blue{background:var(--blue)} .link.blue p{color:#fff}
+.cols{display:flex;gap:18px;width:888px}
+.col{flex:1;background:var(--tint);border-radius:24px;padding:44px 12px;display:flex;flex-direction:column;align-items:center;gap:18px}
+.col .t{font-size:46px;font-weight:850;line-height:1.2;letter-spacing:-.03em}
+.col .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.4;letter-spacing:-.02em}
+.layer{border-radius:20px;background:var(--tint);padding:24px 20px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.layer .t{font-size:44px;font-weight:800;line-height:1.25;letter-spacing:-.02em}
+.layer .s{font-size:36px;font-weight:500;color:var(--muted);line-height:1.3}
+.layer.blue{background:var(--blue)} .layer.blue p{color:#fff}
+.track{display:flex;gap:12px}
+.stop{width:138px;display:flex;flex-direction:column;align-items:center;gap:10px}
+.stop .who{font-size:36px;font-weight:750;color:var(--blue);line-height:1.3}
+.stop .spacer{height:94px}
+.dot{width:96px;height:96px;border-radius:48px;background:var(--tint);display:flex;align-items:center;justify-content:center}
+.dot p{font-size:44px;font-weight:850;color:var(--muted);line-height:1}
+.dot.on{background:var(--blue)} .dot.on p{color:#fff}
+.stat{background:var(--tint);border-radius:24px;padding:30px 36px;width:888px;display:flex;align-items:center;gap:24px}
+.stat .big{width:330px;flex:none;font-size:68px;font-weight:850;color:var(--blue);line-height:1.1;letter-spacing:-.03em}
+.stat .txt{flex:1;font-size:42px;font-weight:700;line-height:1.35;letter-spacing:-.02em}
+</style></head><body><article class="card kind-phases"><svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true"><rect x="35" y="35" width="1010" height="1280" rx="28" fill="none" stroke="#D0DCE5" stroke-width="2"/></svg><h1 class="headline">재활은 6단계,<br><span class="accent">복귀 뒤</span>까지</h1><div style="height:48px;flex:none"></div><div class="list" style="gap:18px"><div class="bar" style="width:540px"><p>Foundation <span class="kr">회복 기초</span></p></div><div class="bar" style="width:610px"><p>Reload <span class="kr">근력 재건</span></p></div><div class="bar" style="width:740px"><p>Accumulation <span class="kr">달리기↑ · 킥 시작</span></p></div><div class="bar" style="width:790px"><p>Transition <span class="kr">고속·필드</span></p></div><div class="bar" style="width:840px"><p>Simulation <span class="kr">경기 재현</span></p></div><p class="label">▼ 복귀</p><div class="bar blue" style="width:888px"><p>Resilience <span class="kr">복귀 후 관리</span></p></div></div><div style="height:48px;flex:none"></div><p class="body">기간이 아니라 <span class="strong">기준을 넘어야</span> 다음 단계로</p></article><script>// ?qa 로 열 때만 실행: contentBottom(실제 마지막 텍스트 줄/이미지), 안전영역, 넘침, 정렬, 폰트 크기를 기록한다.
 if (location.search.includes('qa')) (async () => {
   await document.fonts.ready;
   await Promise.all([...document.images].map(i => i.decode().catch(() => {})));
