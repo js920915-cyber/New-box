@@ -1,0 +1,57 @@
+{
+  "pptx": "adobe-express/groin-acute-aspetar-2026-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 8,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 5.24,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 2,
+      "diffPct": 7.59,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 2,
+      "diffPct": 10.12,
+      "pass": false
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 2,
+      "diffPct": 7.57,
+      "pass": true
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 6.78,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 1,
+      "diffPct": 9.31,
+      "pass": false
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 2,
+      "diffPct": 5.87,
+      "pass": true
+    },
+    {
+      "card": "08",
+      "verticalShiftPx": 2,
+      "diffPct": 7.69,
+      "pass": true
+    }
+  ],
+  "result": "LO-FAIL"
+}

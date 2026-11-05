@@ -16,6 +16,8 @@
 
 | 폴더 | 상태·용도 |
 |---|---|
+| `groin-acute-aspetar-2026` | 2026-11-05 신규(V5 cardkit, 8장). 아스페타 특집호 Power 외 2026 '급성 서혜부 손상 경로' 전문 정독(사용자 Drive PDF), 1·2차 근거 검수. 사진 2장(CC BY-SA 3.0, 퍼블릭 도메인). delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(LibreOffice 대체 검사 LO-FAIL: 03·06 한글–영문 자동 간격 차이), Express 실제 가져오기 미확인 |
+| `groin-agp-aspetar-2026` | 2026-11-05 신규(V5 cardkit, 8장). 같은 특집호 Palladino 외 2026 'AGP 재활 경로' 전문 정독, 1·2차 근거 검수. 사진 1장(CC BY-SA 4.0). delivery/에 PNG·PPTX·caption. LibreOffice 대체 검사 LO-PASS, PowerPoint 검증 미실시, Express 실제 가져오기 미확인. 특집호 전체 정독 노트는 `groin-aspetar-series/research/source_notes.md` |
 | `pfp-runners-part2` | 2026-10-16 재제작(V5 cardkit, 9장). Powers 2014 각도별 무릎뼈 압박 + 싱글 레그 데드리프트. 그림 대신 사용권 확인 사진 3장(CC BY/BY-SA)+데이터 그래프 2장, 07은 사진 자리(사용자 삽입 필요). delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(Linux, LibreOffice 대체 검사만), Express 실제 가져오기 미확인. 이전 11장 시안은 브랜치 claude/adoring-hopper-6vhtnl에 보존 |
 | `plyometric-load-volume-2026` | 2026-10-14 신규. 플라이오메트릭 부하(Zhang Z 2026 Sci Rep)·점프 수(Zhang F 2026 Front Physiol, Wu 2025 RCT) 6장, V4 수치·하단 여백 적용. PNG 6장·소스·근거·QA 존재. 영상/Express 없음 |
 | `strength-training-acsm-2026` | 2026-10-13 신규. ACSM 2026 근력운동 입장문 6장, V4 수치·하단 여백 기준 적용. PNG 6장·소스·근거·QA 존재. 영상 없음. 2026-10-14 V5 cardkit 첫 적용: delivery/에 PNG·Express용 PPTX·caption 3종, PowerPoint 검증 PASS, Express 실제 가져오기 미확인 |

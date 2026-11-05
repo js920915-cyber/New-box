@@ -1,0 +1,118 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1183,
+    "bottomGap": 133,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1175,
+    "bottomGap": 141,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "46px/800",
+      "body": "44px/500",
+      "label": "36px/700",
+      "item": "46px/800",
+      "sub": "38px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1232.5,
+    "bottomGap": 83.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "46px/800",
+      "item": "46px/800",
+      "sub": "38px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1196,
+    "bottomGap": 120,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item": "46px/800",
+      "sub": "38px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1229.7,
+    "bottomGap": 86.3,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "label": "36px/700",
+      "item": "46px/800",
+      "sub": "38px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1232.2,
+    "bottomGap": 83.8,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "46px/800",
+      "body": "44px/500",
+      "note": "36px/500",
+      "item": "46px/800",
+      "sub": "38px/500"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1149,
+    "bottomGap": 167,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "item accent": "46px/800",
+      "item warn": "46px/800"
+    }
+  },
+  {
+    "card": "08",
+    "size": "1080x1350",
+    "contentBottom": 1144.5,
+    "bottomGap": 171.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "52px/800",
+      "key": "52px/800",
+      "sub": "38px/500",
+      "safety": "38px/700"
+    }
+  }
+]
