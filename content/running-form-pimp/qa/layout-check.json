@@ -35,8 +35,6 @@
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "stag": "36px/700",
-      "guide": "36px/500",
       "body": "44px/500",
       "strong": "44px/750"
     }
@@ -50,8 +48,6 @@
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "stag": "36px/700",
-      "guide": "36px/500",
       "num": "144px/850",
       "body": "44px/500",
       "strong": "44px/750"
@@ -66,8 +62,6 @@
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "stag": "36px/700",
-      "guide": "36px/500",
       "note": "36px/500",
       "body": "44px/500",
       "strong": "44px/750"

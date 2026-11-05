@@ -116,70 +116,70 @@ CARDS = [
     ('kind-cover', [
         '<h1 class="headline">날지 못하는 새에게<br><span class="accent">날라고</span> 하지 마세요</h1>', gap(48),
         ph('cover'), gap(48),
-        '<p class="body">러닝 자세 이야기입니다</p>']),
+        '<p class="body">네, 러닝 자세 얘기 맞습니다</p>']),
     # 02 밈: 타조
     ('kind-meme', [
         '<h1 class="headline">억지 자세 교정 =<br>타조에게 <span class="accent">비행 연습</span></h1>', gap(48),
         ph('ostrich', radius=0), gap(48),
-        '<p class="body">타조는 날지 않습니다.<br><span class="strong">대신 달립니다.</span></p>']),
+        '<p class="body">타조는 날기를 포기한 게 아닙니다.<br><span class="strong">달리기를 고른 겁니다.</span></p>']),
     # 03 엘리트 복사
     ('kind-elite', [
         '<h1 class="headline">1등 자세를 따라 하면<br><span class="accent">1등</span>이 될까요?</h1>', gap(48),
         ph('elite'), gap(48),
-        '<p class="body">그 자세는 원인이 아니라<br><span class="strong">결과</span>입니다</p>']),
+        '<p class="body">1등 자세는 그 몸이 만든 결과지,<br><span class="strong">빨라지는 비법이 아닙니다</span></p>']),
     # 04 뒤꿈치 85%
     ('kind-number', [
-        '<h1 class="headline">뒤꿈치 착지는<br><span class="accent">틀렸다?</span></h1>', gap(40),
+        '<h1 class="headline">뒤꿈치 착지가 오답이면,<br>대회장은 <span class="accent">오답 노트</span></h1>', gap(40),
         ph('heel'), gap(28),
         '<p class="num">85%+</p>', gap(12),
         '<p class="body">10km 넘는 대회 아마추어 러너는<br>대부분 <span class="strong">뒤꿈치로</span> 딛습니다</p>']),
     # 05 근거 수준
     ('kind-evidence', [
         '<h1 class="headline">‘좋은 자세’,<br><span class="accent">근거</span> 있나요?</h1>', gap(48),
-        '<div class="row">' + ph('fore', w=432) + ph('rear', w=432) + '</div>', gap(20),
-        '<div class="row"><p class="note" style="width:432px">앞꿈치로 딛는 러너</p><p class="note" style="width:432px">뒤꿈치로 딛는 러너</p></div>', gap(44),
+        ph('styles'), gap(20),
+        '<p class="note">같은 길, 신발도 자세도 제각각</p>', gap(44),
         '<p class="body">모두에게 통하는 자세는<br><span class="strong">아직 확인되지 않았습니다</span></p>']),
     # 06 자기최적화
     ('kind-self', [
-        '<h1 class="headline">당신 몸은<br><span class="accent">이미 계산 중</span>입니다</h1>', gap(48),
+        '<h1 class="headline">당신 몸,<br><span class="accent">계산 잘합니다</span></h1>', gap(48),
         ph('group'), gap(44),
-        '<p class="body">에너지가 덜 드는 보폭을<br>스스로 찾아갑니다</p>', gap(14),
+        '<p class="body">에너지 덜 드는 보폭을<br>계산기 없이 찾아갑니다</p>', gap(14),
         '<p class="note">훈련된 장거리 러너 연구들</p>']),
     # 07 그래프
     ('kind-chart', [
-        '<h1 class="headline">느려질수록<br>땅을 <span class="accent">오래</span> 딛습니다</h1>', gap(72),
+        '<h1 class="headline">느려질수록<br>땅과 <span class="accent">정이 듭니다</span></h1>', gap(72),
         '<div class="photo" style="height:680px"><img src="../assets/charts/speed-contact.png" alt="속도별 접지 시간 그래프: 빠를수록 짧고 느릴수록 길다" style="width:888px;left:0;top:0"></div>', gap(52),
-        '<p class="note">남성 아마추어 러너 · 속도별 추정치</p>']),
+        '<p class="note">땅에 닿는 시간 · 남성 아마추어 러너 추정치</p>']),
     # 08 Fig.1
     ('kind-figure', [
         '<h1 class="headline">빠를 땐 <span class="accent">스프링</span>,<br>느릴 땐 바퀴</h1>', gap(52),
         photo('fig1-000.jpg', 401, 888, 0, 0, '탄성 위주 러닝과 근육 위주 러닝의 동작 궤적 (Gindre 2026 Fig.1)', folder='figures'), gap(32),
         '<div class="row" style="gap:0">'
-        '<div class="col" style="width:444px;gap:4px"><p class="item accent">스프링</p><p class="note" style="color:var(--ink)">짧게 딛고<br>위아래로 크게</p></div>'
-        '<div class="col" style="width:444px;gap:4px"><p class="item">바퀴</p><p class="note" style="color:var(--ink)">오래 딛고<br>낮게, 관절은 크게</p></div></div>', gap(52),
-        '<p class="key">속도가 붙으면 대체로<br>스프링 쪽으로 옮겨 갑니다</p>']),
+        '<div class="col" style="width:444px;gap:4px"><p class="item accent">띠용띠용 스프링</p><p class="note" style="color:var(--ink)">짧게 딛고<br>위아래로 크게</p></div>'
+        '<div class="col" style="width:444px;gap:4px"><p class="item">데굴데굴 바퀴</p><p class="note" style="color:var(--ink)">오래 딛고<br>낮게, 관절은 크게</p></div></div>', gap(52),
+        '<p class="key">속도가 붙으면 대체로<br>띠용 쪽으로 옮겨 갑니다</p>']),
     # 09 억지로 바꾸면
     ('kind-warn', [
-        '<h1 class="headline">자세만 바꾸면<br>몸이 <span class="accent">못 따라옵니다</span></h1>', gap(48),
+        '<h1 class="headline">자세는 업데이트,<br>몸은 <span class="accent">아직 구버전</span></h1>', gap(48),
         ph('tired'), gap(44),
         '<p class="body">너무 빨리, 너무 크게 바꾸면<br><span class="strong warn">비효율과 부상 위험</span>이 커질 수 있습니다</p>']),
     # 10 이유: 근력·탄성·조절
     ('kind-why', [
-        '<h1 class="headline">그 자세엔<br><span class="accent">이유</span>가 있습니다</h1>', gap(48),
+        '<h1 class="headline">그 자세,<br>다 <span class="accent">사정</span>이 있습니다</h1>', gap(48),
         '<div class="row">'
         + ''.join(f'<div class="col">{ph(k, w=280, radius=20)}<p class="item">{t}</p></div>'
                   for k, t in (('strength', '근력'), ('elastic', '탄성'), ('control', '조절'))) + '</div>', gap(48),
-        '<p class="body">내 몸이 가진 능력이<br><span class="strong">자세를 만듭니다</span></p>']),
+        '<p class="body">내 몸 스펙이<br><span class="strong">자세를 만듭니다</span></p>']),
     # 11 능력 지도
     ('kind-map', [
-        '<h1 class="headline">자세 말고,<br><span class="accent">능력</span>을 확인합니다</h1>', gap(48),
+        '<h1 class="headline">자세 검사 말고,<br><span class="accent">몸 스펙</span> 검사</h1>', gap(48),
         None, gap(40),   # ability_map()으로 채움
-        '<p class="body">내 몸에 맞는 방향은<br><span class="strong">평가로 찾습니다</span></p>']),
+        '<p class="body">내 몸 사용설명서는<br><span class="strong">평가로 씁니다</span></p>']),
     # 12 결론·콜백
     ('kind-summary', [
         '<h1 class="headline">날개를 다는 대신<br><span class="accent">다리를 키웁니다</span></h1>', gap(48),
         ph('train'), gap(48),
-        '<p class="key">자세 교정보다,<br>능력 평가부터</p>']),
+        '<p class="key">타조처럼.<br>자세 교정보다, 능력 평가부터</p>']),
 ]
 
 for i, (kind, parts) in enumerate(CARDS, 1):

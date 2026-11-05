@@ -1,5 +1,15 @@
 # QA — running-form-pimp (2026-11-05, 12장, V5.1 cardkit Linux 경로)
 
+## 2026-11-05 수정본: 유머 버전 문구 + 사진 3장 추가
+
+- 03(Human Machines, PDM), 04(Petar Milošević, CC BY-SA 4.0), 05(Chris Hunkeler, CC BY-SA 2.0) 사진 삽입. 남은 사진 자리 7곳(01, 09, 10×3, 11, 12).
+- 문구 변경은 research/claims.md 하단 표(1차·2차 대조). 09 경고 문장은 그대로.
+- 전 카드 contentBottom 1144.7~1213.1(bottomGap 102.9~171.3), 잘림·겹침 없음. 04 제목 첫 줄 x135~945(안전 영역 안).
+- PPTX 12장·줄 상자 90개, LibreOffice 대체 검사 구조 경고 0, 세로 차이 0~5px → LO-FAIL. PowerPoint 미검증, Express 실제 가져오기 미확인.
+- 거부된 사진 주소·검색 주소: assets/photo_candidates_blocked.md
+
+## (이전) 첫 납품 기록
+
 ## 카드별 (자동 측정 + 원본·360px 육안 확인)
 
 | 카드 | 크기 | 폰트(제목/본문/보조) | contentBottom | bottomGap | 원본 | 360px | 비고 |

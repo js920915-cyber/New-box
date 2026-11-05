@@ -1,4 +1,5 @@
 날지 못하는 새에게 날라고 하지 마세요 🏃
+(네, 러닝 자세 얘기 맞습니다)
 
 “앞꿈치로 딛어야 한다” “통통 튀어야 한다” “엘리트처럼 뛰어야 한다”
 러닝 자세 교정 영상, 다들 한 번쯤 따라 해 보셨죠?
@@ -19,7 +20,7 @@
 근력 측정, CMJ·한 발 CMJ, 10/5 반복 점프, 한 발 착지 검사, 움직임 조절 평가로
 내 몸에 맞는 방향을 찾고, 필요한 능력부터 조금씩 키웁니다.
 
-날개를 다는 대신, 다리를 키우세요.
+날개를 다는 대신, 다리를 키우세요. 타조처럼.
 📌 저장해 두고 자세 교정 영상 보기 전에 한 번 더 확인하세요.
 
 —
@@ -29,6 +30,6 @@
 · 11번 평가 항목은 센터 평가 예시이며, 결과 해석은 담당 트레이너와 함께합니다.
 
 그림: 8번 Gindre et al. 2026, Fig.1, CC BY 4.0 (원본 그대로 사용)
-사진: 2번 Jorge Láscar, CC BY 2.0 (Wikimedia Commons, 크롭) / 6번 gadl, CC BY-SA 2.0 (Wikimedia Commons, 크롭)
+사진: 2번 Jorge Láscar, CC BY 2.0 (Wikimedia Commons, 크롭) / 3번 Angel Lite Photography, Public Domain Mark (Flickr, 크롭) / 4번 Petar Milošević, CC BY-SA 4.0 (Wikimedia Commons, 크롭) / 5번 Chris Hunkeler, CC BY-SA 2.0 (Flickr, 크롭) / 6번 gadl, CC BY-SA 2.0 (Wikimedia Commons, 크롭)
 
 #러닝 #러닝자세 #러닝폼 #달리기 #마라톤 #러너 #자세교정 #스포츠재활 #러닝부상 #근력운동 #플라이오메트릭

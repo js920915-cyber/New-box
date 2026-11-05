@@ -7,73 +7,73 @@
     {
       "card": "01",
       "verticalShiftPx": 5,
-      "diffPct": 3.21,
+      "diffPct": 3.58,
       "pass": false
     },
     {
       "card": "02",
-      "verticalShiftPx": 4,
-      "diffPct": 3.5,
+      "verticalShiftPx": 3,
+      "diffPct": 4.02,
       "pass": false
     },
     {
       "card": "03",
-      "verticalShiftPx": 4,
-      "diffPct": 3.71,
-      "pass": false
+      "verticalShiftPx": 0,
+      "diffPct": 4.34,
+      "pass": true
     },
     {
       "card": "04",
-      "verticalShiftPx": 3,
-      "diffPct": 4.29,
-      "pass": false
+      "verticalShiftPx": 0,
+      "diffPct": 5.91,
+      "pass": true
     },
     {
       "card": "05",
-      "verticalShiftPx": 2,
-      "diffPct": 3.72,
+      "verticalShiftPx": 1,
+      "diffPct": 3.79,
       "pass": true
     },
     {
       "card": "06",
       "verticalShiftPx": 0,
-      "diffPct": 6.57,
+      "diffPct": 6.59,
       "pass": true
     },
     {
       "card": "07",
       "verticalShiftPx": 4,
-      "diffPct": 2.41,
+      "diffPct": 2.35,
       "pass": false
     },
     {
       "card": "08",
       "verticalShiftPx": 2,
-      "diffPct": 5.05,
+      "diffPct": 5.35,
       "pass": true
     },
     {
       "card": "09",
       "verticalShiftPx": 4,
-      "diffPct": 3.35,
+      "diffPct": 4.38,
       "pass": false
     },
     {
       "card": "10",
       "verticalShiftPx": 2,
-      "diffPct": 2.89,
+      "diffPct": 3.18,
       "pass": true
     },
     {
       "card": "11",
-      "verticalShiftPx": 2,
-      "diffPct": 3.95,
+      "verticalShiftPx": 1,
+      "diffPct": 4.2,
       "pass": true
     },
     {
       "card": "12",
-      "verticalShiftPx": 4,
-      "diffPct": 3.64,
+      "verticalShiftPx": 3,
+      "diffPct": 4.44,
       "pass": false
     }
   ],
