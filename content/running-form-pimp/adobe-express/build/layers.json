@@ -1,0 +1,2254 @@
+[
+  {
+    "card": "01",
+    "lines": [
+      {
+        "left": 206.90625,
+        "right": 873.078125,
+        "top": 102,
+        "bottom": 208,
+        "runs": [
+          {
+            "text": "날지 못하는 새에게",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 206.90625,
+        "right": 873.078125,
+        "top": 205.828125,
+        "bottom": 311.828125,
+        "runs": [
+          {
+            "text": "날라고",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -3.08
+            }
+          },
+          {
+            "text": " 하지 마세요",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 620.140625,
+        "bottom": 663.140625,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 287.984375,
+        "right": 792,
+        "top": 681.9375,
+        "bottom": 724.9375,
+        "runs": [
+          {
+            "text": "어색한 자세로 애쓰며 달리는 러너",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 274.234375,
+        "right": 805.75,
+        "top": 733.046875,
+        "bottom": 776.046875,
+        "runs": [
+          {
+            "text": "얼굴 표정이 보이게 · 앞이나 옆 45°",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 330.546875,
+        "right": 749.4375,
+        "top": 1091.65625,
+        "bottom": 1144.65625,
+        "runs": [
+          {
+            "text": "러닝 자세 이야기입니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 359.65625,
+        "w": 888,
+        "h": 680,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "02",
+    "lines": [
+      {
+        "left": 262.203125,
+        "right": 817.78125,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "억지 자세 교정 =",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.046875,
+        "right": 857.953125,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "타조에게 ",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "비행 연습",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 344.21875,
+        "right": 735.78125,
+        "top": 1065.59375,
+        "bottom": 1118.59375,
+        "runs": [
+          {
+            "text": "타조는 날지 않습니다.",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 408.59375,
+        "right": 671.40625,
+        "top": 1128.0625,
+        "bottom": 1181.0625,
+        "runs": [
+          {
+            "text": "대신 달립니다.",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 353.59375,
+        "w": 888,
+        "h": 660,
+        "src": "../assets/photos/ostrich_JorgeLascar_ccby20.jpg",
+        "alt": "흙길을 달리는 타조 세 마리 뒷모습",
+        "img": {
+          "x": -120,
+          "y": 249.59375,
+          "w": 1150,
+          "h": 764.265625,
+          "naturalW": 960,
+          "naturalH": 638
+        },
+        "file": "02-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "03",
+    "lines": [
+      {
+        "left": 187.859375,
+        "right": 892.125,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "1등 자세를 따라 하면",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 299.0625,
+        "right": 780.90625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "1등",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "이 될까요?",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 604.078125,
+        "bottom": 647.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 359.265625,
+        "right": 720.71875,
+        "top": 665.875,
+        "bottom": 708.875,
+        "runs": [
+          {
+            "text": "엘리트 레이스 선두 그룹",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 304.546875,
+        "right": 775.4375,
+        "top": 716.984375,
+        "bottom": 759.984375,
+        "runs": [
+          {
+            "text": "특정 선수 이름이 드러나지 않게",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 324.828125,
+        "right": 755.15625,
+        "top": 1065.59375,
+        "bottom": 1118.59375,
+        "runs": [
+          {
+            "text": "그 자세는 원인이 아니라",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 440.984375,
+        "right": 639,
+        "top": 1128.0625,
+        "bottom": 1181.0625,
+        "runs": [
+          {
+            "text": "결과",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "입니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 353.59375,
+        "w": 888,
+        "h": 660,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "04",
+    "lines": [
+      {
+        "left": 306.6875,
+        "right": 773.3125,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "뒤꿈치 착지는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 407.609375,
+        "right": 672.390625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "틀렸다?",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 526.078125,
+        "bottom": 569.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 359.265625,
+        "right": 720.71875,
+        "top": 587.875,
+        "bottom": 630.875,
+        "runs": [
+          {
+            "text": "뒤꿈치가 먼저 닿는 순간",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 353.984375,
+        "right": 726.015625,
+        "top": 638.984375,
+        "bottom": 681.984375,
+        "runs": [
+          {
+            "text": "발·발목 옆모습 클로즈업",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 350.484375,
+        "right": 729.5,
+        "top": 884.59375,
+        "bottom": 1057.59375,
+        "runs": [
+          {
+            "text": "85%+",
+            "style": {
+              "size": 144,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -5.76
+            }
+          }
+        ]
+      },
+      {
+        "left": 242.59375,
+        "right": 837.390625,
+        "top": 1065.109375,
+        "bottom": 1118.109375,
+        "runs": [
+          {
+            "text": "10km 넘는 대회 아마추어 러너는",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 310.734375,
+        "right": 769.234375,
+        "top": 1127.578125,
+        "bottom": 1180.578125,
+        "runs": [
+          {
+            "text": "대부분 ",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "뒤꿈치로",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": " 딛습니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 345.59375,
+        "w": 888,
+        "h": 520,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "05",
+    "lines": [
+      {
+        "left": 341.828125,
+        "right": 738.15625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "‘좋은 자세’,",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 322.96875,
+        "right": 757.015625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "근거",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": " 있나요?",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 202.546875,
+        "right": 421.4375,
+        "top": 574.078125,
+        "bottom": 617.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 169.4375,
+        "right": 454.5625,
+        "top": 635.875,
+        "bottom": 678.875,
+        "runs": [
+          {
+            "text": "앞꿈치로 딛는 순간",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 240.71875,
+        "right": 383.28125,
+        "top": 686.984375,
+        "bottom": 729.984375,
+        "runs": [
+          {
+            "text": "발 옆모습",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 658.546875,
+        "right": 877.4375,
+        "top": 574.078125,
+        "bottom": 617.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 625.4375,
+        "right": 910.5625,
+        "top": 635.875,
+        "bottom": 678.875,
+        "runs": [
+          {
+            "text": "뒤꿈치로 딛는 순간",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 696.71875,
+        "right": 839.28125,
+        "top": 686.984375,
+        "bottom": 729.984375,
+        "runs": [
+          {
+            "text": "발 옆모습",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 173.03125,
+        "right": 450.953125,
+        "top": 976.59375,
+        "bottom": 1019.59375,
+        "runs": [
+          {
+            "text": "앞꿈치로 딛는 러너",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 629.03125,
+        "right": 906.953125,
+        "top": 976.59375,
+        "bottom": 1019.59375,
+        "runs": [
+          {
+            "text": "뒤꿈치로 딛는 러너",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 330.546875,
+        "right": 749.4375,
+        "top": 1071.984375,
+        "bottom": 1124.984375,
+        "runs": [
+          {
+            "text": "모두에게 통하는 자세는",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 310.75,
+        "right": 769.234375,
+        "top": 1134.453125,
+        "bottom": 1187.453125,
+        "runs": [
+          {
+            "text": "아직 확인되지 않았습니다",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 353.59375,
+        "w": 432,
+        "h": 600,
+        "fill": "#f0f7fc",
+        "radius": 20
+      },
+      {
+        "type": "box",
+        "x": 552,
+        "y": 353.59375,
+        "w": 432,
+        "h": 600,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "06",
+    "lines": [
+      {
+        "left": 381.015625,
+        "right": 698.96875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "당신 몸은",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.046875,
+        "right": 857.953125,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "이미 계산 중",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "입니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 324.828125,
+        "right": 755.15625,
+        "top": 1001.59375,
+        "bottom": 1054.59375,
+        "runs": [
+          {
+            "text": "에너지가 덜 드는 보폭을",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 375.859375,
+        "right": 704.109375,
+        "top": 1064.0625,
+        "bottom": 1117.0625,
+        "runs": [
+          {
+            "text": "스스로 찾아갑니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 347.75,
+        "right": 732.234375,
+        "top": 1139.53125,
+        "bottom": 1182.53125,
+        "runs": [
+          {
+            "text": "훈련된 장거리 러너 연구들",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 353.59375,
+        "w": 888,
+        "h": 600,
+        "src": "../assets/photos/paris-marathon-2007_gadl_ccbysa20.jpg",
+        "alt": "센강변 도로를 각자 다른 자세로 달리는 마라톤 참가자들",
+        "img": {
+          "x": 36,
+          "y": 233.59375,
+          "w": 960,
+          "h": 720,
+          "naturalW": 960,
+          "naturalH": 720
+        },
+        "file": "06-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "07",
+    "lines": [
+      {
+        "left": 354.140625,
+        "right": 725.84375,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "느려질수록",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.046875,
+        "right": 857.953125,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "땅을 ",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "오래",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": " 딛습니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 280.8125,
+        "right": 799.1875,
+        "top": 1112.59375,
+        "bottom": 1155.59375,
+        "runs": [
+          {
+            "text": "남성 아마추어 러너 · 속도별 추정치",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 377.59375,
+        "w": 888,
+        "h": 680,
+        "src": "../assets/charts/speed-contact.png",
+        "alt": "속도별 접지 시간 그래프: 빠를수록 짧고 느릴수록 길다",
+        "img": {
+          "x": 96,
+          "y": 377.59375,
+          "w": 888,
+          "h": 680,
+          "naturalW": 1776,
+          "naturalH": 1360
+        },
+        "file": "07-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "08",
+    "lines": [
+      {
+        "left": 283.328125,
+        "right": 796.671875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "빠를 땐 ",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "스프링",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": ",",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 333.5625,
+        "right": 746.4375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "느릴 땐 바퀴",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 253.90625,
+        "right": 382.078125,
+        "top": 792.59375,
+        "bottom": 850.59375,
+        "runs": [
+          {
+            "text": "스프링",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 248.5,
+        "right": 387.46875,
+        "top": 859.984375,
+        "bottom": 902.984375,
+        "runs": [
+          {
+            "text": "짧게 딛고",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 216.109375,
+        "right": 419.875,
+        "top": 910.375,
+        "bottom": 953.375,
+        "runs": [
+          {
+            "text": "위아래로 크게",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 719.265625,
+        "right": 804.71875,
+        "top": 792.59375,
+        "bottom": 850.59375,
+        "runs": [
+          {
+            "text": "바퀴",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 692.5,
+        "right": 831.46875,
+        "top": 859.984375,
+        "bottom": 902.984375,
+        "runs": [
+          {
+            "text": "오래 딛고",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 634.203125,
+        "right": 889.78125,
+        "top": 910.375,
+        "bottom": 953.375,
+        "runs": [
+          {
+            "text": "낮게, 관절은 크게",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 301.71875,
+        "right": 778.28125,
+        "top": 1011.765625,
+        "bottom": 1078.765625,
+        "runs": [
+          {
+            "text": "속도가 붙으면 대체로",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 244.875,
+        "right": 835.125,
+        "top": 1084.5625,
+        "bottom": 1151.5625,
+        "runs": [
+          {
+            "text": "스프링 쪽으로 옮겨 갑니다",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "photo",
+        "x": 96,
+        "y": 357.59375,
+        "w": 888,
+        "h": 401,
+        "src": "../assets/figures/fig1-000.jpg",
+        "alt": "탄성 위주 러닝과 근육 위주 러닝의 동작 궤적 (Gindre 2026 Fig.1)",
+        "img": {
+          "x": 96,
+          "y": 357.59375,
+          "w": 888,
+          "h": 400.734375,
+          "naturalW": 2032,
+          "naturalH": 917
+        },
+        "file": "08-photo1.png"
+      }
+    ]
+  },
+  {
+    "card": "09",
+    "lines": [
+      {
+        "left": 306.671875,
+        "right": 773.296875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "자세만 바꾸면",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 222.046875,
+        "right": 857.9375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "몸이 ",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "못 따라옵니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 604.078125,
+        "bottom": 647.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 413.984375,
+        "right": 666,
+        "top": 665.875,
+        "bottom": 708.875,
+        "runs": [
+          {
+            "text": "지쳐서 멈춘 러너",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 280.09375,
+        "right": 799.90625,
+        "top": 716.984375,
+        "bottom": 759.984375,
+        "runs": [
+          {
+            "text": "무릎에 손 짚기 등 · 통증 연출 없이",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 293.171875,
+        "right": 786.8125,
+        "top": 1061.59375,
+        "bottom": 1114.59375,
+        "runs": [
+          {
+            "text": "너무 빨리, 너무 크게 바꾸면",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 194.59375,
+        "right": 885.40625,
+        "top": 1124.0625,
+        "bottom": 1177.0625,
+        "runs": [
+          {
+            "text": "비효율과 부상 위험",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#cc414a",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "이 커질 수 있습니다",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 353.59375,
+        "w": 888,
+        "h": 660,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "10",
+    "lines": [
+      {
+        "left": 381.015625,
+        "right": 698.96875,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "그 자세엔",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 269.515625,
+        "right": 810.484375,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "이유",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "가 있습니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 126.546875,
+        "right": 345.4375,
+        "top": 564.078125,
+        "bottom": 607.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 148.15625,
+        "right": 323.84375,
+        "top": 625.875,
+        "bottom": 668.875,
+        "runs": [
+          {
+            "text": "스쿼트 또는",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 148.15625,
+        "right": 323.84375,
+        "top": 676.984375,
+        "bottom": 719.984375,
+        "runs": [
+          {
+            "text": "종아리 들기",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 193.265625,
+        "right": 278.71875,
+        "top": 949.59375,
+        "bottom": 1007.59375,
+        "runs": [
+          {
+            "text": "근력",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 564.078125,
+        "bottom": 607.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 625.875,
+        "bottom": 668.875,
+        "runs": [
+          {
+            "text": "제자리 홉 또는",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 468.703125,
+        "right": 611.265625,
+        "top": 676.984375,
+        "bottom": 719.984375,
+        "runs": [
+          {
+            "text": "반복 점프",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 497.265625,
+        "right": 582.71875,
+        "top": 949.59375,
+        "bottom": 1007.59375,
+        "runs": [
+          {
+            "text": "탄성",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 734.546875,
+        "right": 953.4375,
+        "top": 564.078125,
+        "bottom": 607.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 729.515625,
+        "right": 958.484375,
+        "top": 625.875,
+        "bottom": 668.875,
+        "runs": [
+          {
+            "text": "한 발 서기 또는",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 751.109375,
+        "right": 936.875,
+        "top": 676.984375,
+        "bottom": 719.984375,
+        "runs": [
+          {
+            "text": "한 발 스쿼트",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 801.265625,
+        "right": 886.71875,
+        "top": 949.59375,
+        "bottom": 1007.59375,
+        "runs": [
+          {
+            "text": "조절",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 364.4375,
+        "right": 715.5625,
+        "top": 1061.984375,
+        "bottom": 1114.984375,
+        "runs": [
+          {
+            "text": "내 몸이 가진 능력이",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 395.671875,
+        "right": 684.3125,
+        "top": 1124.453125,
+        "bottom": 1177.453125,
+        "runs": [
+          {
+            "text": "자세를 만듭니다",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 353.59375,
+        "w": 280,
+        "h": 580,
+        "fill": "#f0f7fc",
+        "radius": 20
+      },
+      {
+        "type": "box",
+        "x": 400,
+        "y": 353.59375,
+        "w": 280,
+        "h": 580,
+        "fill": "#f0f7fc",
+        "radius": 20
+      },
+      {
+        "type": "box",
+        "x": 704,
+        "y": 353.59375,
+        "w": 280,
+        "h": 580,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "11",
+    "lines": [
+      {
+        "left": 367.953125,
+        "right": 712.03125,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "자세 말고,",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 232.34375,
+        "right": 847.65625,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "능력",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "을 확인합니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 478.59375,
+        "bottom": 521.59375,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 452.15625,
+        "right": 627.84375,
+        "top": 588.59375,
+        "bottom": 631.59375,
+        "runs": [
+          {
+            "text": "전신 옆모습",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 745,
+        "right": 933,
+        "top": 394.59375,
+        "bottom": 442.59375,
+        "runs": [
+          {
+            "text": "움직임 조절",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 753.3125,
+        "right": 924.6875,
+        "top": 447.59375,
+        "bottom": 490.59375,
+        "runs": [
+          {
+            "text": "흔들림 잡기",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 164.796875,
+        "right": 317.203125,
+        "top": 504.59375,
+        "bottom": 552.59375,
+        "runs": [
+          {
+            "text": "근력 측정",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 171.515625,
+        "right": 310.484375,
+        "top": 557.59375,
+        "bottom": 600.59375,
+        "runs": [
+          {
+            "text": "버티는 힘",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 757.796875,
+        "right": 920.203125,
+        "top": 614.59375,
+        "bottom": 662.59375,
+        "runs": [
+          {
+            "text": "한 발 착지",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 769.515625,
+        "right": 908.484375,
+        "top": 667.59375,
+        "bottom": 710.59375,
+        "runs": [
+          {
+            "text": "충격 받기",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 200.71875,
+        "right": 281.28125,
+        "top": 724.59375,
+        "bottom": 772.59375,
+        "runs": [
+          {
+            "text": "CMJ",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 134.4375,
+        "right": 347.5625,
+        "top": 777.59375,
+        "bottom": 820.59375,
+        "runs": [
+          {
+            "text": "튀어 오르는 힘",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 753.109375,
+        "right": 924.875,
+        "top": 834.59375,
+        "bottom": 882.59375,
+        "runs": [
+          {
+            "text": "한 발 CMJ",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 769.515625,
+        "right": 908.484375,
+        "top": 887.59375,
+        "bottom": 930.59375,
+        "runs": [
+          {
+            "text": "좌우 차이",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 158.78125,
+        "right": 323.21875,
+        "top": 944.59375,
+        "bottom": 992.59375,
+        "runs": [
+          {
+            "text": "10/5 RJT",
+            "style": {
+              "size": 40,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.2
+            }
+          }
+        ]
+      },
+      {
+        "left": 134.4375,
+        "right": 347.5625,
+        "top": 997.59375,
+        "bottom": 1040.59375,
+        "runs": [
+          {
+            "text": "짧게 딛고 튀기",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 364.4375,
+        "right": 715.5625,
+        "top": 1097.59375,
+        "bottom": 1150.59375,
+        "runs": [
+          {
+            "text": "내 몸에 맞는 방향은",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 395.671875,
+        "right": 684.3125,
+        "top": 1160.0625,
+        "bottom": 1213.0625,
+        "runs": [
+          {
+            "text": "평가로 찾습니다",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 396,
+        "y": 353.59375,
+        "w": 288,
+        "h": 700,
+        "fill": "#f0f7fc",
+        "radius": 24
+      },
+      {
+        "type": "line",
+        "x": 566,
+        "y": 445.59375,
+        "w": 128,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 558,
+        "y": 437.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "line",
+        "x": 386,
+        "y": 555.59375,
+        "w": 120,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 498,
+        "y": 547.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "line",
+        "x": 566,
+        "y": 665.59375,
+        "w": 128,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 558,
+        "y": 657.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "line",
+        "x": 386,
+        "y": 775.59375,
+        "w": 120,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 498,
+        "y": 767.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "line",
+        "x": 566,
+        "y": 885.59375,
+        "w": 128,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 558,
+        "y": 877.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "line",
+        "x": 386,
+        "y": 995.59375,
+        "w": 120,
+        "h": 3,
+        "fill": "#9fb3c4"
+      },
+      {
+        "type": "box",
+        "x": 498,
+        "y": 987.59375,
+        "w": 16,
+        "h": 16,
+        "fill": "#0879d8",
+        "radius": 8
+      }
+    ]
+  },
+  {
+    "card": "12",
+    "lines": [
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 103,
+        "bottom": 204,
+        "runs": [
+          {
+            "text": "날개를 다는 대신",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 269.5,
+        "right": 810.46875,
+        "top": 203.796875,
+        "bottom": 304.796875,
+        "runs": [
+          {
+            "text": "다리를 키웁니다",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 430.546875,
+        "right": 649.4375,
+        "top": 594.078125,
+        "bottom": 637.078125,
+        "runs": [
+          {
+            "text": "사진 넣는 자리",
+            "style": {
+              "size": 36,
+              "weight": 700,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 320.859375,
+        "right": 759.125,
+        "top": 655.875,
+        "bottom": 698.875,
+        "runs": [
+          {
+            "text": "센터에서 평가·훈련하는 러너",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 387.09375,
+        "right": 692.890625,
+        "top": 706.984375,
+        "bottom": 749.984375,
+        "runs": [
+          {
+            "text": "점프·근력 운동 장면",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 374.796875,
+        "right": 705.203125,
+        "top": 1043.59375,
+        "bottom": 1110.59375,
+        "runs": [
+          {
+            "text": "자세 교정보다,",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 383.46875,
+        "right": 696.515625,
+        "top": 1116.390625,
+        "bottom": 1183.390625,
+        "runs": [
+          {
+            "text": "능력 평가부터",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 353.59375,
+        "w": 888,
+        "h": 640,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  }
+]

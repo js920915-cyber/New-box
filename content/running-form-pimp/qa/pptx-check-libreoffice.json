@@ -1,0 +1,81 @@
+{
+  "pptx": "adobe-express/running-form-pimp-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 12,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 5,
+      "diffPct": 3.21,
+      "pass": false
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 4,
+      "diffPct": 3.5,
+      "pass": false
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 4,
+      "diffPct": 3.71,
+      "pass": false
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 3,
+      "diffPct": 4.29,
+      "pass": false
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 3.72,
+      "pass": true
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 0,
+      "diffPct": 6.57,
+      "pass": true
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 4,
+      "diffPct": 2.41,
+      "pass": false
+    },
+    {
+      "card": "08",
+      "verticalShiftPx": 2,
+      "diffPct": 5.05,
+      "pass": true
+    },
+    {
+      "card": "09",
+      "verticalShiftPx": 4,
+      "diffPct": 3.35,
+      "pass": false
+    },
+    {
+      "card": "10",
+      "verticalShiftPx": 2,
+      "diffPct": 2.89,
+      "pass": true
+    },
+    {
+      "card": "11",
+      "verticalShiftPx": 2,
+      "diffPct": 3.95,
+      "pass": true
+    },
+    {
+      "card": "12",
+      "verticalShiftPx": 4,
+      "diffPct": 3.64,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}
