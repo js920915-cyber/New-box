@@ -14,6 +14,7 @@
 | [01_asset_analysis.md](./01_asset_analysis.md) | STEP 1: 사진 12장·영상 6개 정밀 분석, 인수인계서와 실제 자료 차이 |
 | [02_hook_0-5s.md](./02_hook_0-5s.md) | STEP 2·3: 첫 5초 컷 구성, 기준 프레임 검수 결과 |
 | [03_higgsfield_shots.md](./03_higgsfield_shots.md) | STEP 6: Higgsfield 설정·영문 프롬프트·검수·Premiere 연결, 다음 기준 이미지 계획 |
+| [04_first15s.md](./04_first15s.md) | STEP 4: 첫 15초 가편집 타임라인, 관절 각도 검수와 제어 방법 |
 
 ## 진행 상황 (2026-11-10)
 
