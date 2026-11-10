@@ -11,18 +11,37 @@
 | 비율 | 16:9 생성 → 9:16은 Premiere 리프레임 | 피사체를 화면 중앙 1/3 안에 둔 기준 프레임을 쓴다 |
 | 이미지 모델 | 원본 사진 + 조명 참고 이미지 → `nano_banana_2_1` 2k (장당 약 2 크레딧) | 해부·글자 정확도 우선. 조명만 더 필요하면 `gpt_image_2_6` 2k high로 재조명 |
 
+> 아래 SHOT별 프롬프트의 조명 문구(차콜 배경, 어두운 톤)는 1차 시안 기준이다. 실제 생성에는 "룩 결정" 규칙을 따른 문구(`Documentary footage … Sony FX3 … Lighting, colors and textures stay exactly as in the start frame`)를 쓴다. 2026-11-10 초안 테스트에 쓴 프롬프트가 이 형식이다.
+
 공통 네거티브 문구(모든 프롬프트 끝에 붙인다):
 ```
 No added or changed text, numbers or logos. No extra fingers or hands. No limb or joint deformation. Equipment keeps its exact shape throughout. No morphing of faces. No camera shake. No sudden lighting changes. No slow-motion artifacts. No sparkles, lens flares or CGI effects.
 ```
 
-## 기준 이미지 (이번에 생성, Higgsfield 생성 기록에 저장됨)
+## 룩 결정 (2026-11-10 원장님 피드백 반영)
 
-| 파일 | Higgsfield job ID | 원본 |
-|---|---|---|
-| ref_A_knee_eval_v2.png | `c5161c0e-6307-426d-b798-ac611a60f6a2` | 사진 14 (media `30a9f104…`) |
-| ref_B_keiser_data_v2.png | `1370c020-180b-45f1-ac64-f20d55591d34` | 사진 59 (media `1c010593…`) |
-| ref_C_step_coaching_v3.png | `faef68ec-7308-4b49-893a-67926bb6f87d` | 사진 15 (media `6ff89acb…`) |
+1차 시안(어두운 차콜 톤)은 **"너무 어둡다", "AI 그래픽 티가 난다"**는 피드백으로 폐기했다. 제작은 AI 중심을 유지하고, 아래 규칙으로 AI 티를 줄인다.
+
+### AI 티 줄이기 규칙
+1. **밝은 실제 센터 톤.** 흰 벽·흰 천장 조명을 유지한다. 대비는 어둡게 눌러서가 아니라 빛의 방향(측면 창광 느낌)으로 만든다.
+2. **광고 단어 금지.** 프롬프트에 cinematic, dramatic, moody, epic, film still을 쓰지 않는다. 대신 실제 촬영 조건을 쓴다: `documentary footage, Sony FX3, 35/50mm, f/2–2.8, ISO 1250, 1/50s`.
+3. **질감 보존 지시.** `keep real skin pores, hair, glove/fabric creases, natural sensor noise, slightly uneven real-world light`, `no skin smoothing, no HDR, no glow, no over-sharpening`.
+4. **최소 수정.** 원본 사진을 한 번만 수정한다. AI 결과를 다시 AI로 돌리는 횟수를 줄여야 플라스틱 질감이 쌓이지 않는다.
+5. **영상 움직임은 작게.** 관절 각도 변화는 10~20° 이내, 카메라는 `slight natural handheld micro-movement`. 큰 동작은 실제 영상을 움직임 참고(`video_references`)로 넣는다.
+6. **후반 통일.** 모든 AI 컷과 실제 컷에 같은 그레인(35mm, 강도 낮게), 180° 셔터 모션블러, 약한 비네팅을 입혀 질감을 하나로 맞춘다.
+7. **사용 길이.** AI 컷은 컷당 0.75~2초. 손·얼굴 클로즈업이 2초를 넘으면 흐름이 보이기 시작한다.
+
+## 기준 이미지 (채택본, Higgsfield 생성 기록에 저장됨)
+
+| 컷 | 채택 job ID (GPT Image 2.6, 2k high) | 원본 | 남은 수정 |
+|---|---|---|---|
+| A 무릎 수기 평가 | `4500ef86-7fb3-40f9-ac55-b6604de3d315` | 사진 14 (media `30a9f104…`) | 가슴 로고가 "R소포츠재활센터"로 틀림 → 원본 로고 크롭으로 덮기(트래킹). 명찰 비움 ✔ |
+| B Keiser 데이터 | `1598f1ca-f14b-4e4b-9988-9505688fc3a5` | 사진 59 (media `1c010593…`) | 화면 라벨 일부 틀림 → 원본 화면으로 코너 핀 교체(원래 계획) |
+| C 스텝 지도 | `61698b50-1e75-4fb9-9c87-4d7f14a42b1f` | 사진 15 (media `6ff89acb…`) | 전체가 약간 회색 → 노출 +0.3 |
+
+움직임 참고용 실제 영상: V4 포스플레이트 SL-CMJ → Higgsfield media `b0219938-cbf7-4a3a-918f-f261e06b9e75`(1080×1920, 59.94fps H.264 변환본).
+
+폐기한 시안(참고): 어두운 1차 `c5161c0e…`, `1370c020…`, `faef68ec…` / 밝은 2차 `9c1fdfd2…`, `25ed460c…`, `92ad4db6…`.
 
 ---
 
