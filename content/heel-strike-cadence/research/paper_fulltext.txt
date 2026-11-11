@@ -1,0 +1,1202 @@
+The Heel-Strike Fallacy and Cadence Beliefs in Distance Running: A Narrative Review 
+
+Sports Patoz et al. Sports Medicine - Open (2026) 12:149 https://doi.org/10.1186/s40798-026-01120-y
+
+Medicine - Open
+
+REVIEW ARTICLE The Heel-Strike Fallacy and Cadence Beliefs in Distance Running: A Narrative Review
+
+Aurélien Patoz1,2\*† , Cyrille Gindre1,3,4,5† , Thibault Lussiana1,3,4,5† and Bastiaan Breine1,6†
+
+Abstract Running-technique recommendations often convert group-level observations and acute biomechanical responses into universal prescriptions. This narrative review examines three beliefs: rearfoot striking is inherently harmful, 180 steps/min is universally optimal, and increasing cadence while maintaining a given running speed consist- ently reduces loading and overuse injury risk. Current evidence does not support these generalizations. First, rear- foot striking is not consistently associated with greater impact-related metrics or overuse injury risk, and external impact measures do not directly represent tissue-specific loading. Second, cadence varies substantially with running speed, morphology, footwear, and surface, while energetically optimal cadence varies between individuals rather than being fixed at 180 steps/min. Third, although increasing cadence can acutely modify selected mechanical vari- ables, these responses are heterogeneous, have not been shown to consistently reduce injury risk, and may partly reflect concurrent changes in stance–flight organization. Duty factor (DF), the proportion of the stride spent in con- tact with the ground, provides a complementary temporal descriptor that can help interpret these cadence-related responses. Under level, submaximal running conditions, DF is associated with selected external and modeled internal loads, but current evidence is predominantly mechanistic. Clinical application should therefore begin by determining whether change is warranted, identifying the tissue-specific or functional objective, and selecting whether and how to modify foot-strike pattern or cadence according to condition-specific evidence and the runner’s response. DF may additionally be monitored to characterize accompanying changes in stance–flight organization. Acute biomechanical changes should not be assumed to improve symptoms or performance, or to reduce injury risk. Future studies should test sustained clinical effects, individual response patterns, and transfer to real-world conditions.
+
+Highlights
+
+• Rearfoot striking is not inherently harmful. Rearfoot striking is not consistently associated with greater impact- related loading or overuse injury risk, and external impact measures should not be interpreted as direct indicators of tissue-specific loading.
+
+• Cadence is context-dependent rather than universally optimal. Cross-sectional evidence shows that cadence var- ies substantially with running speed, morphology, footwear, and surface, and no fixed value such as 180 steps/ min represents a universal optimum.
+
+†Aurélien Patoz, Cyrille Gindre, Thibault Lussiana and Bastiaan Breine have contributed equally to this work.
+
+\*Correspondence: Aurélien Patoz aurelien@volodalen.com Full list of author information is available at the end of the article
+
+Open Access
+
+© The Author(s) 2026. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149
+
+2 of 18 • Habitual running form should generally be preserved unless change is warranted. Foot-strike pattern and cadence should not be modified solely to conform to generalized biomechanical targets; modification should be consid- ered when a tissue-specific, symptom-related, functional, or performance rationale exists and should be evalu- ated according to the individual runner’s response.
+
+Keywords Running myth, Gait retraining, Foot-strike pattern, Cadence, Duty factor, Musculoskeletal loading, Overuse injury
+
+Background Running technique is frequently targeted in attempts to improve performance, modify mechanical loading, or manage running-related overuse injuries. Foot-strike modification and cadence manipulation have received substantial attention in biomechanical research and run- ning gait retraining \[1–5\]. Their practical appeal lies in offering observable and quantifiable variables that can be readily manipulated. However, a measurable biomechani- cal response does not establish that the same interven- tion improves performance, symptoms, or injury-related outcomes across runners and task conditions \[2, 6–10\].
+
+A central challenge in translating running biome- chanics into practice is the distinction between differ- ent levels of evidence. For instance, ground-reaction forces and loading rates characterize external ground interaction, whereas tibial accelerations describe the segmental response to impact and are frequently used as indirect loading indicators; however, these measures do not directly quantify tissue-specific musculoskeletal loading and may correlate only weakly with modeled internal forces \[6, 7, 11–14\]. Similarly, an acute change in a biomechanical variable does not by itself demonstrate improved running economy, reduced pain, or a lower risk of future injury \[1, 2, 8, 15\]. External mechanics, internal musculoskeletal loading, performance, symptoms, and injury occurrence represent distinct levels of analysis, and findings at one level cannot be directly extrapolated to another \[2, 6, 7, 9, 11\].
+
+This translational problem is apparent in the historical development of influential recommendations concerning running technique. Foundational biomechanical studies characterized impact transients associated with rearfoot striking \[16–18\]. Early clinical accounts proposed that the accumulation of impact loading could contribute to running-related overuse injury \[19\], while later impact- related frameworks further developed the proposed relationship between repetitive mechanical loading and overuse injury development \[20\]. Retrospective findings subsequently associated rearfoot striking with higher injury rates in a specific population of competitive run- ners \[21\]. In parallel, observations in competitive runners contributed to the recognition of cadence values near
+
+180 steps/min \[22\]. Experimental studies subsequently showed that acute cadence manipulation could modify selected kinematic, kinetic, and muscle-activation vari- ables \[23–27\], as later synthesized in systematic reviews \[2, 28\]. These studies provided important insights into running mechanics. Their subsequent interpretation and translation into gait-retraining recommendations are reflected in later reviews and applied publications con- cerning foot-strike modification and cadence manipula- tion \[1–5, 29\].
+
+Contemporary evidence indicates that the relationships underlying these recommendations are more conditional and context dependent than generalized interpretations imply \[1, 2, 6, 30–32\]. Recent systematic reviews have identified persistent uncertainty regarding whether bio- mechanical changes induced by foot-strike or cadence modification translate into improved performance, sus- tained clinical benefits, or reduced injury risk \[1, 2, 4, 10\]. This uncertainty concerns the generalizability of these interventions and should not be interpreted as evi- dence that foot-strike or cadence modifications are never appropriate for individual runners \[1, 2, 4, 10\].
+
+Foot-strike pattern and cadence vary with running speed, morphology, footwear, and surface \[33–40\], while evidence in adolescent runners further indicates that cadence differs according to physical maturation, even when running speed is accounted for \[41\]. Their associations with running economy, mechanical load- ing, and injury remain heterogeneous across individu- als and study conditions \[1, 2, 6, 30–32, 42\]. Running technique is therefore increasingly understood as an emergent product of interacting individual, task, and environmental constraints \[43, 44\] rather than as a col- lection of independent variables with universally optimal values \[45–48\]. Importantly, what constitutes an “opti- mal” movement solution also depends on the outcome being optimized: predictive simulations have shown that different foot-strike patterns emerge when different mechanical or energetic cost functions are minimized \[49\]. Within this perspective, different coordination pat- terns may represent viable solutions to the same task, and deviation from a group mean does not necessarily indicate technical error or dysfunction \[31, 45, 46, 48,
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 3 of 18 50–52\]. Group-level studies remain essential for iden- tifying average associations and intervention effects. The concern arises when a group mean is interpreted as an optimal target for every runner, because preferred coordination patterns and responses to biomechanical manipulation may differ among individuals and task con- ditions \[34, 50–52\]. In this review, individual differences refer primarily to between-runner differences in coor- dination and to context-dependent responses within a runner. This emphasis is conceptually related to, but dis- tinct from, the optimal movement variability framework, which concerns the amount and temporal structure of fluctuations across repeated movements and their poten- tial relationship with adaptability and pathology \[53\].
+
+Against this background, the present review critically examines three beliefs in running biomechanics. These beliefs were selected a priori because they recur in sys- tematic reviews and the applied gait-retraining literature \[1–5, 29\] and address variables that can be readily manip- ulated in practice.
+
+1\. The heel-strike fallacy—the belief that rearfoot striking is inherently harmful because it produces greater impact loading and overuse injury risk. 2. The universal cadence rule—the belief that near 180 steps/min represents an optimal cadence across run- ners. 3. The cadence prescription—the belief that system- atically increasing cadence while maintaining a given running speed consistently reduces mechanical load- ing and overuse injury risk.
+
+Together, these beliefs represent three distinct manifes- tations of the same translational problem: an observable movement pattern may be assigned an inherently harm- ful status, a descriptive group value may become a nor- mative target, and an acute biomechanical response may be converted into a generalized intervention. Examining these beliefs together provides a coherent basis for distin- guishing descriptive associations from causal inferences, and acute biomechanical responses from evidence of per- formance or clinical benefit \[2, 54–56\].
+
+Evaluation of the third belief requires considering cadence within the broader temporal organization of running. Cadence describes the frequency of successive steps but does not indicate how stride time is distributed between stance and flight. Duty factor (DF)—the propor- tion of the stride spent in contact with the ground—is therefore considered here as a complementary temporal descriptor. Its purpose in this review is primarily to help determine whether mechanical effects commonly attrib- uted to cadence may instead, or additionally, reflect con- current changes in stance–flight organization. Cadence
+
+and DF represent distinct but interacting descriptors of running organization \[48, 57\]. Experimental work has shown that DF can be modulated through stance- or flight-time instructions without clear concomitant changes in cadence during treadmill running at a given speed \[58\], while subsequent field-based work showed that cadence and DF can also be jointly manipulated during overground running, although with greater co- variation in speed and the non-targeted variable \[59\]. Evi- dence from our group further demonstrates that cadence and DF can be independently manipulated across a func- tional range during endurance running \[60\]. Together, these findings support treating cadence and DF as related but distinguishable descriptors of running organization. Several experimental and observational studies con- ducted primarily during level, submaximal running have additionally associated DF with external force profiles and modeled internal musculoskeletal loading \[61–64\]. These findings provide a mechanistic lens through which the cadence prescription can be interpreted, without implying that DF itself has a universally beneficial value or direction of modification.
+
+By tracing the origins of these beliefs and synthesizing the evidence supporting or challenging them, this nar- rative review aims to clarify the limits of universal rec- ommendations. Foot-strike pattern and cadence provide a focused set of examples through which the translation of biomechanical observations into technical recom- mendations can be examined. They are considered here as observable descriptors embedded within a broader coordination system, rather than as isolated determi- nants or an exhaustive representation of running tech- nique. Particular attention is given to distinctions among external mechanical measures, internal musculoskeletal loading, performance outcomes, and running-related overuse injury. The review also considers how individual differences and constraint-dependent coordination may inform the interpretation and application of biomechani- cal evidence, before outlining implications for clinical practice, coaching, and future research.
+
+Methods This study employed a narrative review methodology \[65\] to examine the scientific and applied literature on running biomechanics and its translation into coaching and clinical practice. We reviewed empirical and concep- tual publications addressing three key domains—foot- strike pattern and impact loading, running cadence, and cadence modification during gait retraining—to evaluate the origins, supporting evidence, persistence, and practi- cal implications of three pervasive biomechanical beliefs.
+
+The review was informed initially by recent systematic reviews of running biomechanics, running economy, and
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 4 of 18 running-related overuse injury risk \[32, 66\]. These sources were used to identify key areas of uncertainty, influential studies, and relevant terminology for subsequent searches across scientific databases.
+
+A structured literature search was conducted in Pub- Med, Scopus, and Web of Science for English-language publications available up to June 2026. Search terms were combined using the Boolean operators AND and OR and included “running” together with terms related to the three thematic areas: “foot strike”, “rearfoot strike”, “fore- foot strike”, “impact”, “loading rate”, “cadence”, “step rate”, “stride frequency”, “180 steps per minute”, “gait retraining”, “duty factor”, “contact time”, “internal loading”, “running economy”, and “injury”. Search syntax was adapted to the requirements of each database. Reference lists of relevant systematic reviews and included articles were also screened to identify additional studies.
+
+Peer-reviewed systematic reviews, intervention studies, prospective and retrospective studies, cross-sectional bio- mechanical studies, modeling studies, and relevant con- ceptual articles were considered. Articles were included when they directly addressed foot-strike patterns, cadence, cadence manipulation, DF, mechanical loading, running economy, or running-related overuse injury. Studies unre- lated to running or not directly relevant to the three prede- fined themes were excluded.
+
+Titles and abstracts were screened for relevance to the predefined review questions, followed by full-text assess- ment of potentially eligible publications. The identified literature was then organized into three thematic sections. All authors contributed to study selection and evidence synthesis. To reduce selective citation, study relevance was assessed according to the predefined scope and eligibil- ity criteria rather than whether the findings supported or challenged the beliefs examined. Disagreements regarding study inclusion, interpretation, or the strength of a conclu- sion were resolved through discussion and consensus.
+
+Evidence was interpreted according to study design and outcome type, distinguishing external biomechanical measures, internal musculoskeletal loading, and clinical outcomes. Greater weight was given to systematic reviews, prospective studies, intervention studies, and direct clini- cal outcomes, whereas acute biomechanical and modeling studies were primarily used to support mechanistic inter- pretations. No unpublished data were included.
+
+Discussion—The Three Pervasive Biomechanical Beliefs Belief 1: The Heel-Strike Fallacy Definition and Historical Context The first enduring belief asserts that heel striking is inher- ently detrimental because it generates higher impact forces that directly increase overuse injury risk. This
+
+assumption—often simplified to “heel striking causes injuries”—arose from early laboratory studies showing larger vertical impact peaks in rearfoot than in forefoot strikers \[16, 17, 20, 21\]. Force–time curves with sharp impact transients appeared hazardous, reinforcing the belief that non-rearfoot running was safer. In the 2000s, barefoot and minimalist movements—such as Pose and Chi Running—amplified this narrative \[67–69\]. Further popularized by McDougall \[70\] and influential research on habitually barefoot populations \[17, 71\], these move- ments reinforced the view—across both coaching and consumer contexts—that avoiding heel strike was essential for preventing injury and improving running economy.
+
+Yet this narrative is difficult to reconcile with observed running behavior. Most endurance runners naturally adopt a rearfoot strike, with studies reporting this pattern in at least 55% of elite and 90% of recreational marathon runners \[72–74\]. Consistent with these observations, Van den Berghe, Warlop, Derie, Leman, De Clercq and Breine \[75\] identified a rearfoot strike in 92% of analyzed foot contacts in a cohort of 104 distance runners using high-speed, high-resolution plantar-pressure measure- ments. Its prevalence across runners with different mor- phologies, footwear, and training histories indicates that rearfoot striking represents a common movement solu- tion rather than an inherently maladaptive one. Its spon- taneous and stable adoption over prolonged exposure is consistent with the idea that running gait self-organizes through repeated practice toward solutions that balance energetic cost, mechanical loading, and comfort within individual constraints \[30, 76\].
+
+Empirical Evidence: Rearfoot Striking Is Not Consistently Associated with Greater External Impact‑Related Metrics In this section, impact-related measures refer collectively to distinct external or segmental variables characterizing early stance, including the vertical impact peak, vertical loading rate, and tibial acceleration. Because these meas- ures quantify different mechanical phenomena, the spe- cific variable examined is identified wherever possible.
+
+Contrary to this long-standing assumption, rearfoot striking is not consistently associated with higher exter- nal impact-related metrics, and current evidence does not establish that it increases overuse injury risk \[1, 6, 77\]. Cross-sectional analyses reveal substantial dif- ferences across individuals and foot-strike angles. The observed relationships also vary with running speed, footwear, the methods used to classify foot-strike pat- tern or angle, and the specific impact-related metric examined \[35–38, 72–74, 76, 78–82\]. For vertical loading rate, a curvilinear association with foot-strike angle has been reported \[38, 78–81\]. Across independent datasets,
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 5 of 18 mild rearfoot strikers (approximately 5–10°) displayed higher vertical loading rates, whereas lower values have been observed in some pronounced rearfoot and fore- foot strikers \[38, 78–81\]. Although these independent analyses broadly converge on a curvilinear association, differences in foot-strike descriptors, loading-rate defini- tions, running conditions, and fitted models limit direct quantitative comparison of the reported curves. This pat- tern is also illustrated by a case study of an exceptionally high-mileage runner who displayed a pronounced rear- foot strike angle (29°) together with a peak vertical load- ing rate 57% lower than that of matched rearfoot-striking controls \[83\]. In an additional analysis of 52 distance run- ners, the same study reported a quadratic relationship between foot-strike angle and peak vertical loading rate across multiple running speeds, with lower loading rates toward both ends of the foot-strike-angle continuum \[83\]. The curvilinear pattern should not be generalized to other impact-related metrics; for example, peak three- dimensional segmental accelerations across foot-strike patterns have shown different relationships \[82\].
+
+These findings indicate that relatively low vertical load- ing rates can occur across different foot-strike patterns and angles rather than being exclusive to a particular strike category. However, foot-strike classification is continuous and method-dependent, and the supporting evidence remains predominantly cross-sectional \[38, 78– 81\]. These observations therefore do not establish dis- crete protective strategies, causal effects, or differences in overuse injury risk.
+
+A recent review concluded that vertical loading rate alone is insufficient to establish causal mechanisms for running-related injury \[6\]. Furthermore, the relation- ship between foot-strike pattern and overuse injury risk remains undetermined, as the available evidence is largely derived from retrospective analyses rather than prospec- tive studies \[1, 77\]. Cross-sectional associations between foot-strike pattern and external loading should therefore not be interpreted as evidence of differences in internal tissue loading \[7, 11\] or future overuse injury risk \[9\].
+
+Overall, the available evidence does not support infer- ring overuse injury risk from the point of ground con- tact alone. Rather than being determined by foot-strike pattern, overuse injury risk emerges from interactions among external mechanics, neuromuscular control, tis- sue adaptation, training exposure, and task conditions \[30, 84–88\].
+
+Conceptual Clarification: External Impact Differs from Internal Load The persistence of the heel-strike belief also stems from conflating external ground-reaction forces with inter- nal tissue loading, which includes the forces and stresses
+
+experienced by musculoskeletal structures and depends in part on muscle forces. These internal contributions have historically received less attention than kinematic and ground-reaction-force analyses \[6\]. Modeling and experimental work have shown that impact transmission is modulated by neuromuscular control, joint kinematics, and soft-tissue damping \[89, 90\]. Gruber, Boyer, Derrick and Hamill \[91\] demonstrated that although forefoot and rearfoot runners display distinct impact-shock profiles, the attenuation of these vibrations through the kinetic chain is comparable, showing that distinct external impact profiles do not necessarily result in proportionally different vibration transmission through the body.
+
+Prospective studies and systematic reviews do not gen- erally support isolated external biomechanical measures as robust predictors of running-related overuse injury occurrence \[9, 92\]. Experimental and modeling stud- ies further indicate that commonly used external and segmental impact-related measures, including ground- reaction-force metrics and tibial acceleration, may poorly represent internal tissue loading \[7, 11, 13, 14\]. This dis- sociation arises because internal loading also depends substantially on muscle forces, joint geometry, tissue properties, and the distribution of forces across the kinetic chain.
+
+Recent musculoskeletal modeling in habitual rear- foot strikers showed that imposing a non-habitual fore- foot strike increased distal tibial loading compared with both habitual and imposed rearfoot-strike conditions \[93\]. This finding illustrates that adopting a non-habitual forefoot strike does not necessarily reduce internal bone loading, even when the external impact profile is altered. An intervention study further shows that substantial reductions in tibial acceleration may occur without cor- responding reductions in peak vertical ground-reaction force or peak joint moments \[94\]. This dissociation illus- trates that impact-related metrics are not interchange- able with measures of internal tissue loading and that reducing a single feedback target should not be assumed to produce parallel changes in other mechanical variables or clinical outcomes.
+
+Separate musculoskeletal and finite-element modeling studies further indicate that internal bone loading is sen- sitive to both task conditions and the temporal organi- zation of running. Tibial strain increased with running speed but not with running grade \[95\]. In a subsequent study conducted at a fixed speed of 2.2 m/s, guided reductions in flight time were associated with lower peak tibial and fibular strains and a smaller volume of highly strained bone \[96\]. Together, these findings rein- force that internal bone loading depends on the interac- tion between running speed, stance–flight organization, and the broader coordination strategy, and cannot be
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 6 of 18 inferred from any single external biomechanical descrip- tor, including foot-strike pattern.
+
+These different levels of evidence should not be treated as equivalent: loading-rate and acceleration studies describe external or segmental impact-related indicators; modeling studies estimate structure-specific internal loading; and prospective studies or clinical trials report- ing injury outcomes are needed to evaluate associations with, or effects on, running-related overuse injury occur- rence \[6, 7, 9, 11\].
+
+Theoretical Perspective: Impact as Adaptive Regulation The preceding evidence indicates that impact-related measures should not be interpreted solely as indica- tors of mechanical harm. Nigg’s adaptive frameworks instead conceptualize running impact as one component of a dynamic control system. In their seminal work, Nigg and Wakeling \[97\] introduced the muscle-tuning para- digm, proposing that specific features of the impact sig- nal—particularly its timing and frequency content—may contribute, through prior exposure and feedforward reg- ulation, to anticipatory muscle activation that dampens soft-tissue vibrations and stabilizes limb motion before ground contact. This mechanism should not be inter- preted as an immediate neuromuscular response trig- gered by the same impact event.
+
+Extending this adaptive perspective, subsequent work advanced the concepts of a preferred movement path and a comfort filter \[98\], suggesting that runners self-select coordination patterns that regulate joint kinematics and muscle activity in response to the combined mechanical demands of ground-reaction forces, including impact- related loading. Within this framework, impact forces are interpreted in relation to neuromuscular control, perceived comfort, and energetic cost, which together contribute to the emergence of stable and repeatable movement solutions within individual constraints \[6, 45, 46\]. Variability in impact mechanics may therefore reflect functional adaptability within individual constraints rather than a pathological deviation from an idealized pattern.
+
+Collectively, these perspectives position impact-related mechanical information as one component of anticipa- tory regulation and self-organization across repeated steps, rather than as a direct or isolated cause of injury.
+
+Integrative Perspective The heel-strike belief illustrates how visually persuasive yet reductionist interpretations of biomechanical data can evolve into dogma. Foot-strike patterns can repre- sent different adaptive movement strategies, each redis- tributing mechanical stress differently along the kinetic chain. This interpretation is consistent with predictive
+
+simulations showing that the foot-strike pattern iden- tified as “optimal” depends on the cost function being minimized \[49\]. Across 44 tested cost functions, rearfoot striking emerged most frequently and was optimal for several objectives related to whole-body energy expendi- ture and peak joint contact forces, whereas non-rearfoot patterns were favored for other objectives, including more evenly distributed muscle loading and lower aver- age joint contact forces \[49\]. Thus, no single foot-strike pattern can be considered optimal independently of the functional objective being considered. Recogniz- ing pronounced rearfoot striking as a potentially viable movement solution should not be interpreted as rec- ommending that clinicians deliberately accentuate heel striking. Its clinical relevance remains dependent on the runner’s symptoms, tissue-specific loading requirements, functional response, and task demands.
+
+This broader interaction is also illustrated by recent within-subject evidence showing that the biomechani- cal factors associated with changes in running economy differ among runners and footwear conditions \[88\]. Although this evidence is not specific to foot-strike mod- ification, it supports the principle that the implications of a biomechanical characteristic emerge from interactions among the runner, the task, and the equipment rather than from a single technical variable \[43, 44\].
+
+Rather than prescribing a universally correct tech- nique, clinicians and coaches should emphasize gradual load adaptation and individualized feedback. Targeted foot-strike modification may nevertheless be appropriate when supported by a plausible tissue-specific rationale and by the runner’s symptoms or functional response. Its benefit should be evaluated through changes in symp- toms, tolerance, and function and, when feasible, relevant tissue-specific loading outcomes, rather than inferred from external impact metrics alone \[6, 45, 46, 99\].
+
+Belief 2: The Universal Cadence Rule Definition and Historical Context The second enduring belief asserts that there exists an ideal cadence of 180 steps/min, universally associated with optimal efficiency and reduced injury risk. This notion originated from observations of competitive dis- tance runners \[22\], in whom an average cadence near 180 steps/min was reported. Over time, this descriptive value became a practical reference point and was incor- porated into some gait-retraining approaches \[100\]. The development of wearable devices capable of providing real-time cadence feedback has further facilitated the monitoring and use of such numerical targets during running \[101, 102\]. However, treating 180 steps/min as a broadly applicable ideal may insufficiently account for the substantial inter-individual and contextual variability
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 7 of 18 that characterizes human running, including differ- ences related to speed, morphology, footwear, and task demands.
+
+Empirical Evidence: Cadence is Broadly Variable and Speed‑Dependent Extensive empirical evidence demonstrates that cadence varies widely among endurance runners, typically rang- ing from 150 to 210 steps/min \[33, 34, 39, 103–105\]. Laboratory studies consistently show a U-shaped rela- tionship between cadence and metabolic cost, with each runner exhibiting a distinct preferred cadence that minimizes oxygen consumption \[31, 106, 107\]. Deviating substantially from this preferred cadence—either slower or faster—tends to increase energetic demand and per- ceived exertion.
+
+Cadence generally increases with running speed, as illustrated descriptively in Fig. 1. However, running speed results from the combination of cadence and step length, such that a given speed can be achieved through different combinations of these two variables. These combinations vary among runners \[34\], and the relative contributions of cadence and step length also change across the run- ning-speed spectrum \[108, 109\]. At lower and moderate
+
+running speeds, increases in speed can be achieved pre- dominantly through increases in step length, whereas at higher running speeds further increases depend increas- ingly on cadence \[110\]. Accordingly, the cadence–speed relationship should not be interpreted as universally lin- ear, particularly across a broad range of running speeds. Figure 1 therefore compiles mean cadence values previ- ously reported across multiple published studies involv- ing recreational, experienced, and elite runners \[33, 34, 38–40, 51, 57, 105–108, 110–132\] to provide a descrip- tive visualization of cadence across running speeds and populations.
+
+Cadence also varies with morphology, maturation, and environment. Longer legs or higher body mass have been associated with lower cadence in adult runners \[34, 39\], while adolescent runners at different stages of physical maturation exhibit differences in self-selected cadence even after accounting for running speed \[41\]. Pre-puber- tal runners, for example, displayed higher cadences than mid- and post-pubertal runners, further illustrating that a single cadence target cannot be generalized across devel- opmental stages. Footwear and surface properties also modify cadence dynamically \[35–37, 40\]. Barefoot run- ning typically increases cadence by approximately 4–6%
+
+Recreational/Novice Experienced Elite
+
+200
+
+) nim/spets(ecnedaC180
+
+160
+
+8 12 16 20
+
+Running speed (km/h) Fig. 1 Cadence (steps/min) as a function of running speed (km/h) in recreational or novice (black circles), experienced (blue squares), and elite (red triangles) runners. The figure compiles group-level mean values reported in previously published studies \[33, 34, 38–40, 51, 57, 105–108, 110–132\] to provide a descriptive visualization of cadence across running speeds and runner populations. Each point represents a value extracted from an individual study or experimental condition. Running speed reflects the combination of cadence and step length; therefore, the figure is not intended to imply a linear or predictive relationship between cadence and running speed. No participant-level data were pooled
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 8 of 18 compared with shod running, driven by shorter strides, greater leg stiffness, and a more anterior foot-strike pattern \[35, 36\]. Minimalist footwear induces similar effects through heightened forefoot loading and reduced ground-contact times \[37\]. On compliant surfaces such as grass or sand, runners often increase cadence by 5–10% to maintain stability and effective force trans- mission despite lower surface stiffness \[40\]. Collectively, these findings confirm that cadence is not a fixed perfor- mance constant but a dynamic outcome of speed, indi- vidual characteristics, maturation, and environment.
+
+Conceptual Clarification: The Limits of Prescriptive Cadence The persistence of the 180 steps/min rule stems from its cognitive simplicity—it provides an easily quantifiable cue that appears grounded in biomechanics. However, this reductionism ignores the multifactorial nature of running economy, which depends on the interplay among stride length, limb stiffness, muscle–tendon elasticity, and neuromuscular coordination \[31, 32, 133\]. Cadence manipulations can acutely alter ground-reaction forces and joint kinetics, but such effects vary across individuals \[23–26, 28\]. A comprehensive meta-analysis confirmed that cadence adjustments can modify specific mechanical variables but found no consistent evidence linking these acute changes to improved performance or reduced over- use injury risk \[2\].
+
+Theoretical Perspective: Cadence as a Constraint‑Governed Outcome Cadence should not be regarded as an independent driver of performance or injury risk but as a constraint- governed outcome of the broader locomotor system. Within the frameworks of the preferred movement path and comfort filter \[45, 46, 98\], runners tend to settle into cadence ranges that balance perceived effort, neuro- muscular coordination, and task demands. Importantly, experimental work indicates that small, context-specific increases in cadence relative to an individual’s habitual pattern can reduce metabolic cost or redistribute tissue- level loading in some runners, consistent with the pres- ence of a shallow optimum rather than a single fixed solution \[32, 134\]. From this perspective, modest cadence adjustments may be beneficial when applied judiciously, whereas externally imposed or uniform cadence pre- scriptions risk disrupting individual self-organization \[31, 106, 107\] and increasing energetic or mechanical costs.
+
+Rather than seeking a universal ideal cadence, practi- tioners should recognize cadence as one adjustable mani- festation of an integrated control strategy that evolves dynamically with speed, morphology, surface, and foot- wear. This systems-based perspective reframes cadence not as a target to be achieved, but as a product of adaptive
+
+coordination, shaped by the interaction of mechanical, sensory, and perceptual constraints.
+
+Integrative Perspective The endurance of the cadence rule reveals more about human cognition than biomechanics. By transform- ing a descriptive mean into a normative target, it offers the illusion of precision and control in a domain char- acterized by complexity and individual differences. This simplification persists because it satisfies scientific and coaching desires for simple, quantifiable guidance. Yet, as illustrated in Fig. 1, cadence generally increases with run- ning speed and interacts with morphology and environ- ment, leaving no empirical basis for a fixed optimal value. Treating cadence as a universal benchmark promotes conformity at the expense of functional adaptability.
+
+Within an evidence-informed perspective, cadence should be viewed not as a fixed prescription but as a situated variable emerging from the interaction between runner, task, and environment \[43, 44\]. Adjustments to cadence can be valuable tools for managing specific mechanical or clinical issues, but optimization arises through individualized adaptation—not through numeri- cal conformity. Recognizing cadence as a manifestation of self-organization under constraint allows practitioners to move beyond reductionist dogma toward a nuanced, context-sensitive understanding of running efficiency.
+
+Belief 3: The Cadence Prescription Definition and Historical Context The belief that increasing cadence—typically by 5–10% while maintaining running speed—reduces mechani- cal loading and injury risk underpins many gait retrain- ing protocols \[3, 135\]. It originated from early laboratory studies showing that acutely increasing cadence at a fixed speed could reduce selected internal loading measures (e.g., patellofemoral joint force), external loading metrics (e.g., peak vertical force, braking impulse, loading rate), and muscle-activation patterns \[23–26, 28, 136–138\]. These short-term mechanical changes encouraged the adoption of cadence increases as generalized corrective strategies. These effects were readily observable, easy to cue, and appeared biomechanically intuitive, facilitating their translation into applied practice. However, subse- quent syntheses integrating biomechanical and clinical perspectives have demonstrated that these effects are predominantly short-term, with limited evidence for sus- tained biomechanical adaptation or injury risk reduction \[2, 4, 5\]. This historical context motivates closer examina- tion of the mechanisms underlying cadence-related load- ing changes.
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 9 of 18 Empirical Evidence: Contextualizing Cadence‑Related Load Changes Through Stance–Flight Organization Across studies, cadence manipulations can acutely alter internal and external loading, although the magnitude and direction of these responses vary between run- ners and may involve compensations elsewhere in the kinetic chain \[24, 26, 28\]. Importantly, cadence does not characterize how each stride is temporally distrib- uted between stance and flight. Consequently, some mechanical responses observed during cadence manip- ulation may also reflect concurrent changes in stance– flight organization. DF provides a temporal descriptor through which this possibility can be examined. Under level, slow-to-submaximal running conditions, several studies have reported stronger associations between DF and selected vertical loading measures than between cadence and these same outcomes \[57, 61–64, 139\]. These findings do not establish DF as an alternative universal determinant or intervention target; rather, they indicate that stance–flight organization should be considered when interpreting mechanical responses attributed to cadence.
+
+Much of the cadence-focused literature has not quan- tified DF, leaving uncertainty as to whether reported reductions in internal and vertical loading result from cadence itself, from concurrent changes in stance– flight organization, or from both \[111, 138, 140–146\]. Among studies that measured DF, increases in cadence were systematically accompanied by higher DFs \[23, 25, 110, 114, 147, 148\]. This co-variation suggests that some loading and muscle-activation changes associ- ated with cadence manipulation may be partly medi- ated by concurrent changes in temporal organization. However, cadence and DF are not obligatorily coupled. Nijs, Roerdink and Beek \[58\] demonstrated that verbal instructions targeting stance or flight time can mod- ify DF without clear concomitant changes in cadence during treadmill running at a given speed. Their sub- sequent field-based study showed that cadence and DF can also be manipulated during overground run- ning, although changes in speed and the non-targeted temporal variable may occur when either variable is manipulated in isolation \[59\]. Evidence from our group further demonstrates that cadence can be manipulated across a functional range without systematic changes in DF \[60\]. Together, these findings indicate that cadence and DF are related but distinguishable tempo- ral descriptors whose coupling depends on the task and mode of manipulation. DF should therefore be consid- ered as a complementary descriptor when interpreting cadence-related mechanical responses, rather than as a predetermined target for modification.
+
+Conceptual Clarification: External Versus Internal Load, and Redistribution The relevance of stance–flight organization becomes par- ticularly important when moving from external mechani- cal measures to internal tissue loading. Running-related overuse injuries may develop when cumulative internal tissue loading exceeds the tissue’s current capacity to tol- erate, recover from, and adapt to repeated loading \[149, 150\]. Despite this, external kinetic measures such as peak vertical ground reaction force and vertical average load- ing rate are often used as surrogates for internal stress, even though their associations with muscle, tendon, and joint loading are inconsistent and generally weak \[7, 8, 11, 141, 150, 151\].
+
+Within this context, DF can help characterize how force is distributed over stance relative to the complete stride. Experimental and modeling studies indicate that manipulation or variation of DF can influence both external and internal loading \[63, 64\]. Recent experimen- tal work independently manipulating DF and cadence showed that increasing DF reduced peak joint reaction forces and extensor moments across the ankle, knee, and hip, with the exception of hip flexor moments, which increased \[63\]. Cadence produced weaker and more variable effects on internal loading \[63\]. Higher DF has also been associated with reduced peak joint reaction forces, muscle–tendon loading, and internal bone and joint stresses across multiple lower-limb structures \[63, 64\]. These findings provide mechanistic evidence that temporal stance–flight organization contributes to mus- culoskeletal load distribution under the level, submaxi- mal running conditions studied. Consistent with these findings, the aforementioned high-mileage runner dis- played a higher DF than matched controls (41% vs. 34%), together with lower external loading-related measures \[83\]. Although observational, this case further illustrates the potential contribution of stance–flight organization to external loading.
+
+Importantly, these results should not be interpreted as evidence that increasing DF is generally desirable. The observed effects are structure-specific and are derived predominantly from acute biomechanical and modeling studies. Clinical evidence does not support a uniformly beneficial direction of stance-time or DF modification. During rehabilitation for exercise-related lower leg pain, improved patient-reported outcomes have been associ- ated with reduced DF \[152\]. In a separate case–control study, runners with exercise-related lower leg pain dis- played longer absolute contact times than healthy run- ners after adjustment for running pace \[153\]. However, DF was not reported in that study, and step rate and flight ratio did not differ between groups. Conversely, shorter stance time has been identified as a potential risk factor
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 10 of 18 for bone stress injury in collegiate runners \[154\]. Con- tact time and DF are related but non-equivalent vari- ables \[129\], and these observational or multicomponent rehabilitation findings do not establish an independent causal effect. Collectively, they reinforce that temporal modifications redistribute loading rather than uniformly reducing it, and that their clinical relevance depends on the tissue, condition, runner, and task.
+
+Theoretical Perspective: Spatiotemporal Control and Constraint‑Driven Adaptation Running coordination arises from the interaction of mechanical, neuromuscular, and environmental con- straints. Within this system, cadence and the tempo- ral distribution of stance and flight emerge together as features of the runner’s coordination strategy \[45, 47\]. Cadence and DF can therefore provide complementary information about running organization without imply- ing that either constitutes an isolated mechanical control lever \[48\].
+
+Within the level, slow-to-submaximal running condi- tions studied, increases in relative stance duration and/or reductions in flight time can reduce selected vertical and modeled internal loading measures by distributing the ground-reaction impulse differently over time \[57, 61– 64\]. DF provides a convenient means of describing these changes. Whether these relationships extend to steep uphill or downhill running, high-velocity elite training, or sprinting remains uncertain.
+
+These adaptations reflect the capacity of the locomotor system to reorganize coordination in response to ener- getic, mechanical, sensory, and perceptual constraints \[30, 32\]. This interpretation aligns with the preferred movement path and comfort filter paradigms \[45, 46, 98\], which propose that runners tend to select patterns that minimize effort within their individual constraints. Accordingly, gait retraining should not assume that either cadence or DF needs to move in a predetermined direc- tion. Instead, manipulation of task constraints may be used to explore alternative coordination solutions when a specific mechanical, symptomatic, functional, or perfor- mance objective justifies doing so.
+
+Integrative Perspective The cadence prescription belief illustrates how an acute biomechanical response can be translated into a gen- eralized intervention despite uncertainty regarding the mechanism responsible for that response and its longer- term clinical relevance. Increasing cadence can modify selected mechanical variables, but cadence changes may occur alongside changes in stance–flight organization, making it difficult to attribute all observed effects to
+
+cadence alone when temporal variables are not concur- rently quantified.
+
+DF is useful in this context because it provides com- plementary information about the temporal organization of the stride. It should therefore be viewed primarily as an interpretive descriptor that can help clarify cadence- related mechanical responses. In selected circumstances, DF may also be explored as an intervention variable when altering stance–flight organization has a plausible tissue-specific or functional rationale. However, cur- rent evidence does not yet support DF as an established stand-alone gait-retraining strategy or a universally pref- erable target \[5\].
+
+Accordingly, the evidence reviewed here does not sup- port replacing a universal cadence prescription with a universal DF prescription. Instead, cadence manipulation should be considered according to the runner’s clinical or performance objective, while concurrent changes in stance–flight organization can be monitored when they help interpret the mechanical response. The success of any intervention should ultimately be evaluated through symptoms, tolerance, function, performance, and, where appropriate, tissue-specific loading rather than through achievement of a predetermined cadence or DF.
+
+Conclusions—Practical Implications and Future Directions From Prescriptions to Principles Across the three beliefs examined, the available evidence does not support a universal foot-strike pattern, a univer- sal cadence value, or a universally beneficial direction of cadence modification.
+
+Foot-strike pattern and cadence represent context- dependent features of running coordination, while DF can provide complementary information about the tem- poral distribution of stance and flight, particularly when interpreting mechanical responses to cadence modifica- tion. None of these measures should be interpreted in isolation from individual structure, motor control, task demands, symptoms, and training background. Their interpretation should therefore remain specific to the runner and context rather than be generalized to all dimensions of running technique \[31, 46–48, 155, 156\].
+
+Individualized Assessment and Decision-Making Before modifying running mechanics, practitioners must determine whether change is warranted \[157\]. Effective assessment distinguishes natural variability from poten- tially maladaptive loading using three diagnostic filters:
+
+Symptom relevance—is there a plausible mechani- cal contribution to pain or dysfunction?
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149
+
+11 of 18 Load tolerance—are tissues operating near or beyond their adaptive capacity? Adaptation potential—does the runner possess the physical and perceptual capacity required for motor change?
+
+Assessment should integrate quantitative measures relevant to the clinical or performance question with qualitative observations such as comfort, effort, and movement fluency. Cadence, force profiles, loading rate, and, when relevant, DF can provide complementary information about running organization, but none should be interpreted independently as an indicator of technique quality. Mapping runners along the cadence–DF spec- trum \[48\] or the terrestrial–aerial continuum \[122, 157\] can provide a broader functional representation of the running pattern without imposing normative targets.
+
+Evidence-Informed Principles for Technique Modification The recommendations below are supported by differ- ent levels of evidence. Direct clinical evidence is avail- able for selected gait-retraining interventions, including cadence-based approaches in runners with patellofemo- ral pain \[15, 125, 158\], as well as for individualized wear- able-based gait modification \[159\]. Evidence concerning foot-strike modification and DF is predominantly mecha- nistic, observational, or modeling-based and therefore supports tissue-specific hypotheses rather than broadly established clinical prescriptions \[1, 30, 57, 61–64, 77, 93\]. Condition-specific clinical and observational find- ings remain limited and do not support a universally beneficial direction of stance-time or DF modification \[152–154\]. Principles concerning constraint manipula- tion, comfort, and feedback withdrawal are additionally informed by motor-learning and theoretical frameworks and require further direct clinical evaluation \[43–47, 98, 160, 161\].
+
+• Determine whether modification is warranted. Preserve habitual running mechanics when no symptom-related, functional, or performance-related rationale for change is present.
+
+• Define the tissue-specific or functional objective. Identify the symptomatic structure, task limitation, and intended load redistribution before selecting a biomechanical variable.
+
+• Select the variable according to the available evi- dence. Cadence may be tested when supported by condition-specific clinical evidence, whereas foot- strike modification should be considered only when a plausible tissue-specific rationale is present. When cadence or other spatiotemporal variables are modi- fied, DF may additionally be monitored to deter-
+
+mine whether changes in stance–flight organization accompany the intervention. In selected cases, DF itself may be explored when modifying stance–flight organization has a specific mechanistic ration- ale, although evidence supporting this application remains predominantly biomechanical. The direc- tion and magnitude of any modification should be individualized. Current evidence does not support prescribing universal targets or giving cadence, foot- strike pattern, or DF automatic precedence.
+
+• Respect progressive adaptation. Structural and neuromuscular remodeling require time; abrupt changes may merely redistribute stress \[84, 86\].
+
+• Use feedback strategically. Targeted feedback can facilitate short-term modification of cadence or other spatiotemporal characteristics \[60, 161\], but should subsequently be reduced when the aim is to establish intrinsic control of the adapted movement solution.
+
+• Integrate comfort and perception. Perceived com- fort may help assess whether a modification is com- patible with the runner’s preferred movement path and current tolerance \[46, 98\]. Persistent discomfort may indicate that the intervention is poorly tolerated or produces an unfavorable reorganization.
+
+• Embed technique within holistic load manage- ment. Mechanical change interacts with training volume, footwear, surface, and recovery. Coordinated load management remains the primary safeguard against injury \[4\].
+
+Translational Guidance for Clinicians, Coaches, Researchers, and Industry and Research and Development Clinicians This paradigm reframes gait retraining from a corrective to an adaptive process \[157\]. The aim is sustainable, tis- sue-appropriate load distribution and motor adaptability, supported by environmental or task constraints rather than rigid form rules. Success should be judged by symp- toms, tolerance, function, and task-specific performance rather than by the achievement of a predetermined value \[162\].
+
+A practical decision pathway begins by determining whether modification is required. In an asymptomatic runner without a relevant functional or performance limitation, habitual running mechanics should gener- ally be preserved. When modification is indicated, the symptomatic tissue and intended mechanical or func- tional objective should first be identified. Cadence may be tested when supported by condition-specific clinical evidence, particularly in runners with patellofemoral pain \[15, 125, 158\]. Foot-strike pattern may be explored when the habitual pattern plausibly contributes to loading of
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 12 of 18 the symptomatic structure and when a gradual trial pro- duces a favorable symptomatic and functional response \[1, 30, 77, 84, 87, 88, 93\]. When these or other spatiotem- poral modifications are implemented, DF can addition- ally be monitored to characterize accompanying changes in stance–flight organization. Direct manipulation of DF may be considered in selected situations where such temporal reorganization has a plausible tissue-specific rationale, but current clinical evidence is insufficient to recommend a predetermined direction of change \[57, 61–64, 152–154\]. In all cases, the intervention should be retained only if it improves symptoms, tolerance, func- tion, or task-specific performance without producing adverse effects elsewhere.
+
+Coaches Coaching practice should emphasize flexibility and expe- riential learning. Technique should evolve through itera- tive exploration, using individualized cues and feedback grounded in perceptual experience \[160\]. Training diver- sity—varying surfaces, footwear, and speeds—broadens the runner’s movement repertoire and supports robust, adaptable coordination.
+
+Researchers Research should first determine whether gait-retraining interventions targeting foot-strike pattern or cadence produce sustained improvements in symptoms, function, overuse injury occurrence, or performance beyond usual care and training-load management. Comparative lon- gitudinal studies should identify which runners respond to each intervention and whether the appropriate vari- able, direction, and magnitude of modification depend on the symptomatic tissue, baseline coordination, run- ning speed, gradient, footwear, fatigue, or performance level. Studies examining cadence-based interventions should additionally quantify changes in stance–flight organization, including DF where appropriate, to deter- mine whether these changes contribute to the observed mechanical or clinical response. Direct manipulation of DF should also be investigated experimentally to estab- lish whether it provides clinically meaningful benefits in specific populations or conditions. Individualized or con- straint-based interventions should also be compared with fixed prescriptions and usual-care approaches.
+
+To clarify the translation from biomechanical modifica- tion to clinical benefit, studies should measure both the prescribed and achieved changes in running mechanics, alongside external loading, estimated or directly assessed internal tissue loading, symptoms, function, training exposure, adherence, adverse effects, and retention after feedback withdrawal. When cadence is manipulated, studies should report concurrent changes in contact time,
+
+flight time, and DF, allowing cadence-specific effects to be distinguished from broader changes in temporal organization. Both group-level effects and individual response patterns should be reported. Population esti- mates can identify average tendencies, whereas repeated- measures and n-of-1 approaches can determine whether a response is consistent and clinically meaningful within a given runner. Prospective, individualized designs are therefore needed to identify who benefits from a given intervention and under which conditions \[163\]. Studies specifically examining stride-to-stride variability should additionally consider its temporal structure rather than variability magnitude alone \[53\].
+
+Research should also determine whether weighted combinations of spatiotemporal and kinematic variables provide reliable and interpretable representations of run- ning technique beyond isolated parameters \[164, 165\]. Such composite measures should be validated across speeds, gradients, surfaces, footwear conditions, runner populations, and clinical or performance outcomes, and compared with broader coordination representations such as the cadence–DF spectrum and terrestrial–aerial continuum \[48, 122, 157\].
+
+Industry and Research and Development Technology development should move beyond providing isolated biomechanical metrics toward systems that sup- port context-specific interpretation and individualized decision-making. Current wearable devices can estimate spatiotemporal variables and selected external or inter- nal loading outcomes outside the laboratory, particularly when sensor data are combined with machine-learning or biomechanical modeling approaches \[11, 166–168\]. However, improving measurement accuracy alone may be insufficient if the resulting variables are interpreted as universal indicators of running quality or injury risk.
+
+Future systems may benefit from multimodal sensing that combines temporal, kinetic, kinematic, physiologi- cal, and contextual information to better characterize the interaction between the runner, task, and environ- ment. For example, simultaneously monitoring cadence, contact and flight characteristics, running speed, gradi- ent, and relevant loading estimates could help distinguish whether an observed mechanical response arises from the targeted variable or from broader changes in running organization. Modeling and data-driven approaches may further assist in identifying multidimensional running patterns that cannot be captured by isolated variables \[169, 170\].
+
+Technology may also support hybrid models in which automated real-time feedback is combined with periodic interpretation by clinicians or coaches. Wearable-based individualized feedback has already shown potential
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 13 of 18 to modify running behavior and reduce injury rate and severity without compromising performance \[159\], but future platforms should prioritize interpretable feedback, progressive withdrawal of external guidance, and integra- tion with symptoms, training exposure, and functional outcomes rather than continuously enforcing predeter- mined biomechanical targets. Industry and R\&D efforts should therefore focus not only on sensing accuracy, but also on validating which combinations of variables mean- ingfully inform clinical and performance decisions across different runners and running conditions.
+
+Toward a Pluralistic Paradigm The evidence reviewed here supports interpreting foot- strike pattern and cadence as context-dependent features of running coordination rather than as universally cor- rect or incorrect techniques. Temporal descriptors such as DF can provide additional information about how these movement solutions are organized and may help explain some of their mechanical consequences.
+
+A further consideration is the aesthetic perception of running form. Movement patterns that depart markedly from conventional or visually preferred running styles may be perceived as inefficient or “poor” technique even when they represent viable solutions for a given run- ner and task. For example, a pronounced increase in DF may reduce or eliminate flight time and, at sufficiently high values, result in grounded running characterized by alternating single and double support without an aerial phase \[171\]. Such a pattern may reduce selected exter- nal and internal loading measures \[172\] while appearing less conventionally “athletic” or aesthetically desirable. Importantly, the absence of a flight phase does not neces- sarily imply a transition to walking, as grounded running retains mechanical characteristics of running despite continuous ground contact \[171\]. Aesthetic judgments should therefore be distinguished from evidence of dysfunction, excessive tissue loading, impaired perfor- mance, or adverse clinical outcomes. Within a pluralistic framework, the visual appearance of a running pattern may be relevant to the runner’s preferences or goals, but should not in itself determine whether modification is warranted.
+
+Early insights noted that running form emerges from interactions among foot placement, arm swing, pos- ture, and stride dynamics \[173\]. Contemporary evidence shows that runners self-optimize within their constraints, achieving similar energetic efficiency through diverse styles \[31, 45, 50–52, 156, 174\]. In this context, functional adaptability reflects the system’s capacity to redistrib- ute mechanical load, regulate sensory input, and adjust to changing task demands without overloading specific tissues. Rather than representing technical error, this
+
+adaptability may enhance robustness by allowing con- tinuous adjustment within biological tolerance limits \[30, 46\]. The future of gait retraining therefore lies in cultivat- ing adaptive coordination through targeted constraints, progressive feedback, and contextual practice.
+
+For the beliefs examined here, progress requires replac- ing universal prescriptions with context-specific assess- ment. Clinicians should determine whether technique modification is warranted rather than assume that change is necessary, coaches should guide exploration rather than enforce fixed values, researchers should eval- uate clinical and performance outcomes rather than infer benefit from acute biomechanical changes alone, and industry and R\&D should develop technologies that sup- port individualized interpretation rather than reinforce universal biomechanical targets. Cadence, foot-strike pattern, and complementary descriptors of temporal organization such as DF can then be interpreted accord- ing to the individual runner, task, and intended outcome.
+
+Abbreviation DF Duty factor
+
+Acknowledgements Not applicable.
+
+Author Contributions AP, CG, TL, and BB contributed to the conceptualization and design of the review. AP, CG, TL, and BB conducted the literature review and contributed to the interpretation and synthesis of the evidence. AP prepared the original draft of the manuscript. CG, TL, and BB critically reviewed and revised the manuscript. All authors read and approved the final version of the manuscript and agree to be accountable for all aspects of the work.
+
+Funding This research received no external funding.
+
+Data Availability Not applicable.
+
+Declarations
+
+Ethics Approval and Consent to Participate Not applicable.
+
+Consent for Publication Not applicable.
+
+Competing Interests All authors are affiliated with Volodalen, a private organization that provides clinical, testing, coaching, and educational services related to running bio- mechanics, movement analysis, and individualized training based on motor preferences. Some of the concepts discussed in this review are also addressed within these professional activities. However, the manuscript was developed independently of any specific commercial service, product, or educational program, and no external organization influenced its content, interpreta- tion, or conclusions. Aside from these disclosed professional affiliations, the authors report no additional financial or non-financial interests that could be perceived as influencing the work.
+
+Author details 1 Research and Development Department, Volodalen SwissSportLab, 1023 Crissier, Switzerland. 2 Institute of Sport Sciences, University of Lausanne, 1015 Lausanne, Switzerland. 3 Research and Development Department,
+
+Page 14 of 18 Patoz et al. Sports Medicine - Open (2026) 12:149
+
+Volodalen, 39270 Chavéria, France. 4 Université Marie et Louis Pasteur, SINER- GIES, 25000 Besançon, France. 5 Plateforme Exercice Performance Santé Inno- vation, Université Marie et Louis Pasteur, 25000 Besançon, France. 6 Depart- ment of Movement and Sports Sciences, Ghent University, 9000 Ghent, Belgium.
+
+Received: 1 April 2026 Accepted: 27 September 2026
+
+References
+
+1\. Anderson LM, Bonanno DR, Hart HF, et al. What are the benefits and risks associated with changing foot strike pattern during running? A systematic review and meta-analysis of injury, running economy, and biomechanics. Sports Med. 2019;50:885–917. https:// doi. org/ 10. 1007/ s40279- 019- 01238-y. 2. Anderson LM, Martin JF, Barton CJ, et al. What is the effect of changing
+
+running step rate on injury, performance and biomechanics? A system- atic review and meta-analysis. Sports Med Open. 2022;8:112. https:// doi. org/ 10. 1186/ s40798- 022- 00504-0. 3. Morgan CM, Vincent HK. Manipulating cadence for gait re-training in
+
+runners. Curr Sports Med Rep. 2017. https:// doi. org/ 10. 1249/ JSR. 00000 00000 000414. 4. Napier C, Cochrane CK, Taunton JE, et al. Gait modifications to
+
+change lower extremity gait biomechanics in runners: a systematic review. Br J Sports Med. 2015;49:1382. https:// doi. org/ 10. 1136/ bjspo rts- 2014- 094393. 5. Barton CJ, Bonanno DR, Carr J, et al. Running retraining to treat lower
+
+limb injuries: a mixed-methods study of current evidence synthesised with expert opinion. Br J Sports Med. 2016;50:513–26. https:// doi. org/ 10. 1136/ bjspo rts- 2015- 095278. 6. Gruber AH. The “impacts cause injury” hypothesis: running in circles or
+
+making new strides? J Biomech. 2023;156:111694. https:// doi. org/ 10. 1016/j. jbiom ech. 2023. 111694. 7. Matijevich ES, Branscombe LM, Scott LR, et al. Ground reaction force
+
+metrics are not strongly correlated with tibial bone load when running across speeds and slopes: implications for science, sport and wearable tech. PLoS ONE. 2019;14:e0210000. https:// doi. org/ 10. 1371/ journ al. pone. 02100 00. 8. Schmida EA, Wille CM, Stiffler-Joachim MR, et al. Vertical loading rate is
+
+not associated with running injury, regardless of calculation method. Med Sci Sports Exerc. 2022;54:1382–8. 9. Peterson B, Hawke F, Spink M, et al. Biomechanical and musculo-
+
+skeletal measurements as risk factors for running-related injury in non-elite runners: a systematic review and meta-analysis of prospec- tive studies. Sports Med - Open. 2022;8:38. https:// doi. org/ 10. 1186/ s40798- 022- 00416-z. 10. Petri AC, Martins TB, Martins TB, et al. Gait retraining for patellofemo-
+
+ral pain in runners: an umbrella review of clinical and biome- chanical evidence. Sports Med Open. 2026. https:// doi. org/ 10. 1186/ s40798- 026- 01051-8. 11. Xiang L, Gao Z, Wang A, et al. Rethinking running biomechanics: a criti-
+
+cal review of ground reaction forces, tibial bone loading, and the role of wearable sensors. Front Bioeng Biotechnol. 2024. https:// doi. org/ 10. 3389/ fbioe. 2024. 13773 83. 12. Tu J, Bruce OL, Edwards WB. Tibial acceleration alone is not a valid sur-
+
+rogate measure of tibial load in response to stride length manipulation. J Sport Health Sci. 2025;14:100978. https:// doi. org/ 10. 1016/j. jshs. 2024. 100978. 13. Willy RW, Christensen K, Hanser B, et al. Average vertical loading rate
+
+and tibial accelerometry are not valid assessments of internal tibial loads when walking or running with or without load carriage: a cross- sectional laboratory study. J Sports Sci. 2026;44:146–56. https:// doi. org/ 10. 1080/ 02640 414. 2025. 25677 81. 14. Zandbergen MA, Ter Wengel XJ, van Middelaar RP, et al. Peak tibial
+
+acceleration should not be used as indicator of tibial bone loading dur- ing running. Sports Biomech. 2025;24:2953–70. https:// doi. org/ 10. 1080/ 14763 141. 2022. 21643 45.
+
+15\. Dos Santos AF, Nakagawa TH, Lessi GC, et al. Effects of three gait
+
+retraining techniques in runners with patellofemoral pain. Phys Ther Sport. 2019;36:92–100. https:// doi. org/ 10. 1016/j. ptsp. 2019. 01. 006. 16. Cavanagh PR, Lafortune MA. Ground reaction forces in distance
+
+running. J Biomech. 1980;13:397–406. https:// doi. org/ 10. 1016/ 0021- 9290(80) 90033-0. 17. Lieberman DE, Venkadesan M, Werbel WA, et al. Foot strike patterns and collision forces in habitually barefoot versus shod runners. Nature. 2010;463:531–5. https:// doi. org/ 10. 1038/ natur e08723. 18. Nigg BM, Cole GK, Brüggemann G-P. Impact forces during heel-toe running. J Appl Biomech. 1995;11:407–32. https:// doi. org/ 10. 1123/ jab. 11.4. 407. 19. James SL, Bates BT, Osternig LR. Injuries to runners. Am J Sports Med.
+
+1978;6:40–50. https:// doi. org/ 10. 1177/ 03635 46578 00600 202. 20. Hreljac A. Impact and overuse injuries in runners. Med Sci Sports
+
+Exerc. 2004;36:845–9. https:// doi. org/ 10. 1249/ 01. mss. 00001 26803. 66636. dd. 21. Daoud AI, Geissler GJ, Wang F, et al. Foot strike and injury rates in
+
+endurance runners: a retrospective study. Med Sci Sports Exerc. 2012;44:1325–34. https:// doi. org/ 10. 1249/ MSS. 0b013 e3182 465115. 22. Daniels J. Level 1: base building. In: Daniels’ running formula. 2nd
+
+edn. Champaign, IL: Human Kinetics; 2005. p. 91–100. 23. Chumanov ES, Wille CM, Michalski MP, et al. Changes in muscle
+
+activation patterns when running step rate is increased. Gait Posture. 2012;36:231–5. https:// doi. org/ 10. 1016/j. gaitp ost. 2012. 02. 023. 24. Garcia MC, Heiderscheit BC, Kraus E, et al. Influence of cadence
+
+manipulation on running biomechanics in high school cross-country runners. Sports Biomech. 2025;24:2233–46. https:// doi. org/ 10. 1080/ 14763 141. 2025. 24506 44. 25. Heiderscheit BC, Chumanov ES, Michalski MP, et al. Effects of step rate manipulation on joint mechanics during running. Med Sci Sports Exerc. 2011;43:296–302. https:// doi. org/ 10. 1249/ MSS. 0b013 e3181 ebedf4. 26. Massie C, Redman K, Casper S, et al. The effects of cadence manipula-
+
+tion on joint kinetic patterns and stride-to-stride kinetic variability in female runners. J Appl Biomech. 2022;38:373–81. https:// doi. org/ 10. 1123/ jab. 2022- 0077. 27. Rudek G, Heinert E, Vannatta CN, et al. Use of concurrent auditory,
+
+tactile, and visual cueing and estimated cadence increases on Achilles tendon loading in running. Phys Ther Sport. 2026;77:14–20. https:// doi. org/ 10. 1016/j. ptsp. 2025. 11. 002. 28. Schubert AG, Kempf J, Heiderscheit BC. Influence of stride frequency
+
+and length on running mechanics: a systematic review. Sports Health. 2014;6:210–7. https:// doi. org/ 10. 1177/ 19417 38113 508544. 29. Alexander JLN, Willy RW, Napier C, et al. Infographic. Running myth:
+
+switching to a non-rearfoot strike reduces injury risk and improves run- ning economy. Br J Sports Med. 2021;55:175–6. https:// doi. org/ 10. 1136/ bjspo rts- 2020- 102262. 30. Hamill J, Gruber AH. Is changing footstrike pattern beneficial to run-
+
+ners? J Sport Health Sci. 2017;6:146–53. https:// doi. org/ 10. 1016/j. jshs. 2017. 02. 004. 31. Moore IS. Is there an economical running technique? A review of modi-
+
+fiable biomechanical factors affecting running economy. Sports Med. 2016;46:793–807. https:// doi. org/ 10. 1007/ s40279- 016- 0474-4. 32. Van Hooren B, Jukic I, Cox M, et al. The relationship between run-
+
+ning biomechanics and running economy: a systematic review and meta-analysis of observational studies. Sports Med. 2024;54:1269–316. https:// doi. org/ 10. 1007/ s40279- 024- 01997-3. 33. van Oeveren BT, de Ruiter CJ, Beek PJ, et al. Optimal stride frequencies
+
+in running at different speeds. PLoS ONE. 2017;12:e0184273. https:// doi. org/ 10. 1371/ journ al. pone. 01842 73. 34. van Oeveren BT, de Ruiter CJ, Hoozemans MJM, et al. Inter-individual
+
+differences in stride frequencies during running obtained from wear- able data. J Sports Sci. 2019;37:1996–2006. https:// doi. org/ 10. 1080/ 02640 414. 2019. 16141 37. 35. De Wit B, De Clercq D, Aerts P. Biomechanical analysis of the stance
+
+phase during barefoot and shod running. J Biomech. 2000;33:269–78. https:// doi. org/ 10. 1016/ s0021- 9290(99) 00192-x. 36. Divert C, Mornieux G, Baur H, et al. Mechanical comparison of barefoot and shod running. Int J Sports Med. 2005;26:593–8. https:// doi. org/ 10. 1055/s- 2004- 821327.
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149 15 of 18 37. Agresta C, Kessler S, Southern E, et al. Immediate and short-term
+
+adaptations to maximalist and minimalist running shoes. Footwear Sci. 2018;10:95–107. https:// doi. org/ 10. 1080/ 19424 280. 2018. 14606 24. 38. Breine B, Malcolm P, Galle S, et al. Running speed-induced changes
+
+in foot contact pattern influence impact loading rate. Eur J Sport Sci. 2019;19:774–83. https:// doi. org/ 10. 1080/ 17461 391. 2018. 15412 56. 39. Tenforde AS, Borgstrom HE, Outerleys J, et al. Is cadence related to
+
+leg length and load rate? J Orthop Sports Phys Ther. 2019;49:280–3. https:// doi. org/ 10. 2519/ jospt. 2019. 8420. 40. Pinnington HC, Lloyd DG, Besier TF, et al. Kinematic and electromyo- graphy analysis of submaximal differences running on a firm surface compared with soft, dry sand. Eur J Appl Physiol. 2005;94:242–53. https:// doi. org/ 10. 1007/ s00421- 005- 1323-6. 41. Garcia MC, Heiderscheit BC, Murray AM, et al. One size does not fit
+
+all: influence of sex and maturation on temporal-spatial parameters for adolescent long-distance runners. J Sports Sci. 2022;40:2153–8. https:// doi. org/ 10. 1080/ 02640 414. 2022. 21427 43. 42. Eihara Y, Kinoshita M, Jotoku K, et al. Classifying endurance runners
+
+by kinematics strengthens relationships of muscle-tendon unit func- tion with running economy and performance. Med Sci Sports Exerc. 2026. https:// doi. org/ 10. 1249/ mss. 00000 00000 004008. 43. Seifert L, Button C, Davids K. Key properties of expert movement
+
+systems in sport: an ecological dynamics perspective. Sports Med. 2013;43:167–78. https:// doi. org/ 10. 1007/ s40279- 012- 0011-z. 44. Renshaw I, Chow JY. A constraint-led approach to sport and physical
+
+education pedagogy. Phys Educ Sport Pedagog. 2019;24:103–16. https:// doi. org/ 10. 1080/ 17408 989. 2018. 15526 76. 45. Nigg BM, Vienneau J, Smith AC, et al. The preferred movement path
+
+paradigm: influence of running shoes on joint movement. Med Sci Sports Exerc. 2017;49:1641–8. https:// doi. org/ 10. 1249/ mss. 00000 00000 001260. 46. Nigg SR. Muscle tuning and preferred movement path - a paradigm
+
+shift. Curr Issues Sport Sci. 2017;2:007. 47. Newell KM. Constraints on the development of coordination. In: Wade MG, Whiting HTA, editors. Motor development in children: aspects of coordination and control. Dordrecht: Martinus Nijhoff; 1986. p. 341–60. https:// doi. org/ 10. 1007/ 978- 94- 009- 4460-2\_ 19. 48. Van Oeveren BT, De Ruiter CJ, Beek PJ, et al. The biomechanics of run-
+
+ning and running styles: a synthesis. Sports Biomech. 2024;23:516– 54. https:// doi. org/ 10. 1080/ 14763 141. 2021. 18734 11. 49. Miller RH, Hamill J. Optimal footfall patterns for cost minimization in
+
+running. J Biomech. 2015;48:2858–64. https:// doi. org/ 10. 1016/j. jbiom ech. 2015. 04. 019. 50. Patoz A, Lussiana T, Breine B, et al. There is no global running pattern
+
+more economic than another at endurance running speeds. Int J Sports Physiol Perform. 2022;17:659–62. https:// doi. org/ 10. 1123/ ijspp. 2021- 0345. 51. Lussiana T, Gindre C, Hébert-Losier K, et al. Similar running economy with different running patterns along the aerial-terrestrial con- tinuum. Int J Sports Physiol Perform. 2017;12:481. https:// doi. org/ 10. 1123/ ijspp. 2016- 0107. 52. Rivadulla AR, Chen X, Cazzola D, et al. Clustering analysis across
+
+different speeds reveals two distinct running techniques with no differences in running economy. Sports Biomech. 2024;1:24. https:// doi. org/ 10. 1080/ 14763 141. 2024. 23726 08. 53. Stergiou N, Decker LM. Human movement variability, nonlinear dynamics, and pathology: is there a connection? Hum Mov Sci. 2011;30:869–88. https:// doi. org/ 10. 1016/j. humov. 2011. 06. 002. 54. Kalkhoven JT. Athletic injury research: frameworks, models and the
+
+need for causal knowledge. Sports Med. 2024;54:1121–37. https:// doi. org/ 10. 1007/ s40279- 024- 02008-1. 55. Finch C. A new framework for research leading to sports injury pre-
+
+vention. J Sci Med Sport. 2006;9:3–9. https:// doi. org/ 10. 1016/j. jsams. 2006. 02. 009. 56. Nielsen RO, Simonsen NS, Casals M, et al. Methods matter and the
+
+“too much, too soon” theory (part 2): what is the goal of your sports injury research? Are you describing, predicting or drawing a causal inference? Br J Sports Med. 2020;54:1307–9. https:// doi. org/ 10. 1136/ bjspo rts- 2020- 102144.
+
+57\. Patoz A, Lussiana T, Breine B, et al. Using statistical parametric mapping to assess the association of duty factor and step frequency on running kinetic. Front Physiol. 2022. https:// doi. org/ 10. 3389/ fphys. 2022. 10443 63. 58. Nijs A, Roerdink M, Beek PJ. Running-style modulation: effects of stance- time and flight-time instructions on duty factor and cadence. Gait Posture. 2022;98:283–8. https:// doi. org/ 10. 1016/j. gaitp ost. 2022. 10. 002. 59. Nijs A, Roerdink M, Beek PJ. Exploring running styles in the field through cadence and duty factor modulation. PLoS ONE. 2023;18:e0295423. https:// doi. org/ 10. 1371/ journ al. pone. 02954 23. 60. Patoz A, Perrinjaquet D, Garcia J, et al. Experimental evidence for the
+
+independent modulation of step frequency and duty factor during endurance running. Med Sci Sports Exerc. 2025. https:// doi. org/ 10. 1249/ mss. 00000 00000 003907. 61. Bonnaerens S, Fiers P, Galle S, et al. Relationship between duty factor
+
+and external forces in slow recreational runners. BMJ Open Sport Exerc Med. 2021;7:e000996. https:// doi. org/ 10. 1136/ bmjsem- 2020- 000996. 62. Bonnaerens S, Van Rossom S, Fiers P, et al. Peak muscle and joint contact forces of running with increased duty factors. Med Sci Sports Exerc. 2022;54:1842–9. https:// doi. org/ 10. 1249/ mss. 00000 00000 002974. 63. Pieter F, Joeri G, Senne B, et al. Duty factor dominates stride frequency
+
+to modify musculoskeletal peak loading in running. Med Sci Sports Exerc. 2025;57:1810–8. https:// doi. org/ 10. 1249/ mss. 00000 00000 003715. 64. Van Der Meulen L, Bonnaerens S, Caekenberghe IV, et al. Habitual
+
+running style matters: duty factor, and not stride frequency, relates to loading magnitude. J Hum Kinet. 2024;94:37–45. https:// doi. org/ 10. 5114/ jhk/ 191528. 65. Sukhera J. Narrative reviews: flexible, rigorous, and practical. J Grad Med Educ. 2022;14:414–7. https:// doi. org/ 10. 4300/ JGME-D- 22- 00480.1. 66. Correia CK, Machado JM, Dominski FH, et al. Risk factors for running-
+
+related injuries: an umbrella systematic review. J Sport Health Sci. 2024;13:793–804. https:// doi. org/ 10. 1016/j. jshs. 2024. 04. 011. 67. Arendse RE, Noakes TD, Azevedo LB, et al. Reduced eccentric loading
+
+of the knee with the pose running method. Med Sci Sports Exerc. 2004;36:272–7. https:// doi. org/ 10. 1249/ 01. MSS. 00001 13684. 61351. B0. 68. Romanov NS, Robson J. Dr. Nicholas Romanov’s pose method of run-
+
+ning: a new paradigm of running. PoseTech; 2002. 69. Dreyer D, Dreyer K. Chirunning: a revolutionary approach to effortless,
+
+injury-free running. Revised and Fully Updated ed. New York, USA: Simon & Schuster; 2009. 70. McDougall C. Born to run. Profile Books Limited; 2009. 71. Squadrone R, Gallozzi C. Biomechanical and physiological comparison
+
+of barefoot and two shod conditions in experienced barefoot runners. J Sports Med Phys Fitness. 2009;49:6–13. 72. Hanley B, Bissas A, Merlino S, et al. Most marathon runners at the 2017
+
+IAAF World Championships were rearfoot strikers, and most did not change footstrike pattern. J Biomech. 2019;92:54–60. https:// doi. org/ 10. 1016/j. jbiom ech. 2019. 05. 024. 73. Hasegawa H, Yamauchi T, Kraemer WJ. Foot strike patterns of runners at
+
+the 15-km point during an elite-level half marathon. J Strength Cond Res. 2007;21:888–93. https:// doi. org/ 10. 1519/R- 22096.1. 74. Larson P, Higgins E, Kaminski J, et al. Foot strike patterns of recrea-
+
+tional and sub-elite runners in a long-distance road race. J Sports Sci. 2011;29:1665–73. https:// doi. org/ 10. 1080/ 02640 414. 2011. 610347. 75. Van den Berghe P, Warlop L, Derie R, Leman M, De Clercq D, Breine
+
+B. Foot strike determines the center of pressure behavior and affects impact severity in heel-toe running. J Sports Sci. 2022;40:808–20. https:// doi. org/ 10. 1080/ 02640 414. 2021. 20199 91. 76. Hunter I, Lee K, Ward J, et al. Self-optimization of stride length among
+
+experienced and inexperienced runners. Int J Exerc Sci. 2017;10:446–53. 77. Zhou H, Ugbolue UC. Is there a relationship between strike pattern and
+
+injury during running: a review. Phys Act Health. 2019. https:// doi. org/ 10. 5334/ paah. 45. 78. Chambon N, Rao G, Guéguen N, et al. Foot angle at touchdown is
+
+not linearly related to the loading rate during running. Footwear Sci. 2015;7:S37–8. https:// doi. org/ 10. 1080/ 19424 280. 2015. 10383 14. 79. Garofolini A, Taylor S, McLaughlin P, et al. Foot strike classification: a
+
+comparison of methodologies. Footwear Sci. 2017;9:S129–30. https:// doi. org/ 10. 1080/ 19424 280. 2017. 13143 77. 80. Stiffler-Joachim MR, Wille CM, Kliethermes SA, et al. Foot angle and
+
+loading rate during running demonstrate a nonlinear relationship. Med
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149
+
+16 of 18 Sci Sports Exerc. 2019;51:2067–72. https:// doi. org/ 10. 1249/ mss. 00000 00000 002023. 81. Johnson CD, Dæhlin TE, Sara LK, et al. A reexamination of the relation- ship between foot strike angle and early stance loading variables during running. Med Sci Sports Exerc. 2025;57:2307–13. https:// doi. org/ 10. 1249/ mss. 00000 00000 003764. 82. Van den Berghe P, De Bock S, Breine B, et al. Peak tibial accelerations
+
+in different foot strike patterns during level running: an independent investigation in different cohorts. Sports Biomech. 2025;24:1788–801. https:// doi. org/ 10. 1080/ 14763 141. 2024. 23676 19. 83. Van den Berghe P, Breine B, Haeck E, et al. One hundred marathons in 100 days: Unique biomechanical signature and the evolution of force characteristics and bone density. J Sport Health Sci. 2022;11:347–57. https:// doi. org/ 10. 1016/j. jshs. 2021. 03. 009. 84. Warne JP, Gruber AH. Transitioning to minimal footwear: a systematic review of methods and future clinical recommendations. Sports Med Open. 2017;3:33. https:// doi. org/ 10. 1186/ s40798- 017- 0096-x. 85. Tam N, Astephen Wilson JL, Noakes TD, et al. Barefoot running: an
+
+evaluation of current hypothesis, future research and clinical applica- tions. Br J Sports Med. 2014;48:349. https:// doi. org/ 10. 1136/ bjspo rts- 2013- 092404. 86. Ridge ST, Johnson AW, Mitchell UH, et al. Foot bone marrow edema after a 10-wk transition to minimalist running shoes. Med Sci Sports Exerc. 2013;45:1363–8. https:// doi. org/ 10. 1249/ MSS. 0b013 e3182 874769. 87. Malisoux L, Chambon N, Delattre N, et al. Injury risk in runners using
+
+standard or motion control shoes: a randomised controlled trial with participant and assessor blinding. Br J Sports Med. 2016;50:481. https:// doi. org/ 10. 1136/ bjspo rts- 2015- 095031. 88. Fohrmann D, Schaffarczyk M, Menge C, et al. Biomechanical factors
+
+associated with intraindividual differences in running economy across advanced footwear technology models in long-distance runners. Sports Med Open. 2026. https:// doi. org/ 10. 1186/ s40798- 026- 01005-0. 89. Nigg BM, Liu W. The effect of muscle stiffness and damping on simu- lated impact force peaks during running. J Biomech. 1999;32:849–56. https:// doi. org/ 10. 1016/ s0021- 9290(99) 00048-2. 90. Gerritsen KGM, Van den Bogert AJ, Nigg BM. Direct dynamics simula-
+
+tion of the impact phase in heel-toe running. J Biomech. 1995;28:661– 8. https:// doi. org/ 10. 1016/ 0021- 9290(94) 00127-P. 91. Gruber AH, Boyer KA, Derrick TR, et al. Impact shock frequency compo-
+
+nents and attenuation in rearfoot and forefoot running. J Sport Health Sci. 2014;3:113–21. https:// doi. org/ 10. 1016/j. jshs. 2014. 03. 004. 92. Zadpoor AA, Nikooyan AA. The relationship between lower-extremity
+
+stress fractures and the ground reaction force: a systematic review. Clin Biomech (Bristol). 2011;26:23–8. https:// doi. org/ 10. 1016/j. clinb iomech. 2010. 08. 005. 93. Han S, Moon J, Lee J, et al. Influence of manipulating running foot
+
+strike angle on internal loading of the tibia. Scand J Med Sci Sports. 2025;35:e70066. https:// doi. org/ 10. 1111/ sms. 70066. 94. Derie R, Van den Berghe P, Gerlo J, et al. Biomechanical adaptations
+
+following a music-based biofeedback gait retraining program to reduce peak tibial accelerations. Scand J Med Sci Sports. 2022;32:1142–52. https:// doi. org/ 10. 1111/ sms. 14162. 95. Baggaley M, Haider I, Bruce O, et al. Tibial strains are sensitive to speed perturbations, but not grade perturbations, during running. J Exp Biol. 2024. https:// doi. org/ 10. 1242/ jeb. 246770. 96. Khassetarash A, Nigg BM, Edwards WB. Reducing flight time during
+
+running decreases tibial-fibular strains in male runners: a finite element analysis. J Biomech. 2025;191:112917. https:// doi. org/ 10. 1016/j. jbiom ech. 2025. 112917. 97. Nigg BM, Wakeling JM. Impact forces and muscle tuning: a new
+
+paradigm. Exerc Sport Sci Rev. 2001;29:37–41. https:// doi. org/ 10. 1097/ 00003 677- 20010 1000- 00008. 98. Nigg BM, Baltich J, Hoerzer S, et al. Running shoes and running injuries: mythbusting and a proposal for two new paradigms: “preferred move- ment path” and “comfort filter.” Br J Sports Med. 2015;49:1290–4. https:// doi. org/ 10. 1136/ bjspo rts- 2015- 095054. 99. Van Hooren B, Copier R, Pedersen S, et al. The mediating effect of run-
+
+ning biomechanics, anthropometrics, muscle architecture, and comfort on running economy across different shoes. Scand J Med Sci Sports. 2025;35:e70087. https:// doi. org/ 10. 1111/ sms. 70087.
+
+100\. Zimmermann WO, Bakker EWP. Reducing vertical ground reaction
+
+forces: the relative importance of three gait retraining cues. Clin Biomech (Bristol). 2019;69:16–20. https:// doi. org/ 10. 1016/j. clinb iomech. 2019. 06. 014. 101. Gross S. How to Improve Your Running Cadence. COROS. 2025. 102. Musgjerd T, Anason J, Rutherford D, Kernozek TW. Effect of increasing
+
+running cadence on peak impact force in an outdoor environment. Int J Sports Phys Ther. 2021;16(4):1076. 103. Cavanagh PR, Williams KR. The effect of stride length variation on oxy-
+
+gen uptake during distance running. Med Sci Sports Exerc. 1982;14:30– 5. https:// doi. org/ 10. 1249/ 00005 768- 19820 1000- 00006. 104. Hunter I, Smith GA. Preferred and optimal stride frequency, stiffness
+
+and economy: changes with fatigue during a 1-h high-intensity run. Eur J Appl Physiol. 2007;100:653–61. https:// doi. org/ 10. 1007/ s00421- 007- 0456-1. 105. Burns GT, Zendler JM, Zernicke RF. Step frequency patterns of elite
+
+ultramarathon runners during a 100-km road race. J Appl Physiol. 2018;126:462–8. https:// doi. org/ 10. 1152/ jappl physi ol. 00374. 2018. 106. Snyder KL, Farley CT. Energetically optimal stride frequency in running: the effects of incline and decline. J Exp Biol. 2011;214:2089–95. https:// doi. org/ 10. 1242/ jeb. 053157. 107. de Ruiter CJ, Verdijk PWL, Werker W, et al. Stride frequency in relation to
+
+oxygen consumption in experienced and novice runners. Eur J Sport Sci. 2014;14:251–8. https:// doi. org/ 10. 1080/ 17461 391. 2013. 783627. 108. Weyand PG, Sternlight DB, Bellizzi MJ, et al. Faster top running speeds
+
+are achieved with greater ground forces not more rapid leg move- ments. J Appl Physiol. 2000;89:1991–9. https:// doi. org/ 10. 1152/ jappl. 2000. 89.5. 1991. 109. Dorn TW, Schache AG, Pandy MG. Muscular strategy shift in human
+
+running: dependence of running speed on hip and ankle muscle performance. J Exp Biol. 2012;215:1944–56. https:// doi. org/ 10. 1242/ jeb. 064527. 110. Mercer JA, Devita P, Derrick TR, et al. Individual effects of stride length
+
+and frequency on shock attenuation during running. Med Sci Sports Exerc. 2003;35:307–13. https:// doi. org/ 10. 1249/ 01. Mss. 00000 48837. 81430. E7. 111. Hamill J, Derrick TR, Holt KG. Shock attenuation and stride frequency
+
+during running. Hum Mov Sci. 1995;14:45–60. https:// doi. org/ 10. 1016/ 0167- 9457(95) 00004-C. 112. Creagh U, Reilly T, Lees A. Kinematics of running on “off-road” terrain. Ergonomics. 1998;41:1029–33. https:// doi. org/ 10. 1080/ 00140 13981 86577. 113. Conoboy P, Dyson R. Effect of aging on the stride pattern of veteran
+
+marathon runners. Br J Sports Med. 2006;40:601–4. https:// doi. org/ 10. 1136/ bjsm. 2006. 026252. 114. Morin JB, Samozino P, Zameziati K, et al. Effects of altered stride fre-
+
+quency and contact time on leg-spring behavior in human running. J Biomech. 2007;40:3341–8. https:// doi. org/ 10. 1016/j. jbiom ech. 2007. 05. 001. 115. Nummela A, Keränen T, Mikkelsson L. Factors related to top running
+
+speed and economy. Int J Sports Med. 2007;28:655–61. 116. Mercer J, Dolgan J, Griffin J, et al. The physiological importance of pre-
+
+ferred stride frequency during running at different speeds. JEPonline. 2008;11:26–32. 117. Padulo J, Annino G, Migliaccio GM, et al. Kinematics of running at dif-
+
+ferent slopes and speeds. J Strength Cond Res. 2012;26:1331–9. https:// doi. org/ 10. 1519/ JSC. 0b013 e3182 31aafa. 118. Tartaruga MP, Brisswalter J, Peyré-Tartaruga LA, et al. The relationship between running economy and biomechanical variables in distance runners. Res Q Exerc Sport. 2012;83:367–75. https:// doi. org/ 10. 1080/ 02701 367. 2012. 10599 870. 119. Cronin NJ, Finni T. Treadmill versus overground and barefoot versus
+
+shod comparisons of triceps surae fascicle behaviour in human walking and running. Gait Posture. 2013;38:528–33. https:// doi. org/ 10. 1016/j. gaitp ost. 2013. 01. 027. 120. Le Meur Y, Thierry B, Rabita G, et al. Spring-mass behaviour during
+
+the run of an international triathlon competition. Int J Sports Med. 2013;34:748–55. https:// doi. org/ 10. 1055/s- 0032- 13312 05. 121. Santos-Concejero J, Oliván J, Maté-Muñoz JL, et al. Gait-cycle character-
+
+istics and running economy in elite Eritrean and European runners. Int
+
+Page Patoz et al. Sports Medicine - Open (2026) 12:149
+
+17 of 18 J Sports Physiol Perform. 2015;10:381–7. https:// doi. org/ 10. 1123/ ijspp. 2014- 0179. 122. Gindre C, Lussiana T, Hébert-Losier K, et al. Aerial and terrestrial pat-
+
+terns: a novel approach to analyzing human running. Int J Sports Med. 2016;37:25–9. https:// doi. org/ 10. 1055/s- 0035- 15559 31. 123. Breine B, Malcolm P, Van Caekenberghe I, et al. Initial foot contact and
+
+related kinematics affect impact loading rate in running. J Sports Sci. 2017;35:1556–64. https:// doi. org/ 10. 1080/ 02640 414. 2016. 12259 70. 124. Ogueta-Alday A, Morante JC, Gómez-Molina J, et al. Similarities and dif-
+
+ferences among half-marathon runners according to their performance level. PLoS ONE. 2018;13:e0191688. https:// doi. org/ 10. 1371/ journ al. pone. 01916 88. 125. Bramah C, Preece SJ, Gill N, et al. A 10% increase in step rate improves
+
+running kinematics and clinical outcomes in runners with patellofemo- ral pain at 4 weeks and 3 months. Am J Sports Med. 2019;47:3406–13. https:// doi. org/ 10. 1177/ 03635 46519 879693. 126. de Ruiter CJ, van Daal S, van Dieën JH. Individual optimal step
+
+frequency during outdoor running. Eur J Sport Sci. 2020;20:182–90. https:// doi. org/ 10. 1080/ 17461 391. 2019. 16269 11. 127. García-Pinillos F, García-Ramos A, Ramírez-Campillo R, et al. How do
+
+spatiotemporal parameters and lower-body stiffness change with increased running velocity? A comparison between novice and elite level runners. J Hum Kinet. 2019;70:25–38. https:// doi. org/ 10. 2478/ hukin- 2019- 0036. 128. Masumoto K, Denton D, Craig-Jones A, et al. The effects of stride
+
+frequency manipulation on physiological and perceptual responses during backward and forward running with body weight sup- port. Eur J Appl Physiol. 2020;120:1519–30. https:// doi. org/ 10. 1007/ s00421- 020- 04380-y. 129. Patoz A, Lussiana T, Breine B, et al. Examination of running pattern
+
+consistency across speeds. Sports Biomech. 2022;1:15. https:// doi. org/ 10. 1080/ 14763 141. 2022. 20948 25. 130. Malisoux L, Napier C, Gette P, et al. Reference values and determinants of spatiotemporal and kinetic variables in recreational runners. Orthop J Sports Med. 2023;11:23259671231204629. https:// doi. org/ 10. 1177/ 23259 67123 12046 29. 131. Patoz A, Blokker T, Pedrani N, et al. Biomechanical adaptations dur-
+
+ing exhaustive runs at 90 to 120% of peak aerobic speed. Sci Rep. 2023;13:8236. https:// doi. org/ 10. 1038/ s41598- 023- 35345-8. 132. Leacox A, Fashingbauer L, Ferguson T, et al. The effect of running speed
+
+on cadence and running kinetics. Int J Sports Phys Ther. 2025;20:957– 63. https:// doi. org/ 10. 26603/ 001c. 140544. 133. Barnes KR, Kilding AE. Running economy: measurement, norms, and determining factors. Sports Med - Open. 2015;1:8. https:// doi. org/ 10. 1186/ s40798- 015- 0007-y. 134. Van Hooren B, van Rengs L, Meijer K. Per-step and cumulative load at
+
+three common running injury locations: the effect of speed, surface gradient, and cadence. Scand J Med Sci Sports. 2024;34:e14570. https:// doi. org/ 10. 1111/ sms. 14570. 135. Figueiredo I, Reis ESM, Sousa JE. The influence of running cadence
+
+on biomechanics and injury prevention: a systematic review. Cureus. 2025;17:e90322. https:// doi. org/ 10. 7759/ cureus. 90322. 136. Allen DJ, Heisler H, Mooney J, et al. The effect of step rate manipulation
+
+on foot strike pattern of long distance runners. Int J Sports Phys Ther. 2016;11:54–63. 137. Adams D, Pozzi F, Willy RW, et al. Altering cadence or vertical oscillation
+
+during running: effects on running related injury factors. Int J Sports Phys Ther. 2018;13:633–42. 138. Farina KA, Hahn ME. Increasing step rate affects rearfoot kinematics and
+
+ground reaction forces during running. Biology (Basel). 2021. https:// doi. org/ 10. 3390/ biolo gy110 10008. 139. Van Der Meulen L, Bonnaerens S, Van Caekenberghe I, et al. Duty
+
+factor and stride frequency as (potential) load magnitude determi- nants of slow, female runners’ habitual running pattern. Footwear Sci. 2023;15:S186–7. https:// doi. org/ 10. 1080/ 19424 280. 2023. 22035 18. 140. Farley CT, González O. Leg stiffness and stride frequency in human run- ning. J Biomech. 1996;29:181–6. https:// doi. org/ 10. 1016/ 0021- 9290(95) 00029-1. 141. Lenhart RL, Thelen DG, Wille CM, et al. Increasing running step rate
+
+reduces patellofemoral joint forces. Med Sci Sports Exerc. 2014;46:557– 64. https:// doi. org/ 10. 1249/ MSS. 0b013 e3182 a78c3a.
+
+142\. Musgjerd T, Anason J, Rutherford D, et al. Effect of increasing running
+
+cadence on peak impact force in an outdoor environment. Int J Sports Phys Ther. 2021;16:1076–83. https:// doi. org/ 10. 26603/ 001c. 25166. 143. Nijs A, Roerdink M, Beek PJ. Effects of acoustically paced cadence
+
+modulation on impact forces in running. Gait Posture. 2021;90:234–8. https:// doi. org/ 10. 1016/j. gaitp ost. 2021. 09. 168. 144. Seay J, Selbie WS, Hamill J. In vivo lumbo-sacral forces and moments
+
+during constant speed running at different stride lengths. J Sports Sci. 2008;26:1519–29. https:// doi. org/ 10. 1080/ 02640 41080 22982 35. 145. Hobara H, Sakata H, Namiki Y, et al. Effect of step frequency on leg
+
+stiffness during running in unilateral transfemoral amputees. Sci Rep. 2020;10:5965. https:// doi. org/ 10. 1038/ s41598- 020- 62964-2. 146. Stergiou N, Bates BT, Kurz MJ. Subtalar and knee joint interaction
+
+during running at various stride lengths. J Sports Med Phys Fitness. 2003;43:319–26. 147. Clarke TE, Cooper LB, Hamill CL, et al. The effect of varied stride rate
+
+upon shank deceleration in running. J Sports Sci. 1985;3:41–9. https:// doi. org/ 10. 1080/ 02640 41850 87297 31. 148. Derrick TR, Hamill J, Caldwell GE. Energy absorption of impacts during
+
+running at various stride lengths. Med Sci Sports Exerc. 1998;30:128–35. https:// doi. org/ 10. 1097/ 00005 768- 19980 1000- 00018. 149. Edwards WB, Gillette JC, Thomas JM, et al. Internal femoral forces and
+
+moments during running: implications for stress fracture development. Clin Biomech. 2008;23:1269–78. https:// doi. org/ 10. 1016/j. clinb iomech. 2008. 06. 011. 150. Scott SH, Winter DA. Internal forces of chronic running injury sites. Med
+
+Sci Sports Exerc. 1990;22:357–69. 151. Sasimontonkul S, Bay BK, Pavol MJ. Bone contact forces on the distal
+
+tibia during the stance phase of running. J Biomech. 2007;40:3503–9. https:// doi. org/ 10. 1016/j. jbiom ech. 2007. 05. 024. 152. DeJong Lempke AF, Stephens SL, Fish PN, et al. Sensor-based gait
+
+training to reduce contact time for runners with exercise-related lower leg pain: a randomised controlled trial. BMJ Open Sport Exerc Med. 2022;8:e001293. https:// doi. org/ 10. 1136/ bmjsem- 2021- 001293. 153. Koldenhoven RM, Virostek A, DeJong AF, et al. Increased contact time and strength deficits in runners with exercise-related lower leg pain. J Athl Train. 2020;55:1247–54. https:// doi. org/ 10. 4085/ 1062- 6050- 0514. 19. 154. Martin JA, Stiffler-Joachim MR, Wille CM, et al. A hierarchical clustering
+
+approach for examining potential risk factors for bone stress injury in runners. J Biomech. 2022;141:111136. https:// doi. org/ 10. 1016/j. jbiom ech. 2022. 111136. 155. Weich C, Vieten MM. The gaitprint: identifying individuals by their run-
+
+ning style. Sensors (Basel). 2020. https:// doi. org/ 10. 3390/ s2014 3810. 156. Moore IS, Ashford KJ, Cross C, et al. Humans optimize ground contact
+
+time and leg stiffness to minimize the metabolic cost of running. Front Sports Act Living. 2019. https:// doi. org/ 10. 3389/ fspor. 2019. 00053. 157. Gindre C, Breine B, Patoz A, et al. PIMP your stride: preferred running
+
+form to guide individualized injury rehabilitation. Front Rehabil Sci. 2022. https:// doi. org/ 10. 3389/ fresc. 2022. 880483. 158. De Souza Júnior JR, Rabelo PHR, Lemos TV, et al. Effects of two gait
+
+retraining programs on pain, function, and lower limb kinematics in runners with patellofemoral pain: a randomized controlled trial. PLoS ONE. 2024;19:e0295645. https:// doi. org/ 10. 1371/ journ al. pone. 02956 45. 159. Van Hooren B, Plasqui G, Meijer K. The effect of wearable-based
+
+real-time feedback on running injuries and running performance: a randomized controlled trial. Am J Sports Med. 2024;52:750–65. https:// doi. org/ 10. 1177/ 03635 46523 12224 64. 160. Davids K, Araújo D, Seifert L, et al. Expert performance in sport: an
+
+ecological dynamics perspective. In: Baker J, Farrow D, editors., et al., Routledge handbook of sport expertise. London: Routledge/Taylor & Francis Group; 2015. p. 130–44. 161. Winstein CJ. Knowledge of results and motor learning—implications for
+
+physical therapy. Phys Ther. 1991;71:140–9. https:// doi. org/ 10. 1093/ ptj/ 71.2. 140. 162. Barton CJ, Lack S, Hemmings S, et al. The “Best practice guide to
+
+conservative management of patellofemoral pain”: incorporating level 1 evidence with expert clinical reasoning. Br J Sports Med. 2015;49:923– 34. https:// doi. org/ 10. 1136/ bjspo rts- 2014- 093637. 163. Willwacher S, Kurz M, Robbin J, et al. Running-related biomechani- cal risk factors for overuse injuries in distance runners: a systematic
+
+Page 18 of 18 Patoz et al. Sports Medicine - Open (2026) 12:149
+
+review considering injury specificity and the potentials for future research. Sports Med. 2022;52:1863–77. https:// doi. org/ 10. 1007/ s40279- 022- 01666-3. 164. Debertin D, Kiebacher J, Zhang M, et al. Principal components for
+
+practice-oriented measurement of running technique: a proof-of- concept study. Eur J Sport Sci. 2025;25:e70004. https:// doi. org/ 10. 1002/ ejsc. 70004. 165. Jiang X, Xu D, Fang Y, et al. PCA of running biomechanics after 5 km
+
+between novice and experienced runners. Bioengineering (Basel). 2023. https:// doi. org/ 10. 3390/ bioen ginee ring1 00708 76. 166. Patoz A, Lussiana T, Breine B, et al. Comparison of different machine
+
+learning models to enhance sacral acceleration-based estimations of running stride temporal variables and peak vertical ground reaction force. Sports Biomech. 2023;1:17. https:// doi. org/ 10. 1080/ 14763 141. 2022. 21598 70. 167. Matijevich ES, Scott LR, Volgyesi P, et al. Combining wearable sensor sig-
+
+nals, machine learning and biomechanics to estimate tibial bone force and damage during running. Hum Mov Sci. 2020;74:102690. https:// doi. org/ 10. 1016/j. humov. 2020. 102690. 168. Van Hooren B, Van Rengs L, Meijer K. Predicting musculoskeletal load-
+
+ing at common running injury locations using machine learning and instrumented insoles. Med Sci Sports Exerc. 2024. https:// doi. org/ 10. 1249/ MSS. 00000 00000 003493. 169. Hoerzer S, von Tscharner V, Jacob C, et al. Defining functional groups
+
+based on running kinematics using self-organizing maps and support vector machines. J Biomech. 2015;48:2072–9. https:// doi. org/ 10. 1016/j. jbiom ech. 2015. 03. 017. 170. Phinyomark A, Osis S, Hettinga BA, et al. Kinematic gait pat-
+
+terns in healthy runners: a hierarchical cluster analysis. J Biomech. 2015;48:3897–904. https:// doi. org/ 10. 1016/j. jbiom ech. 2015. 09. 025. 171. Davis S, Fox A, Bonacci J, et al. Mechanics, energetics and imple-
+
+mentation of grounded running technique: a narrative review. BMJ Open Sport Exerc Med. 2020;6:e000963. https:// doi. org/ 10. 1136/ bmjsem- 2020- 000963. 172. Bonnaerens S, Fiers P, Galle S, et al. Grounded running reduces muscu-
+
+loskeletal loading. Med Sci Sports Exerc. 2019;51:708–15. https:// doi. org/ 10. 1249/ mss. 00000 00000 001846. 173. Subotnick SI. The biomechanics of running. Implications for the preven- tion of foot injuries. Sports Med. 1985;2:144–53. https:// doi. org/ 10. 2165/ 00007 256- 19850 2020- 00006. 174. Sumner J, Wagner K, Day EM, et al. Advancing our ability to quantify
+
+an individual’s habitual motion path and deviation when running. Footwear Sci. 2024;16:123–33. https:// doi. org/ 10. 1080/ 19424 280. 2024. 23292 50.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in pub- lished maps and institutional affiliations.
+
+<http://orcid.org/0000-0002-6949-7989>   
+<http://orcid.org/0009-0000-2410-8209>   
+<http://orcid.org/0000-0002-1782-401X>   
+<http://orcid.org/0000-0002-7959-7721>   
+<http://creativecommons.org/licenses/by/4.0/>   
+<http://crossmark.crossref.org/dialog/?doi=10.1186/s40798-026-01120-y&domain=pdf>   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#16](#16)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#16](#16)   
+[\#16](#16)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#7](#7)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#7](#7)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#17](#17)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#14](#14)   
+[\#17](#17)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#7](#7)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#17](#17)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#16](#16)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#14](#14)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#15](#15)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#16](#16)   
+[\#16](#16)   
+[\#15](#15)   
+[\#17](#17)   
+[\#15](#15)   
+[\#16](#16)   
+[\#14](#14)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#14](#14)   
+[\#15](#15)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#16](#16)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#17](#17)   
+[\#15](#15)   
+[\#18](#18)   
+[\#18](#18)   
+[\#15](#15)   
+[\#17](#17)   
+[\#17](#17)   
+[\#14](#14)   
+[\#18](#18)   
+[\#18](#18)   
+[\#18](#18)   
+[\#18](#18)   
+[\#17](#17)   
+[\#18](#18)   
+[\#18](#18)   
+[\#18](#18)   
+[\#18](#18)   
+[\#14](#14)   
+[\#15](#15)   
+[\#15](#15)   
+[\#15](#15)   
+[\#17](#17)   
+[\#18](#18)   
+[\#14](#14)   
+[\#15](#15)   
+<https://doi.org/10.1007/s40279-019-01238-y>   
+<https://doi.org/10.1007/s40279-019-01238-y>   
+<https://doi.org/10.1186/s40798-022-00504-0>   
+<https://doi.org/10.1186/s40798-022-00504-0>   
+<https://doi.org/10.1249/JSR.0000000000000414>   
+<https://doi.org/10.1249/JSR.0000000000000414>   
+<https://doi.org/10.1136/bjsports-2014-094393>   
+<https://doi.org/10.1136/bjsports-2014-094393>   
+<https://doi.org/10.1136/bjsports-2015-095278>   
+<https://doi.org/10.1136/bjsports-2015-095278>   
+<https://doi.org/10.1016/j.jbiomech.2023.111694>   
+<https://doi.org/10.1016/j.jbiomech.2023.111694>   
+<https://doi.org/10.1371/journal.pone.0210000>   
+<https://doi.org/10.1371/journal.pone.0210000>   
+<https://doi.org/10.1186/s40798-022-00416-z>   
+<https://doi.org/10.1186/s40798-022-00416-z>   
+<https://doi.org/10.1186/s40798-026-01051-8>   
+<https://doi.org/10.1186/s40798-026-01051-8>   
+<https://doi.org/10.3389/fbioe.2024.1377383>   
+<https://doi.org/10.3389/fbioe.2024.1377383>   
+<https://doi.org/10.1016/j.jshs.2024.100978>   
+<https://doi.org/10.1016/j.jshs.2024.100978>   
+<https://doi.org/10.1080/02640414.2025.2567781>   
+<https://doi.org/10.1080/02640414.2025.2567781>   
+<https://doi.org/10.1080/14763141.2022.2164345>   
+<https://doi.org/10.1080/14763141.2022.2164345>   
+<https://doi.org/10.1016/j.ptsp.2019.01.006>   
+<https://doi.org/10.1016/0021-9290(80)90033-0>   
+<https://doi.org/10.1016/0021-9290(80)90033-0>   
+<https://doi.org/10.1038/nature08723>   
+<https://doi.org/10.1123/jab.11.4.407>   
+<https://doi.org/10.1123/jab.11.4.407>   
+<https://doi.org/10.1177/036354657800600202>   
+<https://doi.org/10.1249/01.mss.0000126803.66636.dd>   
+<https://doi.org/10.1249/01.mss.0000126803.66636.dd>   
+<https://doi.org/10.1249/MSS.0b013e3182465115>   
+<https://doi.org/10.1016/j.gaitpost.2012.02.023>   
+<https://doi.org/10.1080/14763141.2025.2450644>   
+<https://doi.org/10.1080/14763141.2025.2450644>   
+<https://doi.org/10.1249/MSS.0b013e3181ebedf4>   
+<https://doi.org/10.1249/MSS.0b013e3181ebedf4>   
+<https://doi.org/10.1123/jab.2022-0077>   
+<https://doi.org/10.1123/jab.2022-0077>   
+<https://doi.org/10.1016/j.ptsp.2025.11.002>   
+<https://doi.org/10.1016/j.ptsp.2025.11.002>   
+<https://doi.org/10.1177/1941738113508544>   
+<https://doi.org/10.1136/bjsports-2020-102262>   
+<https://doi.org/10.1136/bjsports-2020-102262>   
+<https://doi.org/10.1016/j.jshs.2017.02.004>   
+<https://doi.org/10.1016/j.jshs.2017.02.004>   
+<https://doi.org/10.1007/s40279-016-0474-4>   
+<https://doi.org/10.1007/s40279-024-01997-3>   
+<https://doi.org/10.1371/journal.pone.0184273>   
+<https://doi.org/10.1371/journal.pone.0184273>   
+<https://doi.org/10.1080/02640414.2019.1614137>   
+<https://doi.org/10.1080/02640414.2019.1614137>   
+<https://doi.org/10.1016/s0021-9290(99)00192-x>   
+<https://doi.org/10.1055/s-2004-821327>   
+<https://doi.org/10.1055/s-2004-821327>   
+<https://doi.org/10.1080/19424280.2018.1460624>   
+<https://doi.org/10.1080/17461391.2018.1541256>   
+<https://doi.org/10.2519/jospt.2019.8420>   
+<https://doi.org/10.1007/s00421-005-1323-6>   
+<https://doi.org/10.1080/02640414.2022.2142743>   
+<https://doi.org/10.1249/mss.0000000000004008>   
+<https://doi.org/10.1007/s40279-012-0011-z>   
+<https://doi.org/10.1080/17408989.2018.1552676>   
+<https://doi.org/10.1249/mss.0000000000001260>   
+<https://doi.org/10.1249/mss.0000000000001260>   
+<https://doi.org/10.1007/978-94-009-4460-2_19>   
+<https://doi.org/10.1080/14763141.2021.1873411>   
+<https://doi.org/10.1016/j.jbiomech.2015.04.019>   
+<https://doi.org/10.1016/j.jbiomech.2015.04.019>   
+<https://doi.org/10.1123/ijspp.2021-0345>   
+<https://doi.org/10.1123/ijspp.2021-0345>   
+<https://doi.org/10.1123/ijspp.2016-0107>   
+<https://doi.org/10.1123/ijspp.2016-0107>   
+<https://doi.org/10.1080/14763141.2024.2372608>   
+<https://doi.org/10.1080/14763141.2024.2372608>   
+<https://doi.org/10.1016/j.humov.2011.06.002>   
+<https://doi.org/10.1007/s40279-024-02008-1>   
+<https://doi.org/10.1007/s40279-024-02008-1>   
+<https://doi.org/10.1016/j.jsams.2006.02.009>   
+<https://doi.org/10.1016/j.jsams.2006.02.009>   
+<https://doi.org/10.1136/bjsports-2020-102144>   
+<https://doi.org/10.1136/bjsports-2020-102144>   
+<https://doi.org/10.3389/fphys.2022.1044363>   
+<https://doi.org/10.1016/j.gaitpost.2022.10.002>   
+<https://doi.org/10.1371/journal.pone.0295423>   
+<https://doi.org/10.1249/mss.0000000000003907>   
+<https://doi.org/10.1249/mss.0000000000003907>   
+<https://doi.org/10.1136/bmjsem-2020-000996>   
+<https://doi.org/10.1249/mss.0000000000002974>   
+<https://doi.org/10.1249/mss.0000000000003715>   
+<https://doi.org/10.5114/jhk/191528>   
+<https://doi.org/10.5114/jhk/191528>   
+<https://doi.org/10.4300/JGME-D-22-00480.1>   
+<https://doi.org/10.1016/j.jshs.2024.04.011>   
+<https://doi.org/10.1249/01.MSS.0000113684.61351.B0>   
+<https://doi.org/10.1016/j.jbiomech.2019.05.024>   
+<https://doi.org/10.1016/j.jbiomech.2019.05.024>   
+<https://doi.org/10.1519/R-22096.1>   
+<https://doi.org/10.1080/02640414.2011.610347>   
+<https://doi.org/10.1080/02640414.2021.2019991>   
+<https://doi.org/10.5334/paah.45>   
+<https://doi.org/10.5334/paah.45>   
+<https://doi.org/10.1080/19424280.2015.1038314>   
+<https://doi.org/10.1080/19424280.2017.1314377>   
+<https://doi.org/10.1080/19424280.2017.1314377>   
+<https://doi.org/10.1249/mss.0000000000002023>   
+<https://doi.org/10.1249/mss.0000000000002023>   
+<https://doi.org/10.1249/mss.0000000000003764>   
+<https://doi.org/10.1249/mss.0000000000003764>   
+<https://doi.org/10.1080/14763141.2024.2367619>   
+<https://doi.org/10.1016/j.jshs.2021.03.009>   
+<https://doi.org/10.1186/s40798-017-0096-x>   
+<https://doi.org/10.1136/bjsports-2013-092404>   
+<https://doi.org/10.1136/bjsports-2013-092404>   
+<https://doi.org/10.1249/MSS.0b013e3182874769>   
+<https://doi.org/10.1249/MSS.0b013e3182874769>   
+<https://doi.org/10.1136/bjsports-2015-095031>   
+<https://doi.org/10.1136/bjsports-2015-095031>   
+<https://doi.org/10.1186/s40798-026-01005-0>   
+<https://doi.org/10.1016/s0021-9290(99)00048-2>   
+<https://doi.org/10.1016/0021-9290(94)00127-P>   
+<https://doi.org/10.1016/j.jshs.2014.03.004>   
+<https://doi.org/10.1016/j.clinbiomech.2010.08.005>   
+<https://doi.org/10.1016/j.clinbiomech.2010.08.005>   
+<https://doi.org/10.1111/sms.70066>   
+<https://doi.org/10.1111/sms.14162>   
+<https://doi.org/10.1242/jeb.246770>   
+<https://doi.org/10.1016/j.jbiomech.2025.112917>   
+<https://doi.org/10.1016/j.jbiomech.2025.112917>   
+<https://doi.org/10.1097/00003677-200101000-00008>   
+<https://doi.org/10.1097/00003677-200101000-00008>   
+<https://doi.org/10.1136/bjsports-2015-095054>   
+<https://doi.org/10.1136/bjsports-2015-095054>   
+<https://doi.org/10.1111/sms.70087>   
+<https://doi.org/10.1016/j.clinbiomech.2019.06.014>   
+<https://doi.org/10.1016/j.clinbiomech.2019.06.014>   
+<https://doi.org/10.1249/00005768-198201000-00006>   
+<https://doi.org/10.1007/s00421-007-0456-1>   
+<https://doi.org/10.1007/s00421-007-0456-1>   
+<https://doi.org/10.1152/japplphysiol.00374.2018>   
+<https://doi.org/10.1242/jeb.053157>   
+<https://doi.org/10.1242/jeb.053157>   
+<https://doi.org/10.1080/17461391.2013.783627>   
+<https://doi.org/10.1152/jappl.2000.89.5.1991>   
+<https://doi.org/10.1152/jappl.2000.89.5.1991>   
+<https://doi.org/10.1242/jeb.064527>   
+<https://doi.org/10.1242/jeb.064527>   
+<https://doi.org/10.1249/01.Mss.0000048837.81430.E7>   
+<https://doi.org/10.1249/01.Mss.0000048837.81430.E7>   
+<https://doi.org/10.1016/0167-9457(95)00004-C>   
+<https://doi.org/10.1016/0167-9457(95)00004-C>   
+<https://doi.org/10.1080/001401398186577>   
+<https://doi.org/10.1080/001401398186577>   
+<https://doi.org/10.1136/bjsm.2006.026252>   
+<https://doi.org/10.1136/bjsm.2006.026252>   
+<https://doi.org/10.1016/j.jbiomech.2007.05.001>   
+<https://doi.org/10.1016/j.jbiomech.2007.05.001>   
+<https://doi.org/10.1519/JSC.0b013e318231aafa>   
+<https://doi.org/10.1519/JSC.0b013e318231aafa>   
+<https://doi.org/10.1080/02701367.2012.10599870>   
+<https://doi.org/10.1080/02701367.2012.10599870>   
+<https://doi.org/10.1016/j.gaitpost.2013.01.027>   
+<https://doi.org/10.1016/j.gaitpost.2013.01.027>   
+<https://doi.org/10.1055/s-0032-1331205>   
+<https://doi.org/10.1123/ijspp.2014-0179>   
+<https://doi.org/10.1123/ijspp.2014-0179>   
+<https://doi.org/10.1055/s-0035-1555931>   
+<https://doi.org/10.1080/02640414.2016.1225970>   
+<https://doi.org/10.1371/journal.pone.0191688>   
+<https://doi.org/10.1371/journal.pone.0191688>   
+<https://doi.org/10.1177/0363546519879693>   
+<https://doi.org/10.1080/17461391.2019.1626911>   
+<https://doi.org/10.2478/hukin-2019-0036>   
+<https://doi.org/10.2478/hukin-2019-0036>   
+<https://doi.org/10.1007/s00421-020-04380-y>   
+<https://doi.org/10.1007/s00421-020-04380-y>   
+<https://doi.org/10.1080/14763141.2022.2094825>   
+<https://doi.org/10.1080/14763141.2022.2094825>   
+<https://doi.org/10.1177/23259671231204629>   
+<https://doi.org/10.1177/23259671231204629>   
+<https://doi.org/10.1038/s41598-023-35345-8>   
+<https://doi.org/10.26603/001c.140544>   
+<https://doi.org/10.1186/s40798-015-0007-y>   
+<https://doi.org/10.1186/s40798-015-0007-y>   
+<https://doi.org/10.1111/sms.14570>   
+<https://doi.org/10.1111/sms.14570>   
+<https://doi.org/10.7759/cureus.90322>   
+<https://doi.org/10.3390/biology11010008>   
+<https://doi.org/10.3390/biology11010008>   
+<https://doi.org/10.1080/19424280.2023.2203518>   
+<https://doi.org/10.1016/0021-9290(95)00029-1>   
+<https://doi.org/10.1016/0021-9290(95)00029-1>   
+<https://doi.org/10.1249/MSS.0b013e3182a78c3a>   
+<https://doi.org/10.26603/001c.25166>   
+<https://doi.org/10.1016/j.gaitpost.2021.09.168>   
+<https://doi.org/10.1080/02640410802298235>   
+<https://doi.org/10.1038/s41598-020-62964-2>   
+<https://doi.org/10.1080/02640418508729731>   
+<https://doi.org/10.1080/02640418508729731>   
+<https://doi.org/10.1097/00005768-199801000-00018>   
+<https://doi.org/10.1016/j.clinbiomech.2008.06.011>   
+<https://doi.org/10.1016/j.clinbiomech.2008.06.011>   
+<https://doi.org/10.1016/j.jbiomech.2007.05.024>   
+<https://doi.org/10.1136/bmjsem-2021-001293>   
+<https://doi.org/10.4085/1062-6050-0514.19>   
+<https://doi.org/10.4085/1062-6050-0514.19>   
+<https://doi.org/10.1016/j.jbiomech.2022.111136>   
+<https://doi.org/10.1016/j.jbiomech.2022.111136>   
+<https://doi.org/10.3390/s20143810>   
+<https://doi.org/10.3389/fspor.2019.00053>   
+<https://doi.org/10.3389/fresc.2022.880483>   
+<https://doi.org/10.1371/journal.pone.0295645>   
+<https://doi.org/10.1177/03635465231222464>   
+<https://doi.org/10.1177/03635465231222464>   
+<https://doi.org/10.1093/ptj/71.2.140>   
+<https://doi.org/10.1093/ptj/71.2.140>   
+<https://doi.org/10.1136/bjsports-2014-093637>   
+<https://doi.org/10.1007/s40279-022-01666-3>   
+<https://doi.org/10.1007/s40279-022-01666-3>   
+<https://doi.org/10.1002/ejsc.70004>   
+<https://doi.org/10.1002/ejsc.70004>   
+<https://doi.org/10.3390/bioengineering10070876>   
+<https://doi.org/10.1080/14763141.2022.2159870>   
+<https://doi.org/10.1080/14763141.2022.2159870>   
+<https://doi.org/10.1016/j.humov.2020.102690>   
+<https://doi.org/10.1016/j.humov.2020.102690>   
+<https://doi.org/10.1249/MSS.0000000000003493>   
+<https://doi.org/10.1249/MSS.0000000000003493>   
+<https://doi.org/10.1016/j.jbiomech.2015.03.017>   
+<https://doi.org/10.1016/j.jbiomech.2015.03.017>   
+<https://doi.org/10.1016/j.jbiomech.2015.09.025>   
+<https://doi.org/10.1136/bmjsem-2020-000963>   
+<https://doi.org/10.1136/bmjsem-2020-000963>   
+<https://doi.org/10.1249/mss.0000000000001846>   
+<https://doi.org/10.1249/mss.0000000000001846>   
+<https://doi.org/10.2165/00007256-198502020-00006>   
+<https://doi.org/10.2165/00007256-198502020-00006>   
+<https://doi.org/10.1080/19424280.2024.2329250>   
+<https://doi.org/10.1080/19424280.2024.2329250>   

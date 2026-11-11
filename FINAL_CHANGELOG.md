@@ -1,5 +1,6 @@
 # V5.1 변경 기록 — 2026-10-16
 
+- **논문 표·그래프는 원문 그대로**(2026-11-10 사용자 지시): 수치로 다시 그리지 않고 원문 PDF에서 해당 표·Figure 영역만 크롭해 사용. 색·글자 수정·덧그리기 금지, 읽는 법은 그림 밖 한국어 문장. CC BY/CC0는 출처·크롭 표기, 권리 불명확이면 미사용(AGENTS·WORKFLOW 2-2·PROMPT).
 - **납품물은 매번 대화창 다운로드 첨부.** delivery 3종(PNG 각 장·PPTX·caption.md) 전부를 대화창 첨부 파일로 보내 사용자가 "다운로드"만 눌러 받게 한다. 경로만 알려 주고 끝내지 않는다(AGENTS·WORKFLOW 7-1·PROMPT·CLOUD_START).
 - **그림 대신 사진**(2026-10-15 지시를 main 지침에 통합): 사용자 소재 → CC0/CC BY/CC BY-SA 등 사용권 확인 사진 → 없으면 사진 자리. 데이터 그래프는 유지. 사용권 기록·캡션 저작자 표시(WORKFLOW 2-1).
 - **PowerPoint 없는 환경 경로**: `tools/cardkit/linux_render.cjs`(렌더·QA·줄 좌표·사진 크롭), `verify_pptx_lo.py`(LibreOffice 대체 검사, PASS 아님). 클라우드에서 같은 PNG·PPTX를 만들고 "PowerPoint 미검증"으로 보고.
