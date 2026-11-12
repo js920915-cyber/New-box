@@ -1,0 +1,99 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1195,
+    "bottomGap": 121,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1163.4,
+    "bottomGap": 152.6,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1197.8,
+    "bottomGap": 118.2,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "note": "36px/500",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1122,
+    "bottomGap": 194,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item": "48px/800",
+      "body": "44px/500",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1135.7,
+    "bottomGap": 180.3,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "big": "144px/850",
+      "note": "36px/500",
+      "strong": "44px/750",
+      "safety": "38px/700"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1224.5,
+    "bottomGap": 91.5,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "56px/800",
+      "key": "56px/800",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1228.3,
+    "bottomGap": 87.8,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "key": "56px/800",
+      "body": "44px/500",
+      "safety": "38px/700",
+      "warn": "38px/700"
+    }
+  }
+]

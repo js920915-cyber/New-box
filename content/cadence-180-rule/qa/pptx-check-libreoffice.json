@@ -1,0 +1,51 @@
+{
+  "pptx": "adobe-express/cadence-180-rule-express.pptx",
+  "renderer": "LibreOffice (PowerPoint 아님)",
+  "slides": 7,
+  "warnings": [],
+  "cards": [
+    {
+      "card": "01",
+      "verticalShiftPx": 1,
+      "diffPct": 4.66,
+      "pass": true
+    },
+    {
+      "card": "02",
+      "verticalShiftPx": 1,
+      "diffPct": 6.71,
+      "pass": true
+    },
+    {
+      "card": "03",
+      "verticalShiftPx": 1,
+      "diffPct": 5.25,
+      "pass": true
+    },
+    {
+      "card": "04",
+      "verticalShiftPx": 3,
+      "diffPct": 8.17,
+      "pass": false
+    },
+    {
+      "card": "05",
+      "verticalShiftPx": 2,
+      "diffPct": 11.06,
+      "pass": false
+    },
+    {
+      "card": "06",
+      "verticalShiftPx": 2,
+      "diffPct": 8.17,
+      "pass": false
+    },
+    {
+      "card": "07",
+      "verticalShiftPx": 3,
+      "diffPct": 8.56,
+      "pass": false
+    }
+  ],
+  "result": "LO-FAIL"
+}

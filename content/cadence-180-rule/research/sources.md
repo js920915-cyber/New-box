@@ -1,0 +1,15 @@
+# 근거 출처 — cadence-180-rule (보편적 케이던스 규칙)
+
+| ID | 문헌 | 접근 | 라이선스 |
+|---|---|---|---|
+| S1 | Patoz A, Gindre C, Lussiana T, Breine B. The Heel-Strike Fallacy and Cadence Beliefs in Distance Running: A Narrative Review. *Sports Med Open* 2026;12:149. doi:10.1186/s40798-026-01120-y | **전문 정독**(사용자 Google Drive PDF, 18쪽). 원본: `../heel-strike-cadence/research/patoz2026_sports_med_open.pdf`. 이번 주제는 Belief 2 "The Universal Cadence Rule"(6~8쪽)과 Fig. 1(7쪽)을 다시 열어 문장 단위로 매핑. Belief 3·결론의 관련 문장도 확인 | CC BY 4.0 |
+| S2 | van Oeveren BT, de Ruiter CJ, Beek PJ, van Dieën JH. Optimal stride frequencies in running at different speeds. *PLoS ONE* 2017;12(10):e0184273. doi:10.1371/journal.pone.0184273 (PMID 29059198, PMC5653196) | **전문 정독**: Europe PMC 전문 XML(`research/vanoeveren2017.xml`, 텍스트 `vanoeveren2017.txt`) — Abstract·Introduction·Methods·Results·Table 1·Discussion·Conclusion. 그림 이미지(Fig. 1~3)는 cdn.ncbi.nlm.nih.gov 차단으로 열지 못해 legend만 확인 → 그림은 카드에 쓰지 않음 | CC BY 4.0 |
+
+## S2 설계·한계
+- 건강한 **초보 러너 12명**(남 4·여 8, 23.3±3.4세), 트레드밀. 자기 선택 속도의 90/100/110%(중앙값 2.38/2.6/2.9 m/s ≈ 8.6~10.4 km/h).
+- 보행 빈도(stride frequency, 1 stride = 좌우 2걸음)를 70·80·90·100 stride/분과 자기 선택값으로 바꿔 3분씩 달리며 **심박(HR)** 측정. 산소 소비가 아닌 심박으로 에너지 비용을 추정.
+- 집단 분석(GEE) → 심박 최저점 SFopt = **83 stride/분 (= 분당 약 166걸음)**, 세 속도 공통. 자기 선택 SF 중앙값 77/79/80 stride/분으로 최적보다 6%/5%/2% 낮음.
+- 한계(저자 기술): 표본 작고 약간 검정력 부족, 속도 범위 좁음, 숙련 러너에게는 다를 수 있음. 저자들은 83 stride/분도 모두에게 일반화하지 말고 개인별로 정하라고 결론.
+
+## 원 연구 미확인
+S1이 인용한 원 연구 중 체격(Tenforde 2019)·맨발(De Wit 2000, Divert 2005)·모래(Pinnington 2005)·청소년(Garcia 2022)은 오픈액세스가 아니어서 전문 미확인 → 카드·캡션에는 S1 리뷰의 정리 문장(방향)만 쓰고, 원 연구의 % 수치(4~6%, 5~10%)는 넣지 않음.
