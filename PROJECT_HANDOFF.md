@@ -16,7 +16,7 @@
 
 | 폴더 | 상태·용도 |
 |---|---|
-| `cadence-180-rule` | 2026-11-12 신규(7장). heel-strike-cadence 리뷰의 Belief 2(보편적 케이던스 규칙)만 집중 + van Oeveren 2017 PLoS ONE 전문(초보 12명, 심박 최저 ≈ 166걸음/분). 03장은 원문 Fig. 1 그대로(속도 의존 구성). 11-12 수정: 06장에 리뷰 이론 단락(제약조건의 결과·완만한 최적 구간·소폭 조절 vs 일률적 강요) 압축, 04장 청소년 삭제. 사진 3장(CC BY/PDM). van Oeveren 그림은 이미지 서버 차단으로 미사용. delivery/에 PNG·PPTX·caption. PowerPoint 미검증(LibreOffice 대체 검사, 줄바꿈 동일), Express 실제 가져오기 미확인 |
+| `cadence-180-rule` | 2026-11-12 최종 "나만의 템포" 8장(자기조직화 중심). 180 기원(Daniels 1984 관찰, V.O2 원문 미열람·검색 인용 확인) → 자기조직화 → 원문 Fig. 1 → 숙련/초보(van Oeveren 2017) → 강요의 대가 → PFP 조율(de Souza 2024 RCT, Petri 2026 엄브렐라, Bramah 2019는 캡션) → 나만의 템포. 사진 3장(CC BY/PDM). delivery/에 PNG 8장·PPTX·caption. PowerPoint 미검증(LibreOffice 대체 검사, 줄바꿈 동일), Express 실제 가져오기 미확인 |
 | `heel-strike-cadence` | 2026-11-11 신규(V5.2 cardkit, 6장). Patoz 2026 Sports Med Open 내러티브 리뷰(사용자 Drive PDF 전문 정독): 뒤꿈치 착지·180보·케이던스 증가 믿음. 04장은 **원문 Fig. 1 그대로**(CC BY 4.0, 크롭) — 논문 표·그래프 원문 사용 규칙 첫 적용. 사진 3장(PDM/CC BY/CC BY-SA). 원 연구는 학술 사이트 차단으로 미확인 → 원 연구 단일 수치 제외. delivery/에 PNG·PPTX·caption. PowerPoint 미검증(LibreOffice 대체 검사, 줄바꿈 동일), Express 실제 가져오기 미확인 |
 | `pfp-runners-part2` | 2026-10-16 재제작(V5 cardkit, 9장). Powers 2014 각도별 무릎뼈 압박 + 싱글 레그 데드리프트. 그림 대신 사용권 확인 사진 3장(CC BY/BY-SA)+데이터 그래프 2장, 07은 사진 자리(사용자 삽입 필요). delivery/에 PNG·PPTX·caption. PowerPoint 검증 미실시(Linux, LibreOffice 대체 검사만), Express 실제 가져오기 미확인. 이전 11장 시안은 브랜치 claude/adoring-hopper-6vhtnl에 보존 |
 | `plyometric-load-volume-2026` | 2026-10-14 신규. 플라이오메트릭 부하(Zhang Z 2026 Sci Rep)·점프 수(Zhang F 2026 Front Physiol, Wu 2025 RCT) 6장, V4 수치·하단 여백 적용. PNG 6장·소스·근거·QA 존재. 영상/Express 없음 |

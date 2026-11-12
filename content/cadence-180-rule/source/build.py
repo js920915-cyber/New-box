@@ -1,4 +1,4 @@
-"""케이던스 180 규칙 카드 HTML 생성: source/01.html ~ 07.html (tools/cardkit의 qa.js·layers.js 포함).
+"""나만의 템포(케이던스 자기조직화) 카드 HTML 생성: source/01.html ~ 08.html (tools/cardkit의 qa.js·layers.js 포함).
 근거: Patoz 2026 Sports Med Open 12:149 (Belief 2), van Oeveren 2017 PLoS ONE (전문 정독).
 03장 그래프는 Patoz 2026 원문 Fig. 1 크롭 그대로(다시 그리지 않음).
 사용: python3 content/cadence-180-rule/source/build.py"""
@@ -85,59 +85,64 @@ def kpair(head, sub):
 CARDS = [
     # 01 표지
     ('kind-cover', [
-        '<h1 class="headline">분당 180보,<br>꼭 <span class="accent">맞춰야</span><br>할까요?</h1>', gap(40),
-        photo('cover-race-runners_PeterMooney_ccby20.jpg', 580, 900, -6, -20, '도로 대회에서 힘껏 달리는 두 시민 러너'), gap(40),
-        '<p class="body">‘케이던스 180’은 어디서 왔고<br>연구는 무엇을 말할까요?</p>']),
-    # 02 출처 — Daniels 1984 올림픽 관찰 (V.O2 2018 회고)
+        '<h1 class="headline">당신의 러닝 <span class="accent">템포</span>,<br>누가 정했나요?</h1>', gap(40),
+        photo('cover-race-runners_PeterMooney_ccby20.jpg', 640, 960, -36, -10, '도로 대회에서 힘껏 달리는 두 시민 러너'), gap(40),
+        '<p class="body">케이던스(분당 걸음 수)는<br>달리기의 템포입니다</p>']),
+    # 02 180의 기원 — Daniels 1984
     ('kind-origin', [
-        '<h1 class="headline">180은 <span class="accent">올림픽 선수</span>를<br>세어 본 숫자입니다</h1>', gap(36),
+        '<h1 class="headline">180은 <span class="accent">올림픽 선수</span>의<br>템포였습니다</h1>', gap(36),
         photo('cover-elite-marathon_AngelLite_pdm.jpg', 360, 888, 0, -170, '도로 경기에서 달리는 엘리트 선수 세 명'), gap(36),
         '<p class="body">1984년 LA 올림픽, 잭 대니얼스 코치가<br>경기 중인 엘리트 선수 약 47명의<br>걸음 수를 세어 보니<br><span class="strong">180보 미만은 단 1명</span>이었습니다.</p>', gap(36),
         '<div class="box"><p class="item">실험으로 찾은 최적값이 아니라<br>엘리트 경기의 관찰값입니다</p></div>']),
-    # 03 원문 Fig. 1 — 대체로 속도에 의존
+    # 03 자기조직화
+    ('kind-self', [
+        '<h1 class="headline">템포는<br>내 <span class="accent">몸이 만듭니다</span></h1>', gap(36),
+        photo('club-runners_PeterMooney_ccby20.jpg', 380, 888, 0, -40, '도로 대회에서 각자의 리듬으로 달리는 두 러너'), gap(40),
+        '<p class="body">달리기를 반복하면서 몸은<br>에너지·부하·편안함이 균형을 이루는<br><span class="strong">템포를 스스로 찾아갑니다.</span></p>', gap(40),
+        '<div class="box"><p class="item">이것을 <span class="accent">자기조직화</span>라고 합니다</p>'
+        '<p class="note">self-organization</p></div>']),
+    # 04 다른 게 정상 — 원문 Fig. 1
     ('kind-figure', [
-        '<h1 class="headline">케이던스는 대체로<br><span class="accent">속도</span>를 따라갑니다</h1>', gap(28),
+        '<h1 class="headline">그래서 사람마다<br><span class="accent">다른 게 정상</span>입니다</h1>', gap(28),
         figure('fig1_patoz2026_cadence_speed.png', 820, 564, '원문 Fig. 1: 달리기 속도별 케이던스, 연구별 평균값 산점도'), gap(12),
         '<p class="note">원문 Fig. 1 · 점 하나 = 연구·조건 하나의 평균<br>가로: 달리기 속도(km/h) · 세로: 분당 걸음 수</p>', gap(24),
-        '<p class="body">느리거나 중간 속도에서는 주로 보폭이,<br>빠를수록 케이던스가<br><span class="strong">속도를 끌어올리는 몫이 커집니다.</span></p>']),
-    # 04 영향 요인
-    ('kind-factors', [
-        '<h1 class="headline">몸·신발·노면도<br>케이던스를 <span class="accent">바꿉니다</span></h1>', gap(36),
-        photo('barefoot-sand-run_NewtownGrafitti_ccby20.jpg', 300, 888, 0, -150, '해변 모래 위를 맨발로 달리는 러너들'), gap(36),
-        '<div class="list" style="gap:28px">'
-        + bpair('다리가 길거나 체중이 많으면', '성인 러너의 케이던스가 더 낮은 경향')
-        + bpair('맨발·미니멀 신발이면', '신발을 신을 때보다 대체로 높아집니다')
-        + bpair('잔디·모래처럼 푹신한 바닥이면', '안정성을 지키려 높아지는 경우가 많습니다') + '</div>', gap(44),
-        '<p class="item">케이던스는 <span class="accent">조절 전략의 일부</span>입니다</p>']),
-    # 05 van Oeveren 2017
-    ('kind-number', [
-        '<h1 class="headline">심박이 가장 낮았던<br><span class="accent">케이던스</span>는?</h1>', gap(40),
-        '<p class="body">초보 러너 12명이 트레드밀에서<br>걸음 수를 바꿔 가며 달렸습니다</p>', gap(36),
-        '<p class="big">분당 약 166보</p>', gap(8),
-        '<p class="note">83 stride(1 stride = 2걸음)</p>', gap(44),
-        '<p class="body">180보보다 낮았습니다. 그래도 연구진은<br><span class="strong">이 값도 모두에게 적용하지 말고</span><br><span class="strong">개인별로 정하라</span>고 결론 내렸습니다.</p>', gap(48),
-        '<div class="box"><p class="safety">심박으로 추정한 값 · 초보 12명 ·<br>시속 약 8.6~10.4km 범위의 결과입니다</p></div>']),
-    # 06 제약조건의 결과 · 완만한 최적 구간
-    ('kind-nudge', [
-        '<h1 class="headline">케이던스는<br>여러 조건이 만든 <span class="accent">결과</span></h1>', gap(36),
-        '<p class="body">러너는 힘든 정도·협응·달리는 상황이<br>균형을 이루는 범위로 모입니다.</p>', gap(40),
-        '<div class="box"><p class="key">최적은 한 점이 아니라<br><span class="accent">완만한 구간</span>입니다</p></div>', gap(48),
-        '<div class="list" style="gap:40px">'
-        + kpair('<span class="accent">신중한 소폭</span> 조절은 도움', '평소 리듬에서 조금 올리면 일부 러너는<br>에너지·부하 면에서 이득을 볼 수 있습니다')
-        + kpair('<span class="accent">일률적 강요</span>는 역효과 위험', '몸의 자기조절을 흐트러뜨려<br>에너지·부하 부담을 키울 수 있습니다') + '</div>']),
-    # 07 요약
+        '<p class="body">속도·체형·신발·노면에 따라 다르고<br><span class="strong">모양은 달라도 효율은 비슷합니다.</span></p>']),
+    # 05 시간이 걸린다 — 숙련/초보
+    ('kind-learn', [
+        '<h1 class="headline">템포를 찾는 데는<br><span class="accent">시간</span>이 걸립니다</h1>', gap(64),
+        '<div class="list" style="gap:52px">'
+        + kpair('숙련 러너는', '자기 최적 템포 근처로 달리는 경향')
+        + kpair('초보 러너는', '아직 최적보다 낮게 달리는 경향') + '</div>', gap(80),
+        '<p class="big">2~6%</p>', gap(16),
+        '<p class="body">초보 12명 연구에서 평소 템포는<br>심박이 가장 낮은 템포보다<br><span class="strong">이만큼 낮았습니다.</span></p>']),
+    # 06 남의 템포 강요
+    ('kind-imposed', [
+        '<h1 class="headline">남의 템포를<br><span class="accent">강요</span>하면?</h1>', gap(48),
+        '<div class="list" style="gap:36px">'
+        + kpair('더 힘들어질 수 있습니다', '내 템포에서 크게 벗어나면<br>에너지와 힘든 느낌이 커지는 경향')
+        + kpair('부담이 옮겨갈 수 있습니다', '다른 관절에서 보상이 생길 수 있습니다')
+        + kpair('몸이 찾은 균형이 흐트러집니다', '일률적 처방은 자기조직화를<br>방해할 위험이 있습니다') + '</div>', gap(48),
+        '<div class="box"><p class="item">정답은 한 점이 아니라<br>내 템포 근처의 편한 범위</p></div>']),
+    # 07 PFP 조율
+    ('kind-pfp', [
+        '<h1 class="headline">그래도 살짝<br><span class="accent">조율</span>할 때가 있습니다</h1>', gap(48),
+        '<p class="body">무릎 앞이 아픈 러너가 평소 템포를<br>7.5~10% 올리는 연습을 2주 했더니</p>', gap(28),
+        '<p class="big">2.9점</p>', gap(12),
+        '<p class="body">6개월 뒤 <span class="strong">달릴 때 통증(0~10)</span>이<br>아무것도 안 한 그룹보다 더 줄었습니다</p>', gap(12),
+        '<p class="note">무작위 대조 연구, 러너 30명</p>', gap(48),
+        '<div class="box"><p class="item">180이 아니라 내 템포 +5~10%<br>근력·부하 관리와 함께<br>통증 반응을 보며 천천히</p></div>']),
+    # 08 나만의 템포
     ('kind-summary', [
-        '<h1 class="headline">180 대신<br><span class="accent">내 숫자</span>에서 시작합니다</h1>', gap(56),
-        '<div class="list" style="gap:40px">'
-        + kpair('먼저 평소 케이던스 확인', '같은 속도·같은 길에서 재야 비교됩니다')
-        + kpair('바꾼다면 평소 값에서 조금씩', '정해진 180이 아니라 내 기준에서')
-        + kpair('몸의 반응으로 판단', '통증·편안함·기능을 함께 봅니다') + '</div>', gap(48),
-        '<div class="box"><p class="safety">무릎 앞 통증(PFP) 러너처럼 임상 근거가<br>있으면 케이던스 조정을 시도해 볼 수 있습니다</p></div>', gap(44),
+        '<h1 class="headline">남의 템포 말고,<br><span class="accent">나만의 템포</span></h1>', gap(72),
+        '<div class="list" style="gap:48px">'
+        + kpair('내 템포부터 알기', '같은 속도·같은 길에서 재 봅니다')
+        + kpair('바꾼다면 조금씩', '내 템포에서 출발해 반응을 봅니다') + '</div>', gap(64),
+        '<div class="box"><p class="key">평균과 다르다고<br><span class="accent">틀린 것은 아닙니다</span></p></div>', gap(64),
         '<p class="safety"><span class="warn">통증이 생기거나 커지면 멈추고</span><br>담당 트레이너와 다시 조정하세요.</p>']),
 ]
 
 for i, (kind, parts) in enumerate(CARDS, 1):
-    html = (f'<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>케이던스 180 {i:02d}</title><style>{CSS}</style></head>'
+    html = (f'<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>나만의 템포 {i:02d}</title><style>{CSS}</style></head>'
             f'<body><article class="card {kind}">{FRAME}{"".join(parts)}</article>{SCRIPTS}</body></html>')
     (HERE / f'{i:02d}.html').write_text(html, encoding='utf-8')
 print(f'{len(CARDS)} cards')

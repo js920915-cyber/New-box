@@ -1,5 +1,7 @@
 # 주장–원문 매핑 (1차 정독 매핑 / 2차 완성 문구 재대조)
 
+> 2026-11-12 최종본은 맨 아래 "8장 '나만의 템포' 최종 매핑"을 기준으로 한다. 그 위 표는 이전 7장 판의 기록이다.
+
 S1 = Patoz 2026 (PDF 쪽), S2 = van Oeveren 2017 (섹션).
 
 | 카드 | 카드·캡션 문장 | 원문 위치 · 원문 | 1차 | 2차 |
@@ -53,3 +55,29 @@ S1 = Patoz 2026 (PDF 쪽), S2 = van Oeveren 2017 (섹션).
 - 사용자: 180의 기원 = 1984 LA 올림픽 Daniels 현장 관찰(V.O2 2018 회고), "장거리"를 마라톤으로 오해할 우려.
 - 원문 페이지 접속 불가(도메인 차단) → 검색 결과의 Daniels 본인 인용문 + 독립 2차 출처로 핵심(1984, 약 47명, 180 미만 1명, 관찰)만 확인. 종목 목록·종목별 수치는 출처 불일치로 제외. "장거리" 대신 "올림픽 경기 중인 엘리트 선수"로 표기해 오해를 피함.
 - 리뷰(S1)의 "average near 180"과 Daniels 회고(대부분 180 이상)는 표현이 달라, 카드는 Daniels 관찰 사실(180 미만 1명)로 바꿈.
+
+## 8장 '나만의 템포' 최종 매핑 (2026-11-12)
+S1 = Patoz 2026, S2 = van Oeveren 2017, S3 = Daniels 회고(V.O2 2018, 검색 인용문), S4 = Bramah 2019, S5 = de Souza Júnior 2024, S6 = Petri 2026.
+
+| 카드 | 문장 | 원문 위치 · 원문 | 1차 | 2차 |
+|---|---|---|---|---|
+| 01 | 케이던스(분당 걸음 수)는 달리기의 템포 | 정의·비유(근거 주장 아님) | — | — |
+| 02 | 1984 LA 올림픽, 잭 대니얼스 코치, 경기 중 엘리트 약 47명, 180보 미만 1명 / 실험 최적값이 아닌 관찰값 | S3 인용문; S1 6쪽; S2 Introduction "based on the observation that ... elite runners seem to use a SF of at least 90 strides·min-1" | ✔ | ✔ |
+| 03 | 달리기를 반복하며 몸은 에너지·부하·편안함이 균형을 이루는 템포를 스스로 찾아감 | S1 4쪽 "running gait self-organizes through repeated practice toward solutions that balance energetic cost, mechanical loading, and comfort within individual constraints"; 8쪽 "runners tend to settle into cadence ranges that balance perceived effort, neuromuscular coordination, and task demands" | ✔ | ✔ |
+| 03 | 이것을 자기조직화(self-organization)라고 함 | S1 8쪽 "Recognizing cadence as a manifestation of self-organization under constraint" | ✔ | ✔ |
+| 04 | 원문 Fig. 1, 점 = 연구·조건 평균 | S1 7쪽 Fig. 1 legend | ✔ | ✔ |
+| 04 | 속도·체형·신발·노면에 따라 다름 | S1 7~8쪽; 8쪽 "evolves dynamically with speed, morphology, surface, and footwear" | ✔ | ✔ |
+| 04 | 모양은 달라도 효율은 비슷 | S1 13쪽 "runners self-optimize within their constraints, achieving similar energetic efficiency through diverse styles" | ✔ | ✔ |
+| 05 | 숙련 러너는 자기 최적 템포 근처, 초보는 아직 최적보다 낮게 달리는 경향 | S2 Introduction "experienced runners tend to run with SFs close to their SFopt [19,23,24], while inexperienced runners appear to run with SFs below their SFopt [19]" (S2가 선행 연구를 정리한 문장) | ✔ | ✔ |
+| 05 | 템포를 찾는 데는 시간이 걸림(제목) | S1 4쪽 "through repeated practice" + 위 숙련/초보 차이에서 도출 | ✔ | ✔ |
+| 05 | 초보 12명 연구에서 평소 템포는 심박이 가장 낮은 템포보다 2~6% 낮음 | S2 Results "SFself was below the optimum ... by 6%, 5%, 2%" (속도별 중앙값) | ✔ | ✔ |
+| 06 | 크게 벗어나면 에너지·힘든 느낌↑ / 다른 관절에서 보상 / 일률적 처방은 자기조직화 방해 위험 / 정답은 한 점이 아닌 내 템포 근처의 편한 범위 | S1 7쪽 "Deviating substantially ..."; 9쪽 "compensations elsewhere in the kinetic chain"; 8쪽 "risk disrupting individual self-organization"; 8쪽 "shallow optimum rather than a single fixed solution", "relative to an individual's habitual pattern" | ✔ | ✔ |
+| 07 | 무릎 앞이 아픈 러너가 평소 템포를 7.5~10% 올리는 연습 2주 | S5 Methods "increase cadence by 7.5–10%", "over two weeks" | ✔ | ✔ |
+| 07 | 6개월 뒤 달릴 때 통증(0~10)이 아무것도 안 한 그룹보다 2.9점 더 줄어듦 | S5 Results "Cadence x Control—MD −2.9, 95% CI −4.8 to −1.0" at T24, VAS 0–10 | ✔ | ✔ |
+| 07 | 무작위 대조 연구, 러너 30명 | S5 "Thirty runners were allocated ... (n = 10) ... (n = 10) ... (n = 10)" | ✔ | ✔ |
+| 07 | 180이 아니라 내 템포 +5~10%, 근력·부하 관리와 함께, 통증 반응을 보며 천천히 | S6 "cadence increments of 5–10% ... appear feasible when introduced gradually and monitored according to symptom response"; "should not be interpreted ... as substitutes for strengthening, load management, education" | ✔ | ✔ |
+| 08 | 같은 속도·같은 길에서 재 봄 / 바꾼다면 조금씩, 내 템포에서 출발 | S1 7~8쪽(속도·노면 의존)에서 도출; 8쪽 "relative to an individual's habitual pattern"; 11쪽 "Respect progressive adaptation" | ✔ | ✔ |
+| 08 | 평균과 다르다고 틀린 것은 아님 | S1 2~3쪽 "deviation from a group mean does not necessarily indicate technical error or dysfunction"; 13쪽 "Aesthetic judgments should therefore be distinguished from evidence of dysfunction" | ✔ | ✔ |
+| 08 | 통증이 생기거나 커지면 멈추고 담당 트레이너와 조정 | S1 11쪽 "Persistent discomfort may indicate that the intervention is poorly tolerated"; S6 안전성(너무 빠른 변화 시 증상 악화) | ✔ | ✔ |
+
+2차 검수: 완성 문구 확정 후 S1·S2·S5·S6 원문 텍스트를 다시 열어 위 문장을 대조. 표현 판단: S5 결과는 평소 통증·관절 각도 차이가 없어 카드에 "달릴 때 통증"으로 한정. S4(Bramah)는 대조군 없는 사례 연구라 카드에는 쓰지 않고 캡션에만 보조로 씀.
