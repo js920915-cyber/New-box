@@ -86,3 +86,14 @@ S1 = Patoz 2026, S2 = van Oeveren 2017, S3 = Daniels 회고(V.O2 2018, 검색 �
 - 05: "2~6%" 큰 수치와 설명 삭제. 새 문장 — 숙련: "오래 달리며 몸이 찾아낸 최적 템포 근처로 달리는 경향", 초보: "아직 몸이 템포를 찾는 중이라 최적보다 낮게 달리는 경향"(S2 Introduction + S1 4쪽 "through repeated practice"), 박스 "반복해서 달리며 몸은 내 템포를 다듬어 갑니다"(S1 4쪽 "running gait self-organizes through repeated practice"). 1차 ✔ 2차 ✔
 - 07: "2.9점"·"7.5~10%"·"무작위 대조 연구, 러너 30명" 삭제. 새 문장 — "무릎 앞이 아픈 러너는 평소 템포를 조금 올려 조정해 보면 달릴 때 통증이 줄었다는 연구가 있습니다"(S5 Results 달릴 때 통증 6개월 개선, S6 short-term improvements in pain during running), "180이 아니라 내 템포에서 / 평소보다 조금만 올립니다"(S6 modest cadence increases), "근력·부하 관리와 함께 / 템포 조정만으로 해결하지 않습니다"(S6 "should not be interpreted ... as substitutes for strengthening, load management, education"), "통증 반응을 보며 천천히 / 너무 빨리 바꾸면 종아리·아킬레스가 불편할 수 있습니다"(S6 "transient symptom aggravation or distal calf/Achilles discomfort when biomechanical changes were introduced too rapidly"). 1차 ✔ 2차 ✔
 - 캡션도 같은 숫자(2~6%, 2.9점, 7.5~10%, 5~10%, Bramah 수치)를 빼고 정성 표현으로 정리.
+
+## 05 삭제·06 신설 (2026-11-12, 사용자 요청)
+- 기존 05 "템포를 찾는 데는 시간이 걸립니다"(숙련/초보) 삭제 — 사용자: 의미가 잘 전달되지 않음. 캡션의 해당 단락도 삭제. 카드 순서: 05 = 남의 템포를 강요하면?, 06 = 신설.
+- 06 "케이던스 변화는 신중하게"
+| 문장 | 원문 위치 | 1차 | 2차 |
+|---|---|---|---|
+| 반응이 사람마다 다름 — 같은 변화에도 몸의 반응은 크기도 방향도 제각각 | S1 9쪽 "the magnitude and direction of these responses vary between runners" | ✔ | ✔ |
+| 부상 예방 근거는 아직 없음 — 수치가 잠깐 바뀌는 것과 부상이 줄어드는 것은 다른 이야기 | S1 1쪽 "have not been shown to consistently reduce injury risk"; 8쪽 "no consistent evidence linking these acute changes to improved performance or reduced overuse injury risk"; S6 "No direct evidence linking cadence modification to reduced injury rates was identified" | ✔ | ✔ |
+| 몸이 적응할 시간이 필요함 — 갑자기 바꾸면 부담이 다른 곳으로 옮겨갈 수 있음 | S1 11쪽 "Structural and neuromuscular remodeling require time; abrupt changes may merely redistribute stress" | ✔ | ✔ |
+| 먼저, 바꿀 이유가 있는지부터 | S1 11쪽 "Determine whether modification is warranted. Preserve habitual running mechanics when no symptom-related, functional, or performance-related rationale for change is present" | ✔ | ✔ |
+- 07(PFP) 박스 문장 "달릴 때 통증이 줄었다"는 이미 아픈 러너의 증상 개선(S5·S6)이고, 06의 "부상 예방 근거 없음"(건강한 러너의 부상 발생)과 다른 결과라 서로 모순되지 않음.

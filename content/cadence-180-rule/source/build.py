@@ -107,14 +107,7 @@ CARDS = [
         figure('fig1_patoz2026_cadence_speed.png', 820, 564, '원문 Fig. 1: 달리기 속도별 케이던스, 연구별 평균값 산점도'), gap(12),
         '<p class="note">원문 Fig. 1 · 점 하나 = 연구·조건 하나의 평균<br>가로: 달리기 속도(km/h) · 세로: 분당 걸음 수</p>', gap(24),
         '<p class="body">속도·체형·신발·노면에 따라 다르고<br><span class="strong">모양은 달라도 효율은 비슷합니다.</span></p>']),
-    # 05 시간이 걸린다 — 숙련/초보
-    ('kind-learn', [
-        '<h1 class="headline">템포를 찾는 데는<br><span class="accent">시간</span>이 걸립니다</h1>', gap(84),
-        '<div class="list" style="gap:68px">'
-        + kpair('숙련 러너는', '오래 달리며 몸이 찾아낸<br>최적 템포 근처로 달리는 경향')
-        + kpair('초보 러너는', '아직 몸이 템포를 찾는 중이라<br>최적보다 낮게 달리는 경향') + '</div>', gap(88),
-        '<div class="box"><p class="key">반복해서 달리며<br>몸은 <span class="accent">내 템포</span>를 다듬어 갑니다</p></div>']),
-    # 06 남의 템포 강요
+    # 05 남의 템포 강요
     ('kind-imposed', [
         '<h1 class="headline">남의 템포를<br><span class="accent">강요</span>하면?</h1>', gap(48),
         '<div class="list" style="gap:36px">'
@@ -122,6 +115,14 @@ CARDS = [
         + kpair('부담이 옮겨갈 수 있습니다', '다른 관절에서 보상이 생길 수 있습니다')
         + kpair('몸이 찾은 균형이 흐트러집니다', '일률적 처방은 자기조직화를<br>방해할 위험이 있습니다') + '</div>', gap(48),
         '<div class="box"><p class="item">정답은 한 점이 아니라<br>내 템포 근처의 편한 범위</p></div>']),
+    # 06 케이던스 변화는 신중하게
+    ('kind-careful', [
+        '<h1 class="headline">케이던스 변화는<br><span class="accent">신중하게</span></h1>', gap(56),
+        '<div class="list" style="gap:44px">'
+        + kpair('반응이 사람마다 다릅니다', '같은 변화에도 몸의 반응은<br>크기도 방향도 제각각입니다')
+        + kpair('부상 예방 근거는 아직 없습니다', '수치가 잠깐 바뀌는 것과<br>부상이 줄어드는 것은 다른 이야기입니다')
+        + kpair('몸이 적응할 시간이 필요합니다', '갑자기 바꾸면 부담이<br>다른 곳으로 옮겨갈 수 있습니다') + '</div>', gap(56),
+        '<div class="box"><p class="item">먼저, <span class="accent">바꿀 이유</span>가 있는지부터</p></div>']),
     # 07 PFP 조율 (숫자 없이)
     ('kind-pfp', [
         '<h1 class="headline">그래도 살짝<br><span class="accent">조율</span>할 때가 있습니다</h1>', gap(44),

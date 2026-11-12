@@ -4,11 +4,11 @@
 | 카드 | 크기 | 실제 폰트 | contentBottom | bottomGap | LO 픽셀차/세로 | 확인 |
 |---|---|---|---|---|---|---|
 | 01 | 1080x1350 | headline 88px/850, accent 88px/850, body 44px/500 | 1151.1 | 164.9 | 4.97% / 0px | 원본·360px 육안 확인 |
-| 02 | 1080x1350 | headline 84px/850, accent 84px/850, body 44px/500, strong 44px/750, item 48px/800 | 1175.9 | 140.1 | 6.9% / 0px | 원본·360px 육안 확인 |
-| 03 | 1080x1350 | headline 84px/850, accent 48px/800, body 44px/500, strong 44px/750, item 48px/800, note 36px/500 | 1127.4 | 188.6 | 4.35% / 1px | 원본·360px 육안 확인 |
+| 02 | 1080x1350 | headline 84px/850, accent 84px/850, body 44px/500, strong 44px/750, item 48px/800 | 1175.9 | 140.1 | 6.98% / 0px | 원본·360px 육안 확인 |
+| 03 | 1080x1350 | headline 84px/850, accent 48px/800, body 44px/500, strong 44px/750, item 48px/800, note 36px/500 | 1127.4 | 188.6 | 4.36% / 1px | 원본·360px 육안 확인 |
 | 04 | 1080x1350 | headline 84px/850, accent 84px/850, note 36px/500, body 44px/500, strong 44px/750 | 1153.8 | 162.2 | 5.51% / 3px | 원본·360px 육안 확인 |
-| 05 | 1080x1350 | headline 84px/850, accent 56px/800, key 56px/800, body 44px/500 | 1124.9 | 191.1 | 5.39% / 3px | 원본·360px 육안 확인 |
-| 06 | 1080x1350 | headline 84px/850, accent 84px/850, key 56px/800, body 44px/500, item 48px/800 | 1174.7 | 141.3 | 7.05% / 2px | 원본·360px 육안 확인 |
+| 05 | 1080x1350 | headline 84px/850, accent 84px/850, key 56px/800, body 44px/500, item 48px/800 | 1174.7 | 141.3 | 7.1% / 2px | 원본·360px 육안 확인 |
+| 06 | 1080x1350 | headline 84px/850, accent 48px/800, key 56px/800, body 44px/500, item 48px/800 | 1206.8 | 109.2 | 7.1% / 3px | 원본·360px 육안 확인 |
 | 07 | 1080x1350 | headline 84px/850, accent 84px/850, body 44px/500, strong 44px/750, key 56px/800 | 1209.8 | 106.2 | 8.51% / 2px | 원본·360px 육안 확인 |
 | 08 | 1080x1350 | headline 84px/850, accent 56px/800, key 56px/800, body 44px/500, warn 38px/700, safety 38px/700 | 1144.7 | 171.3 | 6.31% / 3px | 원본·360px 육안 확인 |
 
@@ -19,6 +19,8 @@
 
 - 05·07 수정(사용자 요청): 2~6%·2.9점 등 숫자 삭제, 05는 숙련/초보 설명+박스 "반복해서 달리며 몸은 내 템포를 다듬어 갑니다", 07은 연구 요약 박스+조정 원칙 3개. 05 하단 여백 251→191px(간격 조정), 07 106px.
 
+- 05 삭제·06 신설(사용자 요청): 기존 05(숙련/초보) 삭제, 05 = 남의 템포를 강요하면?, 06 = "케이던스 변화는 신중하게"(이유 3개 + 바꿀 이유 박스, 하단 여백 109px). 06 LO 렌더 육안 대조: 줄 수·줄바꿈 동일, 넘침 없음.
+
 ## PPTX
-- build_pptx.py: 8장, 줄 상자 69개, WARN 없음.
+- build_pptx.py: 8장, 줄 상자 71개, WARN 없음.
 - verify_pptx_lo.py: **LO-FAIL (PowerPoint 미검증)**. 경고(줄바꿈·자동 맞춤·장수) 없음, 세로 어긋남 0~3px, 픽셀 차이 4.4~8.7%. 기준 초과 원인은 LibreOffice가 '·', ',', '.', 숫자·단위 주변에 자동 간격을 넣는 특성 — 05·07·08 LO 렌더 육안 대조 결과 줄 수·줄바꿈 동일, 넘침 없음. PowerPoint 실검증·Express 실제 가져오기 미실시.
