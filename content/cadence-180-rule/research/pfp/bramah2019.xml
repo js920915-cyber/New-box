@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="research-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">464</journal-id><journal-id journal-id-type="pmc-domain">sageopen</journal-id><journal-title-group><journal-title>The American Journal of Sports Medicine</journal-title><abbrev-journal-title>Am J Sports Med</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC6883353</article-id><article-id pub-id-type="pmcaid">6883353</article-id><article-id pub-id-type="pmcaiid">6883353</article-id><article-id pub-id-type="pmid">31657964</article-id><article-id pub-id-type="doi">10.1177/0363546519879693</article-id><title-group><article-title>A 10% Increase in Step Rate Improves Running Kinematics and Clinical
+Outcomes in Runners With Patellofemoral Pain at 4 Weeks and 3
+Months</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>Bramah</surname><given-names initials="C">Christopher</given-names></name><degrees>MSc, MCSP</degrees><xref ref-type="aff" rid="aff1-0363546519879693">†</xref><xref rid="corresp1-0363546519879693" ref-type="author-notes">*</xref></contrib><contrib><name name-style="western"><surname>Preece</surname><given-names initials="SJ">Stephen J</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1-0363546519879693">†</xref></contrib><contrib><name name-style="western"><surname>Gill</surname><given-names initials="N">Niamh</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff1-0363546519879693">†</xref></contrib><contrib><name name-style="western"><surname>Herrington</surname><given-names initials="L">Lee</given-names></name><degrees>PhD, MCSP</degrees><xref ref-type="aff" rid="aff1-0363546519879693">†</xref></contrib></contrib-group><aff id="aff1-0363546519879693"><label>†</label>School of Health Sciences, University of
+Salford, Salford, UK</aff><aff id="aff2-0363546519879693">Investigation performed at the School of Health
+Sciences, University of Salford, Salford, UK</aff><author-notes><fn id="corresp1-0363546519879693"><label>*</label><p>Christopher Bramah, MSc,
+MCSP, School of Health Sciences, University of Salford, Blatchford Building,
+Salford, M6 6PU, UK (email: <email>c.a.bramah@salford.ac.uk</email>) (Twitter:
+@chrisbramah).</p></fn></author-notes><pub-date><day>28</day><month>10</month><year>2019</year></pub-date><volume>47</volume><issue>14</issue><fpage>3406</fpage><page-range>3406–3413</page-range><pub-history><event event-type="pmc-release"><date><day>12</day><month>12</month><year>2019</year></date></event></pub-history><permissions><copyright-statement>© 2019 The Author(s)</copyright-statement><license><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0 License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://www.creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work as
+published without adaptation or alteration, without further permission
+provided the original work is attributed as specified on the SAGE and Open
+Access pages (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage" ext-link-type="uri">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="10.1177_0363546519879693.pdf" content-type="pmc-pdf"><?cloudpmc-path 5120/6883353/6e1ede5f8532/10.1177_0363546519879693.pdf?><?cloudpmc-bucket app?><?size 418026?></self-uri><abstract id="abstract1"><title>Abstract</title><sec id="section1-0363546519879693" disp-level="2"><title>Background:</title><p>Aberrant frontal-plane hip and pelvis kinematics have been frequently
+observed in runners with patellofemoral pain (PFP). Gait retaining
+interventions have been shown to improve running kinematics and may
+therefore be beneficial in runners with PFP.</p></sec><sec id="section2-0363546519879693" disp-level="2"><title>Purpose:</title><p>To investigate whether a 10% increase in the running step rate influences
+frontal-plane kinematics of the hip and pelvis as well as clinical outcomes
+in runners with PFP.</p></sec><sec id="section3-0363546519879693" disp-level="2"><title>Study Design:</title><p>Case series; Level of evidence, 4.</p></sec><sec id="section4-0363546519879693" disp-level="2"><title>Methods:</title><p>Runners with PFP underwent a 3-dimensional gait analysis to confirm the
+presence of aberrant frontal-plane hip and/or pelvis kinematics at baseline.
+A total of 12 participants with frontal-plane hip and/or pelvis kinematics 1
+standard deviation above a reference database were invited to undergo the
+gait retraining intervention. Running kinematics along with clinical
+outcomes of pain and functional outcomes were recorded at baseline, 4 weeks
+after retraining, and 3 months. Gait retraining consisted of a single
+session where step rate was increased by 10% using an audible metronome.
+Participants were asked to continue their normal running while
+self-monitoring their step rate using a global positioning system smartwatch
+and audible metronome.</p></sec><sec id="section5-0363546519879693" disp-level="2"><title>Results:</title><p>After gait retraining, significant improvements in running kinematics and
+clinical outcomes were observed at 4-week and 3-month follow-up.
+Repeated-measures analysis of variance with post hoc Bonferroni correction
+(<italic>P</italic> &lt; .016) showed significant reductions in peak
+contralateral pelvic drop (mean difference [MD], 3.12° [95% CI,
+1.88°-4.37°]), hip adduction (MD, 3.99° [95% CI, 2.01°-5.96°]), and knee
+flexion (MD, 4.09° [95% CI, 0.04°-8.15°]) as well as significant increases
+in self-reported weekly running volume (MD, 13.78 km [95% CI, 4.62-22.93
+km]) and longest run pain-free (MD, 6.84 km [95% CI, 3.05-10.62 km]).
+Friedman test with a post hoc Wilcoxon signed-rank test showed significant
+improvements on a numerical rating scale for worst pain in the past week and
+the Lower Extremity Functional Scale.</p></sec><sec id="section6-0363546519879693" disp-level="2"><title>Conclusion:</title><p>A single session of gait retraining using a 10% increase in step rate
+resulted in significant improvements in running kinematics, pain, and
+function in runners with PFP. These improvements were maintained at 3-month
+follow-up. It is important to assess for aberrant running kinematics at
+baseline to ensure that gait interventions are targeted appropriately.</p></sec><sec id="section7-0363546519879693" disp-level="2"><title>Registration:</title><p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03067545" ext-link-type="uri">NCT03067545</ext-link> (ClinicalTrials.gov identifier)</p></sec><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> patellofemoral pain, running, gait retraining, kinematics, step rate</p></sec></abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Issue date 2019 Dec.</p></sec></notes></front><body><p>Recreational running is an increasingly popular method of physical activity, with
+participation rates growing annually. Although running offers several health benefits,
+it also poses a considerable risk of injury to the musculoskeletal system. Overall
+injury incidence rates are reported to range between 19% and 78% among recreational runners,<sup><xref rid="bibr37-0363546519879693" ref-type="bibr">37</xref></sup> with recurrence rates in 20% to 70% of all cases.<sup><xref rid="bibr38-0363546519879693" ref-type="bibr">38</xref></sup> Of all running injuries, patellofemoral pain (PFP) is considered the most common
+running-related knee injury,<sup><xref rid="bibr36-0363546519879693" ref-type="bibr">36</xref></sup> with incidence and prevalence rates as high as 20.8% and 22.7%, respectively.<sup><xref rid="bibr34-0363546519879693" ref-type="bibr">34</xref></sup></p><p>PFP is known to have a multifactorial cause, with aberrant running mechanics identified
+as one risk factor.<sup><xref rid="bibr21-0363546519879693" ref-type="bibr">21</xref>,<xref rid="bibr22-0363546519879693" ref-type="bibr">22</xref>,<xref rid="bibr24-0363546519879693" ref-type="bibr">24</xref></sup> Runners with PFP
+have been reported to demonstrate increased hip adduction (HADD),<sup><xref rid="bibr24-0363546519879693" ref-type="bibr">24</xref>,<xref rid="bibr25-0363546519879693" ref-type="bibr">25</xref>,<xref rid="bibr41-0363546519879693" ref-type="bibr">41</xref></sup> hip internal rotation,<sup><xref rid="bibr25-0363546519879693" ref-type="bibr">25</xref></sup> and contralateral pelvic drop (CPD)<sup><xref rid="bibr41-0363546519879693" ref-type="bibr">41</xref></sup> when compared with injury-free controls. It is thought that aberrant frontal- and
+transverse-plane running kinematics may result in lateral tracking of the patella,
+leading to a rise in patellofemoral joint stress.<sup><xref rid="bibr30-0363546519879693" ref-type="bibr">30</xref></sup> When exposed to repeat loading cycles during running, the knee may experience
+damage to the underlying chondral surface, stress within the subchondral bone, and
+excitation of nociceptors, leading to pain and injury.<sup><xref rid="bibr2-0363546519879693" ref-type="bibr">2</xref></sup></p><p>Gait retraining is a clinical intervention that targets aberrant running kinematics
+within the rehabilitation of PFP. Current evidence has shown improvements in kinematics
+and clinical outcomes after mirror retraining,<sup><xref rid="bibr42-0363546519879693" ref-type="bibr">42</xref></sup> real-time feedback,<sup><xref rid="bibr26-0363546519879693" ref-type="bibr">26</xref></sup> and transitioning to a forefoot contact.<sup><xref rid="bibr32-0363546519879693" ref-type="bibr">32</xref>,<xref rid="bibr33-0363546519879693" ref-type="bibr">33</xref></sup> However, the use of mirror
+retraining and real-time feedback is restricted to clinical and laboratory
+settings,limiting their practical applicability, while transitioning to a forefoot
+strike has been shown to increase Achilles tendon and ankle joint loading, which may
+increase the risk of lower limb injury.<sup><xref rid="bibr1-0363546519879693" ref-type="bibr">1</xref></sup> Furthermore, these studies often utilize a faded feedback design consisting of 8
+sessions over a 2-week period, requiring closeclinical supervision. Therefore, there is
+a need for gait retraining methods that can be easily integrated outside of a laboratory
+setting while providing positive clinical and biomechanical outcomes.</p><p>Increasing step rate may be one method of gait retrainingthat could be integrated outside
+of a laboratory setting. Through the use of global positioning system (GPS) smartwatches
+and mobile metronome applications, runners may be able to self-retrain and monitor their
+step rate without the need for close clinical supervision.<sup><xref rid="bibr19-0363546519879693" ref-type="bibr">19</xref>,<xref rid="bibr40-0363546519879693" ref-type="bibr">40</xref></sup> Currently, only 3 studies have
+investigated the effects of increasing the step rate among runners with PFP.<sup><xref rid="bibr11-0363546519879693" ref-type="bibr">11</xref>,<xref rid="bibr12-0363546519879693" ref-type="bibr">12</xref>,<xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> Neal et al<sup><xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> reported improved frontal-plane hip and pelvis kinematics along with reductions
+in pain but did not investigate whether improvements were maintained beyond the 6-week
+follow-up period. Esculier et al<sup><xref rid="bibr12-0363546519879693" ref-type="bibr">12</xref></sup> reported gait retraining to be no more effective than education on load
+management, and Dos Santos et al<sup><xref rid="bibr11-0363546519879693" ref-type="bibr">11</xref></sup> reported minimal changes in pain after a 2-week retraining period. Furthermore,
+both Esculier et al and Dos Santos et al did not report any change in frontal-plane hip
+and pelvis kinematics after the retraining period. Therefore, questions remain regarding
+the clinical effectiveness of increasing the step rate and whether step rate retraining
+results in long-term kinematic adaptations among runners with PFP.</p><p>The aim of the current study was to investigate whether a 10% increase in the running
+step rate influences frontal-plane kinematics of the hip and pelvis as well as clinical
+outcomes in runners with PFP. Rather than use a clinically monitored faded feedback
+design, we sought to investigate whether runners can self-administer gait retraining
+interventions using an audible metronome and a GPS smartwatch. We hypothesized that a
+10% increase in step rate would result in significant reductions in frontal-plane hipand
+pelvis kinematics and improvements in clinical outcomes and that these changes would be
+present at short- and long-term follow-up.</p><sec id="section8-0363546519879693" disp-level="1"><title>Methods</title><sec id="section9-0363546519879693" disp-level="2"><title>Participants</title><p>Participants were recruited through advertisements at local sports injury
+clinics, running clubs, and a university-based running clinic. Ethical approval
+for the study was obtained via the local ethics committee, and all participants
+provided written informed consent before participation. This study was
+registered as a clinical trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link>
+registration No. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03067545" ext-link-type="uri">NCT03067545</ext-link>) with enrollment for the trial between March 2017
+and December 2018. An a priori sample size calculation was conducted using data
+from a previous gait retraining study identifying a 2.3° reduction in CPD after
+retraining with an effect size of 1.09.<sup><xref rid="bibr26-0363546519879693" ref-type="bibr">26</xref></sup> Using G*Power software, we calculated that 12 participants would be
+required to detect an effect size of 1.25 with a power of 0.8 and an adjusted
+critical alpha of .016. This calculation was based on the use of paired tests to
+detect differences in peak CPD, which were similar to changes observed in
+previous studies after gait retraining (2.3°)<sup><xref rid="bibr26-0363546519879693" ref-type="bibr">26</xref></sup> and also of similar magnitude to differences observed between injured and
+healthy runners (2.7°).<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref></sup></p></sec><sec id="section10-0363546519879693" disp-level="2"><title>Inclusion/Exclusion Criteria</title><p>All participants were required to own a GPS smartwatch or running watch capable
+of monitoring step rate. Participants were included in the gait retraining
+intervention based on a 3-stage assessment process. First, a subjective
+assessment and clinical examination were used to confirm the presence of PFP.
+Once the diagnosis of PFP was confirmed, a 3-dimensional (3D) gait analysis was
+conducted to confirm the presence of aberrant hip and/or pelvis kinematics. To
+ensure that the injury diagnosis met the consensus definition of a
+running-related injury,<sup><xref rid="bibr43-0363546519879693" ref-type="bibr">43</xref></sup> participants had to report an insidious onset of anterior knee pain
+during running lasting for a minimum of 3 months, causing a self-reported
+restriction to either their running volume or duration. Participants were
+required to be running a minimum of twice per week, with their worst pain rated
+a minimum of 3 out of 10 on a numerical rating scale (NRS) for pain (0 = no
+pain, 10 = worst possible pain). Pain must also have been reproduced by ≥1 of
+the additional activities of squatting, kneeling, prolonged sitting, or
+ascending or descending stairs. Participants were excluded if they reported
+having any known medical condition, had undergone prior musculoskeletal surgery,
+had a neurological impairment, had diagnosed knee osteoarthritis, had a
+structural deformity of the knee, had an onset of knee pain caused by trauma or
+any other sporting activity, had ceased running, or were undergoing additional
+treatment outside of the study. To control for training errors as a potential
+underlying cause of injury, participants were also excluded if they reported the
+onset of symptoms to occur after an increase in their weekly training volume ≥30%.<sup><xref rid="bibr23-0363546519879693" ref-type="bibr">23</xref></sup></p><p>After the subjective assessment, participants were invited to undergo a clinical
+examination led by the lead clinician (C.B.) to confirm the diagnosis of PFP in
+accordance with previously published diagnostic criteria.<sup><xref rid="bibr9-0363546519879693" ref-type="bibr">9</xref></sup> Specifically, for inclusion in the study, pain must have been
+retropatellar or peripatellar in nature and reproduced on squatting with the
+exclusion of any patellar instability, ligamentous or meniscal injury.<sup><xref rid="bibr9-0363546519879693" ref-type="bibr">9</xref></sup> Pain on squatting has been shown to have a sensitivity of 91% and a
+negative predictive value of 74%, suggesting this examination to be the best
+available test for PFP.<sup><xref rid="bibr9-0363546519879693" ref-type="bibr">9</xref>,<xref rid="bibr27-0363546519879693" ref-type="bibr">27</xref></sup> A combination of additional, but nonessential, clinical
+tests was used to further increase the diagnostic accuracy of PFP.<sup><xref rid="bibr8-0363546519879693" ref-type="bibr">8</xref></sup> Tests included patellar compression, patellar apprehension, pain on
+palpation of the lateral patellar facet, and pain on resisted quadriceps
+contraction in 30° of knee flexion.<sup><xref rid="bibr8-0363546519879693" ref-type="bibr">8</xref>,<xref rid="bibr27-0363546519879693" ref-type="bibr">27</xref></sup> These tests are known to
+have low sensitivity and specificity when used in isolation and were not used as
+a sole diagnostic criterion for PFP.<sup><xref rid="bibr8-0363546519879693" ref-type="bibr">8</xref>,<xref rid="bibr27-0363546519879693" ref-type="bibr">27</xref></sup></p><p>Once the diagnosis of PFP was confirmed, each participant underwent an initial 3D
+gait analysis as outlined below and completed clinical outcome measures to
+monitor pain and functional improvements. Clinical outcome measures included the
+Lower Extremity Functional Scale (LEFS), previously validated for use in PFP,<sup><xref rid="bibr3-0363546519879693" ref-type="bibr">3</xref></sup> as well as self-reported worst pain experienced in the past week using
+the NRS (0 = no pain, 10 = worst possible pain). Additional outcomes monitored
+were self-reported longest distance run pain-free and total weekly running
+volume.</p></sec><sec id="section11-0363546519879693" disp-level="2"><title>Kinematic Data Collection</title><p>Kinematic data were collected from all participants with confirmed PFP while
+running on a treadmill (F63; Sole Fitness) at 3.2 m/s wearing their own running
+shoes. After a 5-minute warm-up period, 30 seconds of kinematic data were
+collected using a 12-camera Oqus system (240 Hz; Qualisys). A total of 9
+anatomic segments were tracked following a previously published
+protocol.<sup><xref rid="bibr17-0363546519879693" ref-type="bibr">17</xref>,<xref rid="bibr31-0363546519879693" ref-type="bibr">31</xref></sup> Segments included the thorax; pelvis; and bilateral thigh,
+shank, and foot segments. Further details of the markers used to track each
+segment and the precise definition of the anatomic coordinate systems are
+provided in previous publications.<sup><xref rid="bibr13-0363546519879693" ref-type="bibr">13</xref>,<xref rid="bibr17-0363546519879693" ref-type="bibr">17</xref>,<xref rid="bibr31-0363546519879693" ref-type="bibr">31</xref></sup></p><p>Raw kinematic data were low pass filtered at 10 Hz. Intersegmental kinematics,
+along with motions of the pelvis and thorax with respect to the laboratory
+system, were calculated using a 6 degrees of freedom model with Visual3D
+software (C-Motion). Gait events were defined using a kinematic approach in
+which initial contact was defined as the first vertical acceleration peak of
+either the heel or metatarsal markers and toe-off defined as the vertical jerk
+peak of the second metatarsal marker.<sup><xref rid="bibr14-0363546519879693" ref-type="bibr">14</xref></sup> Gait events were subsequently used to segment each kinematic signal into
+a minimum of 10 consecutive gait cycles. An ensemble average for each signal was
+created and selected kinematic parameters derived from the ensemble average
+curves. This latter processing was carried out using a custom Matlab script
+(MathWorks).</p><p>Participants were invited to participate in the gait retraining study providing
+that they demonstrated aberrant hip and/or pelvis kinematics during the initial
+3D gait analysis. Aberrant hip and pelvis kinematics were defined as peak HADD
+and CPD angles ≥1 standard deviation above the mean of a previously published
+database of healthy recreational runners running at the same speed<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref></sup> (qualifying criteria = CPD ≥5.6° and/or HADD ≥13.2°). Runners who did not
+meet the kinematic inclusion criteria were not included in the study and were
+referred to a health care professional for further management.</p></sec><sec id="section12-0363546519879693" disp-level="2"><title>Retraining Protocol</title><p>All participants included within the retraining protocol completed a single
+10-minute retraining session conducted immediately after the initial 3D gait
+analysis. During the retraining session, participants were asked to run at the
+same speed with a 10% increase in their original step rate. Step rate was
+calculated as the number of foot contacts per minute. During the first 5 minutes
+of the retraining protocol, participants were instructed to match their
+footsteps to an audible metronome set to the new step rate. For the final 5
+minutes of the retraining session, the audible metronome was removed, and
+participants were instructed to continue running at the increased step rate.
+Throughout this time, participants were monitored by the lead researcher to
+ensure that they were able to maintain the higher step rate and the metronome
+reintroduced if they failed to do so.</p><p>After the retraining session, participants were provided with instructions for
+self-administration and monitoring of the increased step rate. Specifically,
+during the first 2 weeks, participants were instructed to continue using a free
+downloadable metronome application set to the new step rate. During the third
+and fourth weeks, participants were instructed to continue running without the
+use of the metronome but were instructed to self-monitor their cadence using
+their GPS smartwatch. Participants were permitted to increase their running
+volume at any point in the retraining period provided that any knee pain
+experienced was rated below 3 of 10 on an NRS.</p><p>All participants were invited to follow-up 3D gait analysis sessions at 4 weeks
+and 3 months after the initial assessment. This follow-up period allowed us to
+investigate whether kinematic changes could be maintained across a time frame
+comparable with previous gait retraining studies.<sup><xref rid="bibr42-0363546519879693" ref-type="bibr">42</xref></sup> The follow-up sessions were completed following the same kinematic
+testing procedures as the first visit, recording the same clinical outcome
+measurements. After the 4-week follow-up assessment, participants were
+instructed to continue running without the use of the metronome. No restrictions
+to training parameters were provided; participants were instead instructed to
+increase their training volume or pace and change surfaces as they saw fit
+provided that any pain experienced was rated lower than 3 of 10 on the NRS.</p></sec><sec id="section13-0363546519879693" disp-level="2"><title>Data Analysis</title><p>Several kinematic parameters were selected for data analysis. Kinematic
+parameters included peak CPD, HADD, hip internal rotation, and knee flexion.
+These parameters were selected based on previous research highlighting
+associations with these parameters and PFP.<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref>,<xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref>,<xref rid="bibr25-0363546519879693" ref-type="bibr">25</xref>,<xref rid="bibr41-0363546519879693" ref-type="bibr">41</xref></sup> Peak angles at midstance
+were defined as the maximum joint angles between initial contact and toe-off.
+Stride rate was also included within the analysis, measured as steps per minute,
+along with clinical outcome measures of worst pain experienced in the past week
+using the NRS, longest distance run pain-free, total weekly running volume, and
+LEFS score.</p></sec><sec id="section14-0363546519879693" disp-level="2"><title>Statistical Analysis</title><p>Repeated-measures analysis of variance was used to assess for differences in
+kinematic parameters between the initial assessment (baseline), 4-week
+follow-up, and 3-month follow-up, with a critical alpha of &lt;.05. When
+significant differences were observed, post hoc Bonferroni testing, with an
+adjusted critical alpha of &lt;.016, was used to identify differences between
+time points. Clinical outcomes of the NRS and LEFS were analyzed using the
+Friedman test for nonparametric data with a post hoc Wilcoxon signed-rank test.
+Effect sizes were calculated for pairwise comparisons using the Cohen
+<italic>d</italic> and interpreted as 0.2, 0.5, and 0.8 as small, medium,
+and large, respectively.<sup><xref rid="bibr6-0363546519879693" ref-type="bibr">6</xref></sup></p></sec></sec><sec id="section15-0363546519879693" disp-level="1"><title>Results</title><p>A total of 33 participants met the initial subjective inclusion criteria and were
+invited for a clinical examination. After the clinical examination, 18 were
+diagnosed as having PFP and invited to take part in the 3D gait analysis. After the
+3D gait analysis, 12 participants met the inclusion criteria and were enrolled in
+the gait retraining study. There were 2 participants who dropped out of the study
+between the 4-week and 3-month follow-up points. The first participant failed to
+attend the 3-month follow-up and did not respond to contact, and the second
+developed a tibial stress fracture on the same limb and was unable to continue the
+study. Both participants were included in the final analysis using a last
+observation carried forward method<sup><xref rid="bibr35-0363546519879693" ref-type="bibr">35</xref></sup> (<xref rid="table1-0363546519879693" ref-type="table">Table 1</xref>).</p><table-wrap id="table1-0363546519879693" position="float"><?disp-level 2?><label>Table 1</label><caption><p>Participant Characteristics<sup><xref rid="table-fn1-0363546519879693" ref-type="table-fn">
+<italic>a</italic>
+</xref></sup></p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Male/female sex, n</td><td rowspan="1" colspan="1">4/8</td></tr><tr><td rowspan="1" colspan="1">Age, y</td><td rowspan="1" colspan="1">39.92 ± 6.50</td></tr><tr><td rowspan="1" colspan="1">Weight, kg</td><td rowspan="1" colspan="1">61.03 ± 6.48</td></tr><tr><td rowspan="1" colspan="1">Height, cm</td><td rowspan="1" colspan="1">170.33 ± 6.98</td></tr><tr><td rowspan="1" colspan="1">Usual weekly running volume, km</td><td rowspan="1" colspan="1">29.03 ± 8.11</td></tr></tbody></table><table-wrap-foot><fn id="table-fn1-0363546519879693"><label>a</label><p>Values are presented as mean ± SD unless otherwise specified.</p></fn></table-wrap-foot></table-wrap><sec id="section16-0363546519879693" disp-level="2"><title>Kinematics</title><p>Repeated-measures analysis of variance showed a significant effect of time for
+several kinematic parameters (<xref rid="table2-0363546519879693" ref-type="table">Table 2</xref>). In particular, there were
+significant increases in step rate and reductions in peak CPD, HADD, and knee
+flexion after the step rate intervention (<xref rid="table2-0363546519879693" ref-type="table">Table 2</xref>). The post hoc testrevealed
+that step rate significantly increased by an average of 11.2% at 4 weeks (mean
+difference [MD], 18.6steps/min [95% CI, 11.97-25.23 steps/min]) and9.2% at 3
+months (MD, 15.1 steps/min [95% CI, 10.64-19.57 steps/min]) when compared with
+baseline. There was a significant 3.12° reduction in CPD (MD, 3.12° [95% CI,
+1.88°-4.37°]) and 3.99° reduction in HADD (MD, 3.99° [95% CI, 2.01°-5.96°]) at 4
+week follow-up, which was also significant at 3 months when compared with
+baseline for both CPD (MD, 2.7° [95% CI, 1.4°-4.1°]) and HADD (MD, 2.8° [95% CI,
+0.4°-5.4°]). Similarly, there was a significant reduction in peak knee flexion
+during stance phase at 4 weeks (MD, 4.10° [95% CI, 0.04°-8.15°]) and 3 months
+(MD, 4.15° [95% CI, 0.81°-7.48°]). No significant differences were observed
+between the 4-week and 3-month follow-up time points for any of the kinematic
+parameters (<xref rid="table2-0363546519879693" ref-type="table">Table
+2</xref>).</p><table-wrap id="table2-0363546519879693" position="float"><?disp-level 3?><label>Table 2</label><caption><p>Kinematic Parameters<sup><xref rid="table-fn2-0363546519879693" ref-type="table-fn">
+<italic>a</italic>
+</xref></sup></p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Baseline</th><th align="center" rowspan="1" colspan="1">4 wk</th><th align="center" rowspan="1" colspan="1">3 mo</th><th align="center" rowspan="1" colspan="1"><italic>P</italic> Value (ANOVA)</th><th align="center" colspan="2" rowspan="1">Pairwise Effect Size (Cohen
+<italic>d</italic>)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Stride rate, steps/min</td><td rowspan="1" colspan="1">165.93 ± 7.38</td><td rowspan="1" colspan="1">184.53 ± 10.10<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">181.04 ± 7.78<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">2.10</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">1.99</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.38</td></tr><tr><td rowspan="1" colspan="1">Peak CPD, deg</td><td rowspan="1" colspan="1">7.46 ± 1.81</td><td rowspan="1" colspan="1">4.34 ± 2.47<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">4.73 ± 2.95<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">1.44</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">1.11</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.14</td></tr><tr><td rowspan="1" colspan="1">Peak HADD, deg</td><td rowspan="1" colspan="1">15.95 ± 2.75</td><td rowspan="1" colspan="1">11.96 ± 1.77<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">13.09 ± 3.20<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">1.72</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">0.95</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.43</td></tr><tr><td rowspan="1" colspan="1">Peak hip internal rotation, deg</td><td rowspan="1" colspan="1">4.06 ± 8.17</td><td rowspan="1" colspan="1">4.18 ± 9.35</td><td rowspan="1" colspan="1">4.42 ± 7.89</td><td rowspan="1" colspan="1">.93</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">0.01</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">0.04</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.02</td></tr><tr><td rowspan="1" colspan="1">Peak knee flexion, deg</td><td rowspan="1" colspan="1">33.74 ± 5.25</td><td rowspan="1" colspan="1">29.64 ± 3.23<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">29.59 ± 3.16<sup><xref rid="table-fn3-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">0.94</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">0.96</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.02</td></tr></tbody></table><table-wrap-foot><fn id="table-fn2-0363546519879693"><label>a</label><p>Values are presented as mean ± SD unless otherwise specified.
+Pairwise effect sizes are interpreted as 0.2 = small, 0.5 = medium,
+and 0.8 = large. ANOVA, analysis of variance; CPD, contralateral
+pelvic drop; HADD, hip adduction.</p></fn><fn id="table-fn3-0363546519879693"><label>b</label><p>Significant difference when compared with baseline at
+<italic>P</italic> &lt; .016 after Bonferroni correction.</p></fn></table-wrap-foot></table-wrap></sec><sec id="section17-0363546519879693" disp-level="2"><title>Clinical and Functional Outcomes</title><p>All clinical and functional outcomes demonstrated statistically significant
+improvements. Specifically, there was a significant reduction in pain scores on
+the NRS from an average of 6.2 out of 10 at baseline to 1.0 and 0.3 at 4 weeks
+and 3 months, respectively (χ<sup>2</sup> = 21.38; <italic>P</italic> &lt; .01)
+(<xref rid="fig1-0363546519879693" ref-type="fig">Figure 1</xref>), which is
+above the minimal clinically important difference of 1.2 points.<sup><xref rid="bibr28-0363546519879693" ref-type="bibr">28</xref></sup> The LEFS demonstrated a statistically significant improvement from 62.3
+at baseline to 76.6 at 4 weeks and 79.7 at 3 months (χ<sup>2</sup> = 22.29;
+<italic>P</italic>≤ .01) (<xref rid="fig1-0363546519879693" ref-type="fig">Figure 1</xref>). When compared with baseline, this was a 14.3- and
+17.4-point improvement at 4 weeks and 3 months, respectively, which is above the
+minimal clinically important difference of 9 points.<sup><xref rid="bibr3-0363546519879693" ref-type="bibr">3</xref></sup> All participants demonstrated a significant increase in total weekly
+running volume (MD, 13.78 km [95% CI, 4.62-22.93 km]) and longest distance run
+pain-free (MD, 6.84 km [95% CI, 3.05-10.62 km]) from baseline to 4-week and
+3-monthfollow-up (<xref rid="table3-0363546519879693" ref-type="table">Table
+3</xref>).</p><fig id="fig1-0363546519879693" position="float"><?disp-level 3?><label>Figure 1.</label><caption><p>Clinical outcomes at baseline, 4 weeks, and 3 months. *Statistically
+significant difference when compared with baseline at <italic>P</italic>
+&lt; .016. Error bars represent ±1 standard deviation.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="10.1177_0363546519879693-fig1.jpg"><?cloudpmc-path blobs/5120/6883353/6dc521d0d35f/10.1177_0363546519879693-fig1.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 867?><?original-width 1987?><?scaled-height 346?><?scaled-width 794?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="10.1177_0363546519879693-fig1.gif"><?cloudpmc-path blobs/5120/6883353/89a8cc553fde/10.1177_0363546519879693-fig1.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><table-wrap id="table3-0363546519879693" position="float"><?disp-level 3?><label>Table 3</label><caption><p>Functional Outcomes<sup><xref rid="table-fn4-0363546519879693" ref-type="table-fn">
+<italic>a</italic>
+</xref></sup></p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Parameter</th><th align="center" rowspan="1" colspan="1">Baseline</th><th align="center" rowspan="1" colspan="1">4 wk</th><th align="center" rowspan="1" colspan="1">3 mo</th><th align="center" rowspan="1" colspan="1"><italic>P</italic> Value</th><th align="center" colspan="2" rowspan="1">Pairwise Effect Size (Cohen
+<italic>d</italic>)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Total distance per week, km</td><td rowspan="1" colspan="1">13.34 ± 9.83</td><td rowspan="1" colspan="1">27.11 ± 11.25<sup><xref rid="table-fn5-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">28.33 ± 12.96<sup><xref rid="table-fn5-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">1.30</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">1.30</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.10</td></tr><tr><td rowspan="1" colspan="1">Longest run pain-free, km</td><td rowspan="1" colspan="1">2.03 ± 1.19</td><td rowspan="1" colspan="1">8.87 ± 4.39<sup><xref rid="table-fn5-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">11.33 ± 6.42<sup><xref rid="table-fn5-0363546519879693" ref-type="table-fn">
+<italic>b</italic>
+</xref></sup></td><td rowspan="1" colspan="1">&lt;.01</td><td rowspan="1" colspan="1">Baseline to 4 wk</td><td rowspan="1" colspan="1">2.10</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Baseline to 3 mo</td><td rowspan="1" colspan="1">2.01</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">4 wk to 3 mo</td><td rowspan="1" colspan="1">0.44</td></tr></tbody></table><table-wrap-foot><fn id="table-fn4-0363546519879693"><label>a</label><p>Values are presented as mean ± SD unless otherwise specified.
+Pairwise effect sizes are interpreted as 0.2 = small, 0.5 = medium,
+and 0.8 = large.</p></fn><fn id="table-fn5-0363546519879693"><label>b</label><p>Statistically significant difference when compared with baseline at
+<italic>P</italic> &lt; .016.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="section18-0363546519879693" disp-level="1"><title>Discussion</title><p>The aim of this study was to investigate whether a 10% increase in the step rate
+would improve kinematics and clinical outcomes among runners with PFP who
+demonstrate aberrant frontal-plane pelvis and hip kinematics. In support of our
+hypothesis, we observed significant reductions in frontal-plane pelvis and hip
+kinematics as well as significant reductions in pain and improvements in function
+and running at 4 weeks, which appeared to be maintained at 3-month follow-up.</p><p>After the step rate increase, we observed a 3.12° and 3.99° reduction in CPD and
+HADD, respectively (<xref rid="table2-0363546519879693" ref-type="table">Table
+2</xref>), which may offer a mechanical explanation for the improved clinical
+outcomes seen in this study. These changes are greater than those observed in
+previous step rate studies,<sup><xref rid="bibr11-0363546519879693" ref-type="bibr">11</xref>,<xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> with this being the first study to highlight that kinematic
+adaptations are maintained at longer term follow-up. CPD and HADD have been cited as
+kinematic risk factors for PFP.<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref>,<xref rid="bibr21-0363546519879693" ref-type="bibr">21</xref>,<xref rid="bibr24-0363546519879693" ref-type="bibr">24</xref>,<xref rid="bibr25-0363546519879693" ref-type="bibr">25</xref>,<xref rid="bibr41-0363546519879693" ref-type="bibr">41</xref></sup> It is thought that CPD will
+give rise to an increase in iliotibial band tension, resulting in lateral
+displacement of the patella,<sup><xref rid="bibr15-0363546519879693" ref-type="bibr">15</xref>,<xref rid="bibr18-0363546519879693" ref-type="bibr">18</xref></sup> while HADD would cause the femur to shift medially under the patella.<sup><xref rid="bibr29-0363546519879693" ref-type="bibr">29</xref></sup> This would result in elevated contact pressure between the patella and
+lateral facet, leading to elevated joint stress and potential injury.<sup><xref rid="bibr30-0363546519879693" ref-type="bibr">30</xref></sup> Therefore, it is possible that the reductions in CPD and HADD after an
+increase in the step rate would contribute to reduced lateral displacement of the
+patella and a corresponding reduction in patellofemoral joint stress.</p><p>Similarly, the reduction in peak knee flexion during stance phase may also contribute
+to improvements in clinical outcomes. Peak knee flexion during stance phase has been
+shown to influence patellofemoral joint reaction force, explaining up to 64% of the
+variance in peak patellofemoral joint loading.<sup><xref rid="bibr16-0363546519879693" ref-type="bibr">16</xref></sup> Smaller knee flexion angles at midstance will likely reduce the external
+joint force as well as reduce the demand on the surrounding musculature.<sup><xref rid="bibr16-0363546519879693" ref-type="bibr">16</xref></sup> In the current study, we observed a 4.1° reduction in peak knee flexion
+(<xref rid="table2-0363546519879693" ref-type="table">Table 2</xref>). Given the
+work of Lenhart et al,<sup><xref rid="bibr16-0363546519879693" ref-type="bibr">16</xref></sup> this magnitude of change is likely to contribute to reductions in peak
+patellofemoral joint force. These reductions, combined with the reductions in peak
+HADD and CPD, will likely lead to significant reductions in patellofemoral joint
+stress, which may explain the observed improvements in clinical outcomes within the
+present study.</p><p>We suggest that the improved frontal-plane hip and pelvis kinematics may be explained
+by alterations in neuromuscular activity of the hip. Willson et al<sup><xref rid="bibr39-0363546519879693" ref-type="bibr">39</xref></sup> found that runners with PFP demonstrate significantly delayed onset of the
+gluteus medius, which had a moderate correlation with HADD excursion. It is
+hypothesized that delayed muscle activation of the gluteus medius during the stance
+phase of running would result in a loss of neuromuscular stiffness about the hip and
+pelvis, leading to a loss of frontal-plane stability.<sup><xref rid="bibr39-0363546519879693" ref-type="bibr">39</xref></sup> Increasing step rate by 10% has been shown to directly influence the
+preactivation of gluteal muscles.<sup><xref rid="bibr5-0363546519879693" ref-type="bibr">5</xref></sup> Specifically, Chumanov et al<sup><xref rid="bibr5-0363546519879693" ref-type="bibr">5</xref></sup> reported significantly increased gluteus medius and maximus muscle activity
+in late swing phase, just before initial foot contact after a 10% increase in step
+rate. Considering the role that the gluteus medius plays in frontal-plane stability
+of the hip and pelvis, it is likely that the earlier onset of the glutealmuscles
+would result in increased neuromuscular stability during the stance phase of gait.
+This would likely explain the mechanical improvements of reduced CPD and HADD
+observed in the present study.</p><p>Reductions in peak knee flexion may also be explained by alterations in neuromuscular
+activity at the knee. Increasing the step rate has been shown to result in greater
+preactivation of the hamstrings, vastus lateralis, and rectus femoris muscles during
+late swing phase.<sup><xref rid="bibr5-0363546519879693" ref-type="bibr">5</xref></sup> It is thought that these changes in neuromuscular coordination contribute to
+a more extended knee throughout the stance phase, reducing peak knee flexion
+angles.<sup><xref rid="bibr5-0363546519879693" ref-type="bibr">5</xref>,<xref rid="bibr16-0363546519879693" ref-type="bibr">16</xref></sup></p><p>In contrast to previous studies, we did not identify differences in peak hip internal
+rotation after gait retraining. Neal et al<sup><xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> reported a 5.1° reduction in peak hip internal rotation after a 10% increase
+in step rate, whereas in the present study, we did not observe more than a 0.5°
+change. This may be explained by our baseline inclusion criteria of increased HADD
+and CPD rather than hip internal rotation. Participants within this study
+demonstrated 4.06° of hip internal rotation at baseline, which is less than the 9.1°
+reported in the study by Neal et al<sup><xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> and similar to the 4.4° reported in the database of healthy runners used for
+baseline reference values.<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref></sup> Therefore, it is possible that participants in the present study did not
+demonstrate increased hip internal rotation angles at baseline and thus would be
+unlikely to demonstrate any change.</p><p>An interesting finding was the magnitude of clinical improvements made by
+participants. Specifically, participants reported their worst pain to be, on
+average, 1.0 out of 10 at 4-week follow-up and 0.3 out of 10 at 3-month follow-up
+(<xref rid="fig1-0363546519879693" ref-type="fig">Figure 1</xref>). This is
+greater than the minimal clinically important difference of 1.2 points<sup><xref rid="bibr28-0363546519879693" ref-type="bibr">28</xref></sup> and greater than improvements seen in previous step rate studies, which have
+reported average NRS scores of 3,<sup><xref rid="bibr11-0363546519879693" ref-type="bibr">11</xref></sup> 3.8,<sup><xref rid="bibr12-0363546519879693" ref-type="bibr">12</xref></sup> and 2.9<sup><xref rid="bibr20-0363546519879693" ref-type="bibr">20</xref></sup> out of 10 after retraining. We also observed significant improvements in
+function, with all runners reporting an increase in their weekly running volume and
+longest distance run pain-free as early as 4 weeks (<xref rid="table3-0363546519879693" ref-type="table">Table 3</xref>), as well as a 17.4-point
+improvement on the LEFS at 3 months, exceeding the minimal clinically important
+difference of 9 points.<sup><xref rid="bibr3-0363546519879693" ref-type="bibr">3</xref></sup> This contrasts with previous step rate studies, with 1 study reporting
+participants to be running less than their preinjury status at 20-week follow-up<sup><xref rid="bibr12-0363546519879693" ref-type="bibr">12</xref></sup> and another study reporting less than a 9-point improvement on the LEFS.<sup><xref rid="bibr11-0363546519879693" ref-type="bibr">11</xref></sup></p><p>The reason for the magnitude of kinematic and clinical improvements in the present
+study compared with previous step rate studies may be because of the differences in
+inclusion criteria. In the present study, we specifically targeted participants who
+demonstrated aberrant kinematics at baseline. We did this to account for the
+multifactorial etiology of PFP and ensure that the appropriate underlying injury
+driver was targeted through the gait intervention. Failure to consider alternative
+causes of injury would likely result in the inclusion of biomechanical nonresponders
+in the retraining group. As such, these participants would be unlikely to
+demonstrate significant clinical improvements. Willy et al<sup><xref rid="bibr42-0363546519879693" ref-type="bibr">42</xref></sup> and Noehren et al<sup><xref rid="bibr26-0363546519879693" ref-type="bibr">26</xref></sup> are the only previous studies to use a similar inclusion criterion, with
+their results showing a similar magnitude of clinical improvement. Therefore, we
+suggest that future research should aim to establish the underlying pathological
+driver to appropriately target clinical interventions and that this be mirrored in
+clinical practice.</p><sec id="section19-0363546519879693" disp-level="2"><title>Clinical Relevance</title><p>In contrast to previous gait retraining studies, we opted to allow runners to
+self-administer and self-monitor their retraining using a metronome application
+and feedback from a GPS smartwatch. This proved successful, as all runners were
+able to maintain an increased cadence at 4-week and 3-month follow-up.
+Furthermore, at 4-week follow-up, all participants reported that they did not
+use the metronome beyond the first week and instead self-monitored their cadence
+using their GPS smartwatch. Previous studies have utilized a faded feedback
+design in which feedback is gradually removed over 8 sessions across a 2-week
+period. Although faded feedback designs have proven clinically effective, they
+require close clinical supervision and are restricted to clinical and laboratory
+settings. The present study demonstrates that simple step rate retraining can be
+applied outside of the laboratory and with minimal clinical contact.
+Importantly, 2-dimensional measures of CPD and HADD have been shown to be valid
+and reliable when compared with 3D measurements.<sup><xref rid="bibr10-0363546519879693" ref-type="bibr">10</xref></sup> Therefore, assessment of running kinematics and gait retraining can be
+easily integrated into clinical practice and a participant’s normal running
+routine.</p></sec><sec id="section20-0363546519879693" disp-level="2"><title>Limitations</title><p>One limitation of the present study is the lack of a control group, making it
+difficult to ascertain whether the observed findings are true intervention
+effects. However, participants in the present study had an average NRS pain
+score of 6.2 out of 10 at baseline and a minimum symptom duration of 3 months,
+which has been reported to be predictive of poor prognosis at long-term follow-up.<sup><xref rid="bibr7-0363546519879693" ref-type="bibr">7</xref></sup> Therefore, it is unlikely that participants would have experienced the
+magnitude of symptom improvement without a clinical intervention. Furthermore,
+the kinematic differences observed between baseline and the 4-week and 3-month
+time points were statistically significant, with large effect sizes above the
+standard error of measurement previously reported for these parameters.<sup><xref rid="bibr17-0363546519879693" ref-type="bibr">17</xref></sup> These differences were of a similar magnitude to those observed
+previously between injured and healthy runners (2.7°)<sup><xref rid="bibr4-0363546519879693" ref-type="bibr">4</xref></sup> and after gait retraining interventions (2.3°).<sup><xref rid="bibr26-0363546519879693" ref-type="bibr">26</xref></sup> Therefore, we believe that the differences observed represent true
+intervention effects and could be considered biomechanically important.</p><p>A second limitation is the small participant numbers, which makes the statistical
+interpretation of small differences difficult. We observed no significant
+kinematic changes between 4-week and 3-month follow-up. We acknowledge that the
+small sample size limited the statistical power to detect small differences
+between these time points. However, the magnitude of the differences in
+biomechanical outcomes between these 2 follow-up points was typically small
+(<xref rid="table2-0363546519879693" ref-type="table">Table 2</xref>) and
+lower than the standard error of measurement previously reported for these parameters.<sup><xref rid="bibr17-0363546519879693" ref-type="bibr">17</xref></sup> Therefore, we believe that subtle differences between these time points
+are unlikely to be clinically important. However, we acknowledge that future
+randomized controlled trials with larger participant numbers are necessary to
+further validate our findings and confirm that kinematic changes are maintained
+over longer time periods.</p><p>It is important to note that 1 participant dropped out of the intervention after
+suffering a tibial stress fracture. This participant reported that the injury
+onset occurred after a sudden increase in training volume in preparation for a
+half-marathon. As we did not control participant progression of training volume,
+it is possible that the injury could be the result of training behaviors rather
+than a response to the intervention. As such, we recommend that future clinical
+interventions provide participants with specific advice on the safe progression
+of running volume to reduce the risk of further injuries.</p></sec></sec><sec id="section21-0363546519879693" disp-level="1"><title>Conclusion</title><p>The results of this study highlight that a 10% increase in step rate improves running
+kinematics and clinical outcomes at 4 weeks, which are maintained at 3 months, among
+runners with PFP. Therefore, step rate retraining appears to be a clinically
+effective intervention in the rehabilitation of PFP and can easily be integrated
+into clinical practice. It is important to assess running kinematics at baseline to
+ensure that interventions are appropriately targeted.</p></sec><sec id="fn-group1" sec-type="fn-group" disp-level="1"><title>Footnotes</title><fn-group><fn id="fn6"><p>One or more of the authors has declared the following potential conflict of
+interest or source of funding: This project was internally funded by the
+University of Salford. AOSSM checks author disclosures against the Open Payments
+Database (OPD). AOSSM has not conducted an independent investigation on the OPD
+and disclaims any liability or responsibility relating thereto.</p></fn></fn-group></sec><sec id="ref-list1" sec-type="ref-list" disp-level="1"><title>References</title><sec id="ref-list1_sec2" disp-level="2"><ref-list><ref id="bibr1-0363546519879693"><label>1.</label><mixed-citation><named-content content-type="citation-string">
+Almonroeder T, Willson JD, Kernozek TW.
+The effect of foot strike pattern on Achilles tendon load during
+running. Ann Biomed Eng.
+2013;41(8):1758-1766.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10439-013-0819-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23640524"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Ann Biomed Eng&amp;title=The effect of foot strike pattern on Achilles tendon load during running&amp;author=T Almonroeder&amp;author=JD Willson&amp;author=TW. Kernozek&amp;volume=41&amp;issue=8&amp;publication_year=2013&amp;pages=1758-1766&amp;pmid=23640524&amp;doi=10.1007/s10439-013-0819-1&amp;"/></mixed-citation></ref><ref id="bibr2-0363546519879693"><label>2.</label><mixed-citation><named-content content-type="citation-string">
+Besier TF, Gold GE, Delp SL, Fredericson M, Beaupre GS.
+The influence of femoral internal and external
+rotation on cartilage stresses within the patellofemoral
+joint. J Orthop Res.
+2008;26(12):1627-1635.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/jor.20663"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="18524000"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Orthop Res&amp;title=The influence of femoral internal and external rotation on cartilage stresses within the patellofemoral joint&amp;author=TF Besier&amp;author=GE Gold&amp;author=SL Delp&amp;author=M Fredericson&amp;author=GS Beaupre&amp;volume=26&amp;issue=12&amp;publication_year=2008&amp;pages=1627-1635&amp;pmid=18524000&amp;doi=10.1002/jor.20663&amp;"/></mixed-citation></ref><ref id="bibr3-0363546519879693"><label>3.</label><mixed-citation><named-content content-type="citation-string">
+Binkley JM, Stratford PW, Lott SA, Riddle DL.
+The Lower Extremity Functional Scale (LEFS):
+scale development, measurement properties, and clinical application. North
+American Orthopaedic Rehabilitation Research Network.
+Phys Ther.
+1999;79(4):371-383.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10201543"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phys Ther&amp;title=The Lower Extremity Functional Scale (LEFS): scale development, measurement properties, and clinical application. North American Orthopaedic Rehabilitation Research Network&amp;author=JM Binkley&amp;author=PW Stratford&amp;author=SA Lott&amp;author=DL Riddle&amp;volume=79&amp;issue=4&amp;publication_year=1999&amp;pages=371-383&amp;pmid=10201543&amp;"/></mixed-citation></ref><ref id="bibr4-0363546519879693"><label>4.</label><mixed-citation><named-content content-type="citation-string">
+Bramah C, Preece SJ, Gill N, Herrington L.
+Is there a pathological gait associated with
+common soft tissue running injuries?
+Am J Sports Med.
+2018;46(12):3023-3031.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1177/0363546518793657"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30193080"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Sports Med&amp;title=Is there a pathological gait associated with common soft tissue running injuries?&amp;author=C Bramah&amp;author=SJ Preece&amp;author=N Gill&amp;author=L Herrington&amp;volume=46&amp;issue=12&amp;publication_year=2018&amp;pages=3023-3031&amp;pmid=30193080&amp;doi=10.1177/0363546518793657&amp;"/></mixed-citation></ref><ref id="bibr5-0363546519879693"><label>5.</label><mixed-citation><named-content content-type="citation-string">
+Chumanov ES, Wille CM, Michalski MP, Heiderscheit BC.
+Changes in muscle activation patterns when
+running step rate is increased. Gait
+Posture.
+2012;36(2):231-235.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.gaitpost.2012.02.023"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3387288"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22424758"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Gait Posture&amp;title=Changes in muscle activation patterns when running step rate is increased&amp;author=ES Chumanov&amp;author=CM Wille&amp;author=MP Michalski&amp;author=BC Heiderscheit&amp;volume=36&amp;issue=2&amp;publication_year=2012&amp;pages=231-235&amp;pmid=22424758&amp;doi=10.1016/j.gaitpost.2012.02.023&amp;"/></mixed-citation></ref><ref id="bibr6-0363546519879693"><label>6.</label><mixed-citation><named-content content-type="citation-string">
+Cohen J.
+Statistical Power Analysis for the Behavioral Sciences:
+Revised Edition. New York:
+Academic Press;
+1977.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="title=Statistical Power Analysis for the Behavioral Sciences: Revised Edition&amp;author=J Cohen&amp;publication_year=1977&amp;"/></mixed-citation></ref><ref id="bibr7-0363546519879693"><label>7.</label><mixed-citation><named-content content-type="citation-string">
+Collins NJ, Bierma-Zeinstra SM, Crossley KM, van Linschoten RL, Vicenzino B, van Middelkoop M.
+Prognostic factors for patellofemoral pain: a
+multicentre observational analysis. Br J Sports
+Med.
+2013;47(4):227-233.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2012-091696"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23242955"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Prognostic factors for patellofemoral pain: a multicentre observational analysis&amp;author=NJ Collins&amp;author=SM Bierma-Zeinstra&amp;author=KM Crossley&amp;author=RL van Linschoten&amp;author=B Vicenzino&amp;volume=47&amp;issue=4&amp;publication_year=2013&amp;pages=227-233&amp;pmid=23242955&amp;doi=10.1136/bjsports-2012-091696&amp;"/></mixed-citation></ref><ref id="bibr8-0363546519879693"><label>8.</label><mixed-citation><named-content content-type="citation-string">
+Cook C, Hegedus E, Hawkins R, Scovell F, Wyland D.
+Diagnostic accuracy and association to
+disability of clinical test findings associated with patellofemoral pain
+syndrome. Physiother Can.
+2010;62(1):17-24.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3138/physio.62.1.17"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2841549"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21197175"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Physiother Can&amp;title=Diagnostic accuracy and association to disability of clinical test findings associated with patellofemoral pain syndrome&amp;author=C Cook&amp;author=E Hegedus&amp;author=R Hawkins&amp;author=F Scovell&amp;author=D Wyland&amp;volume=62&amp;issue=1&amp;publication_year=2010&amp;pages=17-24&amp;pmid=21197175&amp;doi=10.3138/physio.62.1.17&amp;"/></mixed-citation></ref><ref id="bibr9-0363546519879693"><label>9.</label><mixed-citation><named-content content-type="citation-string">
+Crossley KM, Stefanik JJ, Selfe J, et al. 
+2016 patellofemoral pain
+consensus statement from the 4th International Patellofemoral Pain Research
+Retreat, Manchester, part 1: terminology, definitions, clinical examination,
+natural history, patellofemoral osteoarthritis and patient-reported outcome
+measures. Br J Sports Med.
+2016;50(14):839-843.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2016-096384"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4975817"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27343241"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=2016 patellofemoral pain consensus statement from the 4th International Patellofemoral Pain Research Retreat, Manchester, part 1: terminology, definitions, clinical examination, natural history, patellofemoral osteoarthritis and patient-reported outcome measures&amp;author=KM Crossley&amp;author=JJ Stefanik&amp;author=J Selfe&amp;volume=50&amp;issue=14&amp;publication_year=2016&amp;pages=839-843&amp;pmid=27343241&amp;doi=10.1136/bjsports-2016-096384&amp;"/></mixed-citation></ref><ref id="bibr10-0363546519879693"><label>10.</label><mixed-citation><named-content content-type="citation-string">
+Dingenen B, Staes FF, Santermans L, et al. 
+Are two-dimensional measured
+frontal plane angles related to three-dimensional measured kinematic
+profiles during running?
+Phys Ther Sport.
+2018;29:84-92.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ptsp.2017.02.001"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28642097"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phys Ther Sport&amp;title=Are two-dimensional measured frontal plane angles related to three-dimensional measured kinematic profiles during running?&amp;author=B Dingenen&amp;author=FF Staes&amp;author=L Santermans&amp;volume=29&amp;publication_year=2018&amp;pages=84-92&amp;pmid=28642097&amp;doi=10.1016/j.ptsp.2017.02.001&amp;"/></mixed-citation></ref><ref id="bibr11-0363546519879693"><label>11.</label><mixed-citation><named-content content-type="citation-string">
+Dos Santos AF, Nakagawa TH, Lessi GC, et al. 
+Effects of three gait
+retraining techniques in runners with patellofemoral pain.
+Phys Ther Sport.
+2019;36:92-100.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ptsp.2019.01.006"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30703643"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phys Ther Sport&amp;title=Effects of three gait retraining techniques in runners with patellofemoral pain&amp;author=AF Dos Santos&amp;author=TH Nakagawa&amp;author=GC Lessi&amp;volume=36&amp;publication_year=2019&amp;pages=92-100&amp;pmid=30703643&amp;doi=10.1016/j.ptsp.2019.01.006&amp;"/></mixed-citation></ref><ref id="bibr12-0363546519879693"><label>12.</label><mixed-citation><named-content content-type="citation-string">
+Esculier JF, Bouyer LJ, Dubois B, et al. 
+Is combining gait retraining
+or an exercise programme with education better than education alone in
+treating runners with patellofemoral pain? A randomised clinical
+trial. Br J Sports Med.
+2018;52(10):659-666.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2016-096988"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28476901"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Is combining gait retraining or an exercise programme with education better than education alone in treating runners with patellofemoral pain? A randomised clinical trial&amp;author=JF Esculier&amp;author=LJ Bouyer&amp;author=B Dubois&amp;volume=52&amp;issue=10&amp;publication_year=2018&amp;pages=659-666&amp;pmid=28476901&amp;doi=10.1136/bjsports-2016-096988&amp;"/></mixed-citation></ref><ref id="bibr13-0363546519879693"><label>13.</label><mixed-citation><named-content content-type="citation-string">
+Foch E, Milner CE.
+Frontal plane running biomechanics in female
+runners with previous iliotibial band syndrome. J
+Appl Biomech.
+2014;30(1):58-65.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1123/jab.2013-0051"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23677835"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Appl Biomech&amp;title=Frontal plane running biomechanics in female runners with previous iliotibial band syndrome&amp;author=E Foch&amp;author=CE Milner&amp;volume=30&amp;issue=1&amp;publication_year=2014&amp;pages=58-65&amp;pmid=23677835&amp;doi=10.1123/jab.2013-0051&amp;"/></mixed-citation></ref><ref id="bibr14-0363546519879693"><label>14.</label><mixed-citation><named-content content-type="citation-string">
+Handsaker JC, Forrester SE, Folland JP, Black MI, Allen SJ.
+A kinematic algorithm to identify gait events
+during running at different speeds and with different footstrike
+types. J Biomech.
+2016;49(16):4128-4133.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jbiomech.2016.10.013"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27814970"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biomech&amp;title=A kinematic algorithm to identify gait events during running at different speeds and with different footstrike types&amp;author=JC Handsaker&amp;author=SE Forrester&amp;author=JP Folland&amp;author=MI Black&amp;author=SJ Allen&amp;volume=49&amp;issue=16&amp;publication_year=2016&amp;pages=4128-4133&amp;pmid=27814970&amp;doi=10.1016/j.jbiomech.2016.10.013&amp;"/></mixed-citation></ref><ref id="bibr15-0363546519879693"><label>15.</label><mixed-citation><named-content content-type="citation-string">
+Herrington L, Law J.
+The effect of hip adduction angle on patellar
+position measured using real time ultrasound scanning.
+Knee.
+2012;19(5):709-712.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.knee.2012.01.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22306212"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Knee&amp;title=The effect of hip adduction angle on patellar position measured using real time ultrasound scanning&amp;author=L Herrington&amp;author=J Law&amp;volume=19&amp;issue=5&amp;publication_year=2012&amp;pages=709-712&amp;pmid=22306212&amp;doi=10.1016/j.knee.2012.01.002&amp;"/></mixed-citation></ref><ref id="bibr16-0363546519879693"><label>16.</label><mixed-citation><named-content content-type="citation-string">
+Lenhart RL, Thelen DG, Wille CM, Chumanov ES, Heiderscheit BC.
+Increasing running step rate reduces
+patellofemoral joint forces. Med Sci Sports
+Exerc.
+2014;46(3):557-564.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1249/MSS.0b013e3182a78c3a"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3925193"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23917470"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Med Sci Sports Exerc&amp;title=Increasing running step rate reduces patellofemoral joint forces&amp;author=RL Lenhart&amp;author=DG Thelen&amp;author=CM Wille&amp;author=ES Chumanov&amp;author=BC Heiderscheit&amp;volume=46&amp;issue=3&amp;publication_year=2014&amp;pages=557-564&amp;pmid=23917470&amp;doi=10.1249/MSS.0b013e3182a78c3a&amp;"/></mixed-citation></ref><ref id="bibr17-0363546519879693"><label>17.</label><mixed-citation><named-content content-type="citation-string">
+Mason DL, Preece SJ, Bramah CA, Herrington LC.
+Reproducibility of kinematic measures of the
+thoracic spine, lumbar spine and pelvis during fast running.
+Gait Posture.
+2016;43:96-100.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.gaitpost.2013.11.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26546409"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Gait Posture&amp;title=Reproducibility of kinematic measures of the thoracic spine, lumbar spine and pelvis during fast running&amp;author=DL Mason&amp;author=SJ Preece&amp;author=CA Bramah&amp;author=LC Herrington&amp;volume=43&amp;publication_year=2016&amp;pages=96-100&amp;pmid=26546409&amp;doi=10.1016/j.gaitpost.2013.11.007&amp;"/></mixed-citation></ref><ref id="bibr18-0363546519879693"><label>18.</label><mixed-citation><named-content content-type="citation-string">
+Merican AM, Amis AA.
+Iliotibial band tension affects patellofemoral
+and tibiofemoral kinematics. J Biomech.
+2009;42(10):1539-1546.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jbiomech.2009.03.041"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19481211"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Biomech&amp;title=Iliotibial band tension affects patellofemoral and tibiofemoral kinematics&amp;author=AM Merican&amp;author=AA Amis&amp;volume=42&amp;issue=10&amp;publication_year=2009&amp;pages=1539-1546&amp;pmid=19481211&amp;doi=10.1016/j.jbiomech.2009.03.041&amp;"/></mixed-citation></ref><ref id="bibr19-0363546519879693"><label>19.</label><mixed-citation><named-content content-type="citation-string">
+Napier C, Esculier JF, Hunt MA.
+Gait retraining: out of the lab and onto the
+streets with the benefit of wearables. Br J Sports
+Med.
+2017;51(23):1642-1643.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2017-098637"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29066433"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Gait retraining: out of the lab and onto the streets with the benefit of wearables&amp;author=C Napier&amp;author=JF Esculier&amp;author=MA Hunt&amp;volume=51&amp;issue=23&amp;publication_year=2017&amp;pages=1642-1643&amp;pmid=29066433&amp;doi=10.1136/bjsports-2017-098637&amp;"/></mixed-citation></ref><ref id="bibr20-0363546519879693"><label>20.</label><mixed-citation><named-content content-type="citation-string">
+Neal BS, Barton CJ, Birn-Jeffrey A, Daley M, Morrissey D.
+The effects &amp; mechanisms of increasing
+running step rate: a feasibility study in a mixed-sex group of runners with
+patellofemoral pain. Phys Ther Sport.
+2018;32:244-251.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ptsp.2018.05.018"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29879639"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phys Ther Sport&amp;title=The effects &amp; mechanisms of increasing running step rate: a feasibility study in a mixed-sex group of runners with patellofemoral pain&amp;author=BS Neal&amp;author=CJ Barton&amp;author=A Birn-Jeffrey&amp;author=M Daley&amp;author=D Morrissey&amp;volume=32&amp;publication_year=2018&amp;pages=244-251&amp;pmid=29879639&amp;doi=10.1016/j.ptsp.2018.05.018&amp;"/></mixed-citation></ref><ref id="bibr21-0363546519879693"><label>21.</label><mixed-citation><named-content content-type="citation-string">
+Neal BS, Barton CJ, Gallie R, O’Halloran P, Morrissey D.
+Runners with patellofemoral pain have altered
+biomechanics which targeted interventions can modify: a systematic review
+and meta-analysis. Gait Posture.
+2016;45:69-82.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.gaitpost.2015.11.018"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26979886"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Gait Posture&amp;title=Runners with patellofemoral pain have altered biomechanics which targeted interventions can modify: a systematic review and meta-analysis&amp;author=BS Neal&amp;author=CJ Barton&amp;author=R Gallie&amp;author=P O’Halloran&amp;author=D Morrissey&amp;volume=45&amp;publication_year=2016&amp;pages=69-82&amp;pmid=26979886&amp;doi=10.1016/j.gaitpost.2015.11.018&amp;"/></mixed-citation></ref><ref id="bibr22-0363546519879693"><label>22.</label><mixed-citation><named-content content-type="citation-string">
+Neal BS, Lack SD, Lankhorst NE, Raye A, Morrissey D, van Middelkoop M.
+Risk factors for patellofemoral pain: a
+systematic review and meta-analysis. Br J Sports
+Med.
+2019;53(5):270-281.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2017-098890"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30242107"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Risk factors for patellofemoral pain: a systematic review and meta-analysis&amp;author=BS Neal&amp;author=SD Lack&amp;author=NE Lankhorst&amp;author=A Raye&amp;author=D Morrissey&amp;volume=53&amp;issue=5&amp;publication_year=2019&amp;pages=270-281&amp;pmid=30242107&amp;doi=10.1136/bjsports-2017-098890&amp;"/></mixed-citation></ref><ref id="bibr23-0363546519879693"><label>23.</label><mixed-citation><named-content content-type="citation-string">
+Nielsen RO, Parner ET, Nohr EA, Sorensen H, Lind M, Rasmussen S.
+Excessive progression in weekly running distance
+and risk of running-related injuries: an association which varies according
+to type of injury. J Orthop Sports Phys
+Ther.
+2014;44(10):739-747.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2519/jospt.2014.5164"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25155475"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Orthop Sports Phys Ther&amp;title=Excessive progression in weekly running distance and risk of running-related injuries: an association which varies according to type of injury&amp;author=RO Nielsen&amp;author=ET Parner&amp;author=EA Nohr&amp;author=H Sorensen&amp;author=M Lind&amp;volume=44&amp;issue=10&amp;publication_year=2014&amp;pages=739-747&amp;pmid=25155475&amp;doi=10.2519/jospt.2014.5164&amp;"/></mixed-citation></ref><ref id="bibr24-0363546519879693"><label>24.</label><mixed-citation><named-content content-type="citation-string">
+Noehren B, Hamill J, Davis I.
+Prospective evidence for a hip etiology in
+patellofemoral pain. Med Sci Sports Exerc.
+2013;45(6):1120-1124.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1249/MSS.0b013e31828249d2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23274607"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Med Sci Sports Exerc&amp;title=Prospective evidence for a hip etiology in patellofemoral pain&amp;author=B Noehren&amp;author=J Hamill&amp;author=I Davis&amp;volume=45&amp;issue=6&amp;publication_year=2013&amp;pages=1120-1124&amp;pmid=23274607&amp;doi=10.1249/MSS.0b013e31828249d2&amp;"/></mixed-citation></ref><ref id="bibr25-0363546519879693"><label>25.</label><mixed-citation><named-content content-type="citation-string">
+Noehren B, Pohl MB, Sanchez Z, Cunningham T, Lattermann C.
+Proximal and distal kinematics in female runners
+with patellofemoral pain. Clin Biomech.
+2012;27(4):366-371.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clinbiomech.2011.10.005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3984468"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22071426"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Biomech&amp;title=Proximal and distal kinematics in female runners with patellofemoral pain&amp;author=B Noehren&amp;author=MB Pohl&amp;author=Z Sanchez&amp;author=T Cunningham&amp;author=C Lattermann&amp;volume=27&amp;issue=4&amp;publication_year=2012&amp;pages=366-371&amp;pmid=22071426&amp;doi=10.1016/j.clinbiomech.2011.10.005&amp;"/></mixed-citation></ref><ref id="bibr26-0363546519879693"><label>26.</label><mixed-citation><named-content content-type="citation-string">
+Noehren B, Scholz J, Davis I.
+The effect of real-time gait retraining on hip
+kinematics, pain and function in subjects with patellofemoral pain
+syndrome. Br J Sports Med.
+2011;45(9):691-696.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsm.2009.069112"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="20584755"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=The effect of real-time gait retraining on hip kinematics, pain and function in subjects with patellofemoral pain syndrome&amp;author=B Noehren&amp;author=J Scholz&amp;author=I Davis&amp;volume=45&amp;issue=9&amp;publication_year=2011&amp;pages=691-696&amp;pmid=20584755&amp;doi=10.1136/bjsm.2009.069112&amp;"/></mixed-citation></ref><ref id="bibr27-0363546519879693"><label>27.</label><mixed-citation><named-content content-type="citation-string">
+Nunes GS, Stapait EL, Kirsten MH, de Noronha M, Santos GM.
+Clinical test for diagnosis of patellofemoral
+pain syndrome: systematic review with meta-analysis.
+Phys Ther Sport.
+2013;14(1):54-59.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ptsp.2012.11.003"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23232069"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Phys Ther Sport&amp;title=Clinical test for diagnosis of patellofemoral pain syndrome: systematic review with meta-analysis&amp;author=GS Nunes&amp;author=EL Stapait&amp;author=MH Kirsten&amp;author=M de Noronha&amp;author=GM Santos&amp;volume=14&amp;issue=1&amp;publication_year=2013&amp;pages=54-59&amp;pmid=23232069&amp;doi=10.1016/j.ptsp.2012.11.003&amp;"/></mixed-citation></ref><ref id="bibr28-0363546519879693"><label>28.</label><mixed-citation><named-content content-type="citation-string">
+Piva SR, Gil AB, Moore CG, Fitzgerald GK.
+Responsiveness of the activities of daily living
+scale of the knee outcome survey and numeric pain rating scale in patients
+with patellofemoral pain. J Rehabil Med.
+2009;41(3):129-135.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2340/16501977-0295"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4887857"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19229444"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Rehabil Med&amp;title=Responsiveness of the activities of daily living scale of the knee outcome survey and numeric pain rating scale in patients with patellofemoral pain&amp;author=SR Piva&amp;author=AB Gil&amp;author=CG Moore&amp;author=GK Fitzgerald&amp;volume=41&amp;issue=3&amp;publication_year=2009&amp;pages=129-135&amp;pmid=19229444&amp;doi=10.2340/16501977-0295&amp;"/></mixed-citation></ref><ref id="bibr29-0363546519879693"><label>29.</label><mixed-citation><named-content content-type="citation-string">
+Powers CM, Ward SR, Fredericson M, Guillet M, Shellock FG.
+Patellofemoral kinematics during weight-bearing
+and non-weight-bearing knee extension in persons with lateral subluxation of
+the patella: a preliminary study. J Orthop Sports
+Phys Ther.
+2003;33(11):677-685.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2519/jospt.2003.33.11.677"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="14669963"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Orthop Sports Phys Ther&amp;title=Patellofemoral kinematics during weight-bearing and non-weight-bearing knee extension in persons with lateral subluxation of the patella: a preliminary study&amp;author=CM Powers&amp;author=SR Ward&amp;author=M Fredericson&amp;author=M Guillet&amp;author=FG Shellock&amp;volume=33&amp;issue=11&amp;publication_year=2003&amp;pages=677-685&amp;pmid=14669963&amp;doi=10.2519/jospt.2003.33.11.677&amp;"/></mixed-citation></ref><ref id="bibr30-0363546519879693"><label>30.</label><mixed-citation><named-content content-type="citation-string">
+Powers CM, Witvrouw E, Davis IS, Crossley KM.
+Evidence-based framework for a pathomechanical
+model of patellofemoral pain: 2017 patellofemoral pain consensus statement
+from the 4th International Patellofemoral Pain Research Retreat, Manchester,
+UK, part 3. Br J Sports Med.
+2017;51(24):1713-1723.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsports-2017-098717"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29109118"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Evidence-based framework for a pathomechanical model of patellofemoral pain: 2017 patellofemoral pain consensus statement from the 4th International Patellofemoral Pain Research Retreat, Manchester, UK, part 3&amp;author=CM Powers&amp;author=E Witvrouw&amp;author=IS Davis&amp;author=KM Crossley&amp;volume=51&amp;issue=24&amp;publication_year=2017&amp;pages=1713-1723&amp;pmid=29109118&amp;doi=10.1136/bjsports-2017-098717&amp;"/></mixed-citation></ref><ref id="bibr31-0363546519879693"><label>31.</label><mixed-citation><named-content content-type="citation-string">
+Preece SJ, Mason D, Bramah C.
+The coordinated movement of the spine and pelvis
+during running. Hum Mov Sci.
+2016;45:110-118.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.humov.2015.11.014"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26618444"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hum Mov Sci&amp;title=The coordinated movement of the spine and pelvis during running&amp;author=SJ Preece&amp;author=D Mason&amp;author=C Bramah&amp;volume=45&amp;publication_year=2016&amp;pages=110-118&amp;pmid=26618444&amp;doi=10.1016/j.humov.2015.11.014&amp;"/></mixed-citation></ref><ref id="bibr32-0363546519879693"><label>32.</label><mixed-citation><named-content content-type="citation-string">
+Roper JL, Harding EM, Doerfler D, et al. 
+The effects of gait
+retraining in runners with patellofemoral pain: a randomized
+trial. Clin Biomech (Bristol, Avon).
+2016;35:14-22.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clinbiomech.2016.03.010"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27111879"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Biomech (Bristol, Avon)&amp;title=The effects of gait retraining in runners with patellofemoral pain: a randomized trial&amp;author=JL Roper&amp;author=EM Harding&amp;author=D Doerfler&amp;volume=35&amp;publication_year=2016&amp;pages=14-22&amp;pmid=27111879&amp;doi=10.1016/j.clinbiomech.2016.03.010&amp;"/></mixed-citation></ref><ref id="bibr33-0363546519879693"><label>33.</label><mixed-citation><named-content content-type="citation-string">
+Sinclair JK.
+Effects of a 10 week footstrike transition in
+habitual rearfoot runners with patellofemoral pain.
+Comp Exerc Physiol.
+2016;12(3):141-150.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Comp Exerc Physiol&amp;title=Effects of a 10 week footstrike transition in habitual rearfoot runners with patellofemoral pain&amp;author=JK Sinclair&amp;volume=12&amp;issue=3&amp;publication_year=2016&amp;pages=141-150&amp;"/></mixed-citation></ref><ref id="bibr34-0363546519879693"><label>34.</label><mixed-citation><named-content content-type="citation-string">
+Smith BE, Selfe J, Thacker D, et al. 
+Incidence and prevalence of
+patellofemoral pain: a systematic review and meta-analysis.
+PLoS One.
+2018;13(1):e0190892.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pone.0190892"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5764329"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29324820"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS One&amp;title=Incidence and prevalence of patellofemoral pain: a systematic review and meta-analysis&amp;author=BE Smith&amp;author=J Selfe&amp;author=D Thacker&amp;volume=13&amp;issue=1&amp;publication_year=2018&amp;pages=e0190892&amp;pmid=29324820&amp;doi=10.1371/journal.pone.0190892&amp;"/></mixed-citation></ref><ref id="bibr35-0363546519879693"><label>35.</label><mixed-citation><named-content content-type="citation-string">
+Streiner D, Geddes J.
+Intention to treat analysis in clinical trials
+when there are missing data. Evid Based Ment
+Health.
+2001;4(3):70-71.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/ebmh.4.3.70"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12004740"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Evid Based Ment Health&amp;title=Intention to treat analysis in clinical trials when there are missing data&amp;author=D Streiner&amp;author=J Geddes&amp;volume=4&amp;issue=3&amp;publication_year=2001&amp;pages=70-71&amp;pmid=12004740&amp;doi=10.1136/ebmh.4.3.70&amp;"/></mixed-citation></ref><ref id="bibr36-0363546519879693"><label>36.</label><mixed-citation><named-content content-type="citation-string">
+Taunton JE, Ryan MB, Clement D, McKenzie DC, Lloyd-Smith D, Zumbo B.
+A retrospective case-control analysis of 2002
+running injuries. Br J Sports Med.
+2002;36(2):95-101.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsm.36.2.95"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC1724490"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11916889"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=A retrospective case-control analysis of 2002 running injuries&amp;author=JE Taunton&amp;author=MB Ryan&amp;author=D Clement&amp;author=DC McKenzie&amp;author=D Lloyd-Smith&amp;volume=36&amp;issue=2&amp;publication_year=2002&amp;pages=95-101&amp;pmid=11916889&amp;doi=10.1136/bjsm.36.2.95&amp;"/></mixed-citation></ref><ref id="bibr37-0363546519879693"><label>37.</label><mixed-citation><named-content content-type="citation-string">
+van Gent RN, Siem D, van Middelkoop M, et al. 
+Incidence and determinants
+of lower extremity running injuries in long distance runners: a systematic
+review. Br J Sports Med.
+2007;41(8):469-480.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bjsm.2006.033548"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2465455"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="17473005"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Sports Med&amp;title=Incidence and determinants of lower extremity running injuries in long distance runners: a systematic review&amp;author=RN van Gent&amp;author=D Siem&amp;author=M van Middelkoop&amp;volume=41&amp;issue=8&amp;publication_year=2007&amp;pages=469-480&amp;pmid=17473005&amp;doi=10.1136/bjsm.2006.033548&amp;"/></mixed-citation></ref><ref id="bibr38-0363546519879693"><label>38.</label><mixed-citation><named-content content-type="citation-string">
+van Mechelen W.
+Running injuries: a review of the
+epidemiological literature. Sports Med.
+1992;14(5):320-335.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2165/00007256-199214050-00004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1439399"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Sports Med&amp;title=Running injuries: a review of the epidemiological literature&amp;author=W van Mechelen&amp;volume=14&amp;issue=5&amp;publication_year=1992&amp;pages=320-335&amp;pmid=1439399&amp;doi=10.2165/00007256-199214050-00004&amp;"/></mixed-citation></ref><ref id="bibr39-0363546519879693"><label>39.</label><mixed-citation><named-content content-type="citation-string">
+Willson JD, Kernozek TW, Arndt RL, Reznichek DA, Scott Straker J.
+Gluteal muscle activation during running in
+females with and without patellofemoral pain syndrome.
+Clin Biomech (Bristol, Avon).
+2011;26(7):735-740.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clinbiomech.2011.02.012"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21388728"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Biomech (Bristol, Avon)&amp;title=Gluteal muscle activation during running in females with and without patellofemoral pain syndrome&amp;author=JD Willson&amp;author=TW Kernozek&amp;author=RL Arndt&amp;author=DA Reznichek&amp;author=J Scott Straker&amp;volume=26&amp;issue=7&amp;publication_year=2011&amp;pages=735-740&amp;pmid=21388728&amp;doi=10.1016/j.clinbiomech.2011.02.012&amp;"/></mixed-citation></ref><ref id="bibr40-0363546519879693"><label>40.</label><mixed-citation><named-content content-type="citation-string">
+Willy RW, Buchenic L, Rogacki K, Ackerman J, Schmidt A, Willson JD.
+In-field gait retraining and mobile monitoring
+to address running biomechanics associated with tibial stress
+fracture. Scand J Med Sci Sports.
+2016;26(2):197-205.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/sms.12413"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25652871"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Scand J Med Sci Sports&amp;title=In-field gait retraining and mobile monitoring to address running biomechanics associated with tibial stress fracture&amp;author=RW Willy&amp;author=L Buchenic&amp;author=K Rogacki&amp;author=J Ackerman&amp;author=A Schmidt&amp;volume=26&amp;issue=2&amp;publication_year=2016&amp;pages=197-205&amp;pmid=25652871&amp;doi=10.1111/sms.12413&amp;"/></mixed-citation></ref><ref id="bibr41-0363546519879693"><label>41.</label><mixed-citation><named-content content-type="citation-string">
+Willy RW, Manal KT, Witvrouw EE, Davis IS.
+Are mechanics different between male and female
+runners with patellofemoral pain?
+Med Sci Sports Exerc.
+2012;44(11):2165-2171.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1249/MSS.0b013e3182629215"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3475738"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22843103"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Med Sci Sports Exerc&amp;title=Are mechanics different between male and female runners with patellofemoral pain?&amp;author=RW Willy&amp;author=KT Manal&amp;author=EE Witvrouw&amp;author=IS Davis&amp;volume=44&amp;issue=11&amp;publication_year=2012&amp;pages=2165-2171&amp;pmid=22843103&amp;doi=10.1249/MSS.0b013e3182629215&amp;"/></mixed-citation></ref><ref id="bibr42-0363546519879693"><label>42.</label><mixed-citation><named-content content-type="citation-string">
+Willy RW, Scholz JP, Davis IS.
+Mirror gait retraining for the treatment of
+patellofemoral pain in female runners. Clin
+Biomech.
+2012;27(10):1045-1051.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.clinbiomech.2012.07.011"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3501612"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="22917625"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Biomech&amp;title=Mirror gait retraining for the treatment of patellofemoral pain in female runners&amp;author=RW Willy&amp;author=JP Scholz&amp;author=IS Davis&amp;volume=27&amp;issue=10&amp;publication_year=2012&amp;pages=1045-1051&amp;pmid=22917625&amp;doi=10.1016/j.clinbiomech.2012.07.011&amp;"/></mixed-citation></ref><ref id="bibr43-0363546519879693"><label>43.</label><mixed-citation><named-content content-type="citation-string">
+Yamato TP, Saragiotto BT, Lopes AD.
+A consensus definition of running-related injury
+in recreational runners: a modified Delphi approach.
+J Orthop Sports Phys Ther.
+2015;45(5):375-380.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.2519/jospt.2015.5741"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25808527"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Orthop Sports Phys Ther&amp;title=A consensus definition of running-related injury in recreational runners: a modified Delphi approach&amp;author=TP Yamato&amp;author=BT Saragiotto&amp;author=AD Lopes&amp;volume=45&amp;issue=5&amp;publication_year=2015&amp;pages=375-380&amp;pmid=25808527&amp;doi=10.2519/jospt.2015.5741&amp;"/></mixed-citation></ref></ref-list></sec></sec></body></article>

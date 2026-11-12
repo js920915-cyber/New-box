@@ -15,3 +15,11 @@
 
 ## 원 연구 미확인
 S1이 인용한 원 연구 중 체격(Tenforde 2019)·맨발(De Wit 2000, Divert 2005)·모래(Pinnington 2005)·청소년(Garcia 2022)은 오픈액세스가 아니어서 전문 미확인 → 카드·캡션에는 S1 리뷰의 정리 문장(방향)만 쓰고, 원 연구의 % 수치(4~6%, 5~10%)는 넣지 않음.
+
+## 슬개대퇴 통증(PFP) 근거 — 2026-11-12 구상 단계에서 정독 (research/pfp/)
+| ID | 문헌 | 접근 | 라이선스 | 핵심 |
+|---|---|---|---|---|
+| S4 | Bramah C, Preece SJ, Gill N, Herrington L. A 10% increase in step rate improves running kinematics and clinical outcomes in runners with patellofemoral pain at 4 weeks and 3 months. *Am J Sports Med* 2019;47:3406–13 (PMC6883353) | 전문 정독(Europe PMC XML) | CC BY-NC-ND 4.0 → 그림·표 사용 불가, 사실 인용만 | 사례 연구(근거 수준 4), PFP + 골반·고관절 이상 움직임 12명. 평소 걸음 수 +10%, 메트로놈 1회 교육 후 스스로 유지. 걸음 수 165.9→184.5(4주)→181.0(3개월). 최악 통증 NRS 6.2→1.0→0.3, LEFS 62.3→76.6→79.7, 주간 거리 13.3→27.1→28.3km. 한계: 대조군 없음, 소표본, 이상 움직임이 있는 사람만 선별. 1명 피로골절(훈련량 급증 후) |
+| S5 | de Souza Júnior JR et al. Effects of two gait retraining programs on pain, function, and lower limb kinematics in runners with patellofemoral pain: a randomized controlled trial. *PLoS ONE* 2024;19:e0295645 (PMC10781021) | 전문 정독 | CC BY 4.0 | RCT 30명(충격 10/케이던스 10/대조 10). 케이던스군: 평소 +7.5~10%, 메트로놈, 2주(감독 2회+비감독 6회, 피드백 점차 제거). 6개월 뒤 달릴 때 통증이 대조군보다 2.9점 더 감소(95% CI −4.8~−1.0). 평소 통증·관절 각도는 차이 없음. 케이던스 167.6→176.8→179.3. 한계: 소표본, 브라질 표본, 6개월 훈련량 미수집 |
+| S6 | Petri AC et al. Gait Retraining for Patellofemoral Pain in Runners: An Umbrella Review of Clinical and Biomechanical Evidence. *Sports Med Open* 2026 (PMC13269574) | 전문 정독 | CC BY 4.0 | 리뷰 8편 종합. 케이던스 5~10% 증가가 가장 일관된 전략: 단기 통증·기능 개선, 무릎 부하 관련 지표 감소. 장기 효과·예방은 불확실. 근력·부하 관리·교육을 대신하는 단독 치료가 아니라 보조 수단, 증상 반응에 따라 점진 적용, 피드백은 점차 줄임. 너무 빨리 바꾸면 증상 악화·종아리/아킬레스 불편 보고 |
+| (미사용) | Anderson LM et al. Sports Med Open 2022;8:112 (PMC9441414) | 전문 내려받음, 카드 근거로 쓰지 않음(S6가 결론을 요약) | CC BY 4.0 | — |

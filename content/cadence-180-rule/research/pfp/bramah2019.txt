@@ -1,0 +1,524 @@
+464sageopenThe American Journal of Sports MedicineAm J Sports MedPMC6883353688335368833533165796410.1177/0363546519879693
+A 10% Increase in Step Rate Improves Running Kinematics and Clinical
+Outcomes in Runners With Patellofemoral Pain at 4 Weeks and 3
+MonthsBramahChristopherMSc, MCSP†*PreeceStephen JPhD†GillNiamhPhD†HerringtonLeePhD, MCSP†
+†School of Health Sciences, University of
+Salford, Salford, UKInvestigation performed at the School of Health
+Sciences, University of Salford, Salford, UK
+*
+Christopher Bramah, MSc,
+MCSP, School of Health Sciences, University of Salford, Blatchford Building,
+Salford, M6 6PU, UK (email: c.a.bramah@salford.ac.uk) (Twitter:
+@chrisbramah).
+2810201947143406
+3406–3413
+12122019
+© 2019 The Author(s)This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial-NoDerivs 4.0 License (http://www.creativecommons.org/licenses/by-nc-nd/4.0/) which
+permits non-commercial use, reproduction and distribution of the work as
+published without adaptation or alteration, without further permission
+provided the original work is attributed as specified on the SAGE and Open
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+Abstract
+Background:
+Aberrant frontal-plane hip and pelvis kinematics have been frequently
+observed in runners with patellofemoral pain (PFP). Gait retaining
+interventions have been shown to improve running kinematics and may
+therefore be beneficial in runners with PFP.
+Purpose:
+To investigate whether a 10% increase in the running step rate influences
+frontal-plane kinematics of the hip and pelvis as well as clinical outcomes
+in runners with PFP.
+Study Design:
+Case series; Level of evidence, 4.
+Methods:
+Runners with PFP underwent a 3-dimensional gait analysis to confirm the
+presence of aberrant frontal-plane hip and/or pelvis kinematics at baseline.
+A total of 12 participants with frontal-plane hip and/or pelvis kinematics 1
+standard deviation above a reference database were invited to undergo the
+gait retraining intervention. Running kinematics along with clinical
+outcomes of pain and functional outcomes were recorded at baseline, 4 weeks
+after retraining, and 3 months. Gait retraining consisted of a single
+session where step rate was increased by 10% using an audible metronome.
+Participants were asked to continue their normal running while
+self-monitoring their step rate using a global positioning system smartwatch
+and audible metronome.
+Results:
+After gait retraining, significant improvements in running kinematics and
+clinical outcomes were observed at 4-week and 3-month follow-up.
+Repeated-measures analysis of variance with post hoc Bonferroni correction
+(P < .016) showed significant reductions in peak
+contralateral pelvic drop (mean difference [MD], 3.12° [95% CI,
+1.88°-4.37°]), hip adduction (MD, 3.99° [95% CI, 2.01°-5.96°]), and knee
+flexion (MD, 4.09° [95% CI, 0.04°-8.15°]) as well as significant increases
+in self-reported weekly running volume (MD, 13.78 km [95% CI, 4.62-22.93
+km]) and longest run pain-free (MD, 6.84 km [95% CI, 3.05-10.62 km]).
+Friedman test with a post hoc Wilcoxon signed-rank test showed significant
+improvements on a numerical rating scale for worst pain in the past week and
+the Lower Extremity Functional Scale.
+Conclusion:
+A single session of gait retraining using a 10% increase in step rate
+resulted in significant improvements in running kinematics, pain, and
+function in runners with PFP. These improvements were maintained at 3-month
+follow-up. It is important to assess for aberrant running kinematics at
+baseline to ensure that gait interventions are targeted appropriately.
+Registration:
+NCT03067545 (ClinicalTrials.gov identifier)
+Keywords: patellofemoral pain, running, gait retraining, kinematics, step ratestatusreleaseddisplay-pdfyesis-in-collection-domainyesis-olfnois-manuscriptnois-preprintnois-journal-matternois-scannednois-retractedno
+Issue date 2019 Dec.
+Recreational running is an increasingly popular method of physical activity, with
+participation rates growing annually. Although running offers several health benefits,
+it also poses a considerable risk of injury to the musculoskeletal system. Overall
+injury incidence rates are reported to range between 19% and 78% among recreational runners,37 with recurrence rates in 20% to 70% of all cases.38 Of all running injuries, patellofemoral pain (PFP) is considered the most common
+running-related knee injury,36 with incidence and prevalence rates as high as 20.8% and 22.7%, respectively.34
+PFP is known to have a multifactorial cause, with aberrant running mechanics identified
+as one risk factor.21,22,24 Runners with PFP
+have been reported to demonstrate increased hip adduction (HADD),24,25,41 hip internal rotation,25 and contralateral pelvic drop (CPD)41 when compared with injury-free controls. It is thought that aberrant frontal- and
+transverse-plane running kinematics may result in lateral tracking of the patella,
+leading to a rise in patellofemoral joint stress.30 When exposed to repeat loading cycles during running, the knee may experience
+damage to the underlying chondral surface, stress within the subchondral bone, and
+excitation of nociceptors, leading to pain and injury.2
+Gait retraining is a clinical intervention that targets aberrant running kinematics
+within the rehabilitation of PFP. Current evidence has shown improvements in kinematics
+and clinical outcomes after mirror retraining,42 real-time feedback,26 and transitioning to a forefoot contact.32,33 However, the use of mirror
+retraining and real-time feedback is restricted to clinical and laboratory
+settings,limiting their practical applicability, while transitioning to a forefoot
+strike has been shown to increase Achilles tendon and ankle joint loading, which may
+increase the risk of lower limb injury.1 Furthermore, these studies often utilize a faded feedback design consisting of 8
+sessions over a 2-week period, requiring closeclinical supervision. Therefore, there is
+a need for gait retraining methods that can be easily integrated outside of a laboratory
+setting while providing positive clinical and biomechanical outcomes.
+Increasing step rate may be one method of gait retrainingthat could be integrated outside
+of a laboratory setting. Through the use of global positioning system (GPS) smartwatches
+and mobile metronome applications, runners may be able to self-retrain and monitor their
+step rate without the need for close clinical supervision.19,40 Currently, only 3 studies have
+investigated the effects of increasing the step rate among runners with PFP.11,12,20 Neal et al20 reported improved frontal-plane hip and pelvis kinematics along with reductions
+in pain but did not investigate whether improvements were maintained beyond the 6-week
+follow-up period. Esculier et al12 reported gait retraining to be no more effective than education on load
+management, and Dos Santos et al11 reported minimal changes in pain after a 2-week retraining period. Furthermore,
+both Esculier et al and Dos Santos et al did not report any change in frontal-plane hip
+and pelvis kinematics after the retraining period. Therefore, questions remain regarding
+the clinical effectiveness of increasing the step rate and whether step rate retraining
+results in long-term kinematic adaptations among runners with PFP.
+The aim of the current study was to investigate whether a 10% increase in the running
+step rate influences frontal-plane kinematics of the hip and pelvis as well as clinical
+outcomes in runners with PFP. Rather than use a clinically monitored faded feedback
+design, we sought to investigate whether runners can self-administer gait retraining
+interventions using an audible metronome and a GPS smartwatch. We hypothesized that a
+10% increase in step rate would result in significant reductions in frontal-plane hipand
+pelvis kinematics and improvements in clinical outcomes and that these changes would be
+present at short- and long-term follow-up.
+Methods
+Participants
+Participants were recruited through advertisements at local sports injury
+clinics, running clubs, and a university-based running clinic. Ethical approval
+for the study was obtained via the local ethics committee, and all participants
+provided written informed consent before participation. This study was
+registered as a clinical trial (ClinicalTrials.gov
+registration No. NCT03067545) with enrollment for the trial between March 2017
+and December 2018. An a priori sample size calculation was conducted using data
+from a previous gait retraining study identifying a 2.3° reduction in CPD after
+retraining with an effect size of 1.09.26 Using G*Power software, we calculated that 12 participants would be
+required to detect an effect size of 1.25 with a power of 0.8 and an adjusted
+critical alpha of .016. This calculation was based on the use of paired tests to
+detect differences in peak CPD, which were similar to changes observed in
+previous studies after gait retraining (2.3°)26 and also of similar magnitude to differences observed between injured and
+healthy runners (2.7°).4
+Inclusion/Exclusion Criteria
+All participants were required to own a GPS smartwatch or running watch capable
+of monitoring step rate. Participants were included in the gait retraining
+intervention based on a 3-stage assessment process. First, a subjective
+assessment and clinical examination were used to confirm the presence of PFP.
+Once the diagnosis of PFP was confirmed, a 3-dimensional (3D) gait analysis was
+conducted to confirm the presence of aberrant hip and/or pelvis kinematics. To
+ensure that the injury diagnosis met the consensus definition of a
+running-related injury,43 participants had to report an insidious onset of anterior knee pain
+during running lasting for a minimum of 3 months, causing a self-reported
+restriction to either their running volume or duration. Participants were
+required to be running a minimum of twice per week, with their worst pain rated
+a minimum of 3 out of 10 on a numerical rating scale (NRS) for pain (0 = no
+pain, 10 = worst possible pain). Pain must also have been reproduced by ≥1 of
+the additional activities of squatting, kneeling, prolonged sitting, or
+ascending or descending stairs. Participants were excluded if they reported
+having any known medical condition, had undergone prior musculoskeletal surgery,
+had a neurological impairment, had diagnosed knee osteoarthritis, had a
+structural deformity of the knee, had an onset of knee pain caused by trauma or
+any other sporting activity, had ceased running, or were undergoing additional
+treatment outside of the study. To control for training errors as a potential
+underlying cause of injury, participants were also excluded if they reported the
+onset of symptoms to occur after an increase in their weekly training volume ≥30%.23
+After the subjective assessment, participants were invited to undergo a clinical
+examination led by the lead clinician (C.B.) to confirm the diagnosis of PFP in
+accordance with previously published diagnostic criteria.9 Specifically, for inclusion in the study, pain must have been
+retropatellar or peripatellar in nature and reproduced on squatting with the
+exclusion of any patellar instability, ligamentous or meniscal injury.9 Pain on squatting has been shown to have a sensitivity of 91% and a
+negative predictive value of 74%, suggesting this examination to be the best
+available test for PFP.9,27 A combination of additional, but nonessential, clinical
+tests was used to further increase the diagnostic accuracy of PFP.8 Tests included patellar compression, patellar apprehension, pain on
+palpation of the lateral patellar facet, and pain on resisted quadriceps
+contraction in 30° of knee flexion.8,27 These tests are known to
+have low sensitivity and specificity when used in isolation and were not used as
+a sole diagnostic criterion for PFP.8,27
+Once the diagnosis of PFP was confirmed, each participant underwent an initial 3D
+gait analysis as outlined below and completed clinical outcome measures to
+monitor pain and functional improvements. Clinical outcome measures included the
+Lower Extremity Functional Scale (LEFS), previously validated for use in PFP,3 as well as self-reported worst pain experienced in the past week using
+the NRS (0 = no pain, 10 = worst possible pain). Additional outcomes monitored
+were self-reported longest distance run pain-free and total weekly running
+volume.
+Kinematic Data Collection
+Kinematic data were collected from all participants with confirmed PFP while
+running on a treadmill (F63; Sole Fitness) at 3.2 m/s wearing their own running
+shoes. After a 5-minute warm-up period, 30 seconds of kinematic data were
+collected using a 12-camera Oqus system (240 Hz; Qualisys). A total of 9
+anatomic segments were tracked following a previously published
+protocol.17,31 Segments included the thorax; pelvis; and bilateral thigh,
+shank, and foot segments. Further details of the markers used to track each
+segment and the precise definition of the anatomic coordinate systems are
+provided in previous publications.13,17,31
+Raw kinematic data were low pass filtered at 10 Hz. Intersegmental kinematics,
+along with motions of the pelvis and thorax with respect to the laboratory
+system, were calculated using a 6 degrees of freedom model with Visual3D
+software (C-Motion). Gait events were defined using a kinematic approach in
+which initial contact was defined as the first vertical acceleration peak of
+either the heel or metatarsal markers and toe-off defined as the vertical jerk
+peak of the second metatarsal marker.14 Gait events were subsequently used to segment each kinematic signal into
+a minimum of 10 consecutive gait cycles. An ensemble average for each signal was
+created and selected kinematic parameters derived from the ensemble average
+curves. This latter processing was carried out using a custom Matlab script
+(MathWorks).
+Participants were invited to participate in the gait retraining study providing
+that they demonstrated aberrant hip and/or pelvis kinematics during the initial
+3D gait analysis. Aberrant hip and pelvis kinematics were defined as peak HADD
+and CPD angles ≥1 standard deviation above the mean of a previously published
+database of healthy recreational runners running at the same speed4 (qualifying criteria = CPD ≥5.6° and/or HADD ≥13.2°). Runners who did not
+meet the kinematic inclusion criteria were not included in the study and were
+referred to a health care professional for further management.
+Retraining Protocol
+All participants included within the retraining protocol completed a single
+10-minute retraining session conducted immediately after the initial 3D gait
+analysis. During the retraining session, participants were asked to run at the
+same speed with a 10% increase in their original step rate. Step rate was
+calculated as the number of foot contacts per minute. During the first 5 minutes
+of the retraining protocol, participants were instructed to match their
+footsteps to an audible metronome set to the new step rate. For the final 5
+minutes of the retraining session, the audible metronome was removed, and
+participants were instructed to continue running at the increased step rate.
+Throughout this time, participants were monitored by the lead researcher to
+ensure that they were able to maintain the higher step rate and the metronome
+reintroduced if they failed to do so.
+After the retraining session, participants were provided with instructions for
+self-administration and monitoring of the increased step rate. Specifically,
+during the first 2 weeks, participants were instructed to continue using a free
+downloadable metronome application set to the new step rate. During the third
+and fourth weeks, participants were instructed to continue running without the
+use of the metronome but were instructed to self-monitor their cadence using
+their GPS smartwatch. Participants were permitted to increase their running
+volume at any point in the retraining period provided that any knee pain
+experienced was rated below 3 of 10 on an NRS.
+All participants were invited to follow-up 3D gait analysis sessions at 4 weeks
+and 3 months after the initial assessment. This follow-up period allowed us to
+investigate whether kinematic changes could be maintained across a time frame
+comparable with previous gait retraining studies.42 The follow-up sessions were completed following the same kinematic
+testing procedures as the first visit, recording the same clinical outcome
+measurements. After the 4-week follow-up assessment, participants were
+instructed to continue running without the use of the metronome. No restrictions
+to training parameters were provided; participants were instead instructed to
+increase their training volume or pace and change surfaces as they saw fit
+provided that any pain experienced was rated lower than 3 of 10 on the NRS.
+Data Analysis
+Several kinematic parameters were selected for data analysis. Kinematic
+parameters included peak CPD, HADD, hip internal rotation, and knee flexion.
+These parameters were selected based on previous research highlighting
+associations with these parameters and PFP.4,20,25,41 Peak angles at midstance
+were defined as the maximum joint angles between initial contact and toe-off.
+Stride rate was also included within the analysis, measured as steps per minute,
+along with clinical outcome measures of worst pain experienced in the past week
+using the NRS, longest distance run pain-free, total weekly running volume, and
+LEFS score.
+Statistical Analysis
+Repeated-measures analysis of variance was used to assess for differences in
+kinematic parameters between the initial assessment (baseline), 4-week
+follow-up, and 3-month follow-up, with a critical alpha of <.05. When
+significant differences were observed, post hoc Bonferroni testing, with an
+adjusted critical alpha of <.016, was used to identify differences between
+time points. Clinical outcomes of the NRS and LEFS were analyzed using the
+Friedman test for nonparametric data with a post hoc Wilcoxon signed-rank test.
+Effect sizes were calculated for pairwise comparisons using the Cohen
+d and interpreted as 0.2, 0.5, and 0.8 as small, medium,
+and large, respectively.6
+Results
+A total of 33 participants met the initial subjective inclusion criteria and were
+invited for a clinical examination. After the clinical examination, 18 were
+diagnosed as having PFP and invited to take part in the 3D gait analysis. After the
+3D gait analysis, 12 participants met the inclusion criteria and were enrolled in
+the gait retraining study. There were 2 participants who dropped out of the study
+between the 4-week and 3-month follow-up points. The first participant failed to
+attend the 3-month follow-up and did not respond to contact, and the second
+developed a tibial stress fracture on the same limb and was unable to continue the
+study. Both participants were included in the final analysis using a last
+observation carried forward method35 (Table 1).
+Table 1
+Participant Characteristics
+a
+Value | 
+Male/female sex, n | 4/8 | 
+Age, y | 39.92 ± 6.50 | 
+Weight, kg | 61.03 ± 6.48 | 
+Height, cm | 170.33 ± 6.98 | 
+Usual weekly running volume, km | 29.03 ± 8.11 | 
+a
+Values are presented as mean ± SD unless otherwise specified.
+Kinematics
+Repeated-measures analysis of variance showed a significant effect of time for
+several kinematic parameters (Table 2). In particular, there were
+significant increases in step rate and reductions in peak CPD, HADD, and knee
+flexion after the step rate intervention (Table 2). The post hoc testrevealed
+that step rate significantly increased by an average of 11.2% at 4 weeks (mean
+difference [MD], 18.6steps/min [95% CI, 11.97-25.23 steps/min]) and9.2% at 3
+months (MD, 15.1 steps/min [95% CI, 10.64-19.57 steps/min]) when compared with
+baseline. There was a significant 3.12° reduction in CPD (MD, 3.12° [95% CI,
+1.88°-4.37°]) and 3.99° reduction in HADD (MD, 3.99° [95% CI, 2.01°-5.96°]) at 4
+week follow-up, which was also significant at 3 months when compared with
+baseline for both CPD (MD, 2.7° [95% CI, 1.4°-4.1°]) and HADD (MD, 2.8° [95% CI,
+0.4°-5.4°]). Similarly, there was a significant reduction in peak knee flexion
+during stance phase at 4 weeks (MD, 4.10° [95% CI, 0.04°-8.15°]) and 3 months
+(MD, 4.15° [95% CI, 0.81°-7.48°]). No significant differences were observed
+between the 4-week and 3-month follow-up time points for any of the kinematic
+parameters (Table
+2).
+Table 2
+Kinematic Parameters
+a
+Baseline | 4 wk | 3 mo | P Value (ANOVA) | Pairwise Effect Size (Cohen
+d) | 
+Stride rate, steps/min | 165.93 ± 7.38 | 184.53 ± 10.10
+b
+ | 181.04 ± 7.78
+b
+ | <.01 | Baseline to 4 wk | 2.10 | 
+Baseline to 3 mo | 1.99 | 
+4 wk to 3 mo | 0.38 | 
+Peak CPD, deg | 7.46 ± 1.81 | 4.34 ± 2.47
+b
+ | 4.73 ± 2.95
+b
+ | <.01 | Baseline to 4 wk | 1.44 | 
+Baseline to 3 mo | 1.11 | 
+4 wk to 3 mo | 0.14 | 
+Peak HADD, deg | 15.95 ± 2.75 | 11.96 ± 1.77
+b
+ | 13.09 ± 3.20
+b
+ | <.01 | Baseline to 4 wk | 1.72 | 
+Baseline to 3 mo | 0.95 | 
+4 wk to 3 mo | 0.43 | 
+Peak hip internal rotation, deg | 4.06 ± 8.17 | 4.18 ± 9.35 | 4.42 ± 7.89 | .93 | Baseline to 4 wk | 0.01 | 
+Baseline to 3 mo | 0.04 | 
+4 wk to 3 mo | 0.02 | 
+Peak knee flexion, deg | 33.74 ± 5.25 | 29.64 ± 3.23
+b
+ | 29.59 ± 3.16
+b
+ | <.01 | Baseline to 4 wk | 0.94 | 
+Baseline to 3 mo | 0.96 | 
+4 wk to 3 mo | 0.02 | 
+a
+Values are presented as mean ± SD unless otherwise specified.
+Pairwise effect sizes are interpreted as 0.2 = small, 0.5 = medium,
+and 0.8 = large. ANOVA, analysis of variance; CPD, contralateral
+pelvic drop; HADD, hip adduction.
+b
+Significant difference when compared with baseline at
+P < .016 after Bonferroni correction.
+Clinical and Functional Outcomes
+All clinical and functional outcomes demonstrated statistically significant
+improvements. Specifically, there was a significant reduction in pain scores on
+the NRS from an average of 6.2 out of 10 at baseline to 1.0 and 0.3 at 4 weeks
+and 3 months, respectively (χ2 = 21.38; P < .01)
+(Figure 1), which is
+above the minimal clinically important difference of 1.2 points.28 The LEFS demonstrated a statistically significant improvement from 62.3
+at baseline to 76.6 at 4 weeks and 79.7 at 3 months (χ2 = 22.29;
+P≤ .01) (Figure 1). When compared with baseline, this was a 14.3- and
+17.4-point improvement at 4 weeks and 3 months, respectively, which is above the
+minimal clinically important difference of 9 points.3 All participants demonstrated a significant increase in total weekly
+running volume (MD, 13.78 km [95% CI, 4.62-22.93 km]) and longest distance run
+pain-free (MD, 6.84 km [95% CI, 3.05-10.62 km]) from baseline to 4-week and
+3-monthfollow-up (Table
+3).
+Figure 1.
+Clinical outcomes at baseline, 4 weeks, and 3 months. *Statistically
+significant difference when compared with baseline at P
+< .016. Error bars represent ±1 standard deviation.
+Table 3
+Functional Outcomes
+a
+Parameter | Baseline | 4 wk | 3 mo | P Value | Pairwise Effect Size (Cohen
+d) | 
+Total distance per week, km | 13.34 ± 9.83 | 27.11 ± 11.25
+b
+ | 28.33 ± 12.96
+b
+ | <.01 | Baseline to 4 wk | 1.30 | 
+Baseline to 3 mo | 1.30 | 
+4 wk to 3 mo | 0.10 | 
+Longest run pain-free, km | 2.03 ± 1.19 | 8.87 ± 4.39
+b
+ | 11.33 ± 6.42
+b
+ | <.01 | Baseline to 4 wk | 2.10 | 
+Baseline to 3 mo | 2.01 | 
+4 wk to 3 mo | 0.44 | 
+a
+Values are presented as mean ± SD unless otherwise specified.
+Pairwise effect sizes are interpreted as 0.2 = small, 0.5 = medium,
+and 0.8 = large.
+b
+Statistically significant difference when compared with baseline at
+P < .016.
+Discussion
+The aim of this study was to investigate whether a 10% increase in the step rate
+would improve kinematics and clinical outcomes among runners with PFP who
+demonstrate aberrant frontal-plane pelvis and hip kinematics. In support of our
+hypothesis, we observed significant reductions in frontal-plane pelvis and hip
+kinematics as well as significant reductions in pain and improvements in function
+and running at 4 weeks, which appeared to be maintained at 3-month follow-up.
+After the step rate increase, we observed a 3.12° and 3.99° reduction in CPD and
+HADD, respectively (Table
+2), which may offer a mechanical explanation for the improved clinical
+outcomes seen in this study. These changes are greater than those observed in
+previous step rate studies,11,20 with this being the first study to highlight that kinematic
+adaptations are maintained at longer term follow-up. CPD and HADD have been cited as
+kinematic risk factors for PFP.4,21,24,25,41 It is thought that CPD will
+give rise to an increase in iliotibial band tension, resulting in lateral
+displacement of the patella,15,18 while HADD would cause the femur to shift medially under the patella.29 This would result in elevated contact pressure between the patella and
+lateral facet, leading to elevated joint stress and potential injury.30 Therefore, it is possible that the reductions in CPD and HADD after an
+increase in the step rate would contribute to reduced lateral displacement of the
+patella and a corresponding reduction in patellofemoral joint stress.
+Similarly, the reduction in peak knee flexion during stance phase may also contribute
+to improvements in clinical outcomes. Peak knee flexion during stance phase has been
+shown to influence patellofemoral joint reaction force, explaining up to 64% of the
+variance in peak patellofemoral joint loading.16 Smaller knee flexion angles at midstance will likely reduce the external
+joint force as well as reduce the demand on the surrounding musculature.16 In the current study, we observed a 4.1° reduction in peak knee flexion
+(Table 2). Given the
+work of Lenhart et al,16 this magnitude of change is likely to contribute to reductions in peak
+patellofemoral joint force. These reductions, combined with the reductions in peak
+HADD and CPD, will likely lead to significant reductions in patellofemoral joint
+stress, which may explain the observed improvements in clinical outcomes within the
+present study.
+We suggest that the improved frontal-plane hip and pelvis kinematics may be explained
+by alterations in neuromuscular activity of the hip. Willson et al39 found that runners with PFP demonstrate significantly delayed onset of the
+gluteus medius, which had a moderate correlation with HADD excursion. It is
+hypothesized that delayed muscle activation of the gluteus medius during the stance
+phase of running would result in a loss of neuromuscular stiffness about the hip and
+pelvis, leading to a loss of frontal-plane stability.39 Increasing step rate by 10% has been shown to directly influence the
+preactivation of gluteal muscles.5 Specifically, Chumanov et al5 reported significantly increased gluteus medius and maximus muscle activity
+in late swing phase, just before initial foot contact after a 10% increase in step
+rate. Considering the role that the gluteus medius plays in frontal-plane stability
+of the hip and pelvis, it is likely that the earlier onset of the glutealmuscles
+would result in increased neuromuscular stability during the stance phase of gait.
+This would likely explain the mechanical improvements of reduced CPD and HADD
+observed in the present study.
+Reductions in peak knee flexion may also be explained by alterations in neuromuscular
+activity at the knee. Increasing the step rate has been shown to result in greater
+preactivation of the hamstrings, vastus lateralis, and rectus femoris muscles during
+late swing phase.5 It is thought that these changes in neuromuscular coordination contribute to
+a more extended knee throughout the stance phase, reducing peak knee flexion
+angles.5,16
+In contrast to previous studies, we did not identify differences in peak hip internal
+rotation after gait retraining. Neal et al20 reported a 5.1° reduction in peak hip internal rotation after a 10% increase
+in step rate, whereas in the present study, we did not observe more than a 0.5°
+change. This may be explained by our baseline inclusion criteria of increased HADD
+and CPD rather than hip internal rotation. Participants within this study
+demonstrated 4.06° of hip internal rotation at baseline, which is less than the 9.1°
+reported in the study by Neal et al20 and similar to the 4.4° reported in the database of healthy runners used for
+baseline reference values.4 Therefore, it is possible that participants in the present study did not
+demonstrate increased hip internal rotation angles at baseline and thus would be
+unlikely to demonstrate any change.
+An interesting finding was the magnitude of clinical improvements made by
+participants. Specifically, participants reported their worst pain to be, on
+average, 1.0 out of 10 at 4-week follow-up and 0.3 out of 10 at 3-month follow-up
+(Figure 1). This is
+greater than the minimal clinically important difference of 1.2 points28 and greater than improvements seen in previous step rate studies, which have
+reported average NRS scores of 3,11 3.8,12 and 2.920 out of 10 after retraining. We also observed significant improvements in
+function, with all runners reporting an increase in their weekly running volume and
+longest distance run pain-free as early as 4 weeks (Table 3), as well as a 17.4-point
+improvement on the LEFS at 3 months, exceeding the minimal clinically important
+difference of 9 points.3 This contrasts with previous step rate studies, with 1 study reporting
+participants to be running less than their preinjury status at 20-week follow-up12 and another study reporting less than a 9-point improvement on the LEFS.11
+The reason for the magnitude of kinematic and clinical improvements in the present
+study compared with previous step rate studies may be because of the differences in
+inclusion criteria. In the present study, we specifically targeted participants who
+demonstrated aberrant kinematics at baseline. We did this to account for the
+multifactorial etiology of PFP and ensure that the appropriate underlying injury
+driver was targeted through the gait intervention. Failure to consider alternative
+causes of injury would likely result in the inclusion of biomechanical nonresponders
+in the retraining group. As such, these participants would be unlikely to
+demonstrate significant clinical improvements. Willy et al42 and Noehren et al26 are the only previous studies to use a similar inclusion criterion, with
+their results showing a similar magnitude of clinical improvement. Therefore, we
+suggest that future research should aim to establish the underlying pathological
+driver to appropriately target clinical interventions and that this be mirrored in
+clinical practice.
+Clinical Relevance
+In contrast to previous gait retraining studies, we opted to allow runners to
+self-administer and self-monitor their retraining using a metronome application
+and feedback from a GPS smartwatch. This proved successful, as all runners were
+able to maintain an increased cadence at 4-week and 3-month follow-up.
+Furthermore, at 4-week follow-up, all participants reported that they did not
+use the metronome beyond the first week and instead self-monitored their cadence
+using their GPS smartwatch. Previous studies have utilized a faded feedback
+design in which feedback is gradually removed over 8 sessions across a 2-week
+period. Although faded feedback designs have proven clinically effective, they
+require close clinical supervision and are restricted to clinical and laboratory
+settings. The present study demonstrates that simple step rate retraining can be
+applied outside of the laboratory and with minimal clinical contact.
+Importantly, 2-dimensional measures of CPD and HADD have been shown to be valid
+and reliable when compared with 3D measurements.10 Therefore, assessment of running kinematics and gait retraining can be
+easily integrated into clinical practice and a participant’s normal running
+routine.
+Limitations
+One limitation of the present study is the lack of a control group, making it
+difficult to ascertain whether the observed findings are true intervention
+effects. However, participants in the present study had an average NRS pain
+score of 6.2 out of 10 at baseline and a minimum symptom duration of 3 months,
+which has been reported to be predictive of poor prognosis at long-term follow-up.7 Therefore, it is unlikely that participants would have experienced the
+magnitude of symptom improvement without a clinical intervention. Furthermore,
+the kinematic differences observed between baseline and the 4-week and 3-month
+time points were statistically significant, with large effect sizes above the
+standard error of measurement previously reported for these parameters.17 These differences were of a similar magnitude to those observed
+previously between injured and healthy runners (2.7°)4 and after gait retraining interventions (2.3°).26 Therefore, we believe that the differences observed represent true
+intervention effects and could be considered biomechanically important.
+A second limitation is the small participant numbers, which makes the statistical
+interpretation of small differences difficult. We observed no significant
+kinematic changes between 4-week and 3-month follow-up. We acknowledge that the
+small sample size limited the statistical power to detect small differences
+between these time points. However, the magnitude of the differences in
+biomechanical outcomes between these 2 follow-up points was typically small
+(Table 2) and
+lower than the standard error of measurement previously reported for these parameters.17 Therefore, we believe that subtle differences between these time points
+are unlikely to be clinically important. However, we acknowledge that future
+randomized controlled trials with larger participant numbers are necessary to
+further validate our findings and confirm that kinematic changes are maintained
+over longer time periods.
+It is important to note that 1 participant dropped out of the intervention after
+suffering a tibial stress fracture. This participant reported that the injury
+onset occurred after a sudden increase in training volume in preparation for a
+half-marathon. As we did not control participant progression of training volume,
+it is possible that the injury could be the result of training behaviors rather
+than a response to the intervention. As such, we recommend that future clinical
+interventions provide participants with specific advice on the safe progression
+of running volume to reduce the risk of further injuries.
+Conclusion
+The results of this study highlight that a 10% increase in step rate improves running
+kinematics and clinical outcomes at 4 weeks, which are maintained at 3 months, among
+runners with PFP. Therefore, step rate retraining appears to be a clinically
+effective intervention in the rehabilitation of PFP and can easily be integrated
+into clinical practice. It is important to assess running kinematics at baseline to
+ensure that interventions are appropriately targeted.
+Footnotes
+One or more of the authors has declared the following potential conflict of
+interest or source of funding: This project was internally funded by the
+University of Salford. AOSSM checks author disclosures against the Open Payments
+Database (OPD). AOSSM has not conducted an independent investigation on the OPD
+and disclaims any liability or responsibility relating thereto.
+References
