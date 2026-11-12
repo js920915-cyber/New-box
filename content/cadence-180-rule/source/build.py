@@ -88,12 +88,12 @@ CARDS = [
         '<h1 class="headline">분당 180보,<br>꼭 <span class="accent">맞춰야</span><br>할까요?</h1>', gap(40),
         photo('cover-race-runners_PeterMooney_ccby20.jpg', 580, 900, -6, -20, '도로 대회에서 힘껏 달리는 두 시민 러너'), gap(40),
         '<p class="body">‘케이던스 180’은 어디서 왔고<br>연구는 무엇을 말할까요?</p>']),
-    # 02 출처
+    # 02 출처 — Daniels 1984 올림픽 관찰 (V.O2 2018 회고)
     ('kind-origin', [
-        '<h1 class="headline">180은 <span class="accent">평균</span>이었지<br>목표가 아니었습니다</h1>', gap(40),
-        photo('cover-elite-marathon_AngelLite_pdm.jpg', 470, 888, 0, -150, '도로 마라톤에서 달리는 엘리트 선수 세 명'), gap(40),
-        '<p class="body">경기에 나서는 장거리 선수들에게서<br>평균 분당 180보 근처가 관찰됐고,<br>이 숫자가 일부 교정법의 기준이 됐습니다.</p>', gap(24),
-        '<p class="note">2026년 리뷰는 이를 “관찰된 평균을<br>지켜야 할 목표로 바꾼 것”이라고 봅니다</p>']),
+        '<h1 class="headline">180은 <span class="accent">올림픽 선수</span>를<br>세어 본 숫자입니다</h1>', gap(36),
+        photo('cover-elite-marathon_AngelLite_pdm.jpg', 360, 888, 0, -170, '도로 경기에서 달리는 엘리트 선수 세 명'), gap(36),
+        '<p class="body">1984년 LA 올림픽, 잭 대니얼스 코치가<br>경기 중인 엘리트 선수 약 47명의<br>걸음 수를 세어 보니<br><span class="strong">180보 미만은 단 1명</span>이었습니다.</p>', gap(36),
+        '<div class="box"><p class="item">실험으로 찾은 최적값이 아니라<br>엘리트 경기의 관찰값입니다</p></div>']),
     # 03 원문 Fig. 1 — 대체로 속도에 의존
     ('kind-figure', [
         '<h1 class="headline">케이던스는 대체로<br><span class="accent">속도</span>를 따라갑니다</h1>', gap(28),

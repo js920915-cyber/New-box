@@ -5,9 +5,11 @@ S1 = Patoz 2026 (PDF 쪽), S2 = van Oeveren 2017 (섹션).
 | 카드 | 카드·캡션 문장 | 원문 위치 · 원문 | 1차 | 2차 |
 |---|---|---|---|---|
 | 01 | ‘케이던스 180’의 출처와 연구 내용 | S1 6쪽 Belief 2 정의: "there exists an ideal cadence of 180 steps/min, universally associated with optimal efficiency and reduced injury risk" | ✔ | ✔ |
-| 02 | 경기에 나서는 장거리 선수들에게서 평균 분당 180보 근처가 관찰됨 | S1 6쪽 "originated from observations of competitive distance runners [22], in whom an average cadence near 180 steps/min was reported" | ✔ | ✔ |
-| 02 | 이 숫자가 일부 교정법의 기준이 됨 (2차: "주법 교정의 기준"→"일부 교정법의 기준", 원문 some) | S1 6쪽 "this descriptive value became a practical reference point and was incorporated into some gait-retraining approaches" | ✔ | ✔ |
-| 02 | “관찰된 평균을 지켜야 할 목표로 바꾼 것” (리뷰 표현) | S1 8쪽 Integrative Perspective "By transforming a descriptive mean into a normative target" | ✔ | ✔ |
+| 02 | 180은 올림픽 선수를 세어 본 숫자 | S3 Daniels 회고(검색 인용문): 1984 Olympics, "time and count stride rates among male and female runners in their important Olympic events" | ✔(인용문) | ✔(인용문) |
+| 02 | 1984년 LA 올림픽, 잭 대니얼스 코치가 경기 중인 엘리트 선수 약 47명의 걸음 수를 셈 | S3 "we found only one of about 47 athletes whom we observed" / 2차 출처 46명 | ✔(인용문) | ✔(인용문) |
+| 02 | 180보 미만은 단 1명 | S3 "only one ... who took less than 180 steps per minute"; 2차 출처 "only one took fewer than 180 SPM ... 176" | ✔(인용문) | ✔(인용문) |
+| 02 | 실험으로 찾은 최적값이 아니라 엘리트 경기의 관찰값 | S3 관찰 방식(경기 관람 중 시간·걸음 수 측정); S1 6쪽 "originated from observations of competitive distance runners"; S2 Introduction "based on the observation that ... elite runners seem to use a SF of at least 90 strides·min-1" | ✔ | ✔ |
+| 캡션 | 이 숫자가 일부 교정법의 기준이 됨 / 리뷰 표현 “관찰된 평균을 지켜야 할 목표로 바꾼 것” | S1 6쪽 "incorporated into some gait-retraining approaches"; 8쪽 "By transforming a descriptive mean into a normative target" | ✔ | ✔ |
 | 캡션 | 실시간 케이던스를 알려 주는 웨어러블이 숫자 목표를 쓰기 쉽게 만듦 | S1 6쪽 "wearable devices capable of providing real-time cadence feedback has further facilitated the monitoring and use of such numerical targets" | ✔ | ✔ |
 | 03 | 그래프 = 원문 Fig. 1, 점 하나 = 연구·조건 하나의 평균 | S1 7쪽 Fig. 1 legend "Each point represents a value extracted from an individual study or experimental condition" | ✔ | ✔ |
 | 캡션 | 보통 분당 150~210보 (03장에서 캡션으로 이동, 2026-11-12 수정) | S1 7쪽 "typically ranging from 150 to 210 steps/min" | ✔ | ✔ |
@@ -46,3 +48,8 @@ S1 = Patoz 2026 (PDF 쪽), S2 = van Oeveren 2017 (섹션).
 - 사용자 요청: 03장을 "대체로 속도에 의존하는 케이던스"로 구성, Theoretical Perspective 두 단락(제약조건의 결과·선호 움직임 경로·편안함 필터·완만한 최적 영역·신중한 소폭 조절/일률적 강요·통합 조절 전략)을 압축 반영, 04장 청소년 항목 삭제.
 - 원문 8쪽 해당 단락을 다시 열어 06장·04장 결론 문장을 대조(위 표). 03장 보폭/케이던스 문장은 7쪽 원문과 대조. 모두 ✔.
 - 압축 번역 판단: "constraint-governed outcome" → "여러 조건이 만든 결과", "self-organization" → "몸의 자기조절", "energetic or mechanical costs" → "에너지·부하 부담", "integrated control strategy" → "조절 전략".
+
+## 02장 수정 (2026-11-12, 사용자 제공 정보 반영)
+- 사용자: 180의 기원 = 1984 LA 올림픽 Daniels 현장 관찰(V.O2 2018 회고), "장거리"를 마라톤으로 오해할 우려.
+- 원문 페이지 접속 불가(도메인 차단) → 검색 결과의 Daniels 본인 인용문 + 독립 2차 출처로 핵심(1984, 약 47명, 180 미만 1명, 관찰)만 확인. 종목 목록·종목별 수치는 출처 불일치로 제외. "장거리" 대신 "올림픽 경기 중인 엘리트 선수"로 표기해 오해를 피함.
+- 리뷰(S1)의 "average near 180"과 Daniels 회고(대부분 180 이상)는 표현이 달라, 카드는 Daniels 관찰 사실(180 미만 1명)로 바꿈.

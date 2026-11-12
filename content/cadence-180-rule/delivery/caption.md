@@ -1,7 +1,7 @@
 ‘케이던스는 분당 180보’, 한 번쯤 들어 보셨죠? 이 숫자는 어디서 왔고, 연구는 뭐라고 할까요?
 
-📌 180은 평균이었지 목표가 아니었습니다
-180은 경기에 나서는 장거리 선수들에게서 평균 분당 180보 근처가 관찰된 데서 나왔습니다. 이 숫자가 일부 교정법의 기준이 됐고, 실시간 케이던스를 알려 주는 웨어러블이 숫자 목표를 쓰기 쉽게 만들었습니다. 2026년 리뷰는 이를 “관찰된 평균을 지켜야 할 목표로 바꾼 것”이라고 봅니다.
+📌 180은 올림픽 선수를 세어 본 숫자입니다
+1984년 LA 올림픽에서 코치 잭 대니얼스(Jack Daniels)는 아내와 함께 경기 중인 남녀 엘리트 선수 약 47명의 걸음 수를 세었고, 180보 미만은 단 1명이었다고 회고했습니다. 일반 러너가 아니라 올림픽 무대의 엘리트 선수를, 그것도 경기 중에 관찰한 값이고, 180이 최적이라는 것을 실험으로 보인 것은 아닙니다. 이 숫자가 일부 교정법의 기준이 됐고, 실시간 케이던스를 알려 주는 웨어러블이 숫자 목표를 쓰기 쉽게 만들었습니다. 2026년 리뷰는 이를 “관찰된 평균을 지켜야 할 목표로 바꾼 것”이라고 봅니다.
 
 📌 케이던스는 대체로 속도를 따라갑니다
 지구력 러너의 케이던스는 보통 분당 150~210보이고, 속도가 빠를수록 대체로 올라갑니다. 속도는 케이던스와 보폭의 조합이라, 느리거나 중간 속도에서는 주로 보폭이, 빠를수록 케이던스가 속도를 끌어올리는 몫이 커집니다. 다리가 길거나 체중이 많으면 낮은 경향, 맨발·미니멀 신발이나 잔디·모래처럼 푹신한 바닥에서는 높아지는 경향이 있습니다.
@@ -18,8 +18,8 @@
 - 몸의 반응으로 판단: 통증·편안함·기능을 함께 봅니다.
 케이던스 조정이 부상을 줄이거나 기록을 높인다는 일관된 근거는 아직 없습니다. 다만 무릎 앞 통증(PFP) 러너처럼 임상 근거가 있으면 시도해 볼 수 있습니다. 통증이 생기거나 커지면 멈추고 담당 트레이너와 다시 조정하세요.
 
-참고: Patoz A, Gindre C, Lussiana T, Breine B. The Heel-Strike Fallacy and Cadence Beliefs in Distance Running: A Narrative Review. Sports Med Open. 2026;12:149. doi:10.1186/s40798-026-01120-y / van Oeveren BT, de Ruiter CJ, Beek PJ, van Dieën JH. Optimal stride frequencies in running at different speeds. PLoS ONE. 2017;12(10):e0184273. doi:10.1371/journal.pone.0184273
+참고: Daniels J. Dr. Jack Daniels On Stride Rate. V.O2 News, 2018 / Patoz A, Gindre C, Lussiana T, Breine B. The Heel-Strike Fallacy and Cadence Beliefs in Distance Running: A Narrative Review. Sports Med Open. 2026;12:149. doi:10.1186/s40798-026-01120-y / van Oeveren BT, de Ruiter CJ, Beek PJ, van Dieën JH. Optimal stride frequencies in running at different speeds. PLoS ONE. 2017;12(10):e0184273. doi:10.1371/journal.pone.0184273
 그래프: 3장 Patoz et al. 2026, Fig. 1 원문 그대로 (CC BY 4.0, 크롭)
-사진: 1장 “Longwood 5KM and 10KM 2014” © Peter Mooney, CC BY 2.0 / 2장 “Human Machines” © Angel Lite Photography, 퍼블릭 도메인 / 4장 “Barefoot run” © Newtown grafitti, CC BY 2.0 (모두 크롭)
+사진: 1장 “Longwood 5KM and 10KM 2014” © Peter Mooney, CC BY 2.0 / 2장 “Human Machines” © Angel Lite Photography, 퍼블릭 도메인(1984년 사진 아님) / 4장 “Barefoot run” © Newtown grafitti, CC BY 2.0 (모두 크롭)
 
 #러닝 #케이던스 #러닝케이던스 #180보 #러닝자세 #러닝초보 #스포츠재활 #R스포츠재활센터

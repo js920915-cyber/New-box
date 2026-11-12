@@ -14,14 +14,15 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1163.4,
-    "bottomGap": 152.6,
+    "contentBottom": 1175.9,
+    "bottomGap": 140.1,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "body": "44px/500",
-      "note": "36px/500"
+      "strong": "44px/750",
+      "item": "48px/800"
     }
   },
   {
