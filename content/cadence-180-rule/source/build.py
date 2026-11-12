@@ -109,12 +109,11 @@ CARDS = [
         '<p class="body">속도·체형·신발·노면에 따라 다르고<br><span class="strong">모양은 달라도 효율은 비슷합니다.</span></p>']),
     # 05 시간이 걸린다 — 숙련/초보
     ('kind-learn', [
-        '<h1 class="headline">템포를 찾는 데는<br><span class="accent">시간</span>이 걸립니다</h1>', gap(64),
-        '<div class="list" style="gap:52px">'
-        + kpair('숙련 러너는', '자기 최적 템포 근처로 달리는 경향')
-        + kpair('초보 러너는', '아직 최적보다 낮게 달리는 경향') + '</div>', gap(80),
-        '<p class="big">2~6%</p>', gap(16),
-        '<p class="body">초보 12명 연구에서 평소 템포는<br>심박이 가장 낮은 템포보다<br><span class="strong">이만큼 낮았습니다.</span></p>']),
+        '<h1 class="headline">템포를 찾는 데는<br><span class="accent">시간</span>이 걸립니다</h1>', gap(84),
+        '<div class="list" style="gap:68px">'
+        + kpair('숙련 러너는', '오래 달리며 몸이 찾아낸<br>최적 템포 근처로 달리는 경향')
+        + kpair('초보 러너는', '아직 몸이 템포를 찾는 중이라<br>최적보다 낮게 달리는 경향') + '</div>', gap(88),
+        '<div class="box"><p class="key">반복해서 달리며<br>몸은 <span class="accent">내 템포</span>를 다듬어 갑니다</p></div>']),
     # 06 남의 템포 강요
     ('kind-imposed', [
         '<h1 class="headline">남의 템포를<br><span class="accent">강요</span>하면?</h1>', gap(48),
@@ -123,14 +122,14 @@ CARDS = [
         + kpair('부담이 옮겨갈 수 있습니다', '다른 관절에서 보상이 생길 수 있습니다')
         + kpair('몸이 찾은 균형이 흐트러집니다', '일률적 처방은 자기조직화를<br>방해할 위험이 있습니다') + '</div>', gap(48),
         '<div class="box"><p class="item">정답은 한 점이 아니라<br>내 템포 근처의 편한 범위</p></div>']),
-    # 07 PFP 조율
+    # 07 PFP 조율 (숫자 없이)
     ('kind-pfp', [
-        '<h1 class="headline">그래도 살짝<br><span class="accent">조율</span>할 때가 있습니다</h1>', gap(48),
-        '<p class="body">무릎 앞이 아픈 러너가 평소 템포를<br>7.5~10% 올리는 연습을 2주 했더니</p>', gap(28),
-        '<p class="big">2.9점</p>', gap(12),
-        '<p class="body">6개월 뒤 <span class="strong">달릴 때 통증(0~10)</span>이<br>아무것도 안 한 그룹보다 더 줄었습니다</p>', gap(12),
-        '<p class="note">무작위 대조 연구, 러너 30명</p>', gap(48),
-        '<div class="box"><p class="item">180이 아니라 내 템포 +5~10%<br>근력·부하 관리와 함께<br>통증 반응을 보며 천천히</p></div>']),
+        '<h1 class="headline">그래도 살짝<br><span class="accent">조율</span>할 때가 있습니다</h1>', gap(44),
+        '<div class="box"><p class="body">무릎 앞이 아픈 러너는<br>평소 템포를 조금 올려 조정해 보면<br><span class="strong">달릴 때 통증이 줄었다</span>는 연구가 있습니다.</p></div>', gap(52),
+        '<div class="list" style="gap:40px">'
+        + kpair('180이 아니라 내 템포에서', '평소보다 조금만 올립니다')
+        + kpair('근력·부하 관리와 함께', '템포 조정만으로 해결하지 않습니다')
+        + kpair('통증 반응을 보며 천천히', '너무 빨리 바꾸면 종아리·아킬레스가<br>불편할 수 있습니다') + '</div>']),
     # 08 나만의 템포
     ('kind-summary', [
         '<h1 class="headline">남의 템포 말고,<br><span class="accent">나만의 템포</span></h1>', gap(72),

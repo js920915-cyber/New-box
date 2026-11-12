@@ -57,16 +57,14 @@
   {
     "card": "05",
     "size": "1080x1350",
-    "contentBottom": 1140.5,
-    "bottomGap": 175.5,
+    "contentBottom": 1124.9,
+    "bottomGap": 191.1,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "84px/850",
+      "accent": "56px/800",
       "key": "56px/800",
-      "body": "44px/500",
-      "big": "144px/850",
-      "strong": "44px/750"
+      "body": "44px/500"
     }
   },
   {
@@ -86,17 +84,15 @@
   {
     "card": "07",
     "size": "1080x1350",
-    "contentBottom": 1127,
-    "bottomGap": 189,
+    "contentBottom": 1209.8,
+    "bottomGap": 106.2,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "body": "44px/500",
-      "big": "144px/850",
       "strong": "44px/750",
-      "note": "36px/500",
-      "item": "48px/800"
+      "key": "56px/800"
     }
   },
   {
