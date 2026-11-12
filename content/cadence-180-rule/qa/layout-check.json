@@ -27,8 +27,8 @@
   {
     "card": "03",
     "size": "1080x1350",
-    "contentBottom": 1197.8,
-    "bottomGap": 118.2,
+    "contentBottom": 1216.3,
+    "bottomGap": 99.7,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
@@ -41,15 +41,14 @@
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1122,
-    "bottomGap": 194,
+    "contentBottom": 1230.2,
+    "bottomGap": 85.8,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
-      "accent": "84px/850",
+      "accent": "48px/800",
       "item": "48px/800",
-      "body": "44px/500",
-      "key": "56px/800"
+      "body": "44px/500"
     }
   },
   {
@@ -71,14 +70,14 @@
   {
     "card": "06",
     "size": "1080x1350",
-    "contentBottom": 1224.5,
-    "bottomGap": 91.5,
+    "contentBottom": 1202.1,
+    "bottomGap": 113.9,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "56px/800",
-      "key": "56px/800",
-      "body": "44px/500"
+      "body": "44px/500",
+      "key": "56px/800"
     }
   },
   {

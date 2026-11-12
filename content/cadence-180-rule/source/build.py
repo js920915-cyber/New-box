@@ -94,21 +94,21 @@ CARDS = [
         photo('cover-elite-marathon_AngelLite_pdm.jpg', 470, 888, 0, -150, '도로 마라톤에서 달리는 엘리트 선수 세 명'), gap(40),
         '<p class="body">경기에 나서는 장거리 선수들에게서<br>평균 분당 180보 근처가 관찰됐고,<br>이 숫자가 일부 교정법의 기준이 됐습니다.</p>', gap(24),
         '<p class="note">2026년 리뷰는 이를 “관찰된 평균을<br>지켜야 할 목표로 바꾼 것”이라고 봅니다</p>']),
-    # 03 원문 Fig. 1
+    # 03 원문 Fig. 1 — 대체로 속도에 의존
     ('kind-figure', [
-        '<h1 class="headline">러너의 케이던스는<br><span class="accent">제각각</span>입니다</h1>', gap(36),
-        figure('fig1_patoz2026_cadence_speed.png', 860, 592, '원문 Fig. 1: 달리기 속도별 케이던스, 연구별 평균값 산점도'), gap(16),
-        '<p class="note">원문 Fig. 1 · 점 하나 = 연구·조건 하나의 평균<br>가로: 달리기 속도(km/h) · 세로: 분당 걸음 수</p>', gap(28),
-        '<p class="body">보통 분당 150~210보,<br><span class="strong">속도가 빠를수록 대체로 올라갑니다.</span></p>']),
+        '<h1 class="headline">케이던스는 대체로<br><span class="accent">속도</span>를 따라갑니다</h1>', gap(28),
+        figure('fig1_patoz2026_cadence_speed.png', 820, 564, '원문 Fig. 1: 달리기 속도별 케이던스, 연구별 평균값 산점도'), gap(12),
+        '<p class="note">원문 Fig. 1 · 점 하나 = 연구·조건 하나의 평균<br>가로: 달리기 속도(km/h) · 세로: 분당 걸음 수</p>', gap(24),
+        '<p class="body">느리거나 중간 속도에서는 주로 보폭이,<br>빠를수록 케이던스가<br><span class="strong">속도를 끌어올리는 몫이 커집니다.</span></p>']),
     # 04 영향 요인
     ('kind-factors', [
-        '<h1 class="headline">몸·신발·노면도<br>케이던스를 <span class="accent">바꿉니다</span></h1>', gap(52),
-        '<div class="list" style="gap:40px">'
+        '<h1 class="headline">몸·신발·노면도<br>케이던스를 <span class="accent">바꿉니다</span></h1>', gap(36),
+        photo('barefoot-sand-run_NewtownGrafitti_ccby20.jpg', 300, 888, 0, -150, '해변 모래 위를 맨발로 달리는 러너들'), gap(36),
+        '<div class="list" style="gap:28px">'
         + bpair('다리가 길거나 체중이 많으면', '성인 러너의 케이던스가 더 낮은 경향')
         + bpair('맨발·미니멀 신발이면', '신발을 신을 때보다 대체로 높아집니다')
-        + bpair('잔디·모래처럼 푹신한 바닥이면', '안정성을 지키려 높아지는 경우가 많습니다')
-        + bpair('청소년은 성장 단계에 따라', '사춘기 전 러너가 더 높았습니다') + '</div>', gap(52),
-        '<p class="key">한 숫자로 묶기 어렵습니다</p>']),
+        + bpair('잔디·모래처럼 푹신한 바닥이면', '안정성을 지키려 높아지는 경우가 많습니다') + '</div>', gap(44),
+        '<p class="item">케이던스는 <span class="accent">조절 전략의 일부</span>입니다</p>']),
     # 05 van Oeveren 2017
     ('kind-number', [
         '<h1 class="headline">심박이 가장 낮았던<br><span class="accent">케이던스</span>는?</h1>', gap(40),
@@ -117,13 +117,14 @@ CARDS = [
         '<p class="note">83 stride(1 stride = 2걸음)</p>', gap(44),
         '<p class="body">180보보다 낮았습니다. 그래도 연구진은<br><span class="strong">이 값도 모두에게 적용하지 말고</span><br><span class="strong">개인별로 정하라</span>고 결론 내렸습니다.</p>', gap(48),
         '<div class="box"><p class="safety">심박으로 추정한 값 · 초보 12명 ·<br>시속 약 8.6~10.4km 범위의 결과입니다</p></div>']),
-    # 06 조금 올리기
+    # 06 제약조건의 결과 · 완만한 최적 구간
     ('kind-nudge', [
-        '<h1 class="headline">그럼 케이던스를<br>올리면 <span class="accent">안 되나요?</span></h1>', gap(40),
-        photo('club-runners_PeterMooney_ccby20.jpg', 280, 888, 0, -50, '도로 대회에서 달리는 두 클럽 러너'), gap(36),
-        '<div class="list" style="gap:36px">'
-        + kpair('평소보다 <span class="accent">조금</span>은 도움이 될 수도', '이 연구에서 평소 케이던스는 최적보다<br>2~6% 낮았고, 걸음을 조금 늘리면<br>심박이 낮아질 수 있다는 결과였습니다')
-        + kpair('모두에게 <span class="accent">같은 숫자</span>는 아닙니다', '리뷰는 정해진 숫자를 일괄 처방하면<br>오히려 에너지·부하 부담이<br>커질 수 있다고 봅니다') + '</div>']),
+        '<h1 class="headline">케이던스는<br>여러 조건이 만든 <span class="accent">결과</span></h1>', gap(36),
+        '<p class="body">러너는 힘든 정도·협응·달리는 상황이<br>균형을 이루는 범위로 모입니다.</p>', gap(40),
+        '<div class="box"><p class="key">최적은 한 점이 아니라<br><span class="accent">완만한 구간</span>입니다</p></div>', gap(48),
+        '<div class="list" style="gap:40px">'
+        + kpair('<span class="accent">신중한 소폭</span> 조절은 도움', '평소 리듬에서 조금 올리면 일부 러너는<br>에너지·부하 면에서 이득을 볼 수 있습니다')
+        + kpair('<span class="accent">일률적 강요</span>는 역효과 위험', '몸의 자기조절을 흐트러뜨려<br>에너지·부하 부담을 키울 수 있습니다') + '</div>']),
     # 07 요약
     ('kind-summary', [
         '<h1 class="headline">180 대신<br><span class="accent">내 숫자</span>에서 시작합니다</h1>', gap(56),

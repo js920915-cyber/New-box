@@ -18,14 +18,14 @@
     },
     {
       "card": "03",
-      "verticalShiftPx": 1,
-      "diffPct": 5.25,
-      "pass": true
+      "verticalShiftPx": 3,
+      "diffPct": 6.08,
+      "pass": false
     },
     {
       "card": "04",
       "verticalShiftPx": 3,
-      "diffPct": 8.17,
+      "diffPct": 8.53,
       "pass": false
     },
     {
@@ -36,8 +36,8 @@
     },
     {
       "card": "06",
-      "verticalShiftPx": 2,
-      "diffPct": 8.17,
+      "verticalShiftPx": 3,
+      "diffPct": 8.92,
       "pass": false
     },
     {
