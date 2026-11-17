@@ -1,0 +1,70 @@
+﻿{
+    "pptx":  "C:\\Users\\jinso\\OneDrive\\문서\\AI-Secretary\\New-box\\content\\running-duty-factor\\adobe-express\\running-duty-factor-express.pptx",
+    "slides":  10,
+    "warnings":  [
+
+                 ],
+    "cards":  [
+                  {
+                      "card":  "01",
+                      "verticalShiftPx":  0,
+                      "diffPct":  1.84,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "02",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  4.41,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "03",
+                      "verticalShiftPx":  0,
+                      "diffPct":  4.07,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "04",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  4.27,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "05",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  4.48,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "06",
+                      "verticalShiftPx":  0,
+                      "diffPct":  3.6,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "07",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.6,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "08",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  5.62,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "09",
+                      "verticalShiftPx":  0,
+                      "diffPct":  4.86,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "10",
+                      "verticalShiftPx":  0,
+                      "diffPct":  2.2,
+                      "pass":  true
+                  }
+              ],
+    "result":  "PASS"
+}

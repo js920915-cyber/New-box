@@ -1,0 +1,146 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1169.1,
+    "bottomGap": 146.9,
+    "errors": "unsafe text: 접지,",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "P": "40px/750",
+      "body": "44px/500",
+      "strong accent": "44px/750"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1225.7,
+    "bottomGap": 90.3,
+    "errors": "unsafe text: 한 걸음 중",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "strong accent": "44px/750",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1235.2,
+    "bottomGap": 80.8,
+    "errors": "unsafe text: 케이던스만 보면",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "48px/800",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "item": "48px/800",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1223,
+    "bottomGap": 93,
+    "errors": "unsafe text: 가민으로",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "56px/800",
+      "item": "48px/800",
+      "key": "56px/800",
+      "body": "44px/500",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1223.6,
+    "bottomGap": 92.4,
+    "errors": "unsafe text: 내 DF는",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500",
+      "item": "48px/800",
+      "big accent": "72px/850",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1221.2,
+    "bottomGap": 94.8,
+    "errors": "unsafe text: 완벽한 자세는",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "item": "48px/800",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1233.5,
+    "bottomGap": 82.5,
+    "errors": "unsafe text: 더 튀면",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "56px/800",
+      "body": "44px/500",
+      "key": "56px/800",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "08",
+    "size": "1080x1350",
+    "contentBottom": 1243.4,
+    "bottomGap": 72.6,
+    "errors": "unsafe text: 힘의 종류마다",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "note": "36px/500",
+      "item accent": "48px/800",
+      "item": "48px/800"
+    }
+  },
+  {
+    "card": "09",
+    "size": "1080x1350",
+    "contentBottom": 1186.6,
+    "bottomGap": 129.4,
+    "errors": "unsafe text: ‘접지는 짧게’,",
+    "fonts": {
+      "headline": "84px/850",
+      "body": "44px/500",
+      "key": "56px/800",
+      "accent": "56px/800"
+    }
+  },
+  {
+    "card": "10",
+    "size": "1080x1350",
+    "contentBottom": 1172.3,
+    "bottomGap": 143.7,
+    "errors": "unsafe text: 워치 숫자는",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "safety": "38px/700"
+    }
+  }
+]
