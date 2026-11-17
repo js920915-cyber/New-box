@@ -1,0 +1,140 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1169.1,
+    "bottomGap": 146.9,
+    "errors": "unsafe text: 달리기 자세,",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "P": "40px/750",
+      "body": "44px/500",
+      "strong accent": "44px/750"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1153.3,
+    "bottomGap": 162.7,
+    "errors": "unsafe text: ‘정답 자세’에는",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "56px/800",
+      "body": "44px/500",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1202.6,
+    "bottomGap": 113.4,
+    "errors": "unsafe text: 자세를 바꾸면",
+    "fonts": {
+      "headline": "84px/850",
+      "note": "36px/500",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "item accent": "48px/800",
+      "item": "48px/800"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1176.3,
+    "bottomGap": 139.7,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "note": "36px/500",
+      "item": "48px/800",
+      "big accent": "72px/850",
+      "big": "72px/850"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1205.2,
+    "bottomGap": 110.8,
+    "errors": "unsafe text: 그런데; unsafe text: 다른 곳; unsafe text: 에서",
+    "fonts": {
+      "headline": "84px/850",
+      "warn": "48px/800",
+      "body": "44px/500",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1126.3,
+    "bottomGap": 189.8,
+    "errors": "",
+    "fonts": {
+      "note": "36px/500",
+      "headline": "84px/850",
+      "warn": "84px/850",
+      "body": "44px/500",
+      "key": "56px/800",
+      "accent": "56px/800"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1148.1,
+    "bottomGap": 167.9,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item accent": "48px/800",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "08",
+    "size": "1080x1350",
+    "contentBottom": 1219.9,
+    "bottomGap": 96.1,
+    "errors": "unsafe text: ③ 내 몸은",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "09",
+    "size": "1080x1350",
+    "contentBottom": 1216.7,
+    "bottomGap": 99.3,
+    "errors": "unsafe text: ④ 바꿀 땐",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "10",
+    "size": "1080x1350",
+    "contentBottom": 1142.3,
+    "bottomGap": 173.7,
+    "errors": "unsafe text: 자세는 따라 하는 게",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "safety": "38px/700"
+    }
+  }
+]
