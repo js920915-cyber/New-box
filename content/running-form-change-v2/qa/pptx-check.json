@@ -1,0 +1,64 @@
+﻿{
+    "pptx":  "C:\\Users\\jinso\\OneDrive\\문서\\AI-Secretary\\New-box\\content\\running-form-change-v2\\adobe-express\\running-form-change-v2-express.pptx",
+    "slides":  9,
+    "warnings":  [
+
+                 ],
+    "cards":  [
+                  {
+                      "card":  "01",
+                      "verticalShiftPx":  0,
+                      "diffPct":  2.06,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "02",
+                      "verticalShiftPx":  0,
+                      "diffPct":  7.63,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "03",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  4.46,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "04",
+                      "verticalShiftPx":  0,
+                      "diffPct":  2.89,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "05",
+                      "verticalShiftPx":  0,
+                      "diffPct":  1.52,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "06",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  5.11,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "07",
+                      "verticalShiftPx":  0,
+                      "diffPct":  3.82,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "08",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.75,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "09",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.68,
+                      "pass":  true
+                  }
+              ],
+    "result":  "PASS"
+}

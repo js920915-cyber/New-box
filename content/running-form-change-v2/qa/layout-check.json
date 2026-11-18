@@ -1,0 +1,140 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1212.4,
+    "bottomGap": 103.6,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "56px/800",
+      "P": "34px/750",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1237.5,
+    "bottomGap": 78.5,
+    "errors": "unsafe text: 누가 참가했을까?",
+    "fonts": {
+      "headline": "84px/850",
+      "chk": "46px/750",
+      "accent": "46px/750",
+      "item accent": "48px/800",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "strong accent": "44px/750",
+      "note": "36px/500",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1221.4,
+    "bottomGap": 94.6,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "item accent": "48px/800",
+      "body strong accent": "44px/750",
+      "item": "48px/800",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1163.1,
+    "bottomGap": 152.9,
+    "errors": "not centered: blab; not centered: bnum; not centered: blab; not centered: bnum",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "item": "48px/800",
+      "blab": "36px/750",
+      "bnum": "34px/800",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1238.4,
+    "bottomGap": 77.6,
+    "errors": "not centered: blab; not centered: bnum; not centered: bnum; not centered: blab; not centered: bnum; not centered: bnum; not centered: warn; not centered: bnum; not centered: bnum; not centered: warn; not centered: bnum; not centered: bnum",
+    "fonts": {
+      "headline": "84px/850",
+      "SPAN": "36px/500",
+      "note": "36px/500",
+      "blab": "36px/750",
+      "bnum": "34px/800",
+      "warn": "36px/750"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1188,
+    "bottomGap": 128,
+    "errors": "unsafe text: 착지 방식에 따라",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item accent": "48px/800",
+      "body": "44px/500",
+      "note": "36px/500",
+      "strong": "44px/750",
+      "strong warn": "44px/750",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "07",
+    "size": "1080x1350",
+    "contentBottom": 1230.2,
+    "bottomGap": 85.8,
+    "errors": "unsafe text: 한쪽 부담이 줄면",
+    "fonts": {
+      "headline": "84px/850",
+      "warn": "84px/850",
+      "dmark": "64px/850",
+      "item": "48px/800",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "08",
+    "size": "1080x1350",
+    "contentBottom": 1164.2,
+    "bottomGap": 151.8,
+    "errors": "",
+    "fonts": {
+      "note": "36px/500",
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item accent": "48px/800",
+      "body": "44px/500"
+    }
+  },
+  {
+    "card": "09",
+    "size": "1080x1350",
+    "contentBottom": 1097.9,
+    "bottomGap": 218.1,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item": "48px/800",
+      "body": "44px/500",
+      "safety": "38px/700",
+      "warn": "38px/700"
+    }
+  }
+]
