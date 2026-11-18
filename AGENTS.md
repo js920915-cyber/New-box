@@ -6,6 +6,7 @@
 
 이 문서는 작업 도구가 자동으로 읽는다(Codex·Cursor·Copilot 등은 AGENTS.md, Claude Code는 CLAUDE.md→AGENTS.md). 사용자가 시작 메시지를 붙이지 않아도 아래를 그대로 실행한다.
 
+0. 작업 전에 [references/user_taste.md](./references/user_taste.md)(대표 취향 노트)를 먼저 읽고 기획·대본·디자인에 적용한다. 대표 피드백을 받을 때마다 이 노트를 갱신한다(2026-11-19 대표 지시).
 1. 작업 전에 [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md), [CARDNEWS_WORKFLOW.md](./CARDNEWS_WORKFLOW.md), [tools/cardkit/README.md](./tools/cardkit/README.md), [PROJECT_HANDOFF.md](./PROJECT_HANDOFF.md)를 직접 읽는다. 읽지 못한 문서가 있으면 밝힌다.
 2. 사용자가 주제 한 문장만 줘도 신규 주제로 보고 근거 조사부터 끝까지 진행한다. 수정·문서 요청이면 그 범위만 한다.
 3. B01 프레임·가운데 정렬·V4 타이포(표지88/내부84/본문44/보조36px)·하단 y1140~1240·기존 코드 디자인을 유지하고 Adobe 템플릿으로 대체하지 않는다.

@@ -80,18 +80,29 @@ CARDS = [
         '<h1 class="headline">착지 방식에 따라<br><span class="warn">부위별 부담</span>이<br>달라질 수 있어요</h1>', gap(40),
 drake([('m_no.jpg', '✕', '영상 속 자세<br>바로 따라 하기', '#cc414a'), ('m_yes.jpg', '○', '내 몸이<br>준비됐는지<br>먼저 확인하기', '#0879d8')]), gap(36),
         '<p class="note">리뷰 연구진은 근육과 힘줄이 부하를 얼마나<br>감당할 수 있는지 고려하며, 착지 방식은<br>서서히 바꿀 필요가 있다고 봤어요 (Anderson 2020)</p>']),
-    ('kind-check center', [
-        '<p class="note">센터의 제안</p>', gap(16),
-        '<h1 class="headline">바꾸기 전<br><span class="accent">확인할 것</span></h1>', gap(36),
-        '<div class="box" style="gap:22px">'
-        '<div class="pair"><p class="item accent">① 왜 바꾸나요?</p><p class="body">목적, 무엇으로 좋아졌다고 판단할지</p></div>'
-        '<div class="pair"><p class="item accent">② 지금 얼마나 달리나요?</p><p class="body">주간 거리·경력·최근 늘린 양·속도·신발</p></div>'
-        '<div class="pair"><p class="item accent">③ 늘어날 부담을 받을 몸인가요?</p><p class="body">부상 이력, 종아리 등 근력</p></div>'
-        '<div class="pair"><p class="item accent">④ 한 번에 하나, 천천히</p><p class="body">통증·피로 반응을 보며</p></div></div>']),
+    ('kind-calf', [
+        '<p class="note">센터의 제안</p>', gap(12),
+        '<h1 class="headline">착지를 바꿀 거면<br><span class="accent">종아리 보강</span>부터!</h1>', gap(24),
+        '<p class="body">앞·중간발 착지로 바꾸면<br>종아리가 발목을 미는 힘이 커지는 경향</p>', gap(24),
+        photo('s08_assess.jpg', 300, 888, 0, -292, '한 발 뒤꿈치 들기를 하는 회원과 횟수를 세는 트레이너'), gap(28),
+        '<div class="box" style="gap:10px">'
+        '<p class="item"><span class="accent">①</span> 한 발 뒤꿈치 들기 <span class="note">무릎 펴고</span></p>'
+        '<p class="item"><span class="accent">②</span> 무릎 굽혀 뒤꿈치 들기 <span class="note">깊은 종아리</span></p>'
+        '</div>', gap(20),
+        '<p class="note">예시예요 · 횟수와 강도는 몸 상태에 맞춰 정하세요<br>통증이 있다면 운동 전에 평가부터 받으세요</p>']),
+    ('kind-checklist center', [
+        '<h1 class="headline">착지 바꾸기 전<br><span class="accent">체크리스트</span></h1>', gap(40),
+        '<div class="list" style="gap:22px;align-items:flex-start">'
+        '<p class="chk" style="text-align:left">☐ 왜 바꾸는지 <span class="accent">목적</span>이 있나요?</p>'
+        '<p class="chk" style="text-align:left">☐ 최근 달리는 양을 <span class="accent">갑자기</span> 늘리진 않았나요?</p>'
+        '<p class="chk" style="text-align:left">☐ <span class="accent">종아리 보강</span> 운동을 하고 있나요?</p>'
+        '<p class="chk" style="text-align:left">☐ <span class="accent">한 번에 하나</span>, 짧은 구간부터 바꾸나요?</p>'
+        '<p class="chk" style="text-align:left">☐ 바꾼 뒤 <span class="accent">종아리·아킬레스</span>를 살피나요?</p></div>', gap(48),
+        '<div class="box"><p class="safety">통증이 있거나 부상이 반복된다면<br>자세보다 <span class="warn">원인 평가</span>가 먼저예요</p></div>', gap(20),
+        '<p class="note">센터의 제안 · 연구로 효과를 검증한 목록은 아니에요</p>']),
     ('kind-sum center', [
-        '<h1 class="headline">덜 다칠 수는 있지만,<br><span class="accent">안 다치는 건 아니에요</span></h1>', gap(36),
-        '<p class="body">이 연구의 초보 러너에서는 재훈련 그룹의<br>1년 부상 비율이 더 낮았어요.<br><span class="strong">그래도 재훈련 그룹의 16%는<br>부상을 보고했어요.</span></p>', gap(28),
-        '<p class="note">초보·착지 충격이 큰 러너만 참가<br>연구실 트레드밀 훈련 · 실제 착지 변화는 측정 안 함</p>', gap(28),
-        '<div class="box"><p class="note">센터의 제안</p><p class="body">착지를 바꿀 땐 평소 운동량을 살피고,<br>조금씩 바꾸면서 새로 생기는<br><span class="strong">통증·피로</span>를 확인하세요</p>'
-        '<p class="safety">통증이 있거나 부상이 반복된다면<br>자세보다 <span class="warn">원인 평가</span>가 먼저예요</p></div>']),
+        '<h1 class="headline">덜 다칠 수는 있지만,<br><span class="accent">안 다치는 건 아니에요</span></h1>', gap(40),
+        pair(('m_knee_ok.jpg', -95, ''), ('m_calf_pain.jpg', -164, '')).replace('height:620px','height:400px').replace('<div class="ph">','<div class="ph" style="height:400px">'), gap(32),
+        '<p class="body">이 연구의 초보 러너에서는 재훈련 그룹의<br>1년 부상 비율이 더 낮았어요.<br><span class="strong">그래도 재훈련 그룹의 16%는<br>부상을 보고했어요.</span></p>', gap(24),
+        '<p class="note">초보·착지 충격이 큰 러너만 참가<br>연구실 트레드밀 훈련 · 실제 착지 변화는 측정 안 함</p>']),
 ]

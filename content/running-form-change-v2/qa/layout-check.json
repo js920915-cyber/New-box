@@ -109,31 +109,44 @@
   {
     "card": "08",
     "size": "1080x1350",
-    "contentBottom": 1164.2,
-    "bottomGap": 151.8,
+    "contentBottom": 1185.1,
+    "bottomGap": 130.9,
     "errors": "",
     "fonts": {
       "note": "36px/500",
       "headline": "84px/850",
-      "accent": "84px/850",
-      "item accent": "48px/800",
-      "body": "44px/500"
+      "accent": "48px/800",
+      "body": "44px/500",
+      "item": "48px/800"
     }
   },
   {
     "card": "09",
     "size": "1080x1350",
-    "contentBottom": 1224,
-    "bottomGap": 92,
+    "contentBottom": 1180.8,
+    "bottomGap": 135.2,
+    "errors": "not centered: chk; not centered: accent; not centered: chk; not centered: chk; not centered: accent; not centered: chk; not centered: chk; not centered: accent; not centered: chk; not centered: chk; not centered: accent; not centered: chk; not centered: chk; not centered: accent; not centered: chk",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "46px/750",
+      "chk": "46px/750",
+      "safety": "38px/700",
+      "warn": "38px/700",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "10",
+    "size": "1080x1350",
+    "contentBottom": 1241.7,
+    "bottomGap": 74.3,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
       "body": "44px/500",
       "strong": "44px/750",
-      "note": "36px/500",
-      "safety": "38px/700",
-      "warn": "38px/700"
+      "note": "36px/500"
     }
   }
 ]
