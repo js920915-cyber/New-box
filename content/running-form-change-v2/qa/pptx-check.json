@@ -8,43 +8,43 @@
                   {
                       "card":  "01",
                       "verticalShiftPx":  0,
-                      "diffPct":  2.06,
+                      "diffPct":  2.34,
                       "pass":  true
                   },
                   {
                       "card":  "02",
                       "verticalShiftPx":  0,
-                      "diffPct":  7.63,
+                      "diffPct":  7.65,
                       "pass":  true
                   },
                   {
                       "card":  "03",
                       "verticalShiftPx":  -1,
-                      "diffPct":  4.46,
+                      "diffPct":  4.48,
                       "pass":  true
                   },
                   {
                       "card":  "04",
                       "verticalShiftPx":  0,
-                      "diffPct":  2.89,
+                      "diffPct":  3.45,
                       "pass":  true
                   },
                   {
                       "card":  "05",
                       "verticalShiftPx":  0,
-                      "diffPct":  1.52,
+                      "diffPct":  1.8,
                       "pass":  true
                   },
                   {
                       "card":  "06",
-                      "verticalShiftPx":  -1,
-                      "diffPct":  5.11,
+                      "verticalShiftPx":  0,
+                      "diffPct":  4.97,
                       "pass":  true
                   },
                   {
                       "card":  "07",
                       "verticalShiftPx":  0,
-                      "diffPct":  3.82,
+                      "diffPct":  3.85,
                       "pass":  true
                   },
                   {
@@ -56,7 +56,7 @@
                   {
                       "card":  "09",
                       "verticalShiftPx":  -1,
-                      "diffPct":  3.68,
+                      "diffPct":  6.65,
                       "pass":  true
                   }
               ],

@@ -2,13 +2,12 @@
   {
     "card": "01",
     "size": "1080x1350",
-    "contentBottom": 1212.4,
-    "bottomGap": 103.6,
+    "contentBottom": 1248.8,
+    "bottomGap": 67.2,
     "errors": "",
     "fonts": {
       "headline": "88px/850",
       "accent": "56px/800",
-      "P": "34px/750",
       "key": "56px/800"
     }
   },
@@ -49,8 +48,8 @@
   {
     "card": "04",
     "size": "1080x1350",
-    "contentBottom": 1163.1,
-    "bottomGap": 152.9,
+    "contentBottom": 1190.3,
+    "bottomGap": 125.8,
     "errors": "not centered: blab; not centered: bnum; not centered: blab; not centered: bnum",
     "fonts": {
       "headline": "84px/850",
@@ -70,19 +69,19 @@
     "errors": "not centered: blab; not centered: bnum; not centered: bnum; not centered: blab; not centered: bnum; not centered: bnum; not centered: warn; not centered: bnum; not centered: bnum; not centered: warn; not centered: bnum; not centered: bnum",
     "fonts": {
       "headline": "84px/850",
+      "warn": "36px/750",
       "SPAN": "36px/500",
       "note": "36px/500",
       "blab": "36px/750",
-      "bnum": "34px/800",
-      "warn": "36px/750"
+      "bnum": "34px/800"
     }
   },
   {
     "card": "06",
     "size": "1080x1350",
-    "contentBottom": 1188,
-    "bottomGap": 128,
-    "errors": "unsafe text: 착지 방식에 따라",
+    "contentBottom": 1238.4,
+    "bottomGap": 77.6,
+    "errors": "unsafe text: 왜 다친 곳이",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
@@ -99,7 +98,7 @@
     "size": "1080x1350",
     "contentBottom": 1230.2,
     "bottomGap": 85.8,
-    "errors": "unsafe text: 한쪽 부담이 줄면",
+    "errors": "unsafe text: 착지 방식에 따라",
     "fonts": {
       "headline": "84px/850",
       "warn": "84px/850",
@@ -125,14 +124,15 @@
   {
     "card": "09",
     "size": "1080x1350",
-    "contentBottom": 1097.9,
-    "bottomGap": 218.1,
+    "contentBottom": 1224,
+    "bottomGap": 92,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
       "accent": "84px/850",
-      "item": "48px/800",
       "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500",
       "safety": "38px/700",
       "warn": "38px/700"
     }
