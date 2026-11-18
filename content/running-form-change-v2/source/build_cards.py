@@ -35,15 +35,15 @@ CARDS = [
         pair(('m_knee_ok.jpg', -266, ''), ('m_calf_pain.jpg', -494, '')), gap(40),
         '<p class="key">초보 러너의 착지 재훈련,<br><span class="accent">1년 추적 연구</span></p>']),
     ('kind-who', [
-        '<h1 class="headline">누가 참가했을까?</h1>', gap(36),
-        '<div class="list" style="gap:10px"><p class="chk">✔ 달리기 시작한 지 <span class="accent">2년 미만</span></p>'
+        '<h1 class="headline">누가 참가했을까?</h1>', gap(24),
+        '<div class="list" style="gap:8px"><p class="chk">✔ 달리기 시작한 지 <span class="accent">2년 미만</span></p>'
         '<p class="chk">✔ 최근 6개월 동안 <span class="accent">부상 없음</span></p>'
-        '<p class="chk">✔ 착지할 때 힘이 <span class="accent">‘확’</span> 실리는 사람</p></div>', gap(36),
-        '<div class="box"><p class="item accent">수직 평균 부하율 (VALR)</p>'
-        '<p class="body">발이 땅에 닿은 직후, 위로 받는 힘이<br>얼마나 <span class="strong">빠르게</span> 커지는지 나타내요.<br>같은 몸무게라도 ‘확’ 커지는 사람,<br>‘천천히’ 커지는 사람이 있어요.</p>'
-        '<p class="body">이 연구는 평소 속도에서<br><span class="strong accent">VALR 70 BW/s 이상</span>인 사람만 참가</p></div>', gap(24),
-        '<p class="note">연구실의 힘 측정 트레드밀로 쟀어요. 워치의 접지 시간이나<br>상하 움직임만으로는 해당 여부를 알 수 없어요.<br>부상 위험 기준이 아니라 이 연구의 참가 조건이에요.</p>', gap(16),
-        '<p class="cite">Chan et al., Am J Sports Med 2018</p>']),
+        '<p class="chk">✔ 착지 충격의 <span class="accent">기울기가 큰</span> 사람</p></div>', gap(28),
+        '<div class="box" style="padding:26px 30px 20px;gap:8px"><p class="item accent">수직 평균 부하율 (VALR)</p>'
+        '<p class="body">발이 땅에 닿은 직후, 위로 받는 힘이<br>얼마나 <span class="strong">빠르게</span> 커지는지 나타내요</p>'
+        '<div class="photo" style="width:790px;height:409px;border-radius:0;background:transparent"><img src="../assets/photos/valr_graph.png" alt="수직 지면반력 그래프와 VALR 기울기" style="width:790px;left:0;top:0"></div></div>', gap(20),
+        '<p class="note">워치로는 알 수 없어요 · 이 연구의 참가 조건이에요</p>', gap(10),
+        '<p class="cite">Chan et al., Am J Sports Med 2018 · 그래프는 이해를 돕는 예시</p>']),
     ('kind-how center', [
         '<h1 class="headline">어떻게 진행했을까?</h1>', gap(32),
         '<p class="body">참가자 390명을 <span class="strong">무작위로</span> 두 그룹으로</p>', gap(32),

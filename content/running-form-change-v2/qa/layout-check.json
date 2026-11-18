@@ -14,8 +14,8 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1237.5,
-    "bottomGap": 78.5,
+    "contentBottom": 1239.8,
+    "bottomGap": 76.2,
     "errors": "unsafe text: 누가 참가했을까?",
     "fonts": {
       "headline": "84px/850",
@@ -24,7 +24,6 @@
       "item accent": "48px/800",
       "body": "44px/500",
       "strong": "44px/750",
-      "strong accent": "44px/750",
       "note": "36px/500",
       "cite": "30px/500"
     }
