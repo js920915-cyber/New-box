@@ -8,13 +8,13 @@
                   {
                       "card":  "01",
                       "verticalShiftPx":  0,
-                      "diffPct":  2.34,
+                      "diffPct":  2.6,
                       "pass":  true
                   },
                   {
                       "card":  "02",
                       "verticalShiftPx":  -1,
-                      "diffPct":  3.75,
+                      "diffPct":  3.84,
                       "pass":  true
                   },
                   {
@@ -44,7 +44,7 @@
                   {
                       "card":  "07",
                       "verticalShiftPx":  -1,
-                      "diffPct":  5.31,
+                      "diffPct":  5.25,
                       "pass":  true
                   },
                   {
@@ -56,7 +56,7 @@
                   {
                       "card":  "09",
                       "verticalShiftPx":  0,
-                      "diffPct":  4.38,
+                      "diffPct":  4.41,
                       "pass":  true
                   },
                   {

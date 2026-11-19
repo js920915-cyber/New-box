@@ -33,15 +33,16 @@ CARDS = [
     ('kind-cover center', [
         '<h1 class="headline">착지를 다르게 하니까<br>부상을 <span class="accent">덜 당해?</span></h1>', gap(44),
         pair(('m_knee_ok.jpg', -266, ''), ('m_calf_pain.jpg', -494, '')), gap(40),
-        '<p class="key">초보 러너의 착지 재훈련,<br><span class="accent">1년 추적 연구</span></p>']),
+        '<p class="key">초보 러너의 ‘부드럽게 착지하기’ 훈련,<br><span class="accent">1년 추적 연구</span></p>']),
     ('kind-answer center', [
-        '<h1 class="headline">결론부터 말하면</h1>', gap(40),
+        '<h1 class="headline">결론부터 말하면</h1>', gap(36),
         '<div class="box"><p class="key">덜 다쳤어요</p>'
-        '<p class="body">1년 동안 부상을 보고한 비율<br><span class="strong">재훈련 16%</span> · 비교 38%</p></div>', gap(20),
+        '<p class="body">끝까지 추적한 320명, 1년 부상 보고<br><span class="strong">재훈련 16%</span> · 비교 38%</p></div>', gap(20),
         '<div class="box" style="background:#f3f4f6"><p class="key">그런데 <span class="warn">종아리·아킬레스</span>는</p>'
-        '<p class="body">재훈련 그룹에서만 보고됐어요<br><span class="strong">각 5건</span> · 비교 그룹 0건</p></div>', gap(40),
-        '<p class="item">착지를 바꿀 거라면<br><span class="accent">종아리 보강부터, 천천히</span></p>', gap(28),
-        '<p class="note">달리기 2년 미만 · 착지 충격이 큰<br>초보 러너가 참가한 연구예요</p>']),
+        '<p class="body">재훈련 그룹에서만 보고됐어요<br><span class="strong">각 5건</span> · 비교 그룹 0건</p>'
+        '<p class="note">부위별 통계 비교는 하지 않았어요</p></div>', gap(32),
+        '<p class="note">센터의 제안</p>', gap(4),
+        '<p class="item">착지를 바꿀 거라면<br><span class="accent">천천히, 종아리 보강부터</span></p>']),
     ('kind-who', [
         '<h1 class="headline">누가 참가했을까?</h1>', gap(24),
         '<div class="list" style="gap:8px"><p class="chk">✔ 달리기 시작한 지 2년 미만</p>'
@@ -81,7 +82,7 @@ CARDS = [
         '<p class="note">다만 실제로 착지가 어떻게 바뀌었는지는<br>재지 않았어요</p></div>', gap(16),
         '<div class="box"><p class="item">다른 연구들을 모아 보면</p>'
         '<p class="body">뒤꿈치 → 앞·중간발 착지로 바로 바꾸면</p>'
-        '<p class="body"><span class="strong">무릎 앞 관절 부담은 낮고</span><br><span class="strong warn">발목을 아래로 미는 힘은 커지는</span> 쪽이었어요</p>'
+        '<p class="body"><span class="strong">무릎 앞 관절 부담은 낮고</span><br><span class="strong warn">발끝을 아래로 미는 최대 회전력</span>은 컸어요</p>'
         '<p class="note">연구가 많지 않아 근거는 아직 제한적이에요</p></div>', gap(20),
         '<p class="cite">Chan et al. 2018 · Anderson et al., Sports Med 2020</p>']),
     ('kind-shift', [
@@ -91,7 +92,7 @@ CARDS = [
     ('kind-calf', [
         '<p class="note">센터의 제안</p>', gap(12),
         '<h1 class="headline">착지를 바꿀 거면<br><span class="accent">종아리 보강</span>부터!</h1>', gap(24),
-        '<p class="body">앞·중간발 착지로 바꾸면<br>종아리가 할 일이 늘어날 수 있어요</p>', gap(24),
+        '<p class="body">앞·중간발 착지로 바꾸면<br>종아리 근육을 쓰는 방식이 달라질 수 있어요</p>', gap(24),
         photo('s08_assess.jpg', 300, 888, 0, -292, '한 발 뒤꿈치 들기를 하는 회원과 횟수를 세는 트레이너'), gap(28),
         '<div class="box" style="gap:10px">'
         '<p class="item">① 한 발 뒤꿈치 들기 <span class="note">무릎 펴고</span></p>'

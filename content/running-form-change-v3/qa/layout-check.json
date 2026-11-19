@@ -14,8 +14,8 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1214.5,
-    "bottomGap": 101.5,
+    "contentBottom": 1205.5,
+    "bottomGap": 110.5,
     "errors": "",
     "fonts": {
       "headline": "84px/850",
@@ -23,9 +23,9 @@
       "body": "44px/500",
       "strong": "44px/750",
       "warn": "56px/800",
+      "note": "36px/500",
       "item": "48px/800",
-      "accent": "48px/800",
-      "note": "36px/500"
+      "accent": "48px/800"
     }
   },
   {
