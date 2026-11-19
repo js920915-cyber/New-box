@@ -1,0 +1,92 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1248.8,
+    "bottomGap": 67.2,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "56px/800",
+      "note": "36px/500",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1143.6,
+    "bottomGap": 172.4,
+    "errors": "not centered: blab; not centered: note; not centered: bnum; not centered: blab; not centered: note; not centered: bnum",
+    "fonts": {
+      "accent": "84px/850",
+      "headline": "84px/850",
+      "body": "44px/500",
+      "blab": "36px/750",
+      "note": "36px/500",
+      "bnum": "34px/800",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1236.4,
+    "bottomGap": 79.6,
+    "errors": "not centered: blab; not centered: bnum; not centered: bnum; not centered: blab; not centered: bnum; not centered: bnum; not centered: blab; not centered: bnum; not centered: bnum; not centered: blab; not centered: bnum; not centered: bnum",
+    "fonts": {
+      "headline": "84px/850",
+      "warn": "84px/850",
+      "SPAN": "36px/500",
+      "note": "36px/500",
+      "blab": "36px/750",
+      "bnum": "34px/800"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1211.3,
+    "bottomGap": 104.7,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "item accent": "48px/800",
+      "body": "44px/500",
+      "note": "36px/500",
+      "strong": "44px/750",
+      "strong warn": "44px/750",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1177.3,
+    "bottomGap": 138.7,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item": "48px/800",
+      "body": "44px/500",
+      "strong": "44px/750",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1244.7,
+    "bottomGap": 71.3,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "note": "36px/500",
+      "chk": "46px/750",
+      "safety": "38px/700",
+      "warn": "38px/700"
+    }
+  }
+]

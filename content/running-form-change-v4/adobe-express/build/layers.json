@@ -1,0 +1,1358 @@
+[
+  {
+    "card": "01",
+    "lines": [
+      {
+        "left": 271.109375,
+        "right": 808.890625,
+        "top": 176.375,
+        "bottom": 303.375,
+        "runs": [
+          {
+            "text": "러닝 자세 교정,",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 146.109375,
+        "right": 933.890625,
+        "top": 280.203125,
+        "bottom": 407.203125,
+        "runs": [
+          {
+            "text": "받으면 ",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -3.08
+            }
+          },
+          {
+            "text": "무조건 좋을까?",
+            "style": {
+              "size": 88,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -3.08
+            }
+          }
+        ]
+      },
+      {
+        "left": 470.515625,
+        "right": 609.484375,
+        "top": 723.828125,
+        "bottom": 775.828125,
+        "runs": [
+          {
+            "text": "사진 자리",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 383.46875,
+        "right": 696.515625,
+        "top": 1095.03125,
+        "bottom": 1176.03125,
+        "runs": [
+          {
+            "text": "효과는 있어요",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      },
+      {
+        "left": 301.703125,
+        "right": 778.296875,
+        "top": 1167.828125,
+        "bottom": 1248.828125,
+        "runs": [
+          {
+            "text": "그런데 ",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "이면",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.68
+            }
+          },
+          {
+            "text": "이 있어요",
+            "style": {
+              "size": 56,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.68
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 440.03125,
+        "w": 888,
+        "h": 620,
+        "fill": "#eef1f4",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "02",
+    "lines": [
+      {
+        "left": 232.34375,
+        "right": 847.65625,
+        "top": 280.9375,
+        "bottom": 401.9375,
+        "runs": [
+          {
+            "text": "부드럽게 착지",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "하는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 306.6875,
+        "right": 773.3125,
+        "top": 381.734375,
+        "bottom": 502.734375,
+        "runs": [
+          {
+            "text": "연습만 했는데",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 241.890625,
+        "right": 838.09375,
+        "top": 528.53125,
+        "bottom": 592.53125,
+        "runs": [
+          {
+            "text": "1년 동안 다친 사람이 더 적었어요",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 554.65625,
+        "top": 639,
+        "bottom": 691,
+        "runs": [
+          {
+            "text": "연습한 그룹 ",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": "화면 보며 부드럽게",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 407,
+        "right": 480.859375,
+        "top": 713.390625,
+        "bottom": 762.390625,
+        "runs": [
+          {
+            "text": "16%",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 489.859375,
+        "top": 807.390625,
+        "bottom": 859.390625,
+        "runs": [
+          {
+            "text": "비교 그룹 ",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": "화면 없이 달리기",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 812,
+        "right": 885.859375,
+        "top": 881.78125,
+        "bottom": 930.78125,
+        "runs": [
+          {
+            "text": "38%",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#9aa3ad",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 281.515625,
+        "right": 798.484375,
+        "top": 989.78125,
+        "bottom": 1041.78125,
+        "runs": [
+          {
+            "text": "두 그룹 모두 2주 동안 트레드밀 8번",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 276.296875,
+        "right": 803.703125,
+        "top": 1040.171875,
+        "bottom": 1092.171875,
+        "runs": [
+          {
+            "text": "끝까지 추적한 초보 러너 320명 기준",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 299.15625,
+        "right": 780.84375,
+        "top": 1099.5625,
+        "bottom": 1143.5625,
+        "runs": [
+          {
+            "text": "Chan et al., Am J Sports Med 2018",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 698.390625,
+        "w": 295,
+        "h": 80,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 866.78125,
+        "w": 700,
+        "h": 80,
+        "fill": "#9aa3ad",
+        "radius": 8
+      }
+    ]
+  },
+  {
+    "card": "03",
+    "lines": [
+      {
+        "left": 428.46875,
+        "right": 651.5,
+        "top": 187.21875,
+        "bottom": 308.21875,
+        "runs": [
+          {
+            "text": "그런데",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 218.640625,
+        "right": 861.34375,
+        "top": 288.015625,
+        "bottom": 409.015625,
+        "runs": [
+          {
+            "text": "종아리·아킬레스",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#cc414a",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 320.1875,
+        "right": 536.203125,
+        "top": 426.8125,
+        "bottom": 478.8125,
+        "runs": [
+          {
+            "text": "■",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#0879d8",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": " 연습한 그룹",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 576.203125,
+        "right": 759.8125,
+        "top": 426.8125,
+        "bottom": 478.8125,
+        "runs": [
+          {
+            "text": "■",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#9aa3ad",
+              "spacing": -0.72
+            }
+          },
+          {
+            "text": " 비교 그룹",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 309.125,
+        "top": 495.203125,
+        "bottom": 547.203125,
+        "runs": [
+          {
+            "text": "무릎 앞쪽 통증",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 223,
+        "right": 243.375,
+        "top": 551,
+        "bottom": 600,
+        "runs": [
+          {
+            "text": "4",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 613,
+        "right": 653.734375,
+        "top": 605,
+        "bottom": 654,
+        "runs": [
+          {
+            "text": "18",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#9aa3ad",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 381.421875,
+        "top": 674,
+        "bottom": 726,
+        "runs": [
+          {
+            "text": "족저근막염(발바닥)",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 168,
+        "right": 188.375,
+        "top": 729.796875,
+        "bottom": 778.796875,
+        "runs": [
+          {
+            "text": "2",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 752,
+        "right": 792.734375,
+        "top": 783.796875,
+        "bottom": 832.796875,
+        "runs": [
+          {
+            "text": "23",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#9aa3ad",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 290.40625,
+        "top": 852.796875,
+        "bottom": 904.796875,
+        "runs": [
+          {
+            "text": "아킬레스건염",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 251,
+        "right": 271.375,
+        "top": 908.59375,
+        "bottom": 957.59375,
+        "runs": [
+          {
+            "text": "5",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 116.375,
+        "top": 956.59375,
+        "bottom": 1005.59375,
+        "runs": [
+          {
+            "text": "0",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#9aa3ad",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 341.53125,
+        "top": 1019.59375,
+        "bottom": 1071.59375,
+        "runs": [
+          {
+            "text": "종아리 근육 손상",
+            "style": {
+              "size": 36,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 251,
+        "right": 271.375,
+        "top": 1075.390625,
+        "bottom": 1124.390625,
+        "runs": [
+          {
+            "text": "5",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 96,
+        "right": 116.375,
+        "top": 1123.390625,
+        "bottom": 1172.390625,
+        "runs": [
+          {
+            "text": "0",
+            "style": {
+              "size": 34,
+              "weight": 800,
+              "color": "#9aa3ad",
+              "spacing": 0
+            }
+          }
+        ]
+      },
+      {
+        "left": 206.65625,
+        "right": 873.34375,
+        "top": 1184.390625,
+        "bottom": 1236.390625,
+        "runs": [
+          {
+            "text": "보고 건수 · 부위별 통계 비교는 하지 않았어요",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 553,
+        "w": 111,
+        "h": 46,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 607,
+        "w": 501,
+        "h": 46,
+        "fill": "#9aa3ad",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 731.796875,
+        "w": 56,
+        "h": 46,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 785.796875,
+        "w": 640,
+        "h": 46,
+        "fill": "#9aa3ad",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 910.59375,
+        "w": 139,
+        "h": 46,
+        "fill": "#0879d8",
+        "radius": 8
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 1077.390625,
+        "w": 139,
+        "h": 46,
+        "fill": "#0879d8",
+        "radius": 8
+      }
+    ]
+  },
+  {
+    "card": "04",
+    "lines": [
+      {
+        "left": 322.984375,
+        "right": 757.015625,
+        "top": 213.15625,
+        "bottom": 334.15625,
+        "runs": [
+          {
+            "text": "왜 그랬을까?",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 405.828125,
+        "right": 674.15625,
+        "top": 386.953125,
+        "bottom": 456.953125,
+        "runs": [
+          {
+            "text": "연구진의 해석",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 350.359375,
+        "right": 729.640625,
+        "top": 464.34375,
+        "bottom": 528.34375,
+        "runs": [
+          {
+            "text": "착지 방식이 바뀌면서",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 259.71875,
+        "right": 820.28125,
+        "top": 526.8125,
+        "bottom": 590.8125,
+        "runs": [
+          {
+            "text": "발목을 아래로 미는 종아리 근육",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 324.828125,
+        "right": 755.15625,
+        "top": 589.28125,
+        "bottom": 653.28125,
+        "runs": [
+          {
+            "text": "부담이 커졌을 수 있어요",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 310.671875,
+        "right": 769.3125,
+        "top": 663.75,
+        "bottom": 715.75,
+        "runs": [
+          {
+            "text": "실제 착지 변화는 재지 않았어요",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 363.109375,
+        "right": 716.875,
+        "top": 791.140625,
+        "bottom": 861.140625,
+        "runs": [
+          {
+            "text": "다른 연구들에서도",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#0879d8",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 174.921875,
+        "right": 905.0625,
+        "top": 868.53125,
+        "bottom": 932.53125,
+        "runs": [
+          {
+            "text": "뒤꿈치 → 발 앞·중간 착지로 바로 바꾸면",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 364.421875,
+        "right": 715.546875,
+        "top": 931,
+        "bottom": 995,
+        "runs": [
+          {
+            "text": "무릎 앞 부담은 낮고",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 324.828125,
+        "right": 755.15625,
+        "top": 993.46875,
+        "bottom": 1057.46875,
+        "runs": [
+          {
+            "text": "발목을 미는 힘은 컸어요",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#cc414a",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 352.4375,
+        "right": 727.5625,
+        "top": 1067.9375,
+        "bottom": 1119.9375,
+        "runs": [
+          {
+            "text": "근거는 아직 제한적이에요",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 182.09375,
+        "right": 897.890625,
+        "top": 1167.328125,
+        "bottom": 1211.328125,
+        "runs": [
+          {
+            "text": "Chan et al. 2018 · Anderson et al., Sports Med 2020",
+            "style": {
+              "size": 30,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.3
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 360.953125,
+        "w": 888,
+        "h": 384.1875,
+        "fill": "#f0f7fc",
+        "radius": 20
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 765.140625,
+        "w": 888,
+        "h": 384.1875,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "05",
+    "lines": [
+      {
+        "left": 306.671875,
+        "right": 773.296875,
+        "top": 246.28125,
+        "bottom": 367.28125,
+        "runs": [
+          {
+            "text": "착지를 바꾸면",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 347.078125,
+        "bottom": 468.078125,
+        "runs": [
+          {
+            "text": "부담이 가는 곳이",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 259.21875,
+        "right": 820.765625,
+        "top": 447.875,
+        "bottom": 568.875,
+        "runs": [
+          {
+            "text": "달라질 수 있어요",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 265.671875,
+        "right": 814.3125,
+        "top": 603.671875,
+        "bottom": 673.671875,
+        "runs": [
+          {
+            "text": "그래서 자세는 천천히 바꾸고",
+            "style": {
+              "size": 48,
+              "weight": 800,
+              "color": "#121416",
+              "spacing": -1.44
+            }
+          }
+        ]
+      },
+      {
+        "left": 293.59375,
+        "right": 786.40625,
+        "top": 685.0625,
+        "bottom": 749.0625,
+        "runs": [
+          {
+            "text": "바꾼 뒤 새로 일하게 된 곳이",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 305.03125,
+        "right": 774.953125,
+        "top": 747.53125,
+        "bottom": 811.53125,
+        "runs": [
+          {
+            "text": "버티는지 보며 양을 늘려요",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 272.125,
+        "right": 807.875,
+        "top": 880,
+        "bottom": 944,
+        "runs": [
+          {
+            "text": "예) 발 앞쪽으로 디디게 됐다면",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 303.78125,
+        "right": 776.21875,
+        "top": 942.46875,
+        "bottom": 1006.46875,
+        "runs": [
+          {
+            "text": "종아리·아킬레스",
+            "style": {
+              "size": 44,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          },
+          {
+            "text": "를 살피기",
+            "style": {
+              "size": 44,
+              "weight": 500,
+              "color": "#121416",
+              "spacing": -0.88
+            }
+          }
+        ]
+      },
+      {
+        "left": 236.5,
+        "right": 843.46875,
+        "top": 1074.9375,
+        "bottom": 1126.9375,
+        "runs": [
+          {
+            "text": "리뷰 연구진도 몸이 감당할 수 있는지 보며",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 191.296875,
+        "right": 888.6875,
+        "top": 1125.328125,
+        "bottom": 1177.328125,
+        "runs": [
+          {
+            "text": "서서히 바꿔야 한다고 봤어요 (Anderson 2020)",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 851,
+        "w": 888,
+        "h": 184.9375,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  },
+  {
+    "card": "06",
+    "lines": [
+      {
+        "left": 222.046875,
+        "right": 857.9375,
+        "top": 178.90625,
+        "bottom": 299.90625,
+        "runs": [
+          {
+            "text": "좋은 자세 교정에는",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 306.671875,
+        "right": 773.3125,
+        "top": 279.703125,
+        "bottom": 400.703125,
+        "runs": [
+          {
+            "text": "순서",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#0879d8",
+              "spacing": -2.94
+            }
+          },
+          {
+            "text": "가 있어요",
+            "style": {
+              "size": 84,
+              "weight": 850,
+              "color": "#121416",
+              "spacing": -2.94
+            }
+          }
+        ]
+      },
+      {
+        "left": 470.515625,
+        "right": 609.484375,
+        "top": 551.296875,
+        "bottom": 603.296875,
+        "runs": [
+          {
+            "text": "사진 자리",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      },
+      {
+        "left": 303.15625,
+        "right": 776.828125,
+        "top": 757.5,
+        "bottom": 823.5,
+        "runs": [
+          {
+            "text": "① 러닝 경력·거리 인터뷰",
+            "style": {
+              "size": 46,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.38
+            }
+          }
+        ]
+      },
+      {
+        "left": 424.296875,
+        "right": 655.6875,
+        "top": 831.59375,
+        "bottom": 897.59375,
+        "runs": [
+          {
+            "text": "② 신체 평가",
+            "style": {
+              "size": 46,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.38
+            }
+          }
+        ]
+      },
+      {
+        "left": 403.828125,
+        "right": 676.15625,
+        "top": 905.6875,
+        "bottom": 971.6875,
+        "runs": [
+          {
+            "text": "③ 천천히 교정",
+            "style": {
+              "size": 46,
+              "weight": 750,
+              "color": "#121416",
+              "spacing": -1.38
+            }
+          }
+        ]
+      },
+      {
+        "left": 285.765625,
+        "right": 794.21875,
+        "top": 1030.78125,
+        "bottom": 1085.78125,
+        "runs": [
+          {
+            "text": "통증이 있거나 부상이 반복된다면",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.76
+            }
+          }
+        ]
+      },
+      {
+        "left": 302.859375,
+        "right": 777.125,
+        "top": 1084.734375,
+        "bottom": 1139.734375,
+        "runs": [
+          {
+            "text": "자세보다 ",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.76
+            }
+          },
+          {
+            "text": "원인 평가",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#cc414a",
+              "spacing": -0.76
+            }
+          },
+          {
+            "text": "가 먼저예요",
+            "style": {
+              "size": 38,
+              "weight": 700,
+              "color": "#121416",
+              "spacing": -0.76
+            }
+          }
+        ]
+      },
+      {
+        "left": 220.3125,
+        "right": 859.6875,
+        "top": 1192.6875,
+        "bottom": 1244.6875,
+        "runs": [
+          {
+            "text": "자세 바꿔 보려는 러닝 친구에게 보내 주세요",
+            "style": {
+              "size": 36,
+              "weight": 500,
+              "color": "#5e6570",
+              "spacing": -0.72
+            }
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "type": "box",
+        "x": 96,
+        "y": 427.5,
+        "w": 888,
+        "h": 300,
+        "fill": "#eef1f4",
+        "radius": 20
+      },
+      {
+        "type": "box",
+        "x": 96,
+        "y": 1001.78125,
+        "w": 888,
+        "h": 167.90625,
+        "fill": "#f0f7fc",
+        "radius": 20
+      }
+    ]
+  }
+]
