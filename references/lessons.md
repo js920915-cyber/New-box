@@ -45,3 +45,10 @@
 - 2026-11-20 | Codex | 해석 오류 | Run Clever 주간 총거리 구조를 롱런 한 번 거리 "8 → 8.5 → 8.5km"로 옮김 — 단위가 바뀌고 안전선으로 읽힘 → 분석 단위 유지, 안전선처럼 읽히는 숫자 예시 금지 | r-center-office/talk/2026-11-20-long-run-plan.md
 - 2026-11-20 | Codex | 관점 누락 | "매주 몇 %?" 질문의 주간 근거(Buist 2008 RCT, Nielsen 2014)를 뺌 — Buist는 이미 확인한 자료 → 대표 질문의 핵심 비교 근거를 먼저 목록에 올린다 | r-center-office/talk/2026-11-20-long-run-plan.md
 - 2026-11-20 | Codex | 원문 미확인 | Soligard 주 10%·ACWR 권고의 근거 종목(호주풋볼·크리켓·럭비)과 지구력 종목 미확인 한계를 안 밝힘, 제3자 개인 사이트 PDF를 출처로 링크 → 권고의 근거 범위를 적고 DOI·공식 저장소로 인용 | r-center-office/talk/2026-11-20-long-run-plan.md
+- 2026-11-20 | Claude | 해석 오류 | "홉 거리 97% 같았지만 무릎 일 69%" — 거리 대칭(선수별 평균)과 추진 구간 무릎 일 대칭을 같은 항목처럼 나란히 씀 → 숫자마다 측정 이름·구간(추진/착지)을 붙인다 | acl-lsi-hip-compensation (r-center-office/talk/2026-11-20-acl-lsi-cardnews.md)
+- 2026-11-20 | Claude | 해석 오류 | 착지 자세를 ✕/○와 "무릎 대신 엉덩이로 받는다"로 — 착지에서 수술 쪽 무릎 일은 대조군과 뚜렷한 차이 없음, 관찰을 교정 효과로 옮김 → "관찰된 모습" A/B 시범으로, 69%는 추진 장에만 | acl-lsi-hip-compensation
+- 2026-11-20 | Claude | 해석 오류 | 저자 논의의 "무릎 약 12%, 엉덩이·발목 88%"(전체 요약)를 수술 다리 고유 수치처럼 씀 → 그림에서 집단별(수술/반대/대조) 값인지 확인 | acl-lsi-hip-compensation
+- 2026-11-20 | Claude | 관점 누락 | 반대쪽 다리도 약해지면 LSI가 부풀 수 있다는 점(Wellsandt 2017) 누락 → LSI를 다룰 땐 분모(반대쪽) 문제를 같이 쓴다 | acl-lsi-hip-compensation
+- 2026-11-20 | Codex | 관점 누락 | Aspetar Box 5의 "점프 때 엉덩이·무릎·발목 정상화" 문구를 빼고 달리기 복귀용 LSI>80%를 대표 숫자로 씀 → 지침 숫자는 어느 단계 기준인지 붙이고, 주제와 바로 잇는 문구를 먼저 찾는다 | acl-lsi-hip-compensation
+- 2026-11-20 | Codex | 대표 의도 오해 | 대표가 정한 순서(지침 → 근거 → 자세 → 운동 → 강의)를 바꿔 연구를 앞에 둠 → 대표가 순서를 말했으면 그 순서 안에서 취향 노트(2장 요약)를 맞춘다 | acl-lsi-hip-compensation
+- 2026-11-20 | Codex | 해석 오류 | 지침 권고의 전문가 동의도를 근거 확실도("확실도 중간")로 표기 → 동의도와 GRADE 확실도를 따로 쓴다 | acl-lsi-hip-compensation
