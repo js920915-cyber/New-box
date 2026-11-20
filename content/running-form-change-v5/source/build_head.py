@@ -55,7 +55,7 @@ h1,p{{margin:0;text-align:center}}
 .dimg img{{position:absolute;display:block}}
 .dtxt{{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px}}
 .dmark{{font-size:64px;font-weight:850;line-height:1}}
-.center{{justify-content:center;padding-bottom:20px}}
+.center{{justify-content:center;padding-bottom:104px}}
 .big{{font-size:72px;font-weight:850;line-height:1.15;letter-spacing:-.03em}}
 """
 FRAME = ('<svg class="card-frame" width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">'
