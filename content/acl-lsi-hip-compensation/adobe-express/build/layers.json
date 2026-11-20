@@ -1,0 +1,1701 @@
+[
+    {
+        "card":  "01",
+        "lines":  [
+                      {
+                          "left":  194.453125,
+                          "right":  885.53125,
+                          "top":  186.375,
+                          "bottom":  313.375,
+                          "runs":  [
+                                       {
+                                           "text":  "LSI 90% 넘었으면,",
+                                           "style":  {
+                                                         "size":  88,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -3.08
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  185.046875,
+                          "right":  894.953125,
+                          "top":  290.203125,
+                          "bottom":  417.203125,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎도 돌아온 걸까?",
+                                           "style":  {
+                                                         "size":  88,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -3.08
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  470.515625,
+                          "right":  609.484375,
+                          "top":  723.828125,
+                          "bottom":  775.828125,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  358.546875,
+                          "right":  721.4375,
+                          "top":  1085.03125,
+                          "bottom":  1166.03125,
+                          "runs":  [
+                                       {
+                                           "text":  "숫자는 통과해도",
+                                           "style":  {
+                                                         "size":  56,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  269.78125,
+                          "right":  810.203125,
+                          "top":  1157.828125,
+                          "bottom":  1238.828125,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎은 ",
+                                           "style":  {
+                                                         "size":  56,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.68
+                                                     }
+                                       },
+                                       {
+                                           "text":  "아직",
+                                           "style":  {
+                                                         "size":  56,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.68
+                                                     }
+                                       },
+                                       {
+                                           "text":  "일 수 있어요",
+                                           "style":  {
+                                                         "size":  56,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.68
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  450.03125,
+                           "w":  888,
+                           "h":  600,
+                           "fill":  "#eef1f4",
+                           "radius":  20
+                       }
+                   ]
+    },
+    {
+        "card":  "02",
+        "lines":  [
+                      {
+                          "left":  209.484375,
+                          "right":  870.515625,
+                          "top":  275.078125,
+                          "bottom":  396.078125,
+                          "runs":  [
+                                       {
+                                           "text":  "LSI는 ",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       },
+                                       {
+                                           "text":  "출발점",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       },
+                                       {
+                                           "text":  "이에요",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  336.203125,
+                          "right":  743.78125,
+                          "top":  464.875,
+                          "bottom":  534.875,
+                          "runs":  [
+                                       {
+                                           "text":  "① 근력 LSI를 넘겨도",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  455.0625,
+                          "right":  624.90625,
+                          "top":  542.265625,
+                          "bottom":  606.265625,
+                          "runs":  [
+                                       {
+                                           "text":  "점프할 때",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  253.984375,
+                          "right":  826,
+                          "top":  604.734375,
+                          "bottom":  668.734375,
+                          "runs":  [
+                                       {
+                                           "text":  "수술한 무릎은 ",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       },
+                                       {
+                                           "text":  "덜 쓰일 수 있어요",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  306.46875,
+                          "right":  773.515625,
+                          "top":  752.203125,
+                          "bottom":  822.203125,
+                          "runs":  [
+                                       {
+                                           "text":  "② 그래서 움직임을 봐요",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  330.546875,
+                          "right":  749.4375,
+                          "top":  829.59375,
+                          "bottom":  893.59375,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎이 실제로 일하는지",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  312.328125,
+                          "right":  767.65625,
+                          "top":  977.0625,
+                          "bottom":  1047.0625,
+                          "runs":  [
+                                       {
+                                           "text":  "③ quad를 따로 채워요",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  265.4375,
+                          "right":  814.5625,
+                          "top":  1054.453125,
+                          "bottom":  1118.453125,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎이 일하게 만드는 운동으로",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  438.875,
+                           "w":  888,
+                           "h":  259.328125,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  726.203125,
+                           "w":  888,
+                           "h":  196.859375,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  951.0625,
+                           "w":  888,
+                           "h":  196.859375,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       }
+                   ]
+    },
+    {
+        "card":  "03",
+        "lines":  [
+                      {
+                          "left":  154.59375,
+                          "right":  925.40625,
+                          "top":  248.390625,
+                          "bottom":  369.390625,
+                          "runs":  [
+                                       {
+                                           "text":  "Aspetar 가이드라인은",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  187.859375,
+                          "right":  892.125,
+                          "top":  349.1875,
+                          "bottom":  470.1875,
+                          "runs":  [
+                                       {
+                                           "text":  "숫자 + 움직임",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       },
+                                       {
+                                           "text":  "을 봐요",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  456.921875,
+                          "right":  623.0625,
+                          "top":  530.984375,
+                          "bottom":  600.984375,
+                          "runs":  [
+                                       {
+                                           "text":  "근력 LSI",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  339.8125,
+                          "right":  740.171875,
+                          "top":  608.375,
+                          "bottom":  672.375,
+                          "runs":  [
+                                       {
+                                           "text":  "달리기 복귀 80% 초과",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  211.359375,
+                          "right":  868.640625,
+                          "top":  670.84375,
+                          "bottom":  734.84375,
+                          "runs":  [
+                                       {
+                                           "text":  "피봇 종목 복귀 100% (등속성 60°/s)",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  308.390625,
+                          "right":  771.59375,
+                          "top":  810.3125,
+                          "bottom":  880.3125,
+                          "runs":  [
+                                       {
+                                           "text":  "점프할 때 관절의 움직임",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  357.21875,
+                          "right":  722.78125,
+                          "top":  887.703125,
+                          "bottom":  951.703125,
+                          "runs":  [
+                                       {
+                                           "text":  "엉덩이·무릎·발목의",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  291,
+                          "right":  789,
+                          "top":  950.171875,
+                          "bottom":  1014.171875,
+                          "runs":  [
+                                       {
+                                           "text":  "모멘트·각도·일(work)까지",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  395.671875,
+                          "right":  684.3125,
+                          "top":  1012.640625,
+                          "bottom":  1076.640625,
+                          "runs":  [
+                                       {
+                                           "text":  "정상으로 돌리기",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  268.34375,
+                          "right":  811.65625,
+                          "top":  1132.109375,
+                          "bottom":  1176.109375,
+                          "runs":  [
+                                       {
+                                           "text":  "Kotsifaki R et al., Br J Sports Med 2023",
+                                           "style":  {
+                                                         "size":  30,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.3
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  504.984375,
+                           "w":  888,
+                           "h":  259.328125,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  784.3125,
+                           "w":  888,
+                           "h":  321.796875,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       }
+                   ]
+    },
+    {
+        "card":  "04",
+        "lines":  [
+                      {
+                          "left":  284.5,
+                          "right":  795.484375,
+                          "top":  205.921875,
+                          "bottom":  326.921875,
+                          "runs":  [
+                                       {
+                                           "text":  "근력 LSI 94%,",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  211.765625,
+                          "right":  868.234375,
+                          "top":  306.71875,
+                          "bottom":  427.71875,
+                          "runs":  [
+                                       {
+                                           "text":  "점프할 때 무릎 일은",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  293.53125,
+                          "right":  786.453125,
+                          "top":  407.515625,
+                          "bottom":  528.515625,
+                          "runs":  [
+                                       {
+                                           "text":  "반대쪽의 75%",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  126.859375,
+                          "right":  953.140625,
+                          "top":  546.3125,
+                          "bottom":  610.3125,
+                          "runs":  [
+                                       {
+                                           "text":  "싱글 레그 수직점프 · 밀어낼 때 관절별 일 비중",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  194.015625,
+                          "right":  365.96875,
+                          "top":  695.375,
+                          "bottom":  744.375,
+                          "runs":  [
+                                       {
+                                           "text":  "엉덩이 36%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#3d434b",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  209.328125,
+                          "right":  350.671875,
+                          "top":  841.375,
+                          "bottom":  890.375,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎 29%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  209.328125,
+                          "right":  350.671875,
+                          "top":  985.375,
+                          "bottom":  1034.375,
+                          "runs":  [
+                                       {
+                                           "text":  "발목 35%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  210.515625,
+                          "right":  349.484375,
+                          "top":  1100.78125,
+                          "bottom":  1152.78125,
+                          "runs":  [
+                                       {
+                                           "text":  "수술한 쪽",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  454.015625,
+                          "right":  625.96875,
+                          "top":  681.875,
+                          "bottom":  730.875,
+                          "runs":  [
+                                       {
+                                           "text":  "엉덩이 30%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#3d434b",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  469.328125,
+                          "right":  610.671875,
+                          "top":  825.875,
+                          "bottom":  874.875,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎 34%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  469.328125,
+                          "right":  610.671875,
+                          "top":  983.375,
+                          "bottom":  1032.375,
+                          "runs":  [
+                                       {
+                                           "text":  "발목 36%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  491.390625,
+                          "right":  588.59375,
+                          "top":  1100.78125,
+                          "bottom":  1152.78125,
+                          "runs":  [
+                                       {
+                                           "text":  "반대쪽",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  714.015625,
+                          "right":  885.96875,
+                          "top":  686.375,
+                          "bottom":  735.375,
+                          "runs":  [
+                                       {
+                                           "text":  "엉덩이 32%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#3d434b",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  729.328125,
+                          "right":  870.671875,
+                          "top":  834.875,
+                          "bottom":  883.875,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎 34%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  729.328125,
+                          "right":  870.671875,
+                          "top":  987.875,
+                          "bottom":  1036.875,
+                          "runs":  [
+                                       {
+                                           "text":  "발목 34%",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#ffffff",
+                                                         "spacing":  -0.68
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  693.4375,
+                          "right":  906.5625,
+                          "top":  1100.78125,
+                          "bottom":  1152.78125,
+                          "runs":  [
+                                       {
+                                           "text":  "부상 없는 사람",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  237.5,
+                          "right":  842.484375,
+                          "top":  1174.578125,
+                          "bottom":  1218.578125,
+                          "runs":  [
+                                       {
+                                           "text":  "Kotsifaki A et al., BJSM 2022 · Fig. 2A 재구성",
+                                           "style":  {
+                                                         "size":  30,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.3
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  170,
+                           "y":  639.78125,
+                           "w":  220,
+                           "h":  162,
+                           "fill":  "#d5dbe2",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  170,
+                           "y":  801.78125,
+                           "w":  220,
+                           "h":  130,
+                           "fill":  "#0879d8",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  170,
+                           "y":  931.78125,
+                           "w":  220,
+                           "h":  158,
+                           "fill":  "#8d96a0",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  430,
+                           "y":  639.78125,
+                           "w":  220,
+                           "h":  135,
+                           "fill":  "#d5dbe2",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  430,
+                           "y":  774.78125,
+                           "w":  220,
+                           "h":  153,
+                           "fill":  "#0879d8",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  430,
+                           "y":  927.78125,
+                           "w":  220,
+                           "h":  162,
+                           "fill":  "#8d96a0",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  690,
+                           "y":  639.78125,
+                           "w":  220,
+                           "h":  144,
+                           "fill":  "#d5dbe2",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  690,
+                           "y":  783.78125,
+                           "w":  220,
+                           "h":  153,
+                           "fill":  "#0879d8",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  690,
+                           "y":  936.78125,
+                           "w":  220,
+                           "h":  153,
+                           "fill":  "#8d96a0",
+                           "radius":  0
+                       }
+                   ]
+    },
+    {
+        "card":  "05",
+        "lines":  [
+                      {
+                          "left":  246.15625,
+                          "right":  833.828125,
+                          "top":  176.046875,
+                          "bottom":  297.046875,
+                          "runs":  [
+                                       {
+                                           "text":  "싱글 레그 스쿼트,",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  137.421875,
+                          "right":  942.578125,
+                          "top":  276.84375,
+                          "bottom":  397.84375,
+                          "runs":  [
+                                       {
+                                           "text":  "재건한 무릎은 ",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       },
+                                       {
+                                           "text":  "덜 굽혀요",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  244.515625,
+                          "right":  383.484375,
+                          "top":  638.4375,
+                          "bottom":  690.4375,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  150.34375,
+                          "right":  477.640625,
+                          "top":  829.453125,
+                          "bottom":  878.453125,
+                          "runs":  [
+                                       {
+                                           "text":  "A 무릎 굽히고 몸통 세움",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.02
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  696.515625,
+                          "right":  835.484375,
+                          "top":  638.4375,
+                          "bottom":  690.4375,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  582.3125,
+                          "right":  949.6875,
+                          "top":  829.453125,
+                          "bottom":  878.453125,
+                          "runs":  [
+                                       {
+                                           "text":  "B 무릎 덜 굽히고 몸통 숙임",
+                                           "style":  {
+                                                         "size":  34,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.02
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  370.140625,
+                          "right":  709.828125,
+                          "top":  935.640625,
+                          "bottom":  999.640625,
+                          "runs":  [
+                                       {
+                                           "text":  "부상 없는 사람보다",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  227.921875,
+                          "right":  852.0625,
+                          "top":  998.109375,
+                          "bottom":  1062.109375,
+                          "runs":  [
+                                       {
+                                           "text":  "knee extensor 모멘트가 ",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       },
+                                       {
+                                           "text":  "낮았어요",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  154.984375,
+                          "right":  925,
+                          "top":  1070.578125,
+                          "bottom":  1134.578125,
+                          "runs":  [
+                                       {
+                                           "text":  "몸통을 앞으로 숙이고 옆으로 더 기울였어요",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  169.5625,
+                          "right":  910.421875,
+                          "top":  1143.046875,
+                          "bottom":  1195.046875,
+                          "runs":  [
+                                       {
+                                           "text":  "몸통 변화는 햄스트링 이식 그룹 · 사진은 재현 시범",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  308.703125,
+                          "right":  771.28125,
+                          "top":  1204.4375,
+                          "bottom":  1248.4375,
+                          "runs":  [
+                                       {
+                                           "text":  "Bell et al., Am J Sports Med 2014",
+                                           "style":  {
+                                                         "size":  30,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.3
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  424.640625,
+                           "w":  436,
+                           "h":  480,
+                           "fill":  "#eef1f4",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  112,
+                           "y":  820.453125,
+                           "w":  404,
+                           "h":  68.1875,
+                           "fill":  "#ffffff",
+                           "radius":  18
+                       },
+                       {
+                           "type":  "box",
+                           "x":  548,
+                           "y":  424.640625,
+                           "w":  436,
+                           "h":  480,
+                           "fill":  "#eef1f4",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  564,
+                           "y":  820.453125,
+                           "w":  404,
+                           "h":  68.1875,
+                           "fill":  "#ffffff",
+                           "radius":  18
+                       }
+                   ]
+    },
+    {
+        "card":  "06",
+        "lines":  [
+                      {
+                          "left":  194.671875,
+                          "right":  885.328125,
+                          "top":  187.953125,
+                          "bottom":  308.953125,
+                          "runs":  [
+                                       {
+                                           "text":  "quad에 ",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       },
+                                       {
+                                           "text":  "부하를 주는",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  357.125,
+                          "right":  722.875,
+                          "top":  288.75,
+                          "bottom":  409.75,
+                          "runs":  [
+                                       {
+                                           "text":  "운동 3가지",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  196.515625,
+                          "right":  335.484375,
+                          "top":  525.34375,
+                          "bottom":  577.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  548.46875,
+                          "right":  871.515625,
+                          "top":  460.953125,
+                          "bottom":  530.953125,
+                          "runs":  [
+                                       {
+                                           "text":  "앉아서 무릎 펴기",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  512.0625,
+                          "right":  907.921875,
+                          "top":  536.34375,
+                          "bottom":  588.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "수술 4주~ · 90°→45° 범위",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  587.21875,
+                          "right":  832.75,
+                          "top":  586.734375,
+                          "bottom":  638.734375,
+                          "runs":  [
+                                       {
+                                           "text":  "앞무릎 통증 보며",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  196.515625,
+                          "right":  335.484375,
+                          "top":  777.34375,
+                          "bottom":  829.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  527.109375,
+                          "right":  892.875,
+                          "top":  712.953125,
+                          "bottom":  782.953125,
+                          "runs":  [
+                                       {
+                                           "text":  "뒤꿈치 받친 스쿼트",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  608.109375,
+                          "right":  811.875,
+                          "top":  788.34375,
+                          "bottom":  840.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "몸통은 세우고",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  608.109375,
+                          "right":  811.875,
+                          "top":  838.734375,
+                          "bottom":  890.734375,
+                          "runs":  [
+                                       {
+                                           "text":  "무릎은 앞으로",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  196.515625,
+                          "right":  335.484375,
+                          "top":  1029.34375,
+                          "bottom":  1081.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "사진 자리",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  575.828125,
+                          "right":  844.15625,
+                          "top":  964.953125,
+                          "bottom":  1034.953125,
+                          "runs":  [
+                                       {
+                                           "text":  "스플릿 스쿼트",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#121416",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  624.296875,
+                          "right":  795.671875,
+                          "top":  1040.34375,
+                          "bottom":  1092.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "지지대 잡고",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  554.828125,
+                          "right":  865.15625,
+                          "top":  1090.734375,
+                          "bottom":  1142.734375,
+                          "runs":  [
+                                       {
+                                           "text":  "앞무릎이 발끝 쪽으로",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  146.890625,
+                          "right":  933.09375,
+                          "top":  1192.546875,
+                          "bottom":  1236.546875,
+                          "runs":  [
+                                       {
+                                           "text":  "Aspetar 2023 · Straub \u0026 Powers 2024 · ③은 원리 적용 예시",
+                                           "style":  {
+                                                         "size":  30,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.3
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  432.546875,
+                           "w":  888,
+                           "h":  238,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  432.546875,
+                           "w":  340,
+                           "h":  238,
+                           "fill":  "#e3e8ee",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  684.546875,
+                           "w":  888,
+                           "h":  238,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  684.546875,
+                           "w":  340,
+                           "h":  238,
+                           "fill":  "#e3e8ee",
+                           "radius":  0
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  936.546875,
+                           "w":  888,
+                           "h":  238,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  936.546875,
+                           "w":  340,
+                           "h":  238,
+                           "fill":  "#e3e8ee",
+                           "radius":  0
+                       }
+                   ]
+    },
+    {
+        "card":  "07",
+        "lines":  [
+                      {
+                          "left":  259.21875,
+                          "right":  820.765625,
+                          "top":  173.84375,
+                          "bottom":  294.84375,
+                          "runs":  [
+                                       {
+                                           "text":  "보다 더 정확하고",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  137.421875,
+                          "right":  942.5625,
+                          "top":  274.640625,
+                          "bottom":  395.640625,
+                          "runs":  [
+                                       {
+                                           "text":  "객관적으로 배울 수 있는",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#121416",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  450.65625,
+                          "right":  629.328125,
+                          "top":  375.4375,
+                          "bottom":  496.4375,
+                          "runs":  [
+                                       {
+                                           "text":  "기회!",
+                                           "style":  {
+                                                         "size":  84,
+                                                         "weight":  850,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -2.94
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  342.71875,
+                          "right":  737.28125,
+                          "top":  537.234375,
+                          "bottom":  607.234375,
+                          "runs":  [
+                                       {
+                                           "text":  "사전 웨비나 · Zoom",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  151.078125,
+                          "right":  928.90625,
+                          "top":  614.625,
+                          "bottom":  678.625,
+                          "runs":  [
+                                       {
+                                           "text":  "1차 12/7(월) 21:00 Andreas Bjerregaard",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  297.921875,
+                          "right":  782.0625,
+                          "top":  677.09375,
+                          "bottom":  741.09375,
+                          "runs":  [
+                                       {
+                                           "text":  "2차 12/9(수) 21:00 조인혁",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  212.96875,
+                          "right":  867.03125,
+                          "top":  751.5625,
+                          "bottom":  803.5625,
+                          "runs":  [
+                                       {
+                                           "text":  "1강좌 1만원 · 2강좌 2만원 · 영어 강의+통역",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  230.625,
+                          "right":  849.359375,
+                          "top":  874.953125,
+                          "bottom":  944.953125,
+                          "runs":  [
+                                       {
+                                           "text":  "본 워크숍 2027.02.28 ~ 03.01",
+                                           "style":  {
+                                                         "size":  48,
+                                                         "weight":  800,
+                                                         "color":  "#0879d8",
+                                                         "spacing":  -1.44
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  174.46875,
+                          "right":  905.53125,
+                          "top":  952.34375,
+                          "bottom":  1016.34375,
+                          "runs":  [
+                                       {
+                                           "text":  "Criteria Based ACL Rehab Workshop",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  500,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  288.96875,
+                          "right":  791.015625,
+                          "top":  1014.8125,
+                          "bottom":  1078.8125,
+                          "runs":  [
+                                       {
+                                           "text":  "얼리버드 20% (11/30까지)",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  192.59375,
+                          "right":  887.40625,
+                          "top":  1089.28125,
+                          "bottom":  1141.28125,
+                          "runs":  [
+                                       {
+                                           "text":  "웨비나 수강료는 워크숍 등록 시 차감해드립니다",
+                                           "style":  {
+                                                         "size":  36,
+                                                         "weight":  500,
+                                                         "color":  "#5e6570",
+                                                         "spacing":  -0.72
+                                                     }
+                                       }
+                                   ]
+                      },
+                      {
+                          "left":  201.546875,
+                          "right":  878.453125,
+                          "top":  1185.671875,
+                          "bottom":  1249.671875,
+                          "runs":  [
+                                       {
+                                           "text":  "신청: 프로필 링크 @rsports_center",
+                                           "style":  {
+                                                         "size":  44,
+                                                         "weight":  750,
+                                                         "color":  "#121416",
+                                                         "spacing":  -0.88
+                                                     }
+                                       }
+                                   ]
+                      }
+                  ],
+        "shapes":  [
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  511.234375,
+                           "w":  888,
+                           "h":  321.71875,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       },
+                       {
+                           "type":  "box",
+                           "x":  96,
+                           "y":  848.953125,
+                           "w":  888,
+                           "h":  321.71875,
+                           "fill":  "#f0f7fc",
+                           "radius":  20
+                       }
+                   ]
+    }
+]
