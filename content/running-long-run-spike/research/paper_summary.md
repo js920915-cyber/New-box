@@ -43,6 +43,15 @@ Schuster Brandt Frandsen J, Hulme A, Parner ET, et al. How much running is too m
 ## 저자 결론
 "부상은 서서히 쌓이기보다 **한 번의 과한 달리기**에서 생긴다"는 '한 번 단위 패러다임'을 제안. 직전 30일 최장 거리보다 10% 넘게 뛰지 않도록 권함. 단, 같은 주에 10km→11km→12.1km→13.3km처럼 매번 10%씩 연달아 늘리면 회복이 부족해 과할 수 있다고 직접 경고.
 
+## 저자는 어떻게 해석했나 (2026-11-20 실장·고박사 상호 검증)
+- **가설(서론, 1204쪽):** "runners may be more vulnerable when increasing distance too rapidly within a single session" — 같은 연구진 선행 분석에서 출발한 가설.
+- **해석(논의, 1206~1207쪽):** dose-response가 있다, "most injuries occur due to an excessive training load in a single session"(패러다임 전환), "Runners should avoid running a distance … that exceeds 10%".
+- **결론(1208쪽):** "a spike >10% … significantly increased the rate of overuse running-related injuries", 코치·의료진은 10% 미만 기준을 "고려할 수 있다".
+- **한계(1208쪽)에서는 물러섬:** 관찰연구라 인과 주장이 약하고, 10% 미만 유지의 예방 효과는 무작위시험 등으로 확인해야 하며, 하위집단별 조언은 못 한다. 거리가 최선의 부하 지표가 아닐 수 있다.
+- **두 비서 판정:** 관찰된 연관성(10% 넘게 늘린 달리기 뒤 과사용 부상 발생률↑)은 표 1이 뒷받침한다. "대부분의 부상이 한 번의 과한 달리기 때문"과 예방 권고는 데이터보다 앞서간다.
+- **표 1 재계산(우리 계산, 저자 해석 아님):** 과사용 부상 1,311건 중 1,117건(85.2%)은 기준 상태 달리기 뒤, 161건(12.3%)은 10% 초과 뒤, 33건(2.5%) 계산 불가. 단, 기준 상태 달리기 횟수가 훨씬 많아 건수만으로 발생률이나 "원인 비율"을 반박할 수는 없다 → 카드 본문에는 쓰지 않는다.
+- **우리 가설(원문에 없음):** 크게 늘린 달리기 중엔 대회처럼 강도도 높은 날이 섞였을 수 있다 — 확인 필요.
+
 ## 설계 검증 (AGENTS.md 기준)
 | 항목 | 판정 |
 |---|---|
