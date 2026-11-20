@@ -15,37 +15,23 @@
   {
     "card": "02",
     "size": "1080x1350",
-    "contentBottom": 1096.9,
-    "bottomGap": 219.1,
-    "errors": "",
+    "contentBottom": 1226.9,
+    "bottomGap": 89.1,
+    "errors": "not centered: blab; not centered: note; not centered: bnum; not centered: bnum; not centered: warn; not centered: blab; not centered: note; not centered: bnum; not centered: bnum",
     "fonts": {
-      "note": "36px/500",
-      "headline": "84px/850",
       "accent": "84px/850",
-      "body": "44px/500",
-      "strong": "44px/750"
-    }
-  },
-  {
-    "card": "03",
-    "size": "1080x1350",
-    "contentBottom": 1227.6,
-    "bottomGap": 88.4,
-    "errors": "",
-    "fonts": {
-      "accent": "56px/800",
       "headline": "84px/850",
+      "SPAN": "36px/500",
       "note": "36px/500",
-      "body": "44px/500",
-      "key": "56px/800",
-      "item": "48px/800",
+      "blab": "36px/750",
+      "bnum": "34px/800",
       "warn": "56px/800",
-      "strong": "44px/750",
+      "key": "56px/800",
       "cite": "30px/500"
     }
   },
   {
-    "card": "04",
+    "card": "03",
     "size": "1080x1350",
     "contentBottom": 1125.1,
     "bottomGap": 190.9,
@@ -57,6 +43,20 @@
       "strong warn": "44px/750",
       "note": "36px/500",
       "cite": "30px/500"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1096.9,
+    "bottomGap": 219.1,
+    "errors": "",
+    "fonts": {
+      "note": "36px/500",
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750"
     }
   },
   {

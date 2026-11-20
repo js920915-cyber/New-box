@@ -13,20 +13,20 @@
                   },
                   {
                       "card":  "02",
-                      "verticalShiftPx":  -1,
-                      "diffPct":  2.91,
+                      "verticalShiftPx":  0,
+                      "diffPct":  2.73,
                       "pass":  true
                   },
                   {
                       "card":  "03",
                       "verticalShiftPx":  -1,
-                      "diffPct":  5.43,
+                      "diffPct":  3.94,
                       "pass":  true
                   },
                   {
                       "card":  "04",
                       "verticalShiftPx":  -1,
-                      "diffPct":  3.94,
+                      "diffPct":  2.84,
                       "pass":  true
                   },
                   {
