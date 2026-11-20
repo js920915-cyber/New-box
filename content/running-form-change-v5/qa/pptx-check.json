@@ -1,0 +1,46 @@
+﻿{
+    "pptx":  "C:\\Users\\jinso\\OneDrive\\문서\\AI-Secretary\\New-box\\content\\running-form-change-v5\\adobe-express\\running-form-change-v5-express.pptx",
+    "slides":  6,
+    "warnings":  [
+
+                 ],
+    "cards":  [
+                  {
+                      "card":  "01",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  1.79,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "02",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  2.91,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "03",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  5.43,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "04",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.94,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "05",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.01,
+                      "pass":  true
+                  },
+                  {
+                      "card":  "06",
+                      "verticalShiftPx":  -1,
+                      "diffPct":  3.9,
+                      "pass":  true
+                  }
+              ],
+    "result":  "PASS"
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "card": "01",
+    "size": "1080x1350",
+    "contentBottom": 1248.8,
+    "bottomGap": 67.2,
+    "errors": "",
+    "fonts": {
+      "headline": "88px/850",
+      "accent": "88px/850",
+      "note": "36px/500",
+      "key": "56px/800"
+    }
+  },
+  {
+    "card": "02",
+    "size": "1080x1350",
+    "contentBottom": 1096.9,
+    "bottomGap": 219.1,
+    "errors": "",
+    "fonts": {
+      "note": "36px/500",
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong": "44px/750"
+    }
+  },
+  {
+    "card": "03",
+    "size": "1080x1350",
+    "contentBottom": 1227.6,
+    "bottomGap": 88.4,
+    "errors": "",
+    "fonts": {
+      "accent": "56px/800",
+      "headline": "84px/850",
+      "note": "36px/500",
+      "body": "44px/500",
+      "key": "56px/800",
+      "item": "48px/800",
+      "warn": "56px/800",
+      "strong": "44px/750",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "04",
+    "size": "1080x1350",
+    "contentBottom": 1125.1,
+    "bottomGap": 190.9,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "strong warn": "44px/750",
+      "note": "36px/500",
+      "cite": "30px/500"
+    }
+  },
+  {
+    "card": "05",
+    "size": "1080x1350",
+    "contentBottom": 1116.9,
+    "bottomGap": 199.1,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "item accent": "48px/800",
+      "body": "44px/500",
+      "note": "36px/500"
+    }
+  },
+  {
+    "card": "06",
+    "size": "1080x1350",
+    "contentBottom": 1180,
+    "bottomGap": 136,
+    "errors": "",
+    "fonts": {
+      "headline": "84px/850",
+      "accent": "84px/850",
+      "body": "44px/500",
+      "note": "36px/500",
+      "item": "48px/800",
+      "safety": "38px/700",
+      "warn": "38px/700"
+    }
+  }
+]
